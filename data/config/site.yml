@@ -1,0 +1,26 @@
+public:
+  title: 'Dallas Lu'
+  url: 'https://dallas.lu'
+  description: 'Topics in software development, Internet and software experience'
+  logo:
+    provider: 'gravatar'
+    gravatar: '8770854a9222b6bf1ee195220793bcf1'
+  x.com:
+    usename: dallaslu
+  keywords:
+    - Dallas Lu
+    - dallaslu
+    - Blog
+    - Developping
+    - Internet
+    - Software
+  beian: 美ICP备20090306号
+  issn: 2770-7288
+  adsense:
+    enabled: true
+    client: ca-pub-3229298254354999
+  copyright:
+    start: 2008
+  github:
+    home: 'https://github.com/dallaslu'
+    username: 'dallaslu'

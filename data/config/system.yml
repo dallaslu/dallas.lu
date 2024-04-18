@@ -1,0 +1,43 @@
+public:
+  locale:
+    default: "zh-CN"
+  user:
+    default: "dallaslu"
+    orcid: "https://orcid.org/0009-0004-6959-1301"
+  domains:
+    primary: "dallas.lu"
+  email:
+    sender: "noreply@dallas.lu"
+  plausible:
+    enabled: true
+    domain: "a.1bps.io"
+  clarity:
+    enabled: true
+    project: ln3ndczw9i
+  gravatar:
+    base: "https://gravatar.1bps.io"
+  license:
+    default: CC-BY-NC-SA-4.0-4.0
+  brand:
+    personal: true
+  webmention:
+    enabled: true
+    pingback: true
+    callback:
+      secret:
+        hash:
+          sha256: 44bb9da44b424c6dfc9233819e907029ff2ccdfaa89919d3696ddf8db7ff6647
+
+private:
+  email:
+    admin:
+      value:
+        encrypted: ODgyZjdiZDg4OTVmMjllOGZkNmFmYg==
+        algorithm: aes-256-gcm
+        iv: 067f6d66f2ba5dd50c8443be
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+    smtp:
+      host: "smtp.sendgrid.net"
+      port: 587
+      user: "apikey"

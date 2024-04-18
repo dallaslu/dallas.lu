@@ -1,0 +1,9 @@
+email:
+  value:
+    encrypted: ODgyZjdiZDg4OTVmMjllOGZkNmFmYg==
+    algorithm: aes-256-gcm
+    iv: 067f6d66f2ba5dd50c8443be
+  hash:
+    md5: 8770854a9222b6bf1ee195220793bcf1
+orcid: https://orcid.org/0009-0004-6959-1301
+url: https://dallas.lu
