@@ -1,0 +1,29 @@
+- type: reply
+  channel: native
+  id: 2a1557153020c23a5816ea5d7d504626d54ed564
+  author:
+    name: 涛叔
+    url: https://taoshu.in
+    email:
+      value:
+        encrypted: ODNlNTgwYTg5MDAyYTY5YTYxN2IxOWI2
+        algorithm: aes-256-gcm
+        iv: 9760e9bde34f6fdd30361528
+      hash:
+        md5: 3697389c443d4220abb67a39cd2babb2
+  published: 2023-05-29T11:35:32.044Z
+  content: "nostr
+    协议我之前也研究过。协议本身没什么新东西，甚至都有点简陋。但思想是好的。它把决定权从平台还给了用户。平台依然可以审查内容，但用户可以自由迁移，这就可以\
+    反过来给平台施压，平台就不能随心所欲。\r
+
+    \r
+
+    key 泄漏问题确实比较严重。可以参考比特币冷钱包，将密钥保存到无法连网的软件上，只用做数字签名用。\r
+
+    \r
+
+    但删除就不可能实现了。因为没有中心化的平台，所以发出去的内容就不可能完全删除。电子邮件也是这样。"
+  ip:
+    encrypted: MTIwYTkxZmU2ZDljNDdiYTU5NmQxN2Y5ZjM=
+    algorithm: aes-256-gcm
+    iv: c2719f0bbfa2c7f0e52cd453

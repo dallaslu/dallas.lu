@@ -1,0 +1,124 @@
+- type: reply
+  channel: native
+  id: 606d9d9da5e4b06a19bb1477c451b70c60db9108
+  author:
+    name: dd
+    email:
+      value:
+        encrypted: NTM1NTc4OWZmN2YyNjE0YzA1ODgwMjZhZDI5NGJmYjU=
+        algorithm: aes-256-gcm
+        iv: 476d78a088ace9d2e63638f1
+      hash:
+        md5: 7be23a796a59c17eb82dc5228296dd8b
+  published: 2023-06-24T05:13:33.024Z
+  content: 部署失败
+  ip:
+    encrypted: OTU3OWZlMDk0MmMxZWFlMjQ4NGY2MzQzMmU4ZQ==
+    algorithm: aes-256-gcm
+    iv: eff8cd97963da0db35dd998c
+- type: reply
+  channel: native
+  id: cf6f61c5fd67a0da76892686069d11668f24f814
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OTQ2NDVlNTQ4NzQ3ZDUzNDVhOGU1ZA==
+        algorithm: aes-256-gcm
+        iv: a2672c85bf54aacbe08bd3b2
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2023-06-28T03:12:42.844Z
+  content: "我看了一下我手机上的 `default.custom.yaml`，里面没有下面这两行：\r
+
+    \r
+
+    ```yaml\r
+
+    \     schema: clover\r
+
+    \     schema: double_pinyin_flypy\r
+
+    ```\r
+
+    \r
+
+    其他和文中描述一致。你可以试试。"
+  ip:
+    encrypted: NGVkNDEyMjBiYjc4N2EwMDM4NjkwZGM3NmFjNQ==
+    algorithm: aes-256-gcm
+    iv: 8c819d0c1d646196a0305f1e
+  target: 606d9d9da5e4b06a19bb1477c451b70c60db9108
+- type: reply
+  channel: native
+  id: c7bca8ea309e47c7583fd6b8a2b4fd25bc2f6cc0
+  author:
+    name: "11"
+  published: 2023-10-22T11:56:11.710Z
+  content: 我的也是布置失败
+  ip:
+    encrypted: MjBlYTBlOTc0MjkwOWQxYWY0OWU2MGYxNWU=
+    algorithm: aes-256-gcm
+    iv: 5cf0e15631bf55303209c8de
+- type: reply
+  channel: native
+  id: 11e1f36fdcbb4af433d4fb43932b184fdafe1817
+  author:
+    name: 部署失败
+    email:
+      value:
+        encrypted: YmFhZjMwNjY0OGIyOWZiNWU4ZDA5MGUyMzI2M2NlNGJlYzg4NWIzMjU4MGZlZTIyNGRkZA==
+        algorithm: aes-256-gcm
+        iv: 79ed3305280eed032cfe84be
+      hash:
+        md5: ba35a72a6c26a4b4ee4c968da98f9334
+  published: 2023-11-13T13:12:32.831Z
+  content: "\r
+
+    \r
+
+    相关日志如下（注意：我已经删除了 schema里最后的 2 行，即便把 schema 删除到只剩 1 行，也提示这个错误 ）：\r
+
+    \r
+
+    ``` log\r
+
+    I20231113 21:03:41.118983 10223989 build_info_plugin.cc:25] resource
+    'key_bindings.custom' not loaded.\r
+
+    I20231113 21:03:41.119053 10223989 build_info_plugin.cc:25] resource
+    'punctuation.custom' not loaded.\r
+
+    I20231113 21:03:41.119069 10223989 config_data.cc:88] saving config file
+    '/var/mobile/Containers/Data/Application/77A412A1-4C7F-41E0-A0E6-6FC299ED71\
+    3C/Documents/Rime/build/default.yaml'.\r
+
+    I20231113 21:03:41.122575 10223989 config_data.cc:69] loading config file
+    '/var/mobile/Containers/Data/Application/77A412A1-4C7F-41E0-A0E6-6FC299ED71\
+    3C/Documents/Rime/build/default.yaml'.\r
+
+    W20231113 21:03:41.124022 10223989 deployment_tasks.cc:181] schema list not
+    defined.\r
+
+    I20231113 21:03:41.124090 10223989 deployment_tasks.cc:580] clean up
+    trash.\r
+
+    I20231113 21:03:41.125012 10223989 deployer.cc:91] 3 tasks ran: 2 success, 1
+    failure.\r
+
+    W20231113 21:03:41.125221 10223952 config_data.cc:66] nonexistent config
+    file
+    '/var/mobile/Containers/Data/Application/77A412A1-4C7F-41E0-A0E6-6FC299ED71\
+    3C/Documents/Rime/build/squirrel.yaml'.\r
+
+    I20231113 21:03:41.125255 10223952 deployment_tasks.cc:392] missing build \r
+
+    \r
+
+    ```"
+  ip:
+    encrypted: YWM5YjgwNmIxOWNlOTdhOWU3Y2YxYWNmYTI=
+    algorithm: aes-256-gcm
+    iv: 7788c2500af2ea087d0c8034

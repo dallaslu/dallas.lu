@@ -1,0 +1,60 @@
+- type: reply
+  channel: native
+  id: 7d56fd7f2f2107b9a18bebd7f5bc3109eb935432
+  author:
+    name: Vic
+    email:
+      value:
+        encrypted: NWQxZjMwNzAyMmIzNGU4Zjg3MmE0NzQxNDkyMzdkYzQ0YzY2YTU=
+        algorithm: aes-256-gcm
+        iv: 965881c65e255acc3abc2b16
+      hash:
+        md5: cb2712d21f2bddeb993424a22edfeecc
+  published: 2023-05-28T05:37:16.362Z
+  content: 请问注册完成后，本地（本人Mac和安卓）设备如何选用APP，如何设置，可以详细分享下吗？
+  ip:
+    encrypted: YzY2ZmRlODdmYjc4OWI1Mjg3
+    algorithm: aes-256-gcm
+    iv: 46313d8f3791c47b76abf077
+- type: reply
+  channel: native
+  id: 19575daac8bb571ed5d5398cef2509771338909a
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ODgyZjdiZDg4OTVmMjllOGZkNmFmYg==
+        algorithm: aes-256-gcm
+        iv: 067f6d66f2ba5dd50c8443be
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2023-05-28T06:13:13.362Z
+  content: 如果你想在路由器或出口节点上配置，可以参考此前的 Warp 分流相关文章。如果是 Mac
+    和安卓，可以直接使用浏览器插件（比如FoxyProxy）配置 Socks5 代理，并设定规则使得 openai.com sentry.io
+    intercom.io 等域名走住宅IP。最重要的一点，如果你在大陆，最好先把你买到的住宅 IP 加入穿墙规则里，流量先经过机场，确保万无一失。
+  ip:
+    encrypted: NTc5MzAzZTM4N2Y2YmEzNWI3
+    algorithm: aes-256-gcm
+    iv: aee76f4a59b619bf34169e72
+  target: 7d56fd7f2f2107b9a18bebd7f5bc3109eb935432
+- type: reply
+  channel: native
+  id: 673831fb005949f6018a8bab784dc5e1db275e1b
+  author:
+    name: HUA YUAN
+    email:
+      value:
+        encrypted: OWYyNTAzYTg0YzE1NmY4MGFhYTMwZTM4MWM0YWQ0OGQ2MTNlYjRhZTA3MTJkMQ==
+        algorithm: aes-256-gcm
+        iv: 9a74231e25ad3dea0e2c51a7
+      hash:
+        md5: fa7fef1672dcb2c653b619b294afac53
+  published: 2023-06-13T00:38:43.688Z
+  content: 大佬，您好，你提到在大陆，最好先把你买到的住宅 IP 加入穿墙规则里，流量先经过机场。这个怎么操作。在CLASH里可以设置吗？不用软路由可以么
+  ip:
+    encrypted: MTNhNDU3NWM4OThiNGUyMDlmOTI0N2Rk
+    algorithm: aes-256-gcm
+    iv: 83662e52d792d50715980314
+  target: 19575daac8bb571ed5d5398cef2509771338909a
