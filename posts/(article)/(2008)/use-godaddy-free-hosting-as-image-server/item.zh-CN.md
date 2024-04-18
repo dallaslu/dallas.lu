@@ -37,7 +37,7 @@ Godaddy 是全球第一域名注册商，开展主机业务以来也是颇受欢
 
 ## $0.99 注册域名
 
-既然我们只拿来用做图片服务器，为了这个空间买个贵米有点不值当。所以推荐目前 Godaddy 正在优惠的 info 域名。售价 $.99，另加 $0.2 的税，随便<a href="http://www.google.com/search?source=ig&hl=zh-CN&rlz=1G1GGLQ_ZH-CNCN307&=&q=godaddy+coupon&btnG=Google+%E6%90%9C%E7%B4%A2&meta=lr%3D" target="_blank" title="通过 Google 来搜索">找个 Godaddy 优惠券</a>就可以得到优惠，最后价格仅仅一美元多一点。
+既然我们只拿来用做图片服务器，为了这个空间买个贵米有点不值当。所以推荐目前 Godaddy 正在优惠的 info 域名。售价 \$.99，另加 \$0.2 的税，随便<a href="http://www.google.com/search?source=ig&hl=zh-CN&rlz=1G1GGLQ_ZH-CNCN307&=&q=godaddy+coupon&btnG=Google+%E6%90%9C%E7%B4%A2&meta=lr%3D" target="_blank" title="通过 Google 来搜索">找个 Godaddy 优惠券</a>就可以得到优惠，最后价格仅仅一美元多一点。
 
 <h3 style="padding-left: 30px">注册</h3>
 
