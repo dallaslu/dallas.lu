@@ -1,0 +1,95 @@
+- type: reply
+  channel: native
+  id: "2245"
+  author:
+    name: Firm
+    url: http://www.goldzhan.com/
+    email:
+      value:
+        encrypted: MjU2MGQzZmE5NmZjNmNiOGNjODVlZjRkMWRjNmE0ODc=
+        algorithm: aes-256-gcm
+        iv: ad7524ff276ca14b4a46c128
+      hash:
+        md5: 2357b749da22470cf8f384cfe9bfda0b
+  published: 2013-01-29 22:01:00
+  content: 可以搭配缓存插件一起使用？
+  ip:
+    encrypted: NDFkOTA5Zjc2MWQzOTE4MTliNDNlYjRkNTA0MA==
+    algorithm: aes-256-gcm
+    iv: 048e54eea64e76df7840a18e
+- type: reply
+  channel: native
+  id: "2247"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZWQ4ZmNmMGRmMTM0Nzc2NzNiZGZiMg==
+        algorithm: aes-256-gcm
+        iv: 16a73bce9cd246f8866fca83
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2013-01-30 09:24:00
+  content: 是的。比如 WP Super Cache。
+  ip:
+    encrypted: YThmZWQ2Mzc0NGRkODIxMzNkYjBmMWJhNGI=
+    algorithm: aes-256-gcm
+    iv: d43601920e45f98c1747b585
+  target: 2245
+- type: reply
+  channel: native
+  id: "2310"
+  author:
+    name: Nancy
+    url: http://www.soccerhouse.jp/
+    email:
+      value:
+        encrypted: MTZmNzE1ZmJhMGQyYzk4OTU4ZmE0NDI4YmRmZDQ1MTkzZjg4NmVkMA==
+        algorithm: aes-256-gcm
+        iv: aedc67ddad8dfdadb09b46d3
+      hash:
+        md5: f6e7c765bfc02b65f9ccedf7649d14c6
+  published: 2013-07-28 16:43:00
+  content: 这个好！ 虚拟主机装个WP，那速度真蛋疼，用了这个之后，加载速度明显好了一截！
+  ip:
+    encrypted: OTUxYzA4MjA3NTk2MmVlNjM0NmVlMTRhZjM=
+    algorithm: aes-256-gcm
+    iv: d7b5bc8095a83d0901d0dc5e
+- type: reply
+  channel: native
+  id: "558625"
+  author:
+    name: 使用 Minify 合并压缩 WordPress 的 js 和 css 文件 | PPCN硬件网
+    url: http://www.ppcn.net/wp-minify.html
+  published: 2015-01-22 18:10:00
+  content: "[&#8230;] WP Minify 即可在线安装，或者下载 WP Minify ，简体中文包（由 @卢达 [&#8230;]"
+  ip:
+    encrypted: ODZmNmZmNGNmNmJhZDczMzc3MWRlYmQyZDY=
+    algorithm: aes-256-gcm
+    iv: 9539ccd6128d828d27007c73
+- type: reply
+  channel: native
+  id: "561320"
+  author:
+    name: 使用 Minify 合并压缩 WordPress 的 js 和 css 文件 &#8211; wordpress分享网
+    url: http://wordpress.zhuxijing.com/594.html
+  published: 2015-03-30 13:06:00
+  content: "[&#8230;] WP Minify 即可在线安装，或者下载 WP Minify ，简体中文包（由 @卢达 [&#8230;]"
+  ip:
+    encrypted: MWZjNDZkNDYxMzg2YjQwODM4NzcxOWU4NWI=
+    algorithm: aes-256-gcm
+    iv: a5f5d4abe2fe873b6ba2f0a0
+- type: reply
+  channel: native
+  id: "573757"
+  author:
+    name: 使用 Minify 合并压缩 WordPress 的 js 和 css 文件 &#8211; W3C 主机
+    url: http://w3chosting.com/%e4%bd%bf%e7%94%a8-minify-%e5%90%88%e5%b9%b6%e5%8e%8b%e7%bc%a9-wordpress-%e7%9a%84-js-%e5%92%8c-css-%e6%96%87%e4%bb%b6/
+  published: 2016-06-09 14:38:00
+  content: "[&#8230;] WP Minify 即可在线安装，或者下载 WP Minify ，简体中文包（由 @卢达 [&#8230;]"
+  ip:
+    encrypted: NDA0N2Y1ODg3NzlmNGM0ZjY1NjZkZA==
+    algorithm: aes-256-gcm
+    iv: 9194e1a9a1c6d2f31b700c56

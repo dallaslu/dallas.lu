@@ -1,0 +1,163 @@
+- type: reply
+  channel: native
+  id: "2349"
+  author:
+    name: 平板盒子
+    url: http://padhz.com
+    email:
+      value:
+        encrypted: NTIxMTQyMmVhMDQ0MjE5YTcyNTExZDM5ZTU3NmJj
+        algorithm: aes-256-gcm
+        iv: 368d211330872ee025be92c2
+      hash:
+        md5: 9bf15eb6bccad6ba47170c7d24433958
+  published: 2013-11-22 08:58:00
+  content: 那个，直接在网站根目录放一个favicon.ico不就行了吗？
+  ip:
+    encrypted: ZTY2ZjI1MjU2NGJkNmQ5YTE2MmVkMDNm
+    algorithm: aes-256-gcm
+    iv: e56f7b89b59e45c35f3e831e
+- type: reply
+  channel: native
+  id: "2350"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZjI2YWExYTcyZjQ4Yzk0ZTY0YzZjZg==
+        algorithm: aes-256-gcm
+        iv: eeff131492470fde3afdc739
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2013-11-25 12:50:00
+  content: WordPress 开启多站点模式之后，网站根目录下放一个 favicon.ico 就不能满足每一个站点用不同的 ico
+    了。另外，更清晰的图标和书签、标题、快捷方式的支持，需要更高分辨率的图标，并在 HTML 中指定。
+  ip:
+    encrypted: MzdhZTU4MmM1MGFmOTQ2NGQ5MmJkYmEyMWZlZmI2
+    algorithm: aes-256-gcm
+    iv: 0fa920b0c57eb4994c7feb09
+  target: 2349
+- type: reply
+  channel: native
+  id: "2351"
+  author:
+    name: 平板盒子
+    url: http://padhz.com
+    email:
+      value:
+        encrypted: MTMxNGMxYjE1YmYyNTU4Nzk1MWQ5MTYzNDQ4MDll
+        algorithm: aes-256-gcm
+        iv: deed3e6ddab7df63daa89da7
+      hash:
+        md5: 9bf15eb6bccad6ba47170c7d24433958
+  published: 2013-11-25 12:52:00
+  content: 多站点到底是什么用？我还没玩过。
+  ip:
+    encrypted: NWQxNDM1MDE5NDhhNDc2MjIyN2E1YzgzMjE=
+    algorithm: aes-256-gcm
+    iv: 2db7cd64666a8b7698a2699b
+  target: 2350
+- type: reply
+  channel: native
+  id: "2352"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: M2YzM2YyYjAzNzdkNmYxNmIwZmM2NA==
+        algorithm: aes-256-gcm
+        iv: 12d2fde6f77fd3eebd381c24
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2013-11-25 16:42:00
+  content: 一套 WordPress 带多个站，共享一套用户数据。
+  ip:
+    encrypted: ODI3NjI3Yzk2YWViMjg3MWQxNGRiNGFmNzhlZWY0
+    algorithm: aes-256-gcm
+    iv: 3222dd65a36050e94be7ec3a
+  target: 2351
+- type: reply
+  channel: native
+  id: "2353"
+  author:
+    name: 平板盒子
+    url: http://padhz.com
+    email:
+      value:
+        encrypted: ZjdiMDMwMDJiMjZjM2QzZmRlYWI5YWViODRjOTNm
+        algorithm: aes-256-gcm
+        iv: bc82be9c786b9cfcef0cba62
+      hash:
+        md5: 9bf15eb6bccad6ba47170c7d24433958
+  published: 2013-11-25 16:43:00
+  content: 公用一个用户数据没啥用途，大多数个人博客都不开放注册
+  ip:
+    encrypted: NTQ1YjVlN2M0ZTA4YWFkNWM3NGVmNTYxMGM=
+    algorithm: aes-256-gcm
+    iv: 2f03284c2658f1c7dfc39a5e
+  target: 2352
+- type: reply
+  channel: native
+  id: "2382"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MTFlMjhlNTBkOTZhYzVlOTM4ZDM3OQ==
+        algorithm: aes-256-gcm
+        iv: 5a31146dd6c611da29dd8714
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2013-11-26 09:42:00
+  content: 对于有多个 WordPress 站点的个人博客用户，好处可能是减少维护工作量吧。
+  ip:
+    encrypted: ZTdkOGFhNTFkMjRlNjNlYTBjZjliNThkYjVmOGNm
+    algorithm: aes-256-gcm
+    iv: e7b968c103fd7d83a156fecb
+  target: 2353
+- type: reply
+  channel: native
+  id: "2384"
+  author:
+    name: chen
+    url: http://liaa.github.com
+    email:
+      value:
+        encrypted: N2UxM2IxMTFiZjkyMzg0NjY3MTk2MWE2Y2ZlZDA2MGY2MA==
+        algorithm: aes-256-gcm
+        iv: cf800be5b3f311ef3390d46a
+      hash:
+        md5: a5cc37ccc0c5b973d71bcf8b4a77af01
+  published: 2013-11-26 16:21:00
+  content: 幻想牢骚，奇技淫巧，测(子错啦!!!)重软件开发、互联
+  ip:
+    encrypted: ZGI2ODgzYzc1MGE4N2ZkNzgxMzFlNzBkMTA1OA==
+    algorithm: aes-256-gcm
+    iv: 2c2b1a64b8a168cecd5afc26
+- type: reply
+  channel: native
+  id: "2386"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: N2NmMDQzYzY1MWU5NWM4MDBmMjY3Yw==
+        algorithm: aes-256-gcm
+        iv: 374dadb6036a2ea7bb83161a
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2013-11-27 08:43:00
+  content: Thanks!
+  ip:
+    encrypted: ZTIwMDExYWQ2Y2FhNTVmZGJhNjRlZjlhZTM3NzE0
+    algorithm: aes-256-gcm
+    iv: 254595079be8b7a260916298
+  target: 2384
