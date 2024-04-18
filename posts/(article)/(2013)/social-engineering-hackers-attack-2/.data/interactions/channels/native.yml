@@ -1,0 +1,19 @@
+- type: reply
+  channel: native
+  id: "2239"
+  author:
+    name: 戴睿可
+    url: http://usaing.com/
+    email:
+      value:
+        encrypted: ZGY4N2ZlM2I3YTYxNzUxYjZhY2Q0ZjQ3ZWM2ZGU5NTJmNjEzNmNjNDJh
+        algorithm: aes-256-gcm
+        iv: 503ebb92a952b08e26db963a
+      hash:
+        md5: 30faab5a1656ce365fb53c65fa87fbb3
+  published: 2013-01-29 11:08:00
+  content: 神乎其神。。。
+  ip:
+    encrypted: MDMxYTcyNjI3MGRkNmM4OGI0MzRmYTEw
+    algorithm: aes-256-gcm
+    iv: 3fce4343827340495082b659
