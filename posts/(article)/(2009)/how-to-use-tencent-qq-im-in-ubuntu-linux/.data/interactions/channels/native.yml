@@ -1,0 +1,257 @@
+- type: reply
+  channel: native
+  id: "370"
+  author:
+    name: NetPuter
+    url: http://orzdream.cn/
+    email:
+      value:
+        encrypted: MGIyODRlOTM2ODlkYzU5NzhjODVmZTNmOTkxMTc1YTQ4OTJmYjFjZWZlZmNlOQ==
+        algorithm: aes-256-gcm
+        iv: 2c85ae5bbc27902107f7de2c
+      hash:
+        md5: ecdc14816bcdf17ffaab3f5aa51e6218
+  published: 2009-01-05 13:37:00
+  content: 沙发一下,可能会玩Ubuntu,但还没玩,So,原谅我水一下吧~
+  ip:
+    encrypted: ZGQxYWE4N2Y4ZDI2ZmU1ODI5ZjYyNDUyODg=
+    algorithm: aes-256-gcm
+    iv: 3f8c638670dddde0181e978f
+- type: reply
+  channel: native
+  id: "371"
+  author:
+    name: krisyuan
+    url: http://yuantao.org.cn
+    email:
+      value:
+        encrypted: M2RjNWQ0NmM5ZTBhODA1YmY3OTI4MDY3YjhjNTQwYjBmNDFl
+        algorithm: aes-256-gcm
+        iv: 55f30adcd914ae767b5b5b64
+      hash:
+        md5: 50a29594632cc0ec0f00396da112b06a
+  published: 2009-01-05 14:19:00
+  content: 恩，qq for linux功能少的可怜，估计只能聊天用了，还没声音
+  ip:
+    encrypted: YmQ0YzBiYTljNzIyOTM4NTdhZmU3OWRkOTEyYjFh
+    algorithm: aes-256-gcm
+    iv: 00f26cbc78dd3db0830cd5a7
+- type: reply
+  channel: native
+  id: "372"
+  author:
+    name: ryan
+    url: http://www.akheart.cn
+    email:
+      value:
+        encrypted: MzM5ZWExZGMzNjM2OGRmNWZmNDNiNGU4MDc0ZWEyNTVmNjJj
+        algorithm: aes-256-gcm
+        iv: f30ec39b4e5279e6611c55cb
+      hash:
+        md5: 3a14b37668544a245608af5dc6caec99
+  published: 2009-01-05 19:00:00
+  content: |-
+    给个下载地址能安装直接有汉字输入法的
+    貌似装完后还要更新一些源什么滴
+    啊 呐
+  ip:
+    encrypted: ZWJjYTc0ZmQ1YTMzNzI0MGU4ODk0ZWQ5NTU=
+    algorithm: aes-256-gcm
+    iv: 2bbd1f5b4c4f1d7dbe93266e
+- type: reply
+  channel: native
+  id: "373"
+  author:
+    name: 枯藤昏鸦
+    url: http://www.ioio.name
+    email:
+      value:
+        encrypted: YTFlYmNiMjY4MzllMjRlYWFjN2FiZWJkYmJlYTllMjc=
+        algorithm: aes-256-gcm
+        iv: b1a6a312041824fe0cbd5a61
+      hash:
+        md5: 75951c0eb1f484155485af036728def8
+  published: 2009-01-06 11:14:00
+  content: wiki.ubuntu.org.cn上有很多ubuntu有用的东西，你可以参考下。
+  ip:
+    encrypted: ODI4NjYwN2VkMzNhNGZiMGNjZGM2OTU5N2Q=
+    algorithm: aes-256-gcm
+    iv: 41067f4fea8167de41f99f4d
+  target: 372
+- type: reply
+  channel: native
+  id: "374"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NzUzYWY0YWY4YzJjYjRkY2VmNTEzNg==
+        algorithm: aes-256-gcm
+        iv: d9bb88fd397424efeca42465
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-01-06 18:24:00
+  content: 在终端里输入 sudo apt-get install scim ? 最好是把语言支持装完的好，或者下个 DVD 版本，装完就有。
+  ip:
+    encrypted: NDgzODNlMWEyOWNjZTViZTY2MmZmYw==
+    algorithm: aes-256-gcm
+    iv: 9d3977923fc3c11e84878d64
+  target: 372
+- type: reply
+  channel: native
+  id: "375"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MTMyZDViODJhNWNlZGQ3MGFhZjUwNg==
+        algorithm: aes-256-gcm
+        iv: d25de833bc99cb08c45c4441
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-01-06 18:26:00
+  content: 恩，腾讯对此的解释是：Linux 的用户比较喜欢安静的工作环境
+  ip:
+    encrypted: MzEyZTg0NzhiNDYyNjcxNmRhZWRiMA==
+    algorithm: aes-256-gcm
+    iv: cdade5611d00008a16aa3023
+  target: 371
+- type: reply
+  channel: native
+  id: "376"
+  author:
+    name: bigCat
+    url: http://ooxx.me
+    email:
+      value:
+        encrypted: MGY4ZDUzOWI0N2ZiMTUzYzNm
+        algorithm: aes-256-gcm
+        iv: e5bcfcb1e8f3f41be6c1efa2
+      hash:
+        md5: c0d3d3cdd6f4c93499351c7aa2cbcea6
+  published: 2009-01-07 02:30:00
+  content: qq传文件很郁闷...ubuntu那个
+  ip:
+    encrypted: NzNjMmI2ZDVjZDI4NTAwNWViOTlkZWFkM2E4Yg==
+    algorithm: aes-256-gcm
+    iv: edaed1b12d8c83dfa3492aa0
+- type: reply
+  channel: native
+  id: "377"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NDNlZmYwYjQ5N2Y3ZmYzY2MwYTEzMA==
+        algorithm: aes-256-gcm
+        iv: 3dda68c1b9e6ee01d6e7eb38
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-01-07 09:21:00
+  content: 一般别人要给我传文件的话，我都要求用邮箱发来……
+  ip:
+    encrypted: MDQxZjMzYThlNjVmM2E1MDQxNzMyZjdlZDA3OQ==
+    algorithm: aes-256-gcm
+    iv: 77cd399d31e38247fba703c4
+  target: 376
+- type: reply
+  channel: native
+  id: "378"
+  author:
+    name: 减肥食谱
+    url: http://www.jianfeicn.com.cn
+    email:
+      value:
+        encrypted: MDFkYjM3YWY0YTA3NGQ4MGVlZjZmZDQyYzViNGU1NGU=
+        algorithm: aes-256-gcm
+        iv: 2e7449615ab1fb1d2aa8c67f
+      hash:
+        md5: 0f631e0b61ef0769379f4f84b0e23b78
+  published: 2009-01-07 13:45:00
+  content: 呵呵，感觉linux下面很少人使用QQ吧，之前在BSD下面没装成，失败啊～
+  ip:
+    encrypted: NDc5NDg1OWJmMzk5MDdjYmVjMWFmNWU1Y2U=
+    algorithm: aes-256-gcm
+    iv: 4966082e80be54f1580acd9d
+- type: reply
+  channel: native
+  id: "379"
+  author:
+    name: Panther
+    url: http://www.naease.com
+    email:
+      value:
+        encrypted: ZDc1MzY0Zjk1OWNlYzk1NjU1NGQzNTUwNTIyNzAzYTY0NDlj
+        algorithm: aes-256-gcm
+        iv: b30412c2c3411244df0d0979
+      hash:
+        md5: 5598d43f907879e2b71fab69825ee563
+  published: 2009-05-23 08:52:00
+  content: 玩过一阵子ubuntu 感觉没意思
+  ip:
+    encrypted: NjljNjIyYzI0MzI5NmFiNWI4Zjk5M2NhZDUxYTNh
+    algorithm: aes-256-gcm
+    iv: 362033240337ba3d56a6ed2a
+- type: reply
+  channel: native
+  id: "380"
+  author:
+    name: 肥柴
+    email:
+      value:
+        encrypted: MjAxZTUwYmI2ZWY0ZjVlNWU3YWU4OWNiNWFlY2IwMWM5MWVkODA=
+        algorithm: aes-256-gcm
+        iv: 168049fb9f145624407e20bd
+      hash:
+        md5: 9ee95cde7065b3dfbd3279a81a1a2290
+  published: 2009-11-13 10:51:00
+  content: 现在我在用9.10的~~丫的··官方版的那个老崩溃~~eva 还有系统自带的那个和Pidgin老提示版本过低~~~汗吖··现在就只能用webqq了~~
+  ip:
+    encrypted: YWYzZjhhNGVmMTQ5MWVhYmY3Mzg3YjIzYTFlNQ==
+    algorithm: aes-256-gcm
+    iv: d8c2559262b3968e3dc734aa
+- type: reply
+  channel: native
+  id: "381"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NmJkNzU2MGIwYmIwNWJiNDUyYzFjMw==
+        algorithm: aes-256-gcm
+        iv: 143073bcf4b0ce8fd5e5e2d1
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-11-14 13:01:00
+  content: 9.10 好像很多 bug ，用回 9.04 了； webqq 其实也不错的啊
+  ip:
+    encrypted: ZjliNjEzZGQwZjE3NWZlNDI4ZGY0ZmIzYTM1NmRk
+    algorithm: aes-256-gcm
+    iv: 8514e1d4196855a39e9a545e
+  target: 380
+- type: reply
+  channel: native
+  id: "382"
+  author:
+    name: Fcm
+    email:
+      value:
+        encrypted: ZTBjMjlhMmM2ZGI1ZTI1MjJkNjM3NDg0NWI1M2JlMmIxMDE1NWMxNzAzYzY=
+        algorithm: aes-256-gcm
+        iv: d5573a9dc625cf34ed961fa4
+      hash:
+        md5: 8e98bd2ff4059bf342afabb794d58a89
+  published: 2010-02-22 00:52:00
+  content: 阉割了的QQ，腾讯真的太不尊重Linux用户了。
+  ip:
+    encrypted: MzhmYjcyMGFhMDM1ZmYwZmFiY2ZhMDMzYjgwMmU4
+    algorithm: aes-256-gcm
+    iv: 5b86e97250eaf94695e78702

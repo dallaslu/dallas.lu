@@ -1,0 +1,218 @@
+- type: reply
+  channel: native
+  id: "669"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: YjA3YWIyNjA2MDdiNjVkNzlkYjU1ZTM4YjE1NmQwZjdiODc0
+        algorithm: aes-256-gcm
+        iv: 30f27a12deb64124ab847fe8
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-05-22 14:11:00
+  content: 鄙视流明软件...
+  ip:
+    encrypted: Y2Y3N2JlYjhiYzc3ZTE3MTlmYWE4NWMwNTQ1Ng==
+    algorithm: aes-256-gcm
+    iv: a27d8516c154cd6310251477
+- type: reply
+  channel: native
+  id: "670"
+  author:
+    name: 久酷
+    url: http://www.jiucool.com
+    email:
+      value:
+        encrypted: ODc5MjFlNzZhMDQ0ZWI2NTY4ZWQ1MDYwMjMzMjc3NDUzN2VjMTA=
+        algorithm: aes-256-gcm
+        iv: 9d84c3e18195e0bcacd313f7
+      hash:
+        md5: 4b69a018b6b2914da4d59a332b074de9
+  published: 2009-05-22 18:07:00
+  content: 向来鄙视暴风，呵，不用它
+  ip:
+    encrypted: Nzc2YWU1NWM2MzRlOGE4ZGIxZDY1NzAwYmU=
+    algorithm: aes-256-gcm
+    iv: 7343ff9156bbd5e481330350
+- type: reply
+  channel: native
+  id: "671"
+  author:
+    name: ryan
+    url: http://www.akheart.cn
+    email:
+      value:
+        encrypted: ODE5ZTVhZjU2Y2M1NWRiNTlmNzAzNGMzNDI0MWE0MzM0OTI4
+        algorithm: aes-256-gcm
+        iv: 9be0048a5aeea56537c184c7
+      hash:
+        md5: 3a14b37668544a245608af5dc6caec99
+  published: 2009-05-22 22:03:00
+  content: |-
+    垄断了
+    市场份额大了
+    就不知道衣食父母是谁了
+    丫的就不能被宠着
+  ip:
+    encrypted: NTA0M2NkYzVlOTMzNDBmMmYxMWViMmY0MTA=
+    algorithm: aes-256-gcm
+    iv: 30ebc5c8e8e29f9088caade7
+- type: reply
+  channel: native
+  id: "672"
+  author:
+    name: 辐射鱼
+    url: http://eachsite.org/
+    email:
+      value:
+        encrypted: Y2Y5NjYzNDE4NGNmNTc0MTY2NWNlYTNkM2Y5YjNkZjA3MA==
+        algorithm: aes-256-gcm
+        iv: 5a74fac33165d9afd28773f4
+      hash:
+        md5: b6a4450a6701305efe11a5fe0a41f8dc
+  published: 2009-05-24 15:23:00
+  content: 早就没用这流氓软件了，暴风越来越强奸用户
+  ip:
+    encrypted: ZDUzZjMzOWZhNGU4NGY2MDJiZGU2NjE4
+    algorithm: aes-256-gcm
+    iv: 57bc81b89ca623b0f95456bf
+- type: reply
+  channel: native
+  id: "673"
+  author:
+    name: 随影
+    url: http://suiyingsky.cn
+    email:
+      value:
+        encrypted: ZGU3NDc2ZmRkNDhkYzJjYTNmNzg3Yjk5OTAzZTNjZjIxNjM2NWUxOQ==
+        algorithm: aes-256-gcm
+        iv: ace3de2bb3fc6ca1e931a063
+      hash:
+        md5: 5479da468987270483a520f88423fccf
+  published: 2009-05-28 12:34:00
+  content: 现在 的暴风就是这样啊  自己 也不用它了改用解码包算了！！！
+  ip:
+    encrypted: YmIxNzI2YmIzYTVkMjRkNGMzZmJmYjdk
+    algorithm: aes-256-gcm
+    iv: 64f486c34cdb74c6d39b41f6
+- type: reply
+  channel: native
+  id: "674"
+  author:
+    name: 会律博客
+    url: http://www.huilvsay.com
+    email:
+      value:
+        encrypted: NDUzNWIyNTE4NmQ5MzI1ZTM1MDUwMmE2MDNiYmI0ZjRkYzc2
+        algorithm: aes-256-gcm
+        iv: e43912421c225358754e9339
+      hash:
+        md5: 3e5357f89afc7158faa3230e5ea57e51
+  published: 2009-05-29 20:03:00
+  content: 一卸了之，事实比口碑更重要，我们这只有完美，没有瑕疵！哈！
+  ip:
+    encrypted: MzgzZDQ3NGUzNmM5NDg2ZWI1ZGE0MmI5ZTI=
+    algorithm: aes-256-gcm
+    iv: 4b95793ffe622447e6d349c7
+- type: reply
+  channel: native
+  id: "675"
+  author:
+    name: Dianso
+    url: http://014.cc
+    email:
+      value:
+        encrypted: MmM0NDk5ZTQzZTEzMmQ1ZjRiNmM0YWNkOWI=
+        algorithm: aes-256-gcm
+        iv: ebaebdc042df9d19b3d9588c
+      hash:
+        md5: fd126aa64db6755fe66749e7870b9c9c
+  published: 2009-05-30 14:17:00
+  content: 不喜欢暴风，可是又没别的安装，QQ影音用的不怎么舒服。。。
+  ip:
+    encrypted: ZTJmNmZlNzFmOTM4MGQxY2QyZmYwMzI0
+    algorithm: aes-256-gcm
+    iv: 615dbee3827f02d17e72291f
+- type: reply
+  channel: native
+  id: "676"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OTg1NjBkYmZkZDBiYzg0MTQ0NTA4Yw==
+        algorithm: aes-256-gcm
+        iv: c78a484ac768e7c0afc1d604
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-05-31 22:02:00
+  content: 网络上流传着不少 被 净身 过 的暴风
+  ip:
+    encrypted: NDBlZDNkNTgzMzhiZTg0MDBlNDZkYTQwYjA4MA==
+    algorithm: aes-256-gcm
+    iv: d0743f4b3923a60c6cdea0f5
+  target: 675
+- type: reply
+  channel: native
+  id: "677"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NDI1Mzg1MDM2MThiZjE1ZjJkNWVjZA==
+        algorithm: aes-256-gcm
+        iv: 6361f227e44e7822658d961d
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-06-01 03:06:00
+  content: 鄙视错别字……
+  ip:
+    encrypted: OTY2ZTE0MTlhZDY2ODVlNWE1ZGY3ZjQzODhiYg==
+    algorithm: aes-256-gcm
+    iv: 1e1f8ecad7c79c0b4bce13ef
+  target: 669
+- type: reply
+  channel: native
+  id: "678"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ODExMGY5M2NhOTgzYWNhMGEwY2U5ZQ==
+        algorithm: aes-256-gcm
+        iv: 3e1df42e5da52ce0258fb20c
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-06-15 00:30:00
+  content: 测试～～～～
+  ip:
+    encrypted: YjE5ZDczNWY2NjNjZDQ3ZmUwNTljZTc1NDZjZg==
+    algorithm: aes-256-gcm
+    iv: 04b37e2cc6a9e8a91cb62665
+- type: reply
+  channel: native
+  id: "679"
+  author:
+    name: 淘宝品牌导购站
+    url: http://www.wmfwz.com
+    email:
+      value:
+        encrypted: ZmJmMGQwYTM2NzY4NzA2NTgzZDgyMDkzMDE=
+        algorithm: aes-256-gcm
+        iv: c8772bcb3d3a88b9ec41004d
+      hash:
+        md5: 2c66d472fba79383b7156c4c674d525d
+  published: 2010-09-15 16:02:00
+  content: 不是吧！这样我都不敢用了！
+  ip:
+    encrypted: Y2JiYjg0Mjg1MTdiODkyMjM5ZDg3NGJiYTI=
+    algorithm: aes-256-gcm
+    iv: 6a29b57391fd1fa0c983cd49

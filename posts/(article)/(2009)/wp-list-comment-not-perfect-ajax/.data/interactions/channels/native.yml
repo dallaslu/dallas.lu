@@ -1,0 +1,407 @@
+- type: reply
+  channel: native
+  id: "680"
+  author:
+    name: 闲耘
+    url: http://blog.xianyun.org
+    email:
+      value:
+        encrypted: YTRlZjJiZjVhZTBmMDFjMTY2NTc4NzczN2ExMWY0NmE=
+        algorithm: aes-256-gcm
+        iv: c9727cfcd1acccc4b8838abf
+      hash:
+        md5: 5ebea331d1540721ec0700c96fa0ddf7
+  published: 2009-06-01 23:55:00
+  content: 默认的好像必须js支持吧，我看过有支持的，但我不确认是否用的原生内置功能。请指教一下。
+  ip:
+    encrypted: YjhkYTc0M2I1MjE4NWUxOTY4YjVmYmE0YTljYzFm
+    algorithm: aes-256-gcm
+    iv: d1a08c3117ebfe0ee0090701
+- type: reply
+  channel: native
+  id: "681"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OGE1M2QzNjI4Y2QyYzc2ZjFiZjBiNw==
+        algorithm: aes-256-gcm
+        iv: 030d0be6dd418306f09092bb
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-06-02 00:07:00
+  content: 你是说 “回复”链接？没有JS的话，每次点击都是一次刷新的，但仍能正确工作。
+  ip:
+    encrypted: MjhlODBlZDY1YTVkMzkxNDdlYzQ3ODFjZDhiNQ==
+    algorithm: aes-256-gcm
+    iv: 62c3bf598282783c1eb0f2b2
+  target: 680
+- type: reply
+  channel: native
+  id: "682"
+  author:
+    name: 闲耘
+    url: http://blog.xianyun.org
+    email:
+      value:
+        encrypted: ODA5ZTUwMWM2MTAwMGI3ZDZmYTE0YTFmOTBmYmM2NjQ=
+        algorithm: aes-256-gcm
+        iv: c8c0ba8564438d6a6e630da5
+      hash:
+        md5: 5ebea331d1540721ec0700c96fa0ddf7
+  published: 2009-06-02 00:11:00
+  content: 确实是这样，我看错了。我这观念是什么时候开始的？
+  ip:
+    encrypted: NmM3MTZiNTVjY2E0ZTM2NjM4MGQ0N2YyMGI1ZmY1
+    algorithm: aes-256-gcm
+    iv: a5d61327b00358ca2f8f37d4
+  target: 681
+- type: reply
+  channel: native
+  id: "683"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OGQ5NDRkMDM3N2RhMDU0ZWY5MWFhYg==
+        algorithm: aes-256-gcm
+        iv: e1321992103a0ca73365f8c3
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-06-02 00:25:00
+  content: 貌似一些嵌套评论插件是必须 js 的。
+  ip:
+    encrypted: NGM4YjgzNTE1MDQ0ODA0NzZiOTdmMGU2MzJkMQ==
+    algorithm: aes-256-gcm
+    iv: bb10e9ab9334c44dc85ee9e3
+  target: 682
+- type: reply
+  channel: native
+  id: "684"
+  author:
+    name: 久酷
+    url: http://www.jiucool.com
+    email:
+      value:
+        encrypted: ODM4MWE4MzI4OWNhZTIwNWZhYjFiZGMxYWYzNWIxNTg3MThiMDE=
+        algorithm: aes-256-gcm
+        iv: 81e0e65a57c4ac6cfb377291
+      hash:
+        md5: 4b69a018b6b2914da4d59a332b074de9
+  published: 2009-06-02 01:24:00
+  content: 诡异现象.....^_^
+  ip:
+    encrypted: NjI3NTQ4MWZiODE2ZjdhNzFlYWMwOWZlNDFjYmY4
+    algorithm: aes-256-gcm
+    iv: e1c2d93fc9bf788ddc911fe1
+- type: reply
+  channel: native
+  id: "685"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: YWEyM2E5OTJiZDAwNzQ0OWE5YzAwYjFmNGRiZDJkMjQzOGM4
+        algorithm: aes-256-gcm
+        iv: 900ab62eb756fdd5cbe64928
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-06-02 02:45:00
+  content: 貌似要修改 WordPress 源码？那如果 WP 升级时又要改一次了，这篇不错，参考参考，最近也开始研究如何让 Ajax 评论在 2.7 下运行呢！
+  ip:
+    encrypted: ODI2NmNjYWU0NjU0ZDUyMTUyYmVmYWJhMDdjMzY0
+    algorithm: aes-256-gcm
+    iv: 87b2fbd8cdb28e5e7c13dd0c
+- type: reply
+  channel: native
+  id: "686"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NzMwMjkwMzY5MTY5MDdjMzI5MWY2NQ==
+        algorithm: aes-256-gcm
+        iv: 3ff52ecc158c3390953dfe92
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-06-02 07:47:00
+  content: 呃，是借用源码。那个 wp-comment-post.php 还得留给不支持 js  or ajax 的同学呢～
+  ip:
+    encrypted: ZjI4NjYyZTBhMTc5YjhhMzA0MjFkYzA3MzViYg==
+    algorithm: aes-256-gcm
+    iv: 2b4ab4120a4349bd9f4bf26b
+  target: 685
+- type: reply
+  channel: native
+  id: "687"
+  author:
+    name: ryan
+    url: http://www.akheart.cn
+    email:
+      value:
+        encrypted: M2VjMDc3NTZiMWFjNGIyNjY0YzFlOTUy
+        algorithm: aes-256-gcm
+        iv: f49f735e2eb008feccd8d3bc
+      hash:
+        md5: 357d636016224c39c716d4e6d88c82e3
+  published: 2009-06-02 19:30:00
+  content: 慢慢研究，以前装过一个插件，貌似没效果，就删掉了。
+  ip:
+    encrypted: MmI1NDI1MDU1NzY0YmM5ZDNmNmE5YTIzODg=
+    algorithm: aes-256-gcm
+    iv: a33dbcebdde90fb416c73256
+- type: reply
+  channel: native
+  id: "688"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZTdiZDg3YjVjNTViZjZjOWM5OTY2Zg==
+        algorithm: aes-256-gcm
+        iv: 764fe8c3979be5ff9fe31062
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-06-03 00:16:00
+  content: 凭借 wp 强大的插件机制，把 ajax 提交区分开来，外加上一段 js ，应该不是很困难。没效果，可能跟主题有关吧。
+  ip:
+    encrypted: ZTk5ODZkMTg0NTk4NDIxNzJiYWEzZjFlYzEzOA==
+    algorithm: aes-256-gcm
+    iv: bed3465840eb80cb1ecd58cc
+  target: 687
+- type: mention
+  channel: native
+  id: "689"
+  published: 2009-06-04 20:27:00
+  url: https://dallas.lu/wordpress-2-7-perfect-ajax-thread-comment/
+  content: "[...] 页面 js 代码请参考上篇文章。 [...]"
+  author:
+    name: WP27 完美 AJAX 嵌套评论 - Dallas Lu™
+- type: reply
+  channel: native
+  id: "690"
+  author:
+    name: shamas
+    url: http://3284265.cn
+    email:
+      value:
+        encrypted: NmY2YjM2ZDgwYjU2NDMwYTNiM2NjNTJiODgwMjE1ZDk3NGI5ZjBkOTU3
+        algorithm: aes-256-gcm
+        iv: 0e71b38f61817a372e8ead80
+      hash:
+        md5: 089e516c2f737f071a5a8b85ea6b17cf
+  published: 2009-06-18 09:32:00
+  content: 学习了啊
+  ip:
+    encrypted: NTg2YmQyMmVmYjQxOGI0ZWNhNjgzYWVjMmQ3Yw==
+    algorithm: aes-256-gcm
+    iv: 7040dcf450b8d27ac5cd74a8
+- type: reply
+  channel: native
+  id: "691"
+  author:
+    name: rgb
+    email:
+      value:
+        encrypted: NDIwMzJlNmMyYjNhNzZiNTFjNmI=
+        algorithm: aes-256-gcm
+        iv: 3c9189a04267f631bcbb821c
+      hash:
+        md5: 36c0d699c789a19cb38c7098fb902a5e
+  published: 2009-06-26 21:52:00
+  content: 在这里测试一下
+  ip:
+    encrypted: MTM1NzI3NjkxNGEyZDBjM2YyMTUyYzE2OWFhMGYw
+    algorithm: aes-256-gcm
+    iv: fdea552c5c57d8cbaeec5dd5
+  target: 683
+- type: reply
+  channel: native
+  id: "692"
+  author:
+    name: rgb
+    email:
+      value:
+        encrypted: YzhmMjEzZmJkYWQ0NWFjZjA4ZjE=
+        algorithm: aes-256-gcm
+        iv: 20179c576eb9d3bd23904f34
+      hash:
+        md5: 36c0d699c789a19cb38c7098fb902a5e
+  published: 2009-06-28 22:17:00
+  content: 测试一下
+  ip:
+    encrypted: NTlkNWNiY2Q5MGQ2YzJhNzVjYTk4MTQ3ZjU=
+    algorithm: aes-256-gcm
+    iv: 84c74bf7d46141bd7ee3d4cc
+- type: reply
+  channel: native
+  id: "693"
+  author:
+    name: edikud
+    email:
+      value:
+        encrypted: M2I1MTM5NDhmNzEzZGNhN2IzZDc1NDhlNGQ1M2IwN2M=
+        algorithm: aes-256-gcm
+        iv: d256678315666e18c3881732
+      hash:
+        md5: 36b18348c69ca1d6820299b959f551fe
+  published: 2009-08-10 13:52:00
+  content: 测试一下
+  ip:
+    encrypted: MDM1ZDRlYWZhZDgzOGQwZGQ0MGVlMzM3Njk=
+    algorithm: aes-256-gcm
+    iv: afa104825cf5515ad6cca9e5
+- type: reply
+  channel: native
+  id: "694"
+  author:
+    name: 淘宝风向标
+    url: http://janyu.net
+    email:
+      value:
+        encrypted: Y2U2YTQ1MGZlM2JmMWUyN2E0YjM1NzFlZmI3NDA0M2I3ZTRmYmMxMGQxMDM5Mjkx
+        algorithm: aes-256-gcm
+        iv: aad9faa3baf741ae347c93bc
+      hash:
+        md5: 6e369ccb25e9a553eca7725bd7ab3e90
+  published: 2009-08-18 12:56:00
+  content: 有点迷糊
+  ip:
+    encrypted: Yjg1Nzg3ZmMxY2Q5MTFiMTQzNDNkOWYyOTc=
+    algorithm: aes-256-gcm
+    iv: b746ad82d5df48e31d6f01c5
+- type: reply
+  channel: native
+  id: "695"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: Nzg0ZjVhMjA3MjdiOTYwYTk4NjM1Mg==
+        algorithm: aes-256-gcm
+        iv: e85be157026dfd8178dfbc30
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-08-19 07:53:00
+  content: 呵呵，不好意思，讲的比较乱套
+  ip:
+    encrypted: OTdhNTAxOWIzMTk0NmZhYjQ2MGQwYmE5YzE4MQ==
+    algorithm: aes-256-gcm
+    iv: 7b2230a5b7a35296b9b52d80
+  target: 694
+- type: reply
+  channel: native
+  id: "696"
+  author:
+    name: 开心凡人
+    url: http://www.fanren001.com
+    email:
+      value:
+        encrypted: ZGIzNzdlNDRkZmM5ZDAzYjE3YjY0MDg4NmRjY2M1MmMzMWQ3
+        algorithm: aes-256-gcm
+        iv: 63d77acaeaa1dc77468dae07
+      hash:
+        md5: 1a7f240bb753e60f92a4fae534d30930
+  published: 2009-11-21 15:36:00
+  content: 看看什么效果
+  ip:
+    encrypted: ZDkzMTRiMDNhZWQ5ODZkNTNlODI1MDZiZDcwYTU5
+    algorithm: aes-256-gcm
+    iv: c4a091b96e3822cd6492f86e
+- type: reply
+  channel: native
+  id: "697"
+  author:
+    name: baaluck
+    url: http://baaluck.org
+    email:
+      value:
+        encrypted: MGI2MGVkOWY1ZmYyMmMyNDhlODNkN2FmNDQ2NGJlNjdmYQ==
+        algorithm: aes-256-gcm
+        iv: f0b9bdb5c6566a7d76383a0b
+      hash:
+        md5: f357f735d9891ac345a56868109d90ae
+  published: 2010-03-10 14:57:00
+  content: 实验一把！
+  ip:
+    encrypted: N2NjM2Y1MmM4NDc3N2I4YmNiMGY0Zjlh
+    algorithm: aes-256-gcm
+    iv: 5cc59804485c8b94730dd18a
+  target: 696
+- type: reply
+  channel: native
+  id: "698"
+  author:
+    name: ff
+    email:
+      value:
+        encrypted: ODAzNjg0NTQ0YzkzZGIxZTVhNDQ5YQ==
+        algorithm: aes-256-gcm
+        iv: 2e6bc8eb378fe87d540f39a0
+      hash:
+        md5: 44a550ef5cdc86e73ff4892c62b6d25a
+  published: 2010-03-10 17:11:00
+  content: shishi
+  ip:
+    encrypted: Njc2OWJhMDlhNjY4NmY1ZGFhNGMzNjZl
+    algorithm: aes-256-gcm
+    iv: 34e7796604256a54e972e9a9
+  target: 696
+- type: reply
+  channel: native
+  id: "699"
+  author:
+    name: skyoy
+    url: http://www.skyoy.com/
+    email:
+      value:
+        encrypted: Mzc1OWZlYjRmN2JjZGE3YmEwMTkwMDRlYjZjMzMzMGY3ZTVl
+        algorithm: aes-256-gcm
+        iv: 48fd9361e9f75759dd6c3cd7
+      hash:
+        md5: 2a42ff543e3cc223d8925301a1f23ff3
+  published: 2010-05-06 15:06:00
+  content: 测试下看看。。
+  ip:
+    encrypted: NjU1NzI0YmQ4ODA0OTkxZTU5YzljMTIx
+    algorithm: aes-256-gcm
+    iv: 6b6419b73ab045e301ece1ab
+- type: reply
+  channel: native
+  id: "700"
+  author:
+    name: 斯蒂芬斯蒂芬
+    email:
+      value:
+        encrypted: NTQ0NTE0NTg5MDVjNmEwMDZkZjdiNTdkMjZkYg==
+        algorithm: aes-256-gcm
+        iv: ccb3f8758fb870a27beac616
+      hash:
+        md5: f98adcd509a55441b5347db567c916e4
+  published: 2010-08-14 20:38:00
+  content: "555"
+  ip:
+    encrypted: OWVhMWJlYWRiYmY0MTAzNWNhOGIwZjdjMmQ=
+    algorithm: aes-256-gcm
+    iv: 75156c65b63f58593fbab82b
+  target: 683
+- type: mention
+  channel: native
+  id: "1593"
+  published: 2011-07-19 10:56:00
+  url: http://tuzii.me/artical/1407.html
+  content: "[...] 但我還是把它留著)　3. 套用你所使用模板的 class 屬性. (感謝 Dallas 在先前已找到好方法, 我又在 js
+    中加了判斷式)　4. 評論數量即時更新顯示. [...]"
+  author:
+    name: WordPress 內置评论 免刷新页面代码 Ajax comments | 兔子先生

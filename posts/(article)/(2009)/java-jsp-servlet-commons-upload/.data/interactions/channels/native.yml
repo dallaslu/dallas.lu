@@ -1,0 +1,162 @@
+- type: reply
+  channel: native
+  id: "649"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: YTc1Yjk4NjE1NzczODllZGU3MTE3OWMyYzViODMxYjhjNmNl
+        algorithm: aes-256-gcm
+        iv: 4c59453b0805994851727477
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-04-29 15:45:00
+  content: 太深奥了，几乎没看懂，呵呵！
+  ip:
+    encrypted: YTg3N2YwNDI1YTZjZmJhNjZlOWMzZDEzODY=
+    algorithm: aes-256-gcm
+    iv: 0f21a6cb80c2ae37752796f8
+- type: reply
+  channel: native
+  id: "650"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZTZlODQ0ZjZmYTI1MGQyNTBhNTc0MQ==
+        algorithm: aes-256-gcm
+        iv: dd096debe03e1d2a070efcb0
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-29 20:14:00
+  content: 这里讲的，应该还属于 Java 基础的范畴……
+  ip:
+    encrypted: Mzg5NDhmODI5MDE0YzJjOWE4MGQ2YjMzNzY0NjUx
+    algorithm: aes-256-gcm
+    iv: c61bf8c375364b786c93688f
+  target: 649
+- type: reply
+  channel: native
+  id: "651"
+  author:
+    name: 会律博客
+    url: http://www.huilvsay.com
+    email:
+      value:
+        encrypted: NzBlYmRjYmFlOTkxMjE5NDdjOTU4Y2E3NTc0NTI5MmJhYzg3
+        algorithm: aes-256-gcm
+        iv: 3d7b86c2761448066146a6db
+      hash:
+        md5: 3e5357f89afc7158faa3230e5ea57e51
+  published: 2009-05-16 09:41:00
+  content: 飘过，忽视中！应该说自己太差，不太看懂！
+  ip:
+    encrypted: Zjc2ZjYzNzUwZGM4ZGM2NTYzNTJhZDU1M2Q3Yg==
+    algorithm: aes-256-gcm
+    iv: 6d4a31d025a5f98a5317ca80
+- type: reply
+  channel: native
+  id: "652"
+  author:
+    name: 卢松松
+    url: http://www.lusongsong.com
+    email:
+      value:
+        encrypted: ZGJkODRkYmUyZDIzYjk0NWY4ZTBhNWVkOTRkYzgy
+        algorithm: aes-256-gcm
+        iv: dc57a70aa0655744cf3785ec
+      hash:
+        md5: b016fdf3945914d394b07ba16126c486
+  published: 2009-05-21 14:05:00
+  content: |-
+    我对java不懂..
+    第一次来这里,'
+    看来博主是个编程高手
+  ip:
+    encrypted: OGM5NjdhMGZlYjdjYjUzNGNjNGIxM2Q4NDJhN2U1
+    algorithm: aes-256-gcm
+    iv: acbf4f849c15987c035c2ea8
+- type: reply
+  channel: native
+  id: "653"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: YjJiNTRhMDI1YmQ0OTliNjI5Y2QzNw==
+        algorithm: aes-256-gcm
+        iv: c847beb5a1ea67603ad804d1
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-05-21 21:06:00
+  content: 呃，欢迎常来，呵呵。高手不敢当，我也是在学习，这些都是基础的东西。
+  ip:
+    encrypted: MGI2MDhiZjllNWFiYTQzY2U5OTExZDkyNTM=
+    algorithm: aes-256-gcm
+    iv: 95678d4e455211d222cd3244
+  target: 652
+- type: reply
+  channel: native
+  id: "654"
+  author:
+    name: 墨白
+    url: http://www.mobai.org
+    email:
+      value:
+        encrypted: NTU0Mjg5YTczMjNjZTgwN2ZjZGVmODVhNzc3MjFkMjc=
+        algorithm: aes-256-gcm
+        iv: ba3c3d3efdcb9757caa94e4d
+      hash:
+        md5: d57300a68ddc9db824adcab3ede972c3
+  published: 2009-06-06 09:01:00
+  content: |-
+    交流一下，我也是学Java的，呵呵
+    交换个链接吧，你的已做好……
+  ip:
+    encrypted: ODUxNDAzNTBlNDM5ZGMwM2NmYWZhNThjNmI0MA==
+    algorithm: aes-256-gcm
+    iv: 7e73e65c685abcbaf7dd8839
+- type: reply
+  channel: native
+  id: "655"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MDM4MWYxZDg4ZTAxOWRiNzllMGJmNw==
+        algorithm: aes-256-gcm
+        iv: 1882f8a807f2b8b29d5aa681
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-06-07 22:15:00
+  content: 昨天就添加上链接了，现在想来应该通知你下……
+  ip:
+    encrypted: Zjc5N2IxZDY1ODhiMWJmOWVhNTUyYQ==
+    algorithm: aes-256-gcm
+    iv: ec9420c26b451dd214a10136
+  target: 654
+- type: reply
+  channel: native
+  id: "656"
+  author:
+    name: Leeiio
+    email:
+      value:
+        encrypted: MDA2MjE0MWYzZDI2YmU1YTJlMzg0ODFmZTU4YWY3NWY=
+        algorithm: aes-256-gcm
+        iv: 07e604e728c3062c2de44459
+      hash:
+        md5: ffa60157af668384f5325116efd02385
+  published: 2009-06-29 09:13:00
+  content: 对于大文件上载，我其实偏向于用flash来实现~
+  ip:
+    encrypted: ZGM5ODAyODI3ZmNkYzZkZGZlY2MyY2IwNzY=
+    algorithm: aes-256-gcm
+    iv: 9a416e313f074105c77a2767

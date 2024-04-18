@@ -1,0 +1,220 @@
+- type: reply
+  channel: native
+  id: "621"
+  author:
+    name: leafduo
+    url: http://leafduo.com/blog/
+    email:
+      value:
+        encrypted: ZjZmY2UwZWQwYzNlNzE3NWUwZDFmMTI0OGQyZTI0OWVmYg==
+        algorithm: aes-256-gcm
+        iv: 34b082beee0be36f014fc785
+      hash:
+        md5: 78d2e8292df486d6ce573aa842e6e73d
+  published: 2009-04-05 09:40:00
+  content: |-
+    ctrl+L 是清屏
+    clear 也是
+  ip:
+    encrypted: M2I2ODAwNjY0M2FlYTNmN2QwYWZmYjA0
+    algorithm: aes-256-gcm
+    iv: 11f67f3007ad75d83b6538e7
+- type: reply
+  channel: native
+  id: "622"
+  author:
+    name: 胡戈戈
+    url: http://hugege.com
+    email:
+      value:
+        encrypted: NDIyY2VkN2JiYjljZjY4NTEzOWViMGUzOGJkNzRiMWUxZjljMDA=
+        algorithm: aes-256-gcm
+        iv: f7161cdef62b1bc64e5d2a8b
+      hash:
+        md5: 6ca055fb6c2c719b879f43b3c3cf895d
+  published: 2009-04-05 09:54:00
+  content: 太牛了你
+  ip:
+    encrypted: OTIxNGU4MDczYzY1ZGFiMGYyMDUwMA==
+    algorithm: aes-256-gcm
+    iv: 067c1b6d661eddc6e37bc731
+- type: reply
+  channel: native
+  id: "623"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: Mzg0ZGRmYzdkYjE5Mjk0OTNiNjM5Yw==
+        algorithm: aes-256-gcm
+        iv: 715ca4b7dd5c2a23c4b6b0ba
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-05 09:57:00
+  content: 恩，我记错了，是 Ctrl+L。不过 clear 和它一样，是伪清屏。
+  ip:
+    encrypted: MDMyY2MyMGFjMGE4MDAzNzBlMTg0YjJkMDRmNWE0
+    algorithm: aes-256-gcm
+    iv: 4c26a9767645a08225844344
+  target: 621
+- type: reply
+  channel: native
+  id: "624"
+  author:
+    name: 会律博客
+    url: http://www.huilvsay.com
+    email:
+      value:
+        encrypted: OWJlZTEyYWNmOWM4NmUyYjgzMzIzZDNlMGJjNjNlMWM1NzQx
+        algorithm: aes-256-gcm
+        iv: 363446bff29f46042b75fa71
+      hash:
+        md5: 3e5357f89afc7158faa3230e5ea57e51
+  published: 2009-04-05 13:59:00
+  content: 睡觉是王道哇！
+  ip:
+    encrypted: NzA1ZGJiZTBiNGFhZjI3MDFlOGQ4ZjU3ZjI=
+    algorithm: aes-256-gcm
+    iv: 6dc8178769ffe43cafa03582
+- type: reply
+  channel: native
+  id: "625"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: ZGViNTEyNjRjNzRiZTRmMDYyNmViNDQ3ZDBlNzU2MGRmNDJj
+        algorithm: aes-256-gcm
+        iv: 6810b0f251f7942ccf409647
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-04-06 21:08:00
+  content: 都开始折腾 Java 了，太牛了你！！
+  ip:
+    encrypted: ODQxOTQxNDJlMGIxYzNlMGMzMzlhMThlZWY4MDM3
+    algorithm: aes-256-gcm
+    iv: f7e6c7293ed7bc1b57e6ce71
+- type: reply
+  channel: native
+  id: "626"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MDhjYTFiOGJlMzRkNDMxNDlkMzYxMg==
+        algorithm: aes-256-gcm
+        iv: 898a16595920f9bd9d848666
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-06 21:33:00
+  content: 汗，我可不敢称牛。这个清屏的问题几年前就被人解决了，我也是才学到
+  ip:
+    encrypted: NjE5MjBjMjc5MzNmZmY3MjkyNTc1YjEzZTFjOGU1
+    algorithm: aes-256-gcm
+    iv: 8efea61fe5be357807b5cc81
+  target: 625
+- type: reply
+  channel: native
+  id: "627"
+  author:
+    name: jo32
+    email:
+      value:
+        encrypted: ZWEyNGVhMDkyZWIxNTIwMTMzZGQyNmUyMDA2ZTE0ZmEzNw==
+        algorithm: aes-256-gcm
+        iv: f0fcc7d26c30c253b4b9b267
+      hash:
+        md5: 1188b6d814111d0c454200de590bb97d
+  published: 2009-04-24 10:46:00
+  content: |-
+    我在netbean里面以CLS.class和CLS.dll作为库添加进去，但是编译过不了。
+    然后在SRC或者class文件夹里面添加此两文件，编译还是过不了。
+  ip:
+    encrypted: OGJhYThjYTk2NTQwYmIyYzk0YzI2MzIx
+    algorithm: aes-256-gcm
+    iv: 1eb1ef58a5bd4264a9c85730
+- type: reply
+  channel: native
+  id: "628"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MmYxYTYyZjIxNzNiYmE1OGZhYzkzZg==
+        algorithm: aes-256-gcm
+        iv: 6e5006686f1577947f868ffd
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-24 10:57:00
+  content: 写个测试类自己编译下看看，应该没有问题。至于 netbean ，我也不熟。
+  ip:
+    encrypted: OTFhY2I5YTA2MmRiNTY4YzQ1YjhkNzkwZDYxZDEx
+    algorithm: aes-256-gcm
+    iv: 1064dc6bb21f95229f6c44bf
+  target: 627
+- type: reply
+  channel: native
+  id: "629"
+  author:
+    name: caiweiqun
+    email:
+      value:
+        encrypted: N2Q1Mzk5ZWVlYWVlMzI0YTFlMGIxOTExNjhhNjJmOWY=
+        algorithm: aes-256-gcm
+        iv: 2a2f64b10e51a82e620860e8
+      hash:
+        md5: d028a2c92620f469ed47645be7301e64
+  published: 2009-11-11 13:00:00
+  content: CLS.class 这个能不能看看源代码啊 我十分感谢啊？
+  ip:
+    encrypted: MTcyNjE4YmE1NTRmZTk2MTMzYTAxZTA1NzY=
+    algorithm: aes-256-gcm
+    iv: ec243535b5a59adfa4e4953e
+- type: reply
+  channel: native
+  id: "630"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MTZkNzE1MDY1Mjk0OGM3MTdkM2E5MQ==
+        algorithm: aes-256-gcm
+        iv: a4c3c29151117e38510351f2
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-11-11 17:40:00
+  content: 这个，文中就有的啊
+  ip:
+    encrypted: NjllNDIxZTBkYWM2Njk2MzRkNjI5MzM2YjEyNw==
+    algorithm: aes-256-gcm
+    iv: 23d097b8ebc972bdc1829b5a
+  target: 629
+- type: reply
+  channel: native
+  id: "631"
+  author:
+    name: felix
+    email:
+      value:
+        encrypted: YzgwNGYxZGYxNTgwNzI1ZGZhNzhiMGZmMThhNGEyODMyNzc0
+        algorithm: aes-256-gcm
+        iv: 0b5c53326c122a72fb484ebf
+      hash:
+        md5: 3fe058692934b90b74f59784a5d001ba
+  published: 2010-06-14 15:38:00
+  content: |-
+    这个应该对你有帮助
+    http://blog.csdn.net/Jinuxwu/archive/2010/06/12/5666202.aspx
+  ip:
+    encrypted: YzJmY2U5NDA3MDViZDUxMzQ2OGJlMDMw
+    algorithm: aes-256-gcm
+    iv: ac08f915c528a46297b8eb8e

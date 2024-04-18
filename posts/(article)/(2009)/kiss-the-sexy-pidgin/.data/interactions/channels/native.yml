@@ -1,0 +1,303 @@
+- type: reply
+  channel: native
+  id: "486"
+  author:
+    name: Tina
+    url: http://tinasay.com
+    email:
+      value:
+        encrypted: OWQ0NWE0OWY2ZDQzODhhMGE1YTI4ZmQxYTljNGNkNzkxMzE4MWFhODE2
+        algorithm: aes-256-gcm
+        iv: 850aaaae0592a72550d2d32d
+      hash:
+        md5: 7dd54cb0be144d62404afdf2ac02da8c
+  published: 2009-03-02 20:35:00
+  content: |-
+    靠 你果真出后续版本了...我我我还没安装...
+    你是现在主要系统就用它了么？
+
+    弱弱的问。我装在C盘的话 我别的盘的内容是不是随时用哪个系统都可以访问的？
+  ip:
+    encrypted: MDBhYzg2NDkyNThmNjU1ODU2N2VhNjgwZDIwNDE0
+    algorithm: aes-256-gcm
+    iv: f64fe0c75147527e007f4c6e
+- type: reply
+  channel: native
+  id: "487"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: N2UwNWI0YWVmOGQ5YzEyOGFjNTc5NA==
+        algorithm: aes-256-gcm
+        iv: 7d687904306b46341e450c71
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-02 21:29:00
+  content: 我现在用 Windows 来作测试，玩网游，语聊。其他都在 U 里干了。至于能不能访问呢，我还真没有实验过在Windows下访问 Wubi
+    安装的文件，用的少。一会我开虚拟机看看。正常安装的 U ，在 Windows 中可以用小软件就能访问，U 也很好的支持 NTFS 。不过，最好不要装在
+    C盘。
+  ip:
+    encrypted: MzBhYmEwZDM1MjZiMjQzM2IxMWRhNjI4MmI=
+    algorithm: aes-256-gcm
+    iv: 157899ca28667ecbda13e8d4
+  target: 486
+- type: reply
+  channel: native
+  id: "488"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MmM2ODFlYTIzNjlhMDQ0MzE3NDEwZg==
+        algorithm: aes-256-gcm
+        iv: e483455c74a14a8ad866f87e
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-02 22:11:00
+  content: 呃，实际上 Wubi 安装的 Ubuntu 是安装在文件里的，而不是独立的分区。所以不能随时访问。你可以把文件都存放在 Win
+    中的文件夹内，这样两不耽误，而对于 Ubuntu，如果你想改为正常安装的时候，只要备份配置文件和软件列表就成了。
+  ip:
+    encrypted: M2M0OGM4Njk0ZTk1NGQ0N2ZhNWQ0YjAzZjc=
+    algorithm: aes-256-gcm
+    iv: d1d2da7dfd18b8edefabadab
+  target: 486
+- type: reply
+  channel: native
+  id: "489"
+  author:
+    name: lala
+    url: http://www.zenyang.net.cn
+    email:
+      value:
+        encrypted: ODBmYmNkMmY1YmI5ZmI1YmQ4ZTAxMmU1YmViYzI5ZjMxZGNkMTY=
+        algorithm: aes-256-gcm
+        iv: 960f081490ac00801392f01e
+      hash:
+        md5: 941e314fecb475d3ebb919da69ef07dc
+  published: 2009-03-03 21:29:00
+  content: 可惜他是不支持qq的
+  ip:
+    encrypted: ZWQ5NGQ1M2E2ODUwMzFkY2NjZjhkMDVj
+    algorithm: aes-256-gcm
+    iv: a8da1aab6c6d1b7d5a4952c5
+- type: reply
+  channel: native
+  id: "490"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: Nzk3MDU1ZTg3YTI4Mzk0NTI1MjE2MA==
+        algorithm: aes-256-gcm
+        iv: 6a9170089a6c57db8e43a100
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-03 23:57:00
+  content: 支持QQ的呀。
+  ip:
+    encrypted: NDU0ZGFiNWIxZjhiMjllY2ZiZDVhMDJlOGY=
+    algorithm: aes-256-gcm
+    iv: f435809caa2d75372efa50fc
+  target: 489
+- type: reply
+  channel: native
+  id: "491"
+  author:
+    name: an9
+    url: http://an9.name
+    email:
+      value:
+        encrypted: ZTYzMzdlMWY3OThlNjRmODk0MWYxMWVl
+        algorithm: aes-256-gcm
+        iv: 11ad2c8230b1cb69fa0a01d5
+      hash:
+        md5: eccb79a399779ec63aae6c60238938f1
+  published: 2009-03-05 12:05:00
+  content: 路过.
+  ip:
+    encrypted: Y2UyYWIxMTg0MDM2YTcyZDA3ZTQyOWQ2ZWU=
+    algorithm: aes-256-gcm
+    iv: 83fa5417195eb04bfba5c397
+- type: reply
+  channel: native
+  id: "492"
+  author:
+    name: hoorace
+    url: http://www.longtask.com
+    email:
+      value:
+        encrypted: YWU5ZjdlNWYxY2JmNTBhMTJiNDUyMzk2YWIwMzgxNjdjZmE5
+        algorithm: aes-256-gcm
+        iv: a47f341282927d290766bc04
+      hash:
+        md5: a7facf0f0dc230de262b12616658c987
+  published: 2009-03-05 19:55:00
+  content: N久没有上linux了，这个功能还是大学的时候用的比较多而已。
+  ip:
+    encrypted: MWNjMTc5NjQwZGRiYjNlY2QzYjY4NGFi
+    algorithm: aes-256-gcm
+    iv: 14d55da578290463ed50ecf2
+- type: reply
+  channel: native
+  id: "493"
+  author:
+    name: NetPuter
+    url: http://orzdream.cn/
+    email:
+      value:
+        encrypted: YTBmNzhkYmZiNmMyYjQ3YTkzOGRiMTE2MjM2Mzk0MzBkZWMxNDRlYjhlZjJjZA==
+        algorithm: aes-256-gcm
+        iv: b704e3dce5837b101c8148ec
+      hash:
+        md5: ecdc14816bcdf17ffaab3f5aa51e6218
+  published: 2009-03-06 11:59:00
+  content: |-
+    这首页真是找抽，找个地方坐下~
+    之前玩 Pidgin 玩得不爽，看大家介绍那么多了，我再玩下吧。
+  ip:
+    encrypted: OWQyMDA1YjI5ZDAyYTFjMzE4NDUxNzVh
+    algorithm: aes-256-gcm
+    iv: 23a279777635f67bd1bd2bb8
+- type: reply
+  channel: native
+  id: "494"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: ZWRhMzhlODRmOWU2N2YxNTA5YWE2Njc5ZTRmZWM5OWE3ZDlk
+        algorithm: aes-256-gcm
+        iv: 8f70e96e07e236f630183375
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-03-06 17:31:00
+  content: 心痒痒想去被 Ubuntu 折腾一下 XDD
+  ip:
+    encrypted: MjI5YzUzYjlmMTAzMDcwZjllN2YzMDc5
+    algorithm: aes-256-gcm
+    iv: 98944a069317e93e0968227c
+- type: reply
+  channel: native
+  id: "495"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MzU2YTI3Y2Y0NjVmZWQ2OTNiODQ5NQ==
+        algorithm: aes-256-gcm
+        iv: c5c76708a61b155f76142879
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-06 20:14:00
+  content: 更抽的是，我刚改完首页，博客就被关闭了。
+  ip:
+    encrypted: ZTYwYTY0YjJjMjJiYzIyZjg1ODBjZQ==
+    algorithm: aes-256-gcm
+    iv: 7f6839856341b33aa9543f17
+  target: 493
+- type: reply
+  channel: native
+  id: "496"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZTMzZmFhMTU2ZTQ3YjhlZDExZDVhNg==
+        algorithm: aes-256-gcm
+        iv: 3b0378252c6e56f2c4d9ea83
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-06 20:15:00
+  content: 有得折腾了。4月23号 Ubuntu 9.04 发布。
+  ip:
+    encrypted: ZGI1ZGFiOTJiMDEwNzU3MTI4ODg4ZA==
+    algorithm: aes-256-gcm
+    iv: 5fd9e53226dd2295e8e24e93
+  target: 494
+- type: mention
+  channel: native
+  id: "497"
+  published: 2009-03-07 22:07:00
+  url: https://dallas.lu/be-a-twitter-on-pidgin/
+  content: "[...] Pidgin [...]"
+  author:
+    name: Pidgin 上玩 Twitter&#160;-&#160;Dallas Lu
+- type: reply
+  channel: native
+  id: "498"
+  author:
+    name: rojoro
+    url: http://www.rojoro.com
+    email:
+      value:
+        encrypted: OWRjNTcwYmZkZWYzNDA3ZGE1ZGQ0OGU5MTQ4MjM1NmJjNA==
+        algorithm: aes-256-gcm
+        iv: 07fe9bf5e512f0341bce1220
+      hash:
+        md5: c8010f31f4672a1f4ad1264467ebee08
+  published: 2009-05-19 00:29:00
+  content: 靠~~~我也在ubuntu上用这玩意~~
+  ip:
+    encrypted: NjQxZTFlMGQ0YmJkNTBlMDI3NWFjYWJiMDMyMWY1
+    algorithm: aes-256-gcm
+    iv: 0e5bbabb975a957c2dfb992f
+- type: mention
+  channel: native
+  id: "1775"
+  published: 2012-03-10 12:07:00
+  url: https://dallas.lu/im-account-all-in-one/
+  content: "[...] Pidgin 来统一登录管理各种 IM ，甚至 [...]"
+  author:
+    name: 统一牌 IM 账号 - Dallas Lu
+- type: reply
+  channel: native
+  id: "2298"
+  author:
+    name: Neysa
+    url: http://nichen.info/cn/blog
+    email:
+      value:
+        encrypted: MTBhZmIzZGQ2M2JiMGY1YTJmNjEyZDVlNDhmZDg2
+        algorithm: aes-256-gcm
+        iv: aa5cb1ade600c72f0c58f5d2
+      hash:
+        md5: 26e50e9b8ef383e8ab8414848834cb3d
+  published: 2013-04-16 10:42:00
+  content: 非常喜欢不同账号合并联系人功能。 现在QQ2010用不了了，请问有最新版的windows用的插件吗？
+  ip:
+    encrypted: M2VlM2UwZGQ4ZTVjN2Q3M2IxNWFkMTAwMzc3Nw==
+    algorithm: aes-256-gcm
+    iv: 753ea13e8427797862b5895d
+- type: reply
+  channel: native
+  id: "2299"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NWM0ZTcyOGVlZTAwMjQ2MDlmNTE2Mw==
+        algorithm: aes-256-gcm
+        iv: 9166924dc00fb805d12e0683
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2013-04-17 10:30:00
+  content: 没有，我也已经很久没关注了
+  ip:
+    encrypted: NTMzYjI2ZTc1ZWEwYjk3NTQ3NDhkYmRhNTI0MDU3
+    algorithm: aes-256-gcm
+    iv: a0d093385ae98a76ed8ef2f2
+  target: 2298

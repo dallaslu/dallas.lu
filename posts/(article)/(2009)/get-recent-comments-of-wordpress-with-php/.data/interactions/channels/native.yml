@@ -1,0 +1,255 @@
+- type: reply
+  channel: native
+  id: "348"
+  author:
+    name: Shawn
+    email:
+      value:
+        encrypted: OThhZTJkMzkzZmI0NzEwNzAyZWIzODU0NDY0MzAxZDRmMg==
+        algorithm: aes-256-gcm
+        iv: 4dd0709e9024ed7a0f2322d6
+      hash:
+        md5: d71862a81f0165cd7faf178d6198f3be
+  published: 2009-01-03 03:00:00
+  content: 其实不用这么麻烦的，桑椹的中文工具箱有完整的解决方案，因为源自桑椹的 my-hacks.php，所以你可以将它们粘贴到主题的
+    functions.php 当中。有很多参数可选，包括截断。
+  ip:
+    encrypted: ZTI5OGIzNzI4MmM4OWNlMjhmY2I2MjFkYjc2ZQ==
+    algorithm: aes-256-gcm
+    iv: cc06502014fbf9e2bf24e96f
+- type: reply
+  channel: native
+  id: "349"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: MDZjNjkyN2YyY2FiMmRlNzNjNTVlZmVmMzJhOGEyOThmZTUw
+        algorithm: aes-256-gcm
+        iv: 8997e1abebc9a5e6e3cfcdba
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-01-03 15:09:00
+  content: |-
+    这个...我是用 mg12 写的 wp-recent-comments 插件完成的，比较方便，呵呵。
+    不过你的方法也不错，让我学到一些技巧，谢谢！
+  ip:
+    encrypted: ZDljMTMwMDEzNzlhZTY0YWU5ZWU2ZjNlOGU=
+    algorithm: aes-256-gcm
+    iv: a8d83c129fe62048e4581131
+- type: reply
+  channel: native
+  id: "350"
+  author:
+    name: NetPuter
+    url: http://orzdream.cn/
+    email:
+      value:
+        encrypted: ZmQ0ODg3NDQ0N2YxMzRjYjUzMTk1OWYyYTA4MzA2MWFlYjYwMTE0NjIzYTE1Yg==
+        algorithm: aes-256-gcm
+        iv: b35e1167cf0728eb75daec7c
+      hash:
+        md5: ecdc14816bcdf17ffaab3f5aa51e6218
+  published: 2009-01-04 18:45:00
+  content: |-
+    折腾的过程是最快乐的,这样折腾而不要拿来注意可以学到更多东西.
+    其次,建议你把它放在主题的 functions.php 中,方便调用哟~
+  ip:
+    encrypted: MzYxNjgyYTk3Y2UzNzc2OWZlMGUwYWVhZTA=
+    algorithm: aes-256-gcm
+    iv: 5347b8dd2eef23cd36fe506f
+- type: reply
+  channel: native
+  id: "351"
+  author:
+    name: NetPuter
+    url: http://orzdream.cn/
+    email:
+      value:
+        encrypted: YTkzMzM2N2ZmZWE5MzI2ZTQ4M2Y4YzU3Yzk0Y2UyNjBmZjk4Yjg2MzEzOGY2ZQ==
+        algorithm: aes-256-gcm
+        iv: b5088cb266c5ce6409a92a9e
+      hash:
+        md5: ecdc14816bcdf17ffaab3f5aa51e6218
+  published: 2009-01-04 18:48:00
+  content: |-
+    你这的评论框不记 Cookies 诶,不爽.
+    最后一个,最新评论中不显示注册用户评论,有的Blog可能会有不是管理员的注册用户嘛,这样就不友好了,建议是:
+    过滤的条件为,评论者的名字=管理员的名字.
+    这个管理员的名字可以用PHP获得,也可以自己设置的.
+  ip:
+    encrypted: MGY1OGQ4NGNiNjc5NDEwMDgyNTQ0YzBkZWY=
+    algorithm: aes-256-gcm
+    iv: 8ec98a2277d7e9efc2c4c46e
+- type: reply
+  channel: native
+  id: "352"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: Y2QwNzFjMWJjNGNmNDZjNWJjMGE0Yw==
+        algorithm: aes-256-gcm
+        iv: c780405f47cf367fe1b808f6
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-01-04 19:23:00
+  content: 是么，之前也出现过不记 Cookie 的问题，后来好了啊。想过过滤条件，最好是不显示文章作者的评论哈哈，不过我SQL很烂
+  ip:
+    encrypted: ZDliZTM1NWNlODMzMWNiNWZjMjFlNTA5MjY3YQ==
+    algorithm: aes-256-gcm
+    iv: d14f1c6189d972b26bb17fe8
+  target: 351
+- type: reply
+  channel: native
+  id: "353"
+  author:
+    name: NetPuter
+    url: http://orzdream.cn/
+    email:
+      value:
+        encrypted: NzZiMGUwN2FmNjE2MGRiYWU3MTc5Yjc2MDRjMDg4MDI0ZjM0N2FmMTA4ODE2Ng==
+        algorithm: aes-256-gcm
+        iv: a1f802f95a8534696347f032
+      hash:
+        md5: ecdc14816bcdf17ffaab3f5aa51e6218
+  published: 2009-01-05 13:41:00
+  content: >-
+    我也不是很会PHP,但参考了一下其他代码,你可以这么写:
+
+
+    $comments = $wpdb-&gt;get_results(”SELECT * FROM $wpdb-&gt;comments WHERE
+    comment_approved = ‘1′ and comment_author != 'NetPuter' ORDER BY
+    comment_date_gmt DESC LIMIT $number”);
+
+
+    把原来的 uesr_id = ‘0′ 改成了 comment_author != 'NetPuter'
+
+    NetPuter就是管理员的名字~
+
+
+    and 我米测试过,大概就是这么实现的,用不到SQL的说~
+  ip:
+    encrypted: ZDM4NGMxNGIxYjE5MzdhZWI0YjQ2ZmM5OGU=
+    algorithm: aes-256-gcm
+    iv: 8a2752e44d782d5f9c84462f
+- type: reply
+  channel: native
+  id: "354"
+  author:
+    name: NetPuter
+    url: http://orzdream.cn/
+    email:
+      value:
+        encrypted: ZThjYTliMjJkZWVmMzc3NmZlYzk5NjQ3NTE2NDY5MDk3YTQzZDc3ZmZiNTIyOQ==
+        algorithm: aes-256-gcm
+        iv: 472fc260821ff5361705b75d
+      hash:
+        md5: ecdc14816bcdf17ffaab3f5aa51e6218
+  published: 2009-01-05 13:43:00
+  content: PS,参考的是 中文 WordPress 工具箱(http://yanfeng.org/blog/wordpress/kit)
+  ip:
+    encrypted: MTRlZTNhNzg3NmVjYzZiN2I5NDVhNzRhMDQ=
+    algorithm: aes-256-gcm
+    iv: a848b2fb6c1788a04746fbed
+- type: reply
+  channel: native
+  id: "355"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OTRjZDY5NDYwMGZhYjExMWZlMTgwOA==
+        algorithm: aes-256-gcm
+        iv: c32f5cced5ab199946bcea1e
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-01-06 18:28:00
+  content: get_results后面括号里面的一坨代码就是 SQL 语句咯，我觉得来个嵌套查询，不过当年 SQL 是混过去的，过两天补习一下哈
+  ip:
+    encrypted: Yzg1MGU4Y2EwNWZkZTJkOTAzNDVjOA==
+    algorithm: aes-256-gcm
+    iv: 8703219b17788c302bc7d4fd
+  target: 353
+- type: reply
+  channel: native
+  id: "356"
+  author:
+    name: ChabrellIgaN
+    url: http://kruto.com/
+    email:
+      value:
+        encrypted: ZDAwODFmZjBjZTQ4YjliMjcxMGZmZTRkMDdiZTE5ODEyNmUxM2YxZDhmNzBmODgx
+        algorithm: aes-256-gcm
+        iv: 58591a9304db05b24d4cb9b0
+      hash:
+        md5: 44aea50d0b5a0f199f11656ca84b5945
+  published: 2009-04-01 19:00:00
+  content: Zdraste! Vot takoi vot u vas horoshiy sait. Spasibki.
+  ip:
+    encrypted: YjU5MTQ1ZjY4NDVlM2VmNWM0MDM=
+    algorithm: aes-256-gcm
+    iv: 759262cd098672db42267030
+- type: reply
+  channel: native
+  id: "357"
+  author:
+    name: 蓝秋枫
+    url: http://qq8.cn
+    email:
+      value:
+        encrypted: N2FjYTdkM2Q1MzY2OTMwMzA0NzgyYzI3NDc1OGJhMmY5OA==
+        algorithm: aes-256-gcm
+        iv: 676d25efbe6798638a8b483c
+      hash:
+        md5: 26ac1df2b4e4ebe0edc845337c6376b3
+  published: 2009-11-10 14:08:00
+  content: hi,如果我想获得指定文章或者页面的最新评论，不知道怎样做呢？
+  ip:
+    encrypted: MDFlMmJkMTMzYzhmNzAzYzEyMjc5NTZhNTc=
+    algorithm: aes-256-gcm
+    iv: cf8d552277cf6fb01c7a8f08
+- type: reply
+  channel: native
+  id: "358"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: N2U3YTZjYTZmMWI1MzYyM2FhYjQwNw==
+        algorithm: aes-256-gcm
+        iv: a6f3de39b01f29e02a2ab3c8
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-11-12 07:47:00
+  content: 再加个条件，and post_id='123'，应该差不多
+  ip:
+    encrypted: YzgyNDY0ZTEzODExMWM3ZWUyN2YxZTA4YzdjNQ==
+    algorithm: aes-256-gcm
+    iv: 901ae12878de60e881bc05f0
+  target: 357
+- type: reply
+  channel: native
+  id: "359"
+  author:
+    name: 小虫
+    email:
+      value:
+        encrypted: MWZjMWZlYWVkN2FjMTZkODNlM2M=
+        algorithm: aes-256-gcm
+        iv: db087ea20207eda4b9c00969
+      hash:
+        md5: 4ae8bfd9451dbd3f848b016ee4e300a7
+  published: 2009-11-23 13:23:00
+  content: 是么，之前也出现过不记 Cookie 的问题，后来好了啊。想过过滤条件，最好是不显示文章作者的评论哈哈，不过我SQL很烂
+  ip:
+    encrypted: NGE2Yzk1MTY0YjdhNDc3YjRhNDFkYTIwNmFkZQ==
+    algorithm: aes-256-gcm
+    iv: 78a9cb9ebdd792ddb7f7703c

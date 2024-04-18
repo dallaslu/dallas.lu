@@ -1,0 +1,299 @@
+- type: reply
+  channel: native
+  id: "518"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: YWRjMGUzN2IxNjFkODMyMTZmZjZjYjkyNTk1ODg1
+        algorithm: aes-256-gcm
+        iv: a89ff7af0a9b85152294ef44
+      hash:
+        md5: 4b87562eea023ea062e9b45adca99002
+  published: 2009-03-07 23:07:00
+  content: |-
+    看你一个人在那测试得很欢快呀~XD
+    Pidgin曾经可是把我给整怕了，有次没弄好，害我把QQ好友删了一半~
+  ip:
+    encrypted: NGZkNjUwZDYxZjE4YzE1ZTI1ODdlNTZlYTg0OTNl
+    algorithm: aes-256-gcm
+    iv: ad7e549ce3d1d388d6d7dadb
+- type: reply
+  channel: native
+  id: "519"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MzJkYjE5ODRmMDE1YzQyNzM5YWM5ZA==
+        algorithm: aes-256-gcm
+        iv: 3c7db3776af8cce0e121873e
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-08 00:30:00
+  content: 呵呵，以前的版本有过不少 bug ，尤其是QQ协议。最新版貌似用的是 OpenQ。
+  ip:
+    encrypted: YWMyZGY4YWRlNzQxMGVmYTEyNjA4YWVlMjhlZDIy
+    algorithm: aes-256-gcm
+    iv: 5188e13bb65d1976276a0448
+  target: 518
+- type: reply
+  channel: native
+  id: "520"
+  author:
+    name: 会律博客
+    url: http://www.huilvsay.com
+    email:
+      value:
+        encrypted: NzllYzk3MWYwMDk3NTg1OTY3YTgwODVkY2Q5NDJjZWYxMmQw
+        algorithm: aes-256-gcm
+        iv: 30faf1b211b2e2f92996f1b1
+      hash:
+        md5: 3e5357f89afc7158faa3230e5ea57e51
+  published: 2009-03-08 18:01:00
+  content: 这个样子好像是有点远，ubuntu都还没装呢！
+  ip:
+    encrypted: ODFlYmE0N2NlOTNiZjVkNzMyYzljNzg4Y2M=
+    algorithm: aes-256-gcm
+    iv: 86088ca275930e3d0ce96b3c
+- type: reply
+  channel: native
+  id: "521"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: YTIyNjZjN2U3ODQyN2NlODEyOWUxYQ==
+        algorithm: aes-256-gcm
+        iv: 5bb6d45a93a76619fed43012
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-08 18:38:00
+  content: Pidgin 是跨平台的。Windows 一样可以用。http://pidgin.im/download/windows/
+  ip:
+    encrypted: ZDJlZGVjY2M2YWFmMGJkNzUyZTU4YWNjMTQ4NjZh
+    algorithm: aes-256-gcm
+    iv: c55a583478f1f354b4485e77
+  target: 520
+- type: reply
+  channel: native
+  id: "522"
+  author:
+    name: Leeiio
+    url: http://leeiio.me
+    email:
+      value:
+        encrypted: Y2MyNzRhMWI3ZWFlMjcxNGM1NzBkYmExMGM5NTI3MTY=
+        algorithm: aes-256-gcm
+        iv: 5a9c4f568e6fcfde6b7723c0
+      hash:
+        md5: ffa60157af668384f5325116efd02385
+  published: 2009-03-09 13:05:00
+  content: 哈，在公司是用pidgin的，用上了。
+  ip:
+    encrypted: ZDI4ZmQ3MWVhNTFmMzg4YzdhMWU5ZmEx
+    algorithm: aes-256-gcm
+    iv: f07a86caf24e640dd1135138
+- type: reply
+  channel: native
+  id: "523"
+  author:
+    name: BoBoSkY
+    url: http://www.ibobosky.com
+    email:
+      value:
+        encrypted: ZjAyZTBjNmI5OTI4NzdlOGUwOGZhMzdjNzc=
+        algorithm: aes-256-gcm
+        iv: 017ea3dd35345abafa314194
+      hash:
+        md5: b86fbdb4028d523bfbea5412f1dde83d
+  published: 2009-03-09 15:48:00
+  content: 我的为什么没有后面的※和RT，还有用户名也不可点啊。
+  ip:
+    encrypted: OTBhMzM5MDM5NmQzNzA4MDcyYWRmYWIwMjY1Mg==
+    algorithm: aes-256-gcm
+    iv: 8dfbe153132ba7949777bdd6
+- type: reply
+  channel: native
+  id: "524"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZjUyYmNjNWM4ZmU2MmRmMjg4OWJjZA==
+        algorithm: aes-256-gcm
+        iv: 4bfcead208d4bd34e5dd6b86
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-09 17:45:00
+  content: 答案是，你没有启用 Twitgin 插件~启用后看下这个插件的配置，启用回复链接。
+  ip:
+    encrypted: YTQ3ODRkYzM4YTFhYmI2OTNmNDZkOWE2NGRiODky
+    algorithm: aes-256-gcm
+    iv: cb24f3e4a3aba5c02674f556
+  target: 523
+- type: reply
+  channel: native
+  id: "525"
+  author:
+    name: 绿子
+    email:
+      value:
+        encrypted: NTk3NTM3Yzc4YjAwYzhiZmIzYjk4ODNjN2VkNmQ3YzY=
+        algorithm: aes-256-gcm
+        iv: b6dd3b0e19b02bc1d392889e
+      hash:
+        md5: 01f1110e5747015bacf22c189399025a
+  published: 2009-03-10 16:35:00
+  content: twitter上的机器人不如饭否 http://www.fanfou.com 上的稳定，有空可以去测试下，个人感觉。
+    btw：最近饭否动作挺大，不知道是不是有什么风声了
+  ip:
+    encrypted: MDdlNGY5MzhlMTRjZWU1YjUzOTRjMjQzZmVhZDMw
+    algorithm: aes-256-gcm
+    iv: f5a874623fb57eb6750cfd7a
+- type: reply
+  channel: native
+  id: "526"
+  author:
+    name: Eric
+    url: http://www.redbots.cn
+    email:
+      value:
+        encrypted: YjI3MTkwZWU1YmYzYzYwZGViNzViNWVkYjlmYmUwMzQ5YjEw
+        algorithm: aes-256-gcm
+        iv: 056c07c033edc78ac6583cf0
+      hash:
+        md5: f654fd4e22c7e1ae23dbe4643d83bbce
+  published: 2009-03-10 23:48:00
+  content: 上来凑个热闹，呵呵
+  ip:
+    encrypted: ZWE1NDlmZDNhZGY5NjI2Y2I0OTk1ZjM2
+    algorithm: aes-256-gcm
+    iv: ec6f8d3157c85c470a22cd28
+- type: reply
+  channel: native
+  id: "527"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NGYwZmJkOTY3YmU3ZmViNDYxMTk0NA==
+        algorithm: aes-256-gcm
+        iv: 9f9b0bc57d976cfb7262a16f
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-11 00:22:00
+  content: 饭否机器人是通过添加好友绑定QQ实现滴，而这个插件是利用 Twitter 的API 实现。
+  ip:
+    encrypted: YjQ2NWE0MjJhZjIwNGYzODdjNjdjZGRiOGU2ZjU0
+    algorithm: aes-256-gcm
+    iv: d90c6f938285d9664a55a67b
+  target: 525
+- type: reply
+  channel: native
+  id: "528"
+  author:
+    name: rojoro
+    url: http://www.rojoro.com
+    email:
+      value:
+        encrypted: OGQ5YjQyYjc4MGQxNTZiOTMzNGE4NDcwOTFjMzVhODU0NA==
+        algorithm: aes-256-gcm
+        iv: a38e6ee6142ea81df6348081
+      hash:
+        md5: c8010f31f4672a1f4ad1264467ebee08
+  published: 2009-06-12 13:16:00
+  content: 我在windows装了，效果跟上图不一样。不能点名字回复，不能rt...
+  ip:
+    encrypted: NTI3ZDY3NTc5OTYwZmU4YzIzYTkyYzI2NjU3ZA==
+    algorithm: aes-256-gcm
+    iv: 96916c47085c1292518280bc
+- type: reply
+  channel: native
+  id: "529"
+  author:
+    name: rojoro
+    url: http://www.rojoro.com
+    email:
+      value:
+        encrypted: OGI0NjhhZTM2NDAzNzhlOGU2OWY1OGJkZmNhYTU0ZTc5NQ==
+        algorithm: aes-256-gcm
+        iv: dd28737e6c04f3ebff0b4af7
+      hash:
+        md5: c8010f31f4672a1f4ad1264467ebee08
+  published: 2009-06-12 13:37:00
+  content: .....有了，关了再开就有了。不错的插件。
+  ip:
+    encrypted: N2QyYmY3NjIwYzkwNzFmMjg5MjFkZWM3YTk2YQ==
+    algorithm: aes-256-gcm
+    iv: 6557772897514890e1e45738
+- type: reply
+  channel: native
+  id: "1604"
+  author:
+    name: OpenBilly
+    url: http://www.open2l.com
+    email:
+      value:
+        encrypted: YzNiOTRmOGYyZWRkYzZjMGY2ZGJjY2Y4OTJiYjhiMGRiYzU0MWE=
+        algorithm: aes-256-gcm
+        iv: 0ac6ec52a40f1f939bbaec10
+      hash:
+        md5: 0be1243ea4d2a3e30db397c2111d6c8f
+  published: 2011-08-30 01:19:00
+  content: 我的也没有。。。
+  ip:
+    encrypted: MmQxNzg3ZjZlYjk3MGU1Y2NiMDAwNWJmMmVjMw==
+    algorithm: aes-256-gcm
+    iv: a000eb62f80599d583fbd07b
+  target: 528
+- type: reply
+  channel: native
+  id: "1605"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: MjMzODgyMTE5ZDNmMjlmZGY4ZWI3Zg==
+        algorithm: aes-256-gcm
+        iv: 446d4fc9c0cd6e622b2427e5
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-08-30 21:56:00
+  content: 看下条评论：…有了，关了再开就有了。不错的插件。
+  ip:
+    encrypted: NGFmYTRhOThmOGQ0Y2ZiNTZmNjQ3NQ==
+    algorithm: aes-256-gcm
+    iv: 07dbc990c27ab88ddb10f4f8
+  target: 1604
+- type: reply
+  channel: native
+  id: "1606"
+  author:
+    name: OpenBilly
+    url: http://www.open2l.com
+    email:
+      value:
+        encrypted: NDI3YTg3MmU0YzY1ZTc5MGNiMmE1NTM5MTk1NTM5MDY3MjkzZjU=
+        algorithm: aes-256-gcm
+        iv: 1654de3cf2267c5af8fc8811
+      hash:
+        md5: 0be1243ea4d2a3e30db397c2111d6c8f
+  published: 2011-08-31 01:08:00
+  content: 我一开始就看到，再这样试过，关了再开，结果还是不行，看来是人品呀。
+  ip:
+    encrypted: NmJmZjdmN2RjNmYzNDcxNmZkYThlZWVjNmJmNA==
+    algorithm: aes-256-gcm
+    iv: 2b414934af938171b6316f04
+  target: 1605

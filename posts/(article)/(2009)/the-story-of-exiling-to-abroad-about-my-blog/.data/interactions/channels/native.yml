@@ -1,0 +1,384 @@
+- type: reply
+  channel: native
+  id: "499"
+  author:
+    name: 胡戈戈
+    url: http://hugege.com
+    email:
+      value:
+        encrypted: YzY0M2E2ZTBjMDEyNmM1NjUxYmIxOTU3NDNlNGIyZTY0YWVjNjY=
+        algorithm: aes-256-gcm
+        iv: 8591818d0769bd5e61e11ff0
+      hash:
+        md5: 6ca055fb6c2c719b879f43b3c3cf895d
+  published: 2009-03-06 22:30:00
+  content: 50块的那种是神啊，我很崇拜这种搞合租的主人
+  ip:
+    encrypted: M2E1ZGQxM2MxNjQ2ZDBmMmU0MzFmN2Fh
+    algorithm: aes-256-gcm
+    iv: 085848ab21ac66fba111109c
+- type: reply
+  channel: native
+  id: "500"
+  author:
+    name: xiaorsz
+    url: http://www.xiaorsz.com
+    email:
+      value:
+        encrypted: OGFkNjZkOWExNjAyNzQwZDcxZTE4YzYyNGI0NDQ1MWMxNw==
+        algorithm: aes-256-gcm
+        iv: c3faa53fb820576694596f77
+      hash:
+        md5: c419cb20777cc932e6edbc4aecf3400d
+  published: 2009-03-06 23:15:00
+  content: 我以前也备，然后一直不通过！出国也挺好的！！
+  ip:
+    encrypted: NWIxMWU5ODZmNGJhZDE2NTM2MDAxYzFjYjU1Yw==
+    algorithm: aes-256-gcm
+    iv: 569f1af8d7f229610d86d0cc
+- type: reply
+  channel: native
+  id: "501"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com
+    email:
+      value:
+        encrypted: Yjk5NDc5ZTk2MDg0ODkxYjE5MDUzNGU5Y2MyODI5
+        algorithm: aes-256-gcm
+        iv: 21671099698beb93f1937192
+      hash:
+        md5: 4b87562eea023ea062e9b45adca99002
+  published: 2009-03-07 08:43:00
+  content: |-
+    呵呵 美ICP备 强毁了~^^
+    其实我原来有个域名也尝试备案，一直没有音信。。
+  ip:
+    encrypted: MTZlNDBjNDdhYThmOGVkMWYwODMzODdmODdiOGFi
+    algorithm: aes-256-gcm
+    iv: 75fc9e241d8d223dad60733a
+- type: reply
+  channel: native
+  id: "502"
+  author:
+    name: 会律博客
+    url: http://www.huilvsay.com
+    email:
+      value:
+        encrypted: MDJkNTY4ZTQxNWI1MzdiYzY2NjQwNDc0OWU0NGNiN2FiM2I2
+        algorithm: aes-256-gcm
+        iv: c340ac215e66cbd5a50e9d3b
+      hash:
+        md5: 3e5357f89afc7158faa3230e5ea57e51
+  published: 2009-03-07 12:22:00
+  content: 我一直以为这是一件逼良为娼事件，所以在备案风的第三天，就去做纯血统的米国人了，这样安全，哈哈！
+  ip:
+    encrypted: NjZhODFjMGFkMTI5OGJiN2E0NWRjZjMwYWY=
+    algorithm: aes-256-gcm
+    iv: 74c308ad62a5c3f1f1a360a8
+- type: reply
+  channel: native
+  id: "503"
+  author:
+    name: Leeiio
+    url: http://leeiio.me
+    email:
+      value:
+        encrypted: ODhhNmRmM2Q0YzIzNzcxMjU4OTIyOGE2OTJmYWNlZDQ=
+        algorithm: aes-256-gcm
+        iv: 5eb4dcdad7a9bed49c7baa01
+      hash:
+        md5: ffa60157af668384f5325116efd02385
+  published: 2009-03-07 14:14:00
+  content: |-
+    我也搞了個Bluehost的主機，然後博客是在國內的meyu，話說很強大，就算嚴打人家會幫你搬家到美國鏡像，很靠譜～
+
+    我是來申請友鏈的
+
+    Site Name : Leeiio Chaos Made
+    Site URL : http://leeiio.me/
+    Description : The world is golden. 關注前端，後台，電影，音樂，攝影，設計。我是個興趣廣泛滴人。
+  ip:
+    encrypted: YjA5ZGVmMDI5MDNjMzNkMDhmYjE2NmVlZDBkMg==
+    algorithm: aes-256-gcm
+    iv: fdd2ef535f705a08ee24e9eb
+- type: reply
+  channel: native
+  id: "504"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NDU0ZDI4NWNiNGFmNGQzMjEyZDA2ZQ==
+        algorithm: aes-256-gcm
+        iv: f0fe49140351030169ab46cb
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-07 16:41:00
+  content: 已經加上。有點擔憂啊，大家都跑牆外面了，萬一哪天大門關上了……就廢廢了
+  ip:
+    encrypted: YWQzODM2NGM0NjMyNDEzMGQ0ZWQ0YWNmNzE2ZTEy
+    algorithm: aes-256-gcm
+    iv: 396a31943ce6cb9bcf665ee7
+  target: 503
+- type: reply
+  channel: native
+  id: "505"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MGE4NmI0Zjc2N2YyMTAzMDI2MTM1Mg==
+        algorithm: aes-256-gcm
+        iv: e34813f4c1f60c1c84cd0846
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-07 16:46:00
+  content: 我是在 donews.us 看到的美ICP备。只是模仿而已，我觉得这个可以发扬光大，因备案流亡海外的同学都可以来一个。最好有个统一管理，哈哈
+  ip:
+    encrypted: ZThkYTU1NWUwYTIwNDZjNjdlMzFiMWI1NTk2NDYx
+    algorithm: aes-256-gcm
+    iv: d0ceba42ce4399eaae52d64f
+  target: 501
+- type: reply
+  channel: native
+  id: "506"
+  author:
+    name: ryan
+    url: http://www.akheart.cn
+    email:
+      value:
+        encrypted: NjJlNDRhNjgxNmQwNTQzZjhkZDc1ZWViNTNjMzY2NWJlYTYy
+        algorithm: aes-256-gcm
+        iv: 37fb44642aafbe8f3b35a54b
+      hash:
+        md5: 3a14b37668544a245608af5dc6caec99
+  published: 2009-03-07 19:40:00
+  content: |-
+    在客服的帮助下
+    我顺利备案了
+
+    在客服的帮助下
+
+    我顺利 的找回了我以前的账户名称。。
+  ip:
+    encrypted: OGFlZTMwODQxNGNhMDRkMzQwM2UwYjMwMTE=
+    algorithm: aes-256-gcm
+    iv: 2b0b60ff867aac6ace668ba6
+- type: reply
+  channel: native
+  id: "507"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZjQ0MzU2OTkzMDZjZWYxYWQ2MmEyNg==
+        algorithm: aes-256-gcm
+        iv: 946c30f4c693ebb67993c1de
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-07 20:05:00
+  content: 信产部的客服？！可惜我用我身份证备案的那个是找不回来了。域名现在被指向百度某关键词。
+  ip:
+    encrypted: MjdiMjVkYzA0MTUwMDg3NGY1NmI2YjE0ZWE1ZjNl
+    algorithm: aes-256-gcm
+    iv: fd57ed34966e4b5c141bcf5f
+  target: 506
+- type: reply
+  channel: native
+  id: "508"
+  author:
+    name: muyee
+    url: http://muyee.net
+    email:
+      value:
+        encrypted: MzI4ODgxMDBjZjM2ZTRhOGFkYTM=
+        algorithm: aes-256-gcm
+        iv: de36fdf926987224e44833e7
+      hash:
+        md5: 09fe0e23139c093cdb32752ee9175119
+  published: 2009-03-08 16:25:00
+  content: |-
+    膜拜一下美icp
+    我整一个日ICP备
+  ip:
+    encrypted: ZjgzY2MwMzQ0OWM4OTg0MzYxMzAwNWEyNDdlOQ==
+    algorithm: aes-256-gcm
+    iv: 3f2e0d717693a1c318874754
+- type: reply
+  channel: native
+  id: "509"
+  author:
+    name: 减肥食谱
+    url: http://www.jianfeicn.com.cn
+    email:
+      value:
+        encrypted: OTczMWI2NzI2MzgyMTdjYmZhNWI0Zjc5OTJjNmUwZmM=
+        algorithm: aes-256-gcm
+        iv: f386456ce8b79754baa08a91
+      hash:
+        md5: 0f631e0b61ef0769379f4f84b0e23b78
+  published: 2009-03-09 23:47:00
+  content: 博客，网站09年大迁徙，互联网界一大奇事~~
+  ip:
+    encrypted: MzgzMzU0Njk5YjNlNmQ4MDZhYWRkMWU2YzU3NDJi
+    algorithm: aes-256-gcm
+    iv: d753fb61f5b60799672db91d
+- type: mention
+  channel: native
+  id: "510"
+  published: 2009-03-12 21:40:00
+  url: https://dallas.lu/apocalypse-for-fighting-with-wordpress/
+  content: "[...]
+    今年算是顺了网络移民风。一直站在“伟大的火墙”上四面观望，一不小心阴风袭来，没留神，被刮墙外面去了。3月12号，据说还是“网络自由日”？现在还真是被自\
+    由日了。 [...]"
+  author:
+    name: 折腾启示录&#160;-&#160;Dallas Lu
+- type: reply
+  channel: native
+  id: "511"
+  author:
+    name: 久酷
+    url: http://www.jiucool.com
+    email:
+      value:
+        encrypted: YjcxMzI0Y2E2OGEzOTU3YmM3YWE0ZTJmZjMzYzk3NTA5ZGU5NWU=
+        algorithm: aes-256-gcm
+        iv: 82f2f740243fa2c7391e8d6c
+      hash:
+        md5: 4b69a018b6b2914da4d59a332b074de9
+  published: 2009-03-13 07:05:00
+  content: 记得我当年备案的时候备了七八个月也没有成功，总是没有人审核…… 后来换了一家主机商虽然备案成功了，但在国内始终没有安全感，所以走人。
+  ip:
+    encrypted: ZjJkNTdjMTE3MzZlYmMwNWM4YmI0NGU5ZmU=
+    algorithm: aes-256-gcm
+    iv: 89060ad80d72726e8fcdb349
+- type: reply
+  channel: native
+  id: "512"
+  author:
+    name: 久酷
+    url: http://www.jiucool.com
+    email:
+      value:
+        encrypted: ZDg1NTU0MjM0OWI0MGZkYjM0ZDkxOGVkMzNiYWY2OWIxNzZhNTQ=
+        algorithm: aes-256-gcm
+        iv: e223be81b67a2698f6095f4b
+      hash:
+        md5: 4b69a018b6b2914da4d59a332b074de9
+  published: 2009-03-13 07:07:00
+  content: 我那儿现在是用的梦游的美国主机 250M30G/月 流量  200元一年 感觉还蛮不错的！
+  ip:
+    encrypted: ZDNkYzdmMmM1Njg0ZDFmMTFmOWQwNjZkYzA=
+    algorithm: aes-256-gcm
+    iv: 95e168093d1dfd6cc96a2968
+- type: reply
+  channel: native
+  id: "513"
+  author:
+    name: 久酷
+    url: http://www.jiucool.com
+    email:
+      value:
+        encrypted: Yzc1ZjI5N2U3YTc3ZjZlNzlmODg4YzY0YmY5ZTc3OTVlMzM1Mjc=
+        algorithm: aes-256-gcm
+        iv: 5f6e10b6e103bd33730a1cb7
+      hash:
+        md5: 4b69a018b6b2914da4d59a332b074de9
+  published: 2009-03-13 07:08:00
+  content: 感觉 site5 主机可比那儿hostgator主机速度快多了
+  ip:
+    encrypted: ZTUzMTRiYTc0YzdjMmI4NGIwNmZkMTBmN2Q=
+    algorithm: aes-256-gcm
+    iv: 76f861ca6c5494740675e99b
+- type: reply
+  channel: native
+  id: "514"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: M2IwY2NkNGNjNTJhNjYwMWU2N2FjZQ==
+        algorithm: aes-256-gcm
+        iv: b88dd5e4278f17eddab4dc04
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-13 07:22:00
+  content: |-
+    今天能因为备案关你站，明天就可能另找个理由删你文章拿你数据什么的了。
+    个人博客对空间要求低，图片什么的都托管了。我用的是100元／年，流量8G。我原来的主机，上面的网站多数都被关闭之后，速度竟然好起来了。
+  ip:
+    encrypted: MTBhNTZkNjJlZWZlMzU4MjI1YTZmNmQ4NTVkMzIw
+    algorithm: aes-256-gcm
+    iv: 77bea0e9b7ee114ab934798f
+  target: 513
+- type: reply
+  channel: native
+  id: "515"
+  author:
+    name: 植树
+    url: http://i-ox.cn
+    email:
+      value:
+        encrypted: ODY5MTE1MjRhNDRjNjBjMjE5ZjEwZGIyYTVjNDYwM2RjNg==
+        algorithm: aes-256-gcm
+        iv: 2473efe3a0ae79a319b19914
+      hash:
+        md5: f9ad7b57eb859b5bcbd0adba22925a82
+  published: 2009-04-28 22:27:00
+  content: |-
+    备了！不过好像很容易就通过了！不到一周的时间。
+
+    有搬出的打算，但要等换域名的时候。
+  ip:
+    encrypted: NDFjNGIxOTRhY2NjMzNmYWMyYzRiNGI4YjE=
+    algorithm: aes-256-gcm
+    iv: 639144fcc2d25758c5c2c12e
+- type: reply
+  channel: native
+  id: "516"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NTZmZTYyZTdkOTMxY2M2MDJkM2ZmZg==
+        algorithm: aes-256-gcm
+        iv: b6b5d24c459593450ad5d860
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-28 23:06:00
+  content: 您准备转型了？上段时间 ID 都换了，这次还准备换域名，呵呵
+  ip:
+    encrypted: ZmRjMzYzMzJlNjA2OWMwMGMxZjUxNTliOTdkM2Q4
+    algorithm: aes-256-gcm
+    iv: 564c95572f515f0384844c14
+  target: 515
+- type: reply
+  channel: native
+  id: "517"
+  author:
+    name: 最有效的减肥药
+    url: http://www.lingnayoga.cn
+    email:
+      value:
+        encrypted: NjVhYjQ4YzIyYjBiMmM0MzQzZjgyMmE2YmUxYjI4YTE=
+        algorithm: aes-256-gcm
+        iv: 14b82725a72ea972b62a21af
+      hash:
+        md5: 7392194a03dcff049de7f3b557876ccc
+  published: 2010-09-30 13:51:00
+  content: 好像最近又开始了。。
+  ip:
+    encrypted: Y2ZiYjViZjg1ZWRiNDE3YmI1MWI4NmIzZjcwNQ==
+    algorithm: aes-256-gcm
+    iv: da984bd4f8cc20c29d4a3113

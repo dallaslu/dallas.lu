@@ -1,0 +1,206 @@
+- type: reply
+  channel: native
+  id: "360"
+  author:
+    name: RDEN
+    url: http://i-ox.cn
+    email:
+      value:
+        encrypted: MmVhZWIzZDlhM2YyZjcyMmFiMzAxMTMyNmYxNjkzZjU=
+        algorithm: aes-256-gcm
+        iv: 707c8d7e08778b3d4d89aab7
+      hash:
+        md5: a87df35498f8926cf2116303ad361036
+  published: 2009-01-04 21:08:00
+  content: 寒假的时候也要好好研究一下。。。
+  ip:
+    encrypted: NDQ5NWYwZGNjNmZhMWU2NThlNmRiMjFmMTQ=
+    algorithm: aes-256-gcm
+    iv: 6900204c72dcbadb6afbdf4b
+- type: reply
+  channel: native
+  id: "361"
+  author:
+    name: ryan
+    url: http://www.akheart.cn
+    email:
+      value:
+        encrypted: ZTNhNDhhNGM2MzhkNTExMWUxZTk4MWZiOWQzNWY4ZmJkMzJk
+        algorithm: aes-256-gcm
+        iv: 35a716d71cf38a12b7b7b16e
+      hash:
+        md5: 3a14b37668544a245608af5dc6caec99
+  published: 2009-01-04 23:02:00
+  content: |-
+    嗯呢，我是装过
+    校园网也装了 可就是找不来帮手帮我搞汉字输入法
+    整个一个郁闷
+    不能输入汉字  那多痛苦 连搜索都不能
+    所以没后劲了
+    甚至报废了一个硬盘
+    如果你肯帮忙  我愿意接着尝试ubuntu
+    NIA
+  ip:
+    encrypted: ZDJhYmRlZDBlNWFkMmYyNjA4MzQ0OTA2ZWE=
+    algorithm: aes-256-gcm
+    iv: df27e78efead00a3acd3347e
+- type: reply
+  channel: native
+  id: "362"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MGQxZTQ2NTg0OTE4YmIzMTJmN2QyYw==
+        algorithm: aes-256-gcm
+        iv: 45eeed23ff7a324528478e8f
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-01-04 23:07:00
+  content: 如果你的电脑能连接到互联网的话，系统管理-&gt;语言支持，选择汉语，安装完毕之后就有汉字输入法了。我第一次用的时候也是这个问题，直接用拼音去搜索引擎找到的解决办法，呵呵
+  ip:
+    encrypted: ZjUwZjQ1MTBmNjdhYmMxNGQ3MWNjZGUyYjBkNw==
+    algorithm: aes-256-gcm
+    iv: 0234ab61639a3ad0f525d7eb
+  target: 361
+- type: reply
+  channel: native
+  id: "363"
+  author:
+    name: krisyuan
+    url: http://yuantao.org.cn
+    email:
+      value:
+        encrypted: NTU2NTAwZTMwMGFiODY0Nzg4YjZkM2Q4MmU2NzgwYzgxOWRk
+        algorithm: aes-256-gcm
+        iv: b93c31bf692ed98e72cfe81e
+      hash:
+        md5: 50a29594632cc0ec0f00396da112b06a
+  published: 2009-01-04 23:32:00
+  content: 我装ubuntu是wubi装的，这应该算是傻瓜装法吧，寒假打算自己手动装。不过俺的专业和计算机一点都不搭边，呵呵~学起来还是有难度的
+  ip:
+    encrypted: ZGM4ZmI1NDJmNWZiMDk1MmVmOWFhY2M5Yzg2MzBm
+    algorithm: aes-256-gcm
+    iv: e96d03538bbdce157108736c
+- type: reply
+  channel: native
+  id: "364"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZGU4YmUwNzdjZmE0ZGY4ZDRlMmM5MA==
+        algorithm: aes-256-gcm
+        iv: 4cc58c0e892872b6edfa4020
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-01-04 23:36:00
+  content: 初次接触 Ubuntu 的话，Wubi 是很好的选择。毕竟很多时候还是工作在Windows下的。我已经打算以此作为个人桌面系统了，呵呵
+  ip:
+    encrypted: NzJhNTdjZGRhYTA2MmIxN2FkZGVlYjVhMmU0OQ==
+    algorithm: aes-256-gcm
+    iv: 7a7467604958edda29530e97
+  target: 363
+- type: reply
+  channel: native
+  id: "365"
+  author:
+    name: krisyuan
+    url: http://yuantao.org.cn
+    email:
+      value:
+        encrypted: MTc4MWQ3NDZkZTI3Nzc2NDk0ZmVlMjRhNWIwYjJjODY4YWEy
+        algorithm: aes-256-gcm
+        iv: e015582093cd1892978126b6
+      hash:
+        md5: 50a29594632cc0ec0f00396da112b06a
+  published: 2009-01-05 00:20:00
+  content: 恩，是的，初次接触的话还是wubi安装的好，不过wubi可以安装的版本好像是受限的吧？
+  ip:
+    encrypted: ZGE2NGNhNDk2NDk5Yzc2ZGNlM2I3NDUyMzhkN2Nj
+    algorithm: aes-256-gcm
+    iv: bed0d4be50665b1281111c19
+- type: reply
+  channel: native
+  id: "366"
+  author:
+    name: 减肥食谱
+    url: http://www.jianfeicn.com.cn
+    email:
+      value:
+        encrypted: YmVjNmE5N2UxZDY2OTY4NGJmMzFjY2I5ZGFiZDhjYjA=
+        algorithm: aes-256-gcm
+        iv: bec3acc6ec7f767bbc285444
+      hash:
+        md5: 0f631e0b61ef0769379f4f84b0e23b78
+  published: 2009-01-05 01:28:00
+  content: ubuntn当初只是装了下 想看下界面 不过后来认真的用了会FreeBSD一阵子，觉得系统装好了，只要搞定网络配置，其他问题就不再是问题了～～
+  ip:
+    encrypted: ZGI3MDRhMjljMjA1ZDM0ZTQ3ZjY1ZWU4MGQ3OA==
+    algorithm: aes-256-gcm
+    iv: cc71de9bbaac9995d9304f23
+- type: reply
+  channel: native
+  id: "367"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: OTJkMjVlNmM3OGM3OWJkNzVlNTgxMjc1MmQ3ZTE2ZDQyOTNkMmY1ZjYyZDc=
+        algorithm: aes-256-gcm
+        iv: b6eb77052e9831689f1c3b9c
+      hash:
+        md5: 5b5274fe979864736dc6cf59036eed3c
+  published: 2009-01-06 09:21:00
+  content: |-
+    就觉得Ubuntu是像我们这样爱折腾的人的玩具 呵呵~
+    前一阵子新版刚出来的时候硬是折腾了几个通宵。。
+  ip:
+    encrypted: NDJkNDIzNzE4ZDA0MjI5NGFiZDliNjU0OTAwNzVm
+    algorithm: aes-256-gcm
+    iv: ea95d7a623783eadce3cef3e
+- type: reply
+  channel: native
+  id: "368"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZGYyYzFjOTNlODAzNzhlOWQ5ZWNhOA==
+        algorithm: aes-256-gcm
+        iv: cf76c5cb9b03f4fb17360643
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-01-06 18:29:00
+  content: 也没什么限制，不过要注意一点的是，如果打算正常安装，记得备份 Wubi 里面的用户文件夹
+  ip:
+    encrypted: NWRkMWRmN2Q5ZDA3ZjAwNDM0OWVjNA==
+    algorithm: aes-256-gcm
+    iv: 7194d9fd671fcbd1b41487d3
+  target: 365
+- type: reply
+  channel: native
+  id: "369"
+  author:
+    name: Johnny
+    url: http://www.bokelife.com/
+    email:
+      value:
+        encrypted: NWYyNjEzMzkwOWQ3NjYyOTYwYjMzNDZkOGMzMDM0ZTY3NTcy
+        algorithm: aes-256-gcm
+        iv: 6a24b65852ac4f92ad91e511
+      hash:
+        md5: fab385da3d98ea99d87f3433a00be5cd
+  published: 2009-01-06 18:40:00
+  content: 嗯，该来学学用这个系统了。装在虚拟机里还极少打开来玩玩
+  ip:
+    encrypted: ZTljYWY2Mjg1MDJkOTA2NzQwM2Q1NjFk
+    algorithm: aes-256-gcm
+    iv: 11b0358a4e8cfab766a7d535

@@ -1,0 +1,368 @@
+- type: reply
+  channel: native
+  id: "589"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: ODAyZWI2ZDNhOWU5Njk5OWZmOWQ1NjFiNDQ5MjQ1
+        algorithm: aes-256-gcm
+        iv: f8326455b182eeadd071ea6d
+      hash:
+        md5: 4b87562eea023ea062e9b45adca99002
+  published: 2009-03-30 20:47:00
+  content: |-
+    哈哈 折腾犯～
+    沙发座上～
+  ip:
+    encrypted: ZDQ4YjVmZGE0NDM1YzQ2YzZhYjkxZmRhODYyNDVl
+    algorithm: aes-256-gcm
+    iv: 36b78e8e5c4ce0eba68e3dad
+- type: reply
+  channel: native
+  id: "590"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MTI2NjdiYTExOGE0ZmY2NDJmNTMwMg==
+        algorithm: aes-256-gcm
+        iv: a7e5a5f30f9082c993ba1a7b
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-30 20:55:00
+  content: 下手挺快。你不考虑折腾一下？灰常灰常的爽
+  ip:
+    encrypted: Y2U3N2M5NjdhN2UzZmVlMjg4NDhkOGMx
+    algorithm: aes-256-gcm
+    iv: 871136e0cc73aaa78e681304
+  target: 589
+- type: reply
+  channel: native
+  id: "591"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: ZTEyZDE2ZWFkYWM3ZjljYzQyMDA4MWNmZTA3ZDI3
+        algorithm: aes-256-gcm
+        iv: 2ff2d12a0d890399e29132bf
+      hash:
+        md5: 4b87562eea023ea062e9b45adca99002
+  published: 2009-03-30 20:57:00
+  content: |-
+    汗 你别诱惑我～你诱惑谁都行，千万别诱惑我。。
+    我才从 Win7 搬回 XP 。。
+    你行行好～ 呵呵
+  ip:
+    encrypted: OGMwNzA5ZjI5YTYxN2U1NjU4ZDJmNDU3ZTY5MDg1
+    algorithm: aes-256-gcm
+    iv: d2e72b413aa3eace81722eb5
+- type: reply
+  channel: native
+  id: "592"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: NGM4YTY5NTVkYjFjNmI0YWFjNGI3M2U4NzJkMThkZDE5Yjk1
+        algorithm: aes-256-gcm
+        iv: be88e34429feeeeb149c2d42
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-03-31 15:29:00
+  content: |-
+    我已经过了那个折腾系统的年龄了，怕心脏受不了，哈哈！
+    ...............
+    不过，Ubuntu 貌似不错一下哦？....克制！克制！
+  ip:
+    encrypted: ZjgzNmJlZGRlNzZhY2YyN2E1Y2ZlZjg1
+    algorithm: aes-256-gcm
+    iv: 3c99e6afbc6a47f4b231002d
+- type: reply
+  channel: native
+  id: "593"
+  author:
+    name: 久酷
+    url: http://www.jiucool.com
+    email:
+      value:
+        encrypted: NDhlYzEwNDg3YjI4M2MyYjFlOWQ5MzIwZjJkZmM5MjRkODNjOTE=
+        algorithm: aes-256-gcm
+        iv: aa164e03c7f89083ab3d6b32
+      hash:
+        md5: 4b69a018b6b2914da4d59a332b074de9
+  published: 2009-03-31 16:47:00
+  content: 折腾也是一种乐趣.....不断折腾乐趣无穷.^_^
+  ip:
+    encrypted: NzA5NTk3NGU4NGRlYmFjMmEzOGE0ZTk4ZmU4MA==
+    algorithm: aes-256-gcm
+    iv: f993fed4602e09f43457fac5
+- type: reply
+  channel: native
+  id: "594"
+  author:
+    name: 理肤泉
+    url: http://www.elifuquan.cn
+    email:
+      value:
+        encrypted: Njk0ZWMwODkxYzQ2MzEzODUyMDhjZWVkYWIxYjYzY2I4OGUwZWE=
+        algorithm: aes-256-gcm
+        iv: 7fff1f5ce81505d111a0aea9
+      hash:
+        md5: cd677d8188f051f1ed8cf782684ab772
+  published: 2009-03-31 21:00:00
+  content: 现在刚在番薯窝那下载了Ubuntu主题，蛮好看的~~
+  ip:
+    encrypted: NmI4YTRiM2Y3OWEzY2Y4ZWE5NWNhNjIxYTlhNg==
+    algorithm: aes-256-gcm
+    iv: e2a5a2d4c1fde922ddcb43bb
+- type: reply
+  channel: native
+  id: "595"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NzhiNmExY2FkYTg1ZjRmNTNjNTBjNg==
+        algorithm: aes-256-gcm
+        iv: 5fbcc5b2b4b66cfd89011701
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-31 21:54:00
+  content: 我只在 9.04 的 Live CD 中看到了新的登录界面。心寒呀
+  ip:
+    encrypted: Mzc2YTY0NWRmMjIxNDQ3ZmUxODM2ZTc1
+    algorithm: aes-256-gcm
+    iv: fa5eadee521a0b9543a4d501
+  target: 594
+- type: reply
+  channel: native
+  id: "596"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NzU1NDEwMGI5MjljYmIyNzY2ZDRhMg==
+        algorithm: aes-256-gcm
+        iv: 377e0c6a4373934a1b485f68
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-31 21:55:00
+  content: 前提是：身子骨得硬朗。
+  ip:
+    encrypted: ZWE5ZmZhYmFiY2IzMzU2NDQ0ZWM5ZGJk
+    algorithm: aes-256-gcm
+    iv: 1922be4dd1aaaa0e36ac9758
+  target: 593
+- type: reply
+  channel: native
+  id: "597"
+  author:
+    name: 会律博客
+    url: http://www.huilvsay.com
+    email:
+      value:
+        encrypted: NDY5MzA5YzU4OTlmNTlkNGQ0OTY5ZTJiYTMyYzg4NWUxZWUy
+        algorithm: aes-256-gcm
+        iv: efa2f5a4eea432f35b2089af
+      hash:
+        md5: 3e5357f89afc7158faa3230e5ea57e51
+  published: 2009-04-01 13:21:00
+  content: 你是强奸犯，我确定的说！
+  ip:
+    encrypted: YzcxMDRkODNhYjk5MGMzM2YzYTQ1NjE3ZTY=
+    algorithm: aes-256-gcm
+    iv: 1530944432ebbf6bb5fa6766
+- type: reply
+  channel: native
+  id: "598"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZmI0ZmM5NDBjNzUxZTdkNDhkZTAyNQ==
+        algorithm: aes-256-gcm
+        iv: a87a45b690ddcb9a80acf88f
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-01 23:23:00
+  content: 你是说性行为艺术家？
+  ip:
+    encrypted: ZmJlNDk2MTFlYTFkOGMyYzRlNmVhYTA4OWRiZTE0
+    algorithm: aes-256-gcm
+    iv: 06c39a98a4283eb29c1b20a1
+  target: 597
+- type: reply
+  channel: native
+  id: "599"
+  author:
+    name: minlawoo
+    url: http://www.minlawoo.cn
+    email:
+      value:
+        encrypted: Zjg5OGZiYTMxNzk3MWZkYWRlNzYyNTFkMTZiYWVhNDg1ZTVl
+        algorithm: aes-256-gcm
+        iv: 58c1aea3fc49654902603500
+      hash:
+        md5: 39a059687bc008a6e16e7e5a962a774e
+  published: 2009-04-03 12:57:00
+  content: 生命在于折腾~
+  ip:
+    encrypted: OGFjNTliZjUzNTRlMDczNDE0YzQ4MGFhN2Y5Mg==
+    algorithm: aes-256-gcm
+    iv: c8f9f7440ea94e06541025d5
+- type: reply
+  channel: native
+  id: "600"
+  author:
+    name: 小墨
+    url: http://www.leinky.com
+    email:
+      value:
+        encrypted: ZGQyNmRhMDVkNDY5NWIzNWIzYzBkMmQ3YzcxZmNmYWViNA==
+        algorithm: aes-256-gcm
+        iv: 02670114a1f9a3b2ec70eef4
+      hash:
+        md5: 917ccf140d8e8a321bd1c2d52ef8b549
+  published: 2009-04-10 15:18:00
+  content: |-
+    也不只是a卡吧，我的是9600ＧＴ，也出现这个问题
+    索性直接下livecd　量产到u盘安装了
+  ip:
+    encrypted: MzUxYjlkNTA2MDEwOTY5MjE5NTIzMzM3ODM=
+    algorithm: aes-256-gcm
+    iv: c5161458f8383333d7b2e622
+- type: reply
+  channel: native
+  id: "601"
+  author:
+    name: willerce
+    url: http://willerce.com
+    email:
+      value:
+        encrypted: OWNmZjRlYTRjMjQ0ODdjZGI3YmE0NjZiYjQ1Yjk0YmE1ODcy
+        algorithm: aes-256-gcm
+        iv: 8c8a08fc78149c6f0d71a135
+      hash:
+        md5: d53d4e20063e6cadd764010d02093506
+  published: 2009-04-22 18:50:00
+  content: |-
+    已经不再折腾了。
+    安心用XP，等待7.
+  ip:
+    encrypted: NWMwNTY1Y2NmZTQxMWQ3NjU5ZDUxOGExNTk=
+    algorithm: aes-256-gcm
+    iv: 0d98a2e570eef6c68dfd3c34
+- type: reply
+  channel: native
+  id: "602"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZWU1YzU2ZjVhN2ZjNmFiZDVlNWRlNw==
+        algorithm: aes-256-gcm
+        iv: 4d528180e5889e49c6720533
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-23 23:06:00
+  content: 我也是。今天 9.04 终于出来了，但我很淡定……
+  ip:
+    encrypted: NjM3ZWYyODdiYmRlZjE0NDIyZTc5NTNlZDllZmVj
+    algorithm: aes-256-gcm
+    iv: f92039ea69fe700bd9f8ee10
+  target: 601
+- type: reply
+  channel: native
+  id: "603"
+  author:
+    name: Ludou
+    url: http://www.ludou.org
+    email:
+      value:
+        encrypted: YTdmM2FiZDYxMmI5Y2FjNzA2NTRlMTYxYzE3ODFlNzUxNg==
+        algorithm: aes-256-gcm
+        iv: 358de3f86467fa425fde497e
+      hash:
+        md5: 865c6d9710c905793b6c7a356383aae5
+  published: 2009-06-15 12:41:00
+  content: 一直在用8.04，我用的也是A卡，之前有次升级到8.10，不管何种方法均告失败。辛辛苦苦配置好的一个系统说毁就毁了，现在不管它出什么新版本我都不轻易升级了
+  ip:
+    encrypted: NzQzNmEzODU0OGExNWE3MzllYjk1MzBhNGQ1MQ==
+    algorithm: aes-256-gcm
+    iv: 821d553bdf224e28e54b1344
+- type: reply
+  channel: native
+  id: "604"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OGZlNWYyOGU5ZjhiYjYzMmM5NTA3OQ==
+        algorithm: aes-256-gcm
+        iv: 6100b6122926db03133e733b
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-06-16 00:52:00
+  content: 折腾需谨慎啊～我也是有了惨痛的教训才学会把 home 挂到单独分区上
+  ip:
+    encrypted: NTBmM2ExZjBiM2QzMTRkNmJhMDQ5OWVkZWE1ZQ==
+    algorithm: aes-256-gcm
+    iv: 1d6ddec1fe8691c28db0f944
+  target: 603
+- type: reply
+  channel: native
+  id: "605"
+  author:
+    name: shepherdwind
+    url: http://www.shepherdwind.com
+    email:
+      value:
+        encrypted: M2MyNDI1Y2IwOGVhNzRhY2FiZTMzNjhmZWQ3Yg==
+        algorithm: aes-256-gcm
+        iv: a577bf1cdf6ac15bdf0837da
+      hash:
+        md5: 8bebbbe0b271a6369b15e079c2cdd87b
+  published: 2010-07-13 20:55:00
+  content: 从8.04到现在的10，都不行呢，ati 1500，用8.04好使么？
+  ip:
+    encrypted: NGIyM2JkNGQzZjBkNTE0NDNhNWFlZTdlOWMwOA==
+    algorithm: aes-256-gcm
+    iv: 2eff070a8abbc5724aaad34f
+- type: reply
+  channel: native
+  id: "606"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZDllZjczYjMzMjVmNjA1N2FmNDA0Mg==
+        algorithm: aes-256-gcm
+        iv: dde41771d0147931f23bd180
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-07-14 10:04:00
+  content: 好像后来的9.04，在A卡中正常了。我现在用的就是。忘记是怎么回事了
+  ip:
+    encrypted: ZDFiZDVjZGM4M2I0NGI3MTI5MmIzZWY3OTZhNA==
+    algorithm: aes-256-gcm
+    iv: d4724ddf0b2357426fdcca49
+  target: 605

@@ -1,0 +1,520 @@
+- type: reply
+  channel: native
+  id: "383"
+  author:
+    name: after2008
+    url: http://after2008.com
+    email:
+      value:
+        encrypted: YjFiN2NmYmQ3ZTFmZDNjYmFjZjUwMTBmODhhYWYwMzNhM2YzNDE1Nw==
+        algorithm: aes-256-gcm
+        iv: 5347b0d6d517303742fe8dc0
+      hash:
+        md5: 8fcae4805f30304dca19a823b08fc755
+  published: 2008-07-14 10:25:00
+  content: Google 企业套件确实不错,我现在就在用,可惜我的域名下就只有我一个用户!
+  ip:
+    encrypted: MzNlNjVjNGZlYmZhNjYxOTUyNDY4Yw==
+    algorithm: aes-256-gcm
+    iv: 011aabde2d2ad2936e6960ae
+- type: reply
+  channel: native
+  id: "384"
+  author:
+    name: NetPuter
+    url: http://orzdream.cn/
+    email:
+      value:
+        encrypted: M2MyMzU0MDA5NzdkMTA1M2FlZDg3NDZjYTU3OGY4MjlkY2U1YjM5N2RiZTVjNQ==
+        algorithm: aes-256-gcm
+        iv: 1616194b66c5222953fb0f5e
+      hash:
+        md5: ecdc14816bcdf17ffaab3f5aa51e6218
+  published: 2009-01-06 12:56:00
+  content: |-
+    谁说 Google 企业套件不支持CN玉米? 我的就可以,申请的时候填写玉米那里,把 .cn 改成大写的 .CN 就可以啦!!
+    我的就是以Gmail账号做统一账号滴,所以说我也是QQ/MSN/GT统一的,百度Hi不鸟它~
+  ip:
+    encrypted: NjBkZTA1NTU2YjdkNWZkYWZlNTQ0MGY2
+    algorithm: aes-256-gcm
+    iv: cc7f8c25b5fb44d78c58dd0d
+- type: reply
+  channel: native
+  id: "385"
+  author:
+    name: ryan
+    url: http://www.akheart.cn
+    email:
+      value:
+        encrypted: OTRiOGYxMTI2YzhmODIyMGQyMjJkODQyN2JkZGQyNGZlZWMz
+        algorithm: aes-256-gcm
+        iv: 7ad48ea871d9bf453a9e6b26
+      hash:
+        md5: 3a14b37668544a245608af5dc6caec99
+  published: 2009-01-06 14:17:00
+  content: 正好我是CN域名， 在这里受教了。
+  ip:
+    encrypted: YWMzYWM4NDZmMzhlYTBmNWE2MDgzZmJjYzM=
+    algorithm: aes-256-gcm
+    iv: 3daee1036f77b8ed3c5b6859
+- type: reply
+  channel: native
+  id: "386"
+  author:
+    name: Lost Utopia
+    url: http://yyydy.cn
+    email:
+      value:
+        encrypted: MTc2NTVhMjMwOGVhNDc5NjE2MzY1MTRhYzQyNzdiNWE2ZmYx
+        algorithm: aes-256-gcm
+        iv: d3dc6ea0dc06dcef69eacd5a
+      hash:
+        md5: 5c23e437bc5ee318d4133d26f4efc2eb
+  published: 2009-01-06 16:17:00
+  content: 统一的ID也不一定非得用自己域名的邮箱
+  ip:
+    encrypted: ZTg2NTYwM2E1NTBmMzUzNjEyMjM1NTViY2RhZQ==
+    algorithm: aes-256-gcm
+    iv: ef702ae028da2543c32b7ea3
+- type: reply
+  channel: native
+  id: "387"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MDdlNzZjNTIwZWM2N2MxYTY3YmY0OA==
+        algorithm: aes-256-gcm
+        iv: 2d3c73b33725836ae992dd52
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-01-06 18:20:00
+  content: 呵呵，是啊，Gtalk 好像只有通过企业套件来实现用其他邮箱登录，所以用 Gmail 来绑定其他账号也是个不错的选择
+  ip:
+    encrypted: MWUwNjJhMTMwMzZiY2EzZDY4MjAyZA==
+    algorithm: aes-256-gcm
+    iv: 34661c5681e44b283c79932d
+  target: 386
+- type: reply
+  channel: native
+  id: "388"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: N2VjNDY5Yzc5YTQ2ZWNiODZjZGQwOQ==
+        algorithm: aes-256-gcm
+        iv: fa143e43ee5c40c0437adb24
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-01-06 18:22:00
+  content: 囧，没看见删除线么……这是篇老文章啦，修改了一下这个不支持CN米的说法才又发出来的
+  ip:
+    encrypted: YTY1ODU0YzNiNjAwODliNGJhOWIwMQ==
+    algorithm: aes-256-gcm
+    iv: 31d3419ae856f5aa3eebc8fe
+  target: 384
+- type: reply
+  channel: native
+  id: "389"
+  author:
+    name: RDEN
+    url: http://i-ox.cn
+    email:
+      value:
+        encrypted: MDJiNzdkN2RjYWEyMzM0MzhlOWU4Y2NkYzg2YmE0ZTk=
+        algorithm: aes-256-gcm
+        iv: 133b0a6da005d2ca79ffdec5
+      hash:
+        md5: a87df35498f8926cf2116303ad361036
+  published: 2009-01-06 22:26:00
+  content: |-
+    我也想过这样子！
+    但是还是有一些顾虑！
+  ip:
+    encrypted: Y2JmZjczZDQ5NGYwODg1YzQzNGZiYjE2Nzk=
+    algorithm: aes-256-gcm
+    iv: ab90d46dc1bd92fbaf14fcf0
+- type: reply
+  channel: native
+  id: "390"
+  author:
+    name: 减肥食谱
+    url: http://www.jianfeicn.com.cn
+    email:
+      value:
+        encrypted: YTY3NTEyYmM5NWIzNTU2MjA2ZDFkMzk5YmMwMDhiMDc=
+        algorithm: aes-256-gcm
+        iv: 307ae20c86586d1754ab3fca
+      hash:
+        md5: 0f631e0b61ef0769379f4f84b0e23b78
+  published: 2009-01-07 13:50:00
+  content: 呵呵，谢谢，我一直都是用的cn玉米，正好试试～
+  ip:
+    encrypted: MDM2ODk4YmE4ZGQxMzkxZjEyOTNhOWQ4OWU=
+    algorithm: aes-256-gcm
+    iv: c27518f65435ec4e45194d3b
+  target: 384
+- type: reply
+  channel: native
+  id: "391"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: YTY4ZDdjNzVhMjNkMWRjYzc5Zjc3MjA5MGJiY2Q2YTU5NDVj
+        algorithm: aes-256-gcm
+        iv: 40781670d788ca04794c0e68
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-01-07 21:05:00
+  content: 这方法不错，只不知绑定后如果想松绑不知行不行？
+  ip:
+    encrypted: YjhhMWUxNzJkNThlODFjYzNlY2YyNjc5
+    algorithm: aes-256-gcm
+    iv: 78b8f5d34bf5a979f8f4a479
+- type: reply
+  channel: native
+  id: "392"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MGZmNjMzODdhMjY5MDZjNWEwMjA5MQ==
+        algorithm: aes-256-gcm
+        iv: f438fc07f3fd437df01a54c4
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-01-07 21:15:00
+  content: 像 BaiduHi、QQ一类的是绑定邮箱到现有账号，QQ可以随时换绑定邮箱，Hi 不行。至于 Gtalk、MSN ，你另建账户，转移联系人就成了
+  ip:
+    encrypted: NDIyMTk3NzcwNzdlNTJkNmJlMTgyN2M0ODAxYQ==
+    algorithm: aes-256-gcm
+    iv: d87f9c9d94f29bbe78ad8157
+  target: 391
+- type: reply
+  channel: native
+  id: "393"
+  author:
+    name: Tina
+    url: http://tinasay.com
+    email:
+      value:
+        encrypted: MTczODYzNjNlNjZiODUxYjIyYzRjZTM3ZDVhOWMwMjc3Zjc4MjRkYTcz
+        algorithm: aes-256-gcm
+        iv: a0cdb8cf2207de976a1abfae
+      hash:
+        md5: 7dd54cb0be144d62404afdf2ac02da8c
+  published: 2009-01-08 22:59:00
+  content: |-
+    备份着 放假了再来给这些IM动手术...
+
+    QQ真是个纠结的东西 不用吧有些人必须得上QQ找 用吧实在是浑身不舒服感觉像成了非主流似的傻逼
+    要是它也能转移联系人什么的就好了 所有IM绑到一块 哎...
+  ip:
+    encrypted: MzY1NTEzMDBlMTQ5ZTExMjlkMzZlNjQ5NzYwOGQ0
+    algorithm: aes-256-gcm
+    iv: 3f4ed2c30d4f7fe6e7f95216
+- type: reply
+  channel: native
+  id: "394"
+  author:
+    name: GFWed
+    url: http://GFWed.com
+    email:
+      value:
+        encrypted: ZDc2MGNhMGQ3YjRlNjRkMTBhZjJiYjU3ZjI3ZjExODA=
+        algorithm: aes-256-gcm
+        iv: 9f9766a9bb1b965a83cb3824
+      hash:
+        md5: 891fe9fb5910e2ada017fbbdb781d4fa
+  published: 2009-01-09 23:04:00
+  content: 其实微软的 Domain.live.com 的企业邮局也可以，但是收不到台湾及海外地区的邮件，估计被大墙变成了 GFWed
+    了。还是推荐大家使用 www.google.com/a 这个 Google Apps 企业邮局服务，很好用，很强大，很牛，很人性化，简直就是 Gmail
+    第二（他也是 Google 的服务啦）。
+  ip:
+    encrypted: NDUyYjVjYTQ4ZDBiOTc5YTE1YmM0NTk4ZTA=
+    algorithm: aes-256-gcm
+    iv: 5122d749cbc793a7b69b4859
+- type: reply
+  channel: native
+  id: "395"
+  author:
+    name: xiaorsz
+    url: http://www.xiaorsz.com
+    email:
+      value:
+        encrypted: M2ExZDcxMjA4ODQxZTBiODMwZmYyZTRmZmJlNThjM2NlYw==
+        algorithm: aes-256-gcm
+        iv: af20209c92084b7b4c38d5c7
+      hash:
+        md5: c419cb20777cc932e6edbc4aecf3400d
+  published: 2009-01-10 15:08:00
+  content: 我的基本上比较统一，呵呵！！
+  ip:
+    encrypted: ZDcyNjM4YTMzZDhkYzcwZjUzZGNkN2E0N2IyMg==
+    algorithm: aes-256-gcm
+    iv: 6ee9f1937c792affd3236528
+- type: reply
+  channel: native
+  id: "396"
+  author:
+    name: AG
+    url: http://www.allengao.com
+    email:
+      value:
+        encrypted: OGI2OGIzYTczMjgwMmI1MDUyY2JiZTI0YWRmZmRm
+        algorithm: aes-256-gcm
+        iv: 7d64dd071bd37fd77d237ab9
+      hash:
+        md5: a889098b56416c7d780b42194c308847
+  published: 2009-01-10 23:45:00
+  content: 统一了好，最好所有的IM都互联互通，挖哈哈
+  ip:
+    encrypted: OGU5ZDJmN2ZkNmQzNjg5YmVkN2JmN2VkNzVkZThh
+    algorithm: aes-256-gcm
+    iv: d2bdf2bd583e938859f53aff
+- type: reply
+  channel: native
+  id: "397"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: M2I4ZWY5ZTNhZWNjMmRlMjhkMDU0OQ==
+        algorithm: aes-256-gcm
+        iv: 6679e190c1588ae0478324bc
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-01-13 18:36:00
+  content: 估计最后就剩两种 IM ，一种是使用通用协议的 IM ，一种是 QQ
+  ip:
+    encrypted: YWQ4NzczYjAyNGNjZmU5ZDA4YzNiY2UyYzE=
+    algorithm: aes-256-gcm
+    iv: ccac722e4c3fa82d3b97069c
+  target: 396
+- type: reply
+  channel: native
+  id: "398"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZDk5NDFhYzJkZjUwZDBlMzlmYmVhYQ==
+        algorithm: aes-256-gcm
+        iv: 23c64caaf6ca8df73864156d
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-01-13 18:50:00
+  content: 现在用 IM 的时间也不是很多了，还不如用 Email 呢。基本上没空跟谁聊天，上线也都是隐身。QQ能转移联系人的话……只能是我们 YY 啦
+  ip:
+    encrypted: MDkzNzVjMzU1ODAwYTc4YjViN2YyZGViYmU5YQ==
+    algorithm: aes-256-gcm
+    iv: 8c0ea9214dde1e850a85104d
+  target: 393
+- type: reply
+  channel: native
+  id: "399"
+  author:
+    name: an9
+    url: http://an9.name
+    email:
+      value:
+        encrypted: ODY5ZTUyN2Q3OWY5NTIzOThmYzRiMWI2
+        algorithm: aes-256-gcm
+        iv: 2ddf69db57b5d176b64a1c6e
+      hash:
+        md5: eccb79a399779ec63aae6c60238938f1
+  published: 2009-02-04 23:28:00
+  content: 技术贴,路过.
+  ip:
+    encrypted: ZWY5MDA0NWFjOWJmNjFkNjQzZmJhNGIzYmY5ZA==
+    algorithm: aes-256-gcm
+    iv: 3f877bdc48d4200fa12bcb00
+- type: reply
+  channel: native
+  id: "400"
+  author:
+    name: 小墨
+    url: http://www.leinky.com
+    email:
+      value:
+        encrypted: MWRhNjE1ZWE2MzE0OGQ5OTM3YjFiOWYxZTM1MGU5MzZjYQ==
+        algorithm: aes-256-gcm
+        iv: c741f9d0be537d1a312768da
+      hash:
+        md5: 917ccf140d8e8a321bd1c2d52ef8b549
+  published: 2009-02-21 13:27:00
+  content: 还是不错的方法~~确实这些东西一多就乱了~
+  ip:
+    encrypted: MmU3OWVhYTZhMmZiZDUwYTdhNzU1Yzg1
+    algorithm: aes-256-gcm
+    iv: 5d60b2d7fab4182a0a82437e
+- type: reply
+  channel: native
+  id: "401"
+  author:
+    name: johnny
+    email:
+      value:
+        encrypted: ODVlMDhlNDcwYjI5MDQ3MDZj
+        algorithm: aes-256-gcm
+        iv: 14767ef5736b73f6c54eeedf
+      hash:
+        md5: 12c399eeb92c64cca8372d7dee7be814
+  published: 2009-04-21 12:12:00
+  content: 不是一般的麻烦，为什么IM协议就不能统一一下呢
+  ip:
+    encrypted: ZmM1ZDc4NGYxYzY1OTMxZGFjY2JlNDY0MTc=
+    algorithm: aes-256-gcm
+    iv: 6fc20d1af01278448b15f77d
+- type: reply
+  channel: native
+  id: "402"
+  author:
+    name: johnny
+    email:
+      value:
+        encrypted: YjQwNTg3NjVmODQzMjVlODBk
+        algorithm: aes-256-gcm
+        iv: 728efcd164ec8aff97a2e0b3
+      hash:
+        md5: 12c399eeb92c64cca8372d7dee7be814
+  published: 2009-04-21 12:13:00
+  content: 我的头像是自动分配的吗？能修改吗？
+  ip:
+    encrypted: ZmNmMTllZjVkMDk5YjI2MDA4ZWI3NWQ2OTI=
+    algorithm: aes-256-gcm
+    iv: 0f86bf9638dfed6689f2f8d0
+- type: reply
+  channel: native
+  id: "403"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NDhiYTViYWE5ZTM5MTU0OGVlMGU2ZQ==
+        algorithm: aes-256-gcm
+        iv: 1c8ba0a99f68ca41f2f1e9ba
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-21 12:25:00
+  content: 能修改啊。请前往 http://en.gravatar.com/ 注册上传头像。这样在所有支持 Gravatar 的博客都能看到头像了～
+  ip:
+    encrypted: NjZlY2MzNmU4NDVlMzQ0ZmZlZjdlOGIyM2QyNWFi
+    algorithm: aes-256-gcm
+    iv: a4deea08075c1f200d550342
+  target: 402
+- type: reply
+  channel: native
+  id: "404"
+  author:
+    name: 墨白
+    url: http://www.mobai.org
+    email:
+      value:
+        encrypted: OWFkYTI1MGE2MmEyOTA3MDljYzI1ODJjOGFhYWJkZWM=
+        algorithm: aes-256-gcm
+        iv: af36954472e7ed7734f5b34d
+      hash:
+        md5: d57300a68ddc9db824adcab3ede972c3
+  published: 2009-06-07 08:07:00
+  content: 我的头像已经修改
+  ip:
+    encrypted: ZTg2YjU5ODU4OTY4MGFkMzA0MTQyYzI4MzdiYg==
+    algorithm: aes-256-gcm
+    iv: e085adcbab314cc5ac35de01
+- type: reply
+  channel: native
+  id: "405"
+  author:
+    name: Travis
+    url: http://b.imi.im
+    email:
+      value:
+        encrypted: M2RjMDE1YWM1YzIxMTUxNA==
+        algorithm: aes-256-gcm
+        iv: a9764a958005b392d282fcf4
+      hash:
+        md5: 563e34c117c588b4fbaf6a8cf3cd4870
+  published: 2009-12-01 11:25:00
+  content: "Email/QQ/MSN/Gtalk/: i[at]imi.im"
+  ip:
+    encrypted: MjZlMmI4MjQxZmE2MWNkYmEwOWM2MmU2NTZkY2E2
+    algorithm: aes-256-gcm
+    iv: fe06a154f2030b92db9d315b
+- type: reply
+  channel: native
+  id: "406"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZDM0NzIwZTA4ZGUyYzQ3MTlkYmY0OA==
+        algorithm: aes-256-gcm
+        iv: f7ea60bae01b49b502ffb4f2
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-12-01 21:24:00
+  content: 很可爱的域名啊，哈哈。不过，spam 肆虐，不要留下有效的email
+  ip:
+    encrypted: MzU5MmI2ZTg4OTBiYWUyYTIxZDk5ZDUyNzQyNGU3
+    algorithm: aes-256-gcm
+    iv: 17d1a66a0698cafed6b587f8
+  target: 405
+- type: reply
+  channel: native
+  id: "407"
+  author:
+    name: Travis
+    url: http://b.imi.im
+    email:
+      value:
+        encrypted: OGVlM2VmZDkzM2U1YmUxMw==
+        algorithm: aes-256-gcm
+        iv: 6040e3dc735bd921e311bbe8
+      hash:
+        md5: 563e34c117c588b4fbaf6a8cf3cd4870
+  published: 2009-12-07 14:22:00
+  content: 博主做友链么?  http://b.imi.im Google PR=3
+  ip:
+    encrypted: NGY5YWMzM2M2YzQ1ZDc5MjIwZmE2M2IyMTc5NDVl
+    algorithm: aes-256-gcm
+    iv: 73b082bc9d21c4db1fd52dfb
+  target: 406
+- type: reply
+  channel: native
+  id: "408"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MTIzODBiODY4NDA0NjE2YjAwMmE5ZQ==
+        algorithm: aes-256-gcm
+        iv: 687d58e95cd6a854952ef265
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-12-07 19:58:00
+  content: 可以啊。不过，我的链接都不在首页
+  ip:
+    encrypted: ZDJkNDFkMjdlMjJmMTUyYWExZTQ3MDA4YTE3YWIw
+    algorithm: aes-256-gcm
+    iv: fbfdbeed09b4320bbad65406
+  target: 407

@@ -1,0 +1,157 @@
+- type: reply
+  channel: native
+  id: "581"
+  author:
+    name: Tina
+    url: http://tinasay.com
+    email:
+      value:
+        encrypted: MjFjNmE3OTQ5MjM0ZDc0OTZlNjY1MzJmYjJmM2Q1MTQyYmQ1MjFmMWEw
+        algorithm: aes-256-gcm
+        iv: aac33a83fee585b09d1a6784
+      hash:
+        md5: 7dd54cb0be144d62404afdf2ac02da8c
+  published: 2009-03-27 07:38:00
+  content: 我不甘心...我一定要找人给我安上Ubuntu...
+  ip:
+    encrypted: ZGI4NDg4ZDRjYTNlMWExOTVkZDY3YzVmMGM0Nw==
+    algorithm: aes-256-gcm
+    iv: f25793ee55017f06f9aec25f
+- type: reply
+  channel: native
+  id: "582"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MmYzZDNlYjc3YmYwOTYzNTM5YmFiMQ==
+        algorithm: aes-256-gcm
+        iv: 5b0d347ec4650723d0d1bda2
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-27 11:55:00
+  content: 现在 ubuntu9.04beta 发布了，你可以去安装试试。或者等4月23号装正式版。
+  ip:
+    encrypted: Yzk2NTUwMTAzMWMzNWY0M2I4ZmU1MTYwOGI4MmQ2
+    algorithm: aes-256-gcm
+    iv: 223ffd44847b0a2d817954c0
+  target: 581
+- type: reply
+  channel: native
+  id: "583"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: NTQ4YjQ1OGRhNWU4Njk5NmQ2MmUzNzg4ODVlYjY0M2M3Mjk4
+        algorithm: aes-256-gcm
+        iv: adadee4569825c1d1b79a625
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-03-28 02:31:00
+  content: 哈哈，我也想装上 Ubuntu 耶...
+  ip:
+    encrypted: NzllNmY3MDM4N2NkY2YzYjVhNzI1N2Y5ZjE=
+    algorithm: aes-256-gcm
+    iv: 7ca83c806d1fb4163defbef9
+  target: 581
+- type: reply
+  channel: native
+  id: "584"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: NGRjMTE5ZjZlYzZjNDViM2Y2NmFjNDQxNTdhZTQwMzAzMGYx
+        algorithm: aes-256-gcm
+        iv: e113cb516aebd1aeaffbedf1
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-03-28 02:33:00
+  content: 我觉得 Ubuntu 或者说是 Linux 要好好加强中文输入方面的支援，不然对于我们这班中文用户很头痛。
+  ip:
+    encrypted: Y2YxODhhYjgwZGUxZTI4ZDRhZTZhYzQzMWE=
+    algorithm: aes-256-gcm
+    iv: 42da16b8512243f137839b9d
+- type: reply
+  channel: native
+  id: "585"
+  author:
+    name: 小墨
+    url: http://www.leinky.com
+    email:
+      value:
+        encrypted: NzUxYWYyNDE5MGVhZGFjOTFjNjQ5ZjdmNzQ4NmUxYTFjOA==
+        algorithm: aes-256-gcm
+        iv: 332372242c062c3c6f82a276
+      hash:
+        md5: 917ccf140d8e8a321bd1c2d52ef8b549
+  published: 2009-04-10 15:23:00
+  content: 在中英文输入方面，ubuntu下没什么输入法可以跟搜狗比啊
+  ip:
+    encrypted: YTVmOTRiZDA2MjZiYjQ0ZDZkNDk3OThiZmU=
+    algorithm: aes-256-gcm
+    iv: 4c8364b737c4a77bfd58990c
+- type: reply
+  channel: native
+  id: "586"
+  author:
+    name: 嘉佑
+    url: http://huzuofeiwei.com
+    email:
+      value:
+        encrypted: NmMwOGM2MTAzZTc3ODJkYmE2M2Y4YWNiYjFmMGE0OWVmNTk4ZmE5OQ==
+        algorithm: aes-256-gcm
+        iv: af6ced2de651f7a1291d28f4
+      hash:
+        md5: f760d70eab84444e5cbcc907049dd61a
+  published: 2009-05-18 22:28:00
+  content: Fedora 9 时代就开始使用 ibus 了，很爽，比 SCIM 好。
+  ip:
+    encrypted: ZDc2ZmY2ZjM0YmRmODliYTAyMzRmMzZi
+    algorithm: aes-256-gcm
+    iv: 2831f1de9237dbcf964613bc
+- type: reply
+  channel: native
+  id: "587"
+  author:
+    name: Ludou
+    url: http://www.ludou.org
+    email:
+      value:
+        encrypted: N2M5YzVkY2UzZTgyZGM5MWEwN2RiNGFjZmQxMjViMmFhNQ==
+        algorithm: aes-256-gcm
+        iv: 703e2d935e332ae1c80d2349
+      hash:
+        md5: 865c6d9710c905793b6c7a356383aae5
+  published: 2009-06-15 12:37:00
+  content: 不知道怎样将ibus设置为默认输入法，即系统一启动，输入法就是ibus，不用ctrl+space切换？
+  ip:
+    encrypted: YjdmOGVjMmY1ZThlYWI3ZWIzNjg2MWJiYzBlYQ==
+    algorithm: aes-256-gcm
+    iv: 427d67c85b7812d0c352d38d
+- type: reply
+  channel: native
+  id: "588"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MTdmYzhhOGE5ZGRiY2M1NDc0YjQxNQ==
+        algorithm: aes-256-gcm
+        iv: 5d46110e5dbee348232b7ab8
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-06-16 00:59:00
+  content: 这个真不知道。现在有个问题：我用不了五笔了
+  ip:
+    encrypted: MDgyZjAxOGEwMmQyNThlYjkxYWEzYzljMjFlZA==
+    algorithm: aes-256-gcm
+    iv: 3f20847286fbb08743ed19b8
+  target: 587

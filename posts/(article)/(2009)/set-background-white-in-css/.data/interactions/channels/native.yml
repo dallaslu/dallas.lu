@@ -1,0 +1,522 @@
+- type: reply
+  channel: native
+  id: "549"
+  author:
+    name: 植树
+    url: http://i-ox.cn
+    email:
+      value:
+        encrypted: NjM2NWU1NzNhMzNlNDQyZWJhMmVkNGUzOTk4ZjIwZDc0NQ==
+        algorithm: aes-256-gcm
+        iv: cb7056b65bfd0aaf47ac2bc3
+      hash:
+        md5: f9ad7b57eb859b5bcbd0adba22925a82
+  published: 2009-03-16 22:11:00
+  content: 我的好像也没有设定背景颜色！
+  ip:
+    encrypted: ZjE1ZjY5NzYwNTU0MTRjMDRhNmNlNzdkNTM=
+    algorithm: aes-256-gcm
+    iv: e9599cd66075ee21e6f6418d
+- type: reply
+  channel: native
+  id: "550"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: Y2Y4NTYwY2YxNWQ0NGU2YmY4ZWU4OA==
+        algorithm: aes-256-gcm
+        iv: 380a0b4e269ab175cc041078
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-16 22:24:00
+  content: 你的还好了～一切正常啊
+  ip:
+    encrypted: NTkwYTNmYmEwNTk0Y2NmZGM1NTkyOWE0M2VkOTQ1
+    algorithm: aes-256-gcm
+    iv: ef8ad84852471cab4a1e0a6c
+  target: 549
+- type: reply
+  channel: native
+  id: "551"
+  author:
+    name: 胡戈戈
+    url: http://hugege.com
+    email:
+      value:
+        encrypted: ZTU2ODFjZTgwMDI5MmE3Mjk1MjA4NjY5M2IwNmUxZjRmYzNmNGM=
+        algorithm: aes-256-gcm
+        iv: 9643ccc5b7b35cf1a3207bd0
+      hash:
+        md5: 6ca055fb6c2c719b879f43b3c3cf895d
+  published: 2009-03-16 22:25:00
+  content: 现在也有很多人将背景色设成暗绿色了
+  ip:
+    encrypted: ZmFlNzEzMDdmMzM1M2VjNTAxZGQ1MTJi
+    algorithm: aes-256-gcm
+    iv: ec93401a1763ae48b7972718
+- type: reply
+  channel: native
+  id: "552"
+  author:
+    name: 植树
+    url: http://i-ox.cn
+    email:
+      value:
+        encrypted: NjY0YmJlNTQ1MDM5MzFkYTU2YTJmNGI5NTkwNjRkYmU0Mw==
+        algorithm: aes-256-gcm
+        iv: 01453b46b39e5a3f7ac5a741
+      hash:
+        md5: f9ad7b57eb859b5bcbd0adba22925a82
+  published: 2009-03-16 22:25:00
+  content: |-
+    谢谢检测！
+    ^_^
+  ip:
+    encrypted: ZjNjY2Y0NzBkNmFmYThlNDU2YjgwMDYwMTk=
+    algorithm: aes-256-gcm
+    iv: ab1845bbf7ae8afd044600e8
+  target: 550
+- type: reply
+  channel: native
+  id: "553"
+  author:
+    name: willerce
+    url: http://willerce.com
+    email:
+      value:
+        encrypted: NTIxMWJlZTZiZTY1MTY0YThkNDk0YjA1OTg1YzFhZjdmNzQ4
+        algorithm: aes-256-gcm
+        iv: 5239b87676fe4adb04d654c0
+      hash:
+        md5: 09d288a90ae2da168f11cb4c5e49199f
+  published: 2009-03-17 00:49:00
+  content: 是的，一个疏忽。
+  ip:
+    encrypted: ZDg2OWIxYjIwMjg0OGE2ZWU5ZjA2MDZmNDI=
+    algorithm: aes-256-gcm
+    iv: b4a753023acd7c461f4b8ebe
+- type: reply
+  channel: native
+  id: "554"
+  author:
+    name: Leeiio
+    url: http://leeiio.me
+    email:
+      value:
+        encrypted: NzQzY2M5ZjgxNmFiMTU0N2U2Y2VjZjQ1OWU4ODg5OTE=
+        algorithm: aes-256-gcm
+        iv: 207cef30a21144f9eb75775c
+      hash:
+        md5: ffa60157af668384f5325116efd02385
+  published: 2009-03-17 11:53:00
+  content: 我的是有背景的哈~
+  ip:
+    encrypted: OGVkNGQwMmE4MzI0ZjQ4ZjUzNzFmMjYx
+    algorithm: aes-256-gcm
+    iv: 9551cc4a5af6e9c3f514d706
+- type: reply
+  channel: native
+  id: "555"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: MjU5ZTJiZDRiZmY1NmUxYzY1YmM5NzY5ODdkZmE2MTUyNjZh
+        algorithm: aes-256-gcm
+        iv: 3793d2b1d4d75bf24a3a1afc
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-03-17 14:03:00
+  content: 有时候疏忽小细节在所难免的，呵呵，其实一些大网站不但 CSS 有不完善的地方，甚至连 XHTML 也不一定符合标准。
+  ip:
+    encrypted: ODM3OTczNTdiNTg5MWFiNjkzY2Q1NjA4NWM=
+    algorithm: aes-256-gcm
+    iv: 018209065e1b76f511dbdd79
+- type: reply
+  channel: native
+  id: "556"
+  author:
+    name: 会律博客
+    url: http://www.huilvsay.com
+    email:
+      value:
+        encrypted: NWY4MjJhOGY5MjJjYWY0NTU3OTI1ZDc2ZjRiMDA1MmUwMmU3
+        algorithm: aes-256-gcm
+        iv: b1d798bf60ec31f22c9a6e12
+      hash:
+        md5: 3e5357f89afc7158faa3230e5ea57e51
+  published: 2009-03-17 18:11:00
+  content: 现在用的就还好哇，不改也没差！嘿嘿！
+  ip:
+    encrypted: YjQ1Y2Q2MjY0NjhlZWIxZjAxZWVjYjAxNzE=
+    algorithm: aes-256-gcm
+    iv: f8db61c7decbda34955fc151
+- type: reply
+  channel: native
+  id: "557"
+  author:
+    name: ryan
+    url: http://www.akheart.cn
+    email:
+      value:
+        encrypted: NzNkOTY4ZDUxZWJlNGI3NmQ3YTJjYTg3M2MyMGI3MWM5YzI0
+        algorithm: aes-256-gcm
+        iv: ea388d1b1086af008a4224fd
+      hash:
+        md5: 3a14b37668544a245608af5dc6caec99
+  published: 2009-03-17 18:54:00
+  content: |-
+    不错
+    但是我就不晓得我有背景颜色冇的
+    用的别人做的主题。。
+  ip:
+    encrypted: Mzg2YTI0ZTk1NWI1ZjVlZjgzZGJlMmU1ZDg=
+    algorithm: aes-256-gcm
+    iv: 7444eacae6f9bef33a4d520c
+- type: reply
+  channel: native
+  id: "558"
+  author:
+    name: Netputer
+    url: http://orzdream.cn
+    email:
+      value:
+        encrypted: ZDNlY2U0YzM4OWRlMGZjMzQxNjQyNDZiYWNlOWQ3MGFiNDhkNDdmNTIyOTkzMw==
+        algorithm: aes-256-gcm
+        iv: 4acaaa9c0b7a20b148c183a6
+      hash:
+        md5: ecdc14816bcdf17ffaab3f5aa51e6218
+  published: 2009-03-18 00:00:00
+  content: 嗯，又是细节问题，注意了细节才能做得更好，谢谢了！
+  ip:
+    encrypted: YzkyZjc2MmEyYmFlYWY5OTE2N2Y0ZjVkZjk1Yg==
+    algorithm: aes-256-gcm
+    iv: 44bc6942290252a91794447f
+- type: reply
+  channel: native
+  id: "559"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: Yzc1MTgwNDFhZTBiODcwYjBkOTAxMQ==
+        algorithm: aes-256-gcm
+        iv: 2dde2404cc442b6e2ac29ffd
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-18 00:33:00
+  content: 你的博客有背景色。但是网站首页没有指定背景。不过看起来还好。
+  ip:
+    encrypted: OGJkNzQxZDEzOTNjOWFhMDEzMzNjNjY3NjJmMTdk
+    algorithm: aes-256-gcm
+    iv: 19723c7603e6b1ecb340adf6
+  target: 557
+- type: reply
+  channel: native
+  id: "560"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZTIwMGJhYjAwMzcwY2FmYTE1ZDFlYQ==
+        algorithm: aes-256-gcm
+        iv: c45fec0058bef4e86cfd8ab8
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-18 00:35:00
+  content: 你用的可是传说中的 iNove 啊。很强大。况且背景又不是白色，自然不会有这种情况发生了。
+  ip:
+    encrypted: ZmRjZDljYmY0MTE2YjFiZDA1ZWJkNGYwNjY5ZmNh
+    algorithm: aes-256-gcm
+    iv: 1c544b48bd43852e9b1fd2e2
+  target: 556
+- type: reply
+  channel: native
+  id: "561"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ODRiODFkZTQzYjcwYjI5OWY1NGMzOQ==
+        algorithm: aes-256-gcm
+        iv: 589c06421895cad0fc1f919f
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-18 00:36:00
+  content: 你有背景？我还有后台呢～
+  ip:
+    encrypted: ZGQyM2M5ODQ4NmNjZTUxN2JlMWNjNmYzMmJhOTI1
+    algorithm: aes-256-gcm
+    iv: 145f5e812851744dbc8ef5b8
+  target: 554
+- type: reply
+  channel: native
+  id: "562"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NmRmMmE3MDA2ZWQzNDhhMTczMDc1NA==
+        algorithm: aes-256-gcm
+        iv: 8bff478c51442c1b3d5afd22
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-18 00:37:00
+  content: 恩。我觉得也是疏忽。相信没有人恶毒到故意不设定背景色来影响我这种用户的体验吧～囧
+  ip:
+    encrypted: MDRjMTA0MGJhZjAzMTg0MDgzYzZjYzU0MzBkNjg0
+    algorithm: aes-256-gcm
+    iv: 79b56a302d9035df36899e14
+  target: 553
+- type: reply
+  channel: native
+  id: "563"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZTdjZjQ0M2EyYzY0YjI5Y2U1MDI5MQ==
+        algorithm: aes-256-gcm
+        iv: c9d9ed63b88cc3ac73b6ec8c
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-18 00:41:00
+  content: 囧一个。我这里就没通过标准，因为使用了圆角～不过，我这是为了照顾和我一样使用 FireFox 的用户，哈哈～
+  ip:
+    encrypted: NmE5YTFhMzkwZDJiOWQ5NWNjMDZjODNkZDIxMTM1
+    algorithm: aes-256-gcm
+    iv: 28bbafac53a2b287cbe1f61d
+  target: 555
+- type: reply
+  channel: native
+  id: "564"
+  author:
+    name: willerce
+    url: http://willerce.com
+    email:
+      value:
+        encrypted: ODdmZTQ0MDdkMzBhZTQ2MDUwNzhhMDk2NTY4ZDVlM2ExMjg1
+        algorithm: aes-256-gcm
+        iv: 8f076f17f2376ea0a060c706
+      hash:
+        md5: 09d288a90ae2da168f11cb4c5e49199f
+  published: 2009-03-18 00:57:00
+  content: 国内有哪些网站是符合xhtml?
+  ip:
+    encrypted: OWVlMTljOWM4NWVjNzQwODhiMWViODE0MGI=
+    algorithm: aes-256-gcm
+    iv: 69344eb43666f3bf6aed0b02
+  target: 555
+- type: reply
+  channel: native
+  id: "565"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: NmU3YjljOTk0ZmE1OGMxNGQ0ODc2ODBmOTlhNjE5
+        algorithm: aes-256-gcm
+        iv: 4833e92a266c40b0452149f7
+      hash:
+        md5: 4b87562eea023ea062e9b45adca99002
+  published: 2009-03-18 16:29:00
+  content: |-
+    你还真折磨人，看来我得把 Title 的图片也换成 透明PNG 才行。。
+    恩，我是个完美主义者。。
+  ip:
+    encrypted: NzhiMDJmYjU5YjdmZjIxYTE1YTU0ZTliNzM5MQ==
+    algorithm: aes-256-gcm
+    iv: d1a802295e963db3a46c7151
+- type: reply
+  channel: native
+  id: "566"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MzYzODU3Zjg5NDgxNTgwYjUwZDA4MQ==
+        algorithm: aes-256-gcm
+        iv: 90cfe0f123f4bf6d413749af
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-18 17:22:00
+  content: PNG？别忘了IE6可不支持哟
+  ip:
+    encrypted: NDkxNDMyOTU1ZDYyOWZiOTVjZmMzNTVkY2FkNjVj
+    algorithm: aes-256-gcm
+    iv: 1c8e5d847868cb1b3f63aac1
+  target: 565
+- type: reply
+  channel: native
+  id: "567"
+  author:
+    name: 理肤泉
+    url: http://www.elifuquan.cn
+    email:
+      value:
+        encrypted: YmFjZTA0ZTFhY2FlNDFhYjVhNGZkYjIzMGE1YjBlNWRjZTA5MDk=
+        algorithm: aes-256-gcm
+        iv: 1abbfc31a84608636b153393
+      hash:
+        md5: cd677d8188f051f1ed8cf782684ab772
+  published: 2009-03-18 20:54:00
+  content: 呵呵，我的没有背景，白纸一张~~
+  ip:
+    encrypted: ZjUzZjI5NjdmNzVjN2Y1MjY1MjEyMzY3NTk=
+    algorithm: aes-256-gcm
+    iv: c2a5f2e5d80514d0c748e9bc
+- type: reply
+  channel: native
+  id: "568"
+  author:
+    name: 小墨
+    url: http://www.leinky.com
+    email:
+      value:
+        encrypted: MTlkYzYxYzM3YzRiMGJiMGRjMmE5NDdiNGVkMmU1ZDQ4NQ==
+        algorithm: aes-256-gcm
+        iv: 2958b82bb4a6a8f585303341
+      hash:
+        md5: 917ccf140d8e8a321bd1c2d52ef8b549
+  published: 2009-03-20 19:09:00
+  content: 找了一圈没找着订阅的地方@@
+  ip:
+    encrypted: YTc5NmYzMTVjYmQ2M2RlYWY5Y2E1MDI5OGUyZA==
+    algorithm: aes-256-gcm
+    iv: 215b6eb165c6db2a13ff0261
+- type: reply
+  channel: native
+  id: "569"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OTM1YjhlYmNkOWUxYjQwM2M5ZDFiOQ==
+        algorithm: aes-256-gcm
+        iv: 8018e772edf9a155452706a0
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-20 21:02:00
+  content: IE7 开始就在界面上有个按钮的，FireFox 在地址栏也有的……
+  ip:
+    encrypted: ZTgyYjgwOWVlNTUxZWIyYmE5ODY1MjdhMzkzZjIz
+    algorithm: aes-256-gcm
+    iv: 1356ce4f8932d72c6a2a47c6
+  target: 568
+- type: reply
+  channel: native
+  id: "570"
+  author:
+    name: xiaorsz
+    url: http://www.xiaorsz.com
+    email:
+      value:
+        encrypted: ODA5NDBlZDllMDljNTllMWMwMWNhNjllZWEzNDZlY2YzNw==
+        algorithm: aes-256-gcm
+        iv: aec55d496192dcf99209b80e
+      hash:
+        md5: c419cb20777cc932e6edbc4aecf3400d
+  published: 2009-03-21 01:03:00
+  content: 的确是个小细节！！
+  ip:
+    encrypted: ZmNhMjJkMTg2YjZiZjExMzY0YjJlZTcxNzBiNg==
+    algorithm: aes-256-gcm
+    iv: ce37e0a64c8c68b7bb7e25d8
+- type: reply
+  channel: native
+  id: "571"
+  author:
+    name: an9
+    url: http://an9.name
+    email:
+      value:
+        encrypted: YzQ5ZWNmMjExNGY4NjMzNzI2YWVmMjY3
+        algorithm: aes-256-gcm
+        iv: ca14e350c9d7fb1b832d6099
+      hash:
+        md5: eccb79a399779ec63aae6c60238938f1
+  published: 2009-03-29 19:48:00
+  content: 没注意这些。
+  ip:
+    encrypted: YzU0YjM4YzlhNWU5ZTA4N2MwZGE0YzZjYjQ=
+    algorithm: aes-256-gcm
+    iv: 941398388c5c9331e2cc7b8f
+- type: reply
+  channel: native
+  id: "572"
+  author:
+    name: vanqy
+    url: http://www.vanqy.cn
+    email:
+      value:
+        encrypted: YzMzZTBkYzMwYjNmMzA5ZTBhMWZjNjQ1
+        algorithm: aes-256-gcm
+        iv: 89ab8b7cbe3e3fe3037af96f
+      hash:
+        md5: 777a5464170137605e335d97b1fb2a83
+  published: 2009-04-06 10:43:00
+  content: 真逗哈
+  ip:
+    encrypted: MDc5OGJjMmQwMzk5MWE4NDk1NDQ2NWEwMzM4MjA1
+    algorithm: aes-256-gcm
+    iv: d2f016a4e656ddfc2f0e587b
+  target: 561
+- type: reply
+  channel: native
+  id: "573"
+  author:
+    name: 九站
+    url: http://BLOG.MYINE.CN
+    email:
+      value:
+        encrypted: Zjk4ZjYyNTVmOTE4Yjk1YzA0
+        algorithm: aes-256-gcm
+        iv: 81cd77c84ec91c7fc25ae0ee
+      hash:
+        md5: 40bd84bce434f3d3191b64d5bce1df5b
+  published: 2009-04-11 14:06:00
+  content: |-
+    每一次听说什么Ubuntu,呵呵,让你见笑了.
+    那个百度是那样的,我上学期把WINDOWS的主题吧还是什么,改成暗紫色的，然后在IE8下看到的百度同你贴的图一样，呵呵，
+    GOOGLE主页就不会，是全白的，确实~
+  ip:
+    encrypted: ZGM5ZWY4YWE3YjkwNTdhZjRmNjVhNGZl
+    algorithm: aes-256-gcm
+    iv: 5c6a3036a160775fdcf601cf
+- type: reply
+  channel: native
+  id: "574"
+  author:
+    name: 多的
+    email:
+      value:
+        encrypted: MjMzOTE1YmVjMjNmNGU0ZmI2NGNkZmVjMzQzZWVl
+        algorithm: aes-256-gcm
+        iv: 3be6df55deb1991242c14deb
+      hash:
+        md5: 99d5413cc4b5ec72d669c33495d003dc
+  published: 2009-11-20 11:12:00
+  content: 事真多~！
+  ip:
+    encrypted: YTM1YjBhMmI5OTE5MmY5MzdiMTFiNjE2NjZlOGI4
+    algorithm: aes-256-gcm
+    iv: 96eb337d95ea3126dc959ce2

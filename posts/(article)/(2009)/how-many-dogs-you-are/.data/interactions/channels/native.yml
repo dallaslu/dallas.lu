@@ -1,0 +1,341 @@
+- type: reply
+  channel: native
+  id: "632"
+  author:
+    name: sofish
+    url: http://www.happinesz.cn/
+    email:
+      value:
+        encrypted: ODE5OGZmYjkyY2JjOTFkMWI0ZjU4YTFjOGZkOQ==
+        algorithm: aes-256-gcm
+        iv: b2021c963712204fc289315c
+      hash:
+        md5: e8fb37bb5570f1f8a349a5d248ede347
+  published: 2009-04-12 23:34:00
+  content: 这种奇怪的想法！
+  ip:
+    encrypted: OTRmNmE2YWFhOGJjMGRmMTMyMTZjNGNmMGExMw==
+    algorithm: aes-256-gcm
+    iv: f10ea06d4fe71aa4285cffc7
+- type: reply
+  channel: native
+  id: "633"
+  author:
+    name: 理肤泉
+    url: http://www.elifuquan.cn
+    email:
+      value:
+        encrypted: YjdhOWM5MGY4YTBkMmE1OTBmZmQ2Zjg4ZDA4MGQ4MzIyNmU5YzU=
+        algorithm: aes-256-gcm
+        iv: f83113494afc6f903d88e1c3
+      hash:
+        md5: cd677d8188f051f1ed8cf782684ab772
+  published: 2009-04-13 08:48:00
+  content: 呵呵，俺也有两QQ现在最怕交叉。。
+  ip:
+    encrypted: YTcyYWMzNWNmOTczZTU3OGI4YmU3MTI0NDM=
+    algorithm: aes-256-gcm
+    iv: aa58a4c8625aadec1920f1ff
+- type: reply
+  channel: native
+  id: "634"
+  author:
+    name: Netputer
+    url: http://orzdream.cn
+    email:
+      value:
+        encrypted: YTNmMGVlZjgyMThjOGFjZDc5ZmZlNDUxNjFlMDZhMWUwZTExMDZlYmJiZDU4Mw==
+        algorithm: aes-256-gcm
+        iv: 53af966dcd31ce7cf3ad7c63
+      hash:
+        md5: ecdc14816bcdf17ffaab3f5aa51e6218
+  published: 2009-04-13 10:23:00
+  content: |-
+    哈哈，我觉得多ID很容易人格和精神分裂吖。
+    从第一次上网到现在，都蛮真实的身份啦，换过ID，但我还是我。
+  ip:
+    encrypted: MGJjNTMxNTk0NTg0ODYyZTQwMzJkYTNiN2I4Zg==
+    algorithm: aes-256-gcm
+    iv: 38deba0d6827e7de76aa9db1
+- type: reply
+  channel: native
+  id: "635"
+  author:
+    name: 会律博客
+    url: http://www.huilvsay.com
+    email:
+      value:
+        encrypted: MDZhMzVlZmY1MTY3NDYxZmQ4NzVmYTdmZDk4NDM2ZjRiYzE5
+        algorithm: aes-256-gcm
+        iv: 260390aaeeee3d6453cb53ab
+      hash:
+        md5: 3e5357f89afc7158faa3230e5ea57e51
+  published: 2009-04-13 11:51:00
+  content: 这搏名有点吊，多囧的“狗”字不是！
+  ip:
+    encrypted: NDgzNGM3YjM0NGQ5ZWZkYmI4YzJmZTc1
+    algorithm: aes-256-gcm
+    iv: 06ab0b475d23828f38a3ee42
+- type: reply
+  channel: native
+  id: "636"
+  author:
+    name: ryan
+    url: http://www.akheart.cn
+    email:
+      value:
+        encrypted: MGIwNjQyOGU4YjI1MDNjN2Q5Y2NhY2MyMGI4NmU0YzYzYjg2
+        algorithm: aes-256-gcm
+        iv: 254798f92373a19547954eb0
+      hash:
+        md5: 3a14b37668544a245608af5dc6caec99
+  published: 2009-04-13 15:37:00
+  content: 为什么是这个名字呢？
+  ip:
+    encrypted: ZmRlNjEwYzM0Y2Y5M2UxNmI5NDUyOTQ3ZWQ=
+    algorithm: aes-256-gcm
+    iv: 4de39e46c262ec995b67d576
+- type: reply
+  channel: native
+  id: "637"
+  author:
+    name: 胡戈戈
+    url: http://hugege.com
+    email:
+      value:
+        encrypted: MDUyMDVjYjM0NzZiMzE4NTk3MGYzNGZjNWNmMTQzOTA1YjUwYTE=
+        algorithm: aes-256-gcm
+        iv: 8510b8594783a552b01c222e
+      hash:
+        md5: 6ca055fb6c2c719b879f43b3c3cf895d
+  published: 2009-04-13 19:14:00
+  content: 本来我一直都很隐密的，现在也都什么资料都在网上爆光了，汗
+  ip:
+    encrypted: NDg2YmRiMjFiNGVhYTI0NTI3ZTdmYmFh
+    algorithm: aes-256-gcm
+    iv: d0f1dd8bcd455c3c24f6f869
+- type: reply
+  channel: native
+  id: "638"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: MDVjODdkYThjYzljMjk0OThkYjRhMTVmM2ViZDNkOGRlNmQw
+        algorithm: aes-256-gcm
+        iv: 9500bc4e8c7757cd8a0c2a82
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-04-13 20:37:00
+  content: 我也类似这样，以前无论在聊天室还是台湾 BBS，又或者是线上游戏我都是用虚拟的身份，姓名年龄国家住址电话号码之类的从不公开，后来又是
+    Web2.0 又是 SNS
+    的东西出来后，我算是真正以现实身份进入互联网的虚拟世界，不过也只算是半公开，住址电话号码是绝不公开，当然还有三围数字。。。哈哈！！
+  ip:
+    encrypted: NGUzM2MxMTliNWY3OTAzMDdjN2ZlODdi
+    algorithm: aes-256-gcm
+    iv: e4c83ad3369d0dba41b7d95b
+- type: reply
+  channel: native
+  id: "639"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OWQ3Y2U5YjZjMmM0YjU2NjViMDJjOQ==
+        algorithm: aes-256-gcm
+        iv: 6f7909a25ff45ab869a8d1d6
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-13 20:45:00
+  content: 我觉得后者更加让人好奇……
+  ip:
+    encrypted: NWU3NDgxMDZlYmVkMDNjMjY5MzY3NWM3M2FmZWFi
+    algorithm: aes-256-gcm
+    iv: 8884f59e4479f0e1999c830f
+  target: 638
+- type: reply
+  channel: native
+  id: "640"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MGEyNzVlNmUyYzg4N2FiZDc3Mzc0Zg==
+        algorithm: aes-256-gcm
+        iv: 49b397d9dd44053c3f5113c8
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-13 20:47:00
+  content: 生意人，免不了抛头露面的……
+  ip:
+    encrypted: MmI0MGExNzY5OGY4NzI0NDcxOWJmOTBmN2Q4MzEw
+    algorithm: aes-256-gcm
+    iv: 1fcd6c53fff6cde5b7c82b7f
+  target: 637
+- type: reply
+  channel: native
+  id: "641"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: N2ZjMzY5OGUwMWRmMWQxNmMxOGQ4Nw==
+        algorithm: aes-256-gcm
+        iv: bb9949b55d748a273727ce29
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-13 20:50:00
+  content: 其实贯穿全文的“狗”，是一条重要的线索
+  ip:
+    encrypted: ZmEzYjgxMjJiZWVkNTc3MDI4NDIzZjUwMWU2ZmRh
+    algorithm: aes-256-gcm
+    iv: 92bdbf78fb4f468e15414d3a
+  target: 636
+- type: reply
+  channel: native
+  id: "642"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: MDM0NjYwOWU1MmUzZGQyNmI2M2E1Zjk1YjM5Mjcw
+        algorithm: aes-256-gcm
+        iv: a39bc3a51fe42710fee2c68b
+      hash:
+        md5: 4b87562eea023ea062e9b45adca99002
+  published: 2009-04-14 08:37:00
+  content: |-
+    貌似某人忘记人肉我了呀 xD
+    其实防止被人肉到的最佳方法就是用数不清的马甲，然后精神分裂几下。如何？
+  ip:
+    encrypted: MWMxM2ZlOGM3NjE3NTZlZWM2Zjk5MDkyZDc=
+    algorithm: aes-256-gcm
+    iv: 608a0d9cdb49c4c7a8d5216e
+- type: reply
+  channel: native
+  id: "643"
+  author:
+    name: "9"
+    url: http://hiing.net
+    email:
+      value:
+        encrypted: OWVlOTE3MWFhODQyYzZkMDU1YzQ2OGI1MGJlY2NkZmI=
+        algorithm: aes-256-gcm
+        iv: 2923e53a590cd8190ec4ebb0
+      hash:
+        md5: 7a477831d30aaa94762750766778d015
+  published: 2009-04-19 21:11:00
+  content: 我还真以为博主说的是Dogfood。可了解Eating one’s own dog food
+  ip:
+    encrypted: M2M3YWI4M2NjOTIzZjViMTk0Nzc4ZGMxYzYyYw==
+    algorithm: aes-256-gcm
+    iv: 96ca6512a4a58f35538801a6
+- type: reply
+  channel: native
+  id: "644"
+  author:
+    name: willerce
+    url: http://willerce.com
+    email:
+      value:
+        encrypted: NDkwMjQ5NzJkM2U1ZDViNjg0MTIxZjU3MzYyNDJiNTE5NjZm
+        algorithm: aes-256-gcm
+        iv: b66b2b016316e01bf591c659
+      hash:
+        md5: d53d4e20063e6cadd764010d02093506
+  published: 2009-04-22 18:32:00
+  content: 是的，我们已经实名了。
+  ip:
+    encrypted: MTI5ZWZmZGEwOGQzM2U5ZDY5Yzg3MWJhMTk=
+    algorithm: aes-256-gcm
+    iv: 0faf2b2412ad29a8bfcf1e43
+- type: reply
+  channel: native
+  id: "645"
+  author:
+    name: Dianso
+    url: http://014.cc
+    email:
+      value:
+        encrypted: Y2M0NDFiZWQwYzVjY2FjMmM5NDA2NjJmN2I4YmFlYzFkMjRmYjM=
+        algorithm: aes-256-gcm
+        iv: 157acf4900b765aead7859c8
+      hash:
+        md5: 47e20ff48e5cd49dc472232a211a3ac1
+  published: 2009-04-23 22:55:00
+  content: "十分感谢你的留言，终于找到了解决方法，需要在cpanel里添加mx记录，太感谢你了 :razz: 。"
+  ip:
+    encrypted: NmE1ZTk3NjAzYWJmNDAzYTYyYWRkMjQ3MjYzOQ==
+    algorithm: aes-256-gcm
+    iv: 34f85f4fa07baa057e6f2222
+- type: reply
+  channel: native
+  id: "646"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NzRmYTQ5ZTE4NzFjNWY3ZWI1ZDYyZQ==
+        algorithm: aes-256-gcm
+        iv: 28026f7144ee0f4585674ca4
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-23 23:04:00
+  content: |-
+    呵呵。我记得 Zoll 同学还为此问题写了篇文章。我也遇到过。
+    我收到回复提醒邮件了，你还过来告诉我下，客气了～
+  ip:
+    encrypted: ODVkYWJkNzdkMzY2OWUwMjIyNGIzMTE5NTQ1NzE1
+    algorithm: aes-256-gcm
+    iv: 716b82454b8ec7af7e03eadf
+  target: 645
+- type: reply
+  channel: native
+  id: "647"
+  author:
+    name: logo
+    url: http://www.joomlamb.cn
+    email:
+      value:
+        encrypted: M2U4MjBhNzZhNDExZGVhZDY1YTdmOTBlZDBjMmE0Y2IyZDdmOTFhMw==
+        algorithm: aes-256-gcm
+        iv: a8868f320b5654c9510b11cb
+      hash:
+        md5: de67aca6f3bdb659c38080e5f8f3aa14
+  published: 2009-10-26 19:52:00
+  content: |-
+    从别人外链你的插件进来的，看的挺有意思。
+    我不是老网虫，但是已经感觉到网络的牛叉了，即使没有SNS，搜索引擎也是足以暴露你的东西了。只要你是一个ID。
+  ip:
+    encrypted: YTIxODIwYWQ0YzE1YzljZTI0YTg2MDJkZDUxZDY1
+    algorithm: aes-256-gcm
+    iv: 34218c99486fbfc38373aa50
+- type: reply
+  channel: native
+  id: "648"
+  author:
+    name: 淘宝品牌导购站
+    url: http://www.wmfwz.com
+    email:
+      value:
+        encrypted: M2Y4MDY2NTExMWMzMDc4NTg0ZmMyYjYwYWI=
+        algorithm: aes-256-gcm
+        iv: 2fe073228974b9b3749d9aae
+      hash:
+        md5: 2c66d472fba79383b7156c4c674d525d
+  published: 2010-09-15 16:05:00
+  content: 呵呵！这个想法有点古怪了吧！
+  ip:
+    encrypted: Y2JmY2VlYWVjYWEyYWJhZTMzNDQwMTA1Y2E=
+    algorithm: aes-256-gcm
+    iv: cc3ceaa89f79cf8a1583742c

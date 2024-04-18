@@ -1,0 +1,380 @@
+- type: reply
+  channel: native
+  id: "530"
+  author:
+    name: blacktulip
+    url: http://webabie.com/
+    email:
+      value:
+        encrypted: MDM5OTA2NjdhYWRhYWQ0NTZhNDkyMjQ0ODJlYzFjODMyMDRiYjU1ZA==
+        algorithm: aes-256-gcm
+        iv: cd8b0f73183780dc5688e4dd
+      hash:
+        md5: 8aedfe2ba8ecfee416fcb30b3b00a1c5
+  published: 2009-03-12 21:44:00
+  content: 沙发，支持网络移民
+  ip:
+    encrypted: ZTlmZDg5MTM5ZWMwMTg0ZDk4M2Y4Y2Y1YzcyOQ==
+    algorithm: aes-256-gcm
+    iv: 7c3c1895d2dae0cdfaff06b7
+- type: reply
+  channel: native
+  id: "531"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: YWI4MGQxOGRlNDk3YjE2ZTlkMDQ4NmMzMDQzZDE3
+        algorithm: aes-256-gcm
+        iv: aad2ebc8503930d1beabf188
+      hash:
+        md5: 4b87562eea023ea062e9b45adca99002
+  published: 2009-03-12 21:45:00
+  content: 既然是热乎的沙发就先坐着~
+  ip:
+    encrypted: ZjRhM2Q5YmIwNjI2NWVkYmU2NWNmODQ5MWQyNTEy
+    algorithm: aes-256-gcm
+    iv: e5316df429555bec5d7540ce
+- type: reply
+  channel: native
+  id: "532"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: MzMwM2Y0MjMwMDU4YzIyYTk0NWZjODhjNTFkYzFj
+        algorithm: aes-256-gcm
+        iv: fcde1feb2b5c76d16dad0106
+      hash:
+        md5: 4b87562eea023ea062e9b45adca99002
+  published: 2009-03-12 21:46:00
+  content: |-
+    囧。。没有做到。。
+
+    对于Firefox的那点 我很赞同啊~ 有很多情况其实是我们自己的代码没有写全，结果它竟然也能读出来。。对网页制作者来说不是好事，呵呵~
+  ip:
+    encrypted: YWExNzAxOTBjODE0YTQ0NzI5YThhYjkxYzRlYjM5
+    algorithm: aes-256-gcm
+    iv: 77e5e4571bd214a1b5eafabf
+- type: reply
+  channel: native
+  id: "533"
+  author:
+    name: blacktulip
+    url: http://webabie.com/
+    email:
+      value:
+        encrypted: M2NjOGQzODIxZjc4M2E5OTllNzg4YmJjZjMzNWZkNzc5NTE3ZGZmOA==
+        algorithm: aes-256-gcm
+        iv: 26cbb7b4f26693fc739e7eea
+      hash:
+        md5: 8aedfe2ba8ecfee416fcb30b3b00a1c5
+  published: 2009-03-12 21:46:00
+  content: 嗯，问问，主机是哪儿的？能搞php.ini应该是个vps?
+  ip:
+    encrypted: ZGE5ZWU4Yzg3MmE2M2Q4NmI0OWUzNzI5ODkyMg==
+    algorithm: aes-256-gcm
+    iv: 32cc8c0bf79d37775dadce7f
+- type: reply
+  channel: native
+  id: "534"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: NTYyMjEyYzU0Yjk4NGEzNGJmNmVjNGUzZjhkNzc3MWNlNzQx
+        algorithm: aes-256-gcm
+        iv: 8903cd2edd3d9811624646ff
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-03-12 21:52:00
+  content: |-
+    啊~沙发没了，呜呜呜~
+    话说，之前 Hyper Cache 也搞到我的博客出现问题，现在暂且停用了，反正我的博客流量也不大，将来再打算吧！
+  ip:
+    encrypted: NzFiMDMyNzMwM2M4M2YxMWRhZDdjZDEzNDA=
+    algorithm: aes-256-gcm
+    iv: 709912f931d76be526636630
+- type: reply
+  channel: native
+  id: "535"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: YTI5MWUwNWJlZWI4MjdiMTVlNjU2Mzc4YTllMjYwZjE1ZmU5
+        algorithm: aes-256-gcm
+        iv: 583cf3c44ffe626a14580221
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-03-12 21:54:00
+  content: 写完留言，发现这里的速度真的不同了，回想起之前来这里时，常常打不开页面，你找对婆家了，喔~说错了，是找对主机了，呵呵！
+  ip:
+    encrypted: NmViODIxNWEyMzUyODZlZjJhMTgwYzQ0ODY=
+    algorithm: aes-256-gcm
+    iv: ed5520d8def5b936a9927933
+- type: reply
+  channel: native
+  id: "536"
+  author:
+    name: yinheli
+    url: http://philna.com
+    email:
+      value:
+        encrypted: ZTRhNWNiNDM1ZDFlZjVjNjMyYmJkNjRlZGM=
+        algorithm: aes-256-gcm
+        iv: b17b1b591a79a7444d19aae5
+      hash:
+        md5: e232702dd57b5a01ffb87d63cabd83f7
+  published: 2009-03-12 21:59:00
+  content: |-
+    twitter貌似很慢呀.
+    你的折腾都能写出有艺术性的文章了.
+  ip:
+    encrypted: ODk1ZDNhMmM1ODhkNzI2NmNiMDhkZWMwNGE=
+    algorithm: aes-256-gcm
+    iv: 3cf2c6ab039b9c19ed983cc7
+- type: reply
+  channel: native
+  id: "537"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NzVkMzE2MGNjZjA5ZDQwOWFiYmQ1YQ==
+        algorithm: aes-256-gcm
+        iv: c3afc89bf63c81ee9a3d35fe
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-12 22:00:00
+  content: 胡戈戈的 Site5 。具体不知，应该没这么高级，就是普通的虚拟主机吧。
+  ip:
+    encrypted: NTBkOThiNmFlZjdkYzg0YjZiYzI4NjI5NDQ5MGUx
+    algorithm: aes-256-gcm
+    iv: 268d487249a5c987c44b7832
+  target: 533
+- type: reply
+  channel: native
+  id: "538"
+  author:
+    name: blacktulip
+    url: http://webabie.com/
+    email:
+      value:
+        encrypted: YjcyZGRlOWNjZGMxYjUyMjdmNzM5OWYzZGM5NzE5NTQ5NjcyOTc3ZQ==
+        algorithm: aes-256-gcm
+        iv: 7c7a9459e8541b8eb72bf644
+      hash:
+        md5: 8aedfe2ba8ecfee416fcb30b3b00a1c5
+  published: 2009-03-12 22:01:00
+  content: 虚拟主机能搞php.ini不错哦
+  ip:
+    encrypted: YzBiMTllMWViOGVkZjRmMDgxZDk3NTI0NTk0NA==
+    algorithm: aes-256-gcm
+    iv: 76d7ffdd3e2eb707d55e8f73
+  target: 537
+- type: reply
+  channel: native
+  id: "539"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NzNkNWU3OTU1OTRkYzU4YWRjYjkwZA==
+        algorithm: aes-256-gcm
+        iv: 400c7ef1eee9bd8337015e5f
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-12 22:04:00
+  content: 之前的主机到现在还有一年使用期限。若不是这次被关闭，我原本打算继续挣扎地。
+  ip:
+    encrypted: M2Y5MjZjM2ViMzdkMDJjYWEzYTJlZDcxM2Q0MWNj
+    algorithm: aes-256-gcm
+    iv: c82cd98e9ccb5cc8142997fe
+  target: 535
+- type: reply
+  channel: native
+  id: "540"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NzVmZTZkNmIxZWRkZmNjYTgwOWQzMg==
+        algorithm: aes-256-gcm
+        iv: 4f091e2e46cee4ce5e34a5f2
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-12 22:06:00
+  content: 艺术来源于折腾
+  ip:
+    encrypted: NjgyMDA0Mjc5YTVjYzQ5OGJlNzAzOTEzMjAwNjA2
+    algorithm: aes-256-gcm
+    iv: 44153bd788aa6447d7427084
+  target: 536
+- type: reply
+  channel: native
+  id: "541"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NmIzMWZiZjc1MTA3M2YyYTQwZjUyYw==
+        algorithm: aes-256-gcm
+        iv: 2a9923ee08976631f78276f7
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-12 22:26:00
+  content: IE6 就是这样一款经典的浏览器，能够最大限度、近乎苛刻地考验我们的耐心和气度。
+  ip:
+    encrypted: NDQyNzgxMjg5NTZkODMzODQ2ZTE1YzY1OWZkZWNj
+    algorithm: aes-256-gcm
+    iv: de0e9375132b71f4bd9e3f8a
+  target: 532
+- type: reply
+  channel: native
+  id: "542"
+  author:
+    name: 久酷
+    url: http://www.jiucool.com
+    email:
+      value:
+        encrypted: MDhkZDBiODM2ZWIzY2MwN2UxYjdhOTcyZDllYWRlOThiNDhlOTM=
+        algorithm: aes-256-gcm
+        iv: 3396de412319057707ac26ef
+      hash:
+        md5: 4b69a018b6b2914da4d59a332b074de9
+  published: 2009-03-12 23:09:00
+  content: 好像 现在主机也是转到US去了吧！非常好，感觉个人网站中很大一批都是定居于US，very good!^_^其实不是我们喜欢在美国而是被逼到美国去了。
+  ip:
+    encrypted: ZTY2MTE3N2I3YzUyZWMzMmI0ZDdjZWE2OWM2Zg==
+    algorithm: aes-256-gcm
+    iv: 6a0d4519639f0ad537c7f345
+- type: reply
+  channel: native
+  id: "543"
+  author:
+    name: xiaorsz
+    url: http://www.xiaorsz.com
+    email:
+      value:
+        encrypted: NjU3ZDZmYWI1ZmMwYmFhZDg4YjE3ZTJiZmMwOTljN2JkNA==
+        algorithm: aes-256-gcm
+        iv: fe4afbd270521aeb70ad29c7
+      hash:
+        md5: c419cb20777cc932e6edbc4aecf3400d
+  published: 2009-03-13 00:15:00
+  content: 要多折腾啊！呵呵！！
+  ip:
+    encrypted: YTgxOWRhNGQzYmVkYzE0MDRhMWY0ZTNlZTQ5Nzk0
+    algorithm: aes-256-gcm
+    iv: b5e0713d09ffbd245ec59d2e
+- type: reply
+  channel: native
+  id: "544"
+  author:
+    name: 会律博客
+    url: http://www.huilvsay.com
+    email:
+      value:
+        encrypted: MjI3ZDAwOWUwMjdhMWZkZTFjMGE3ZjEwNDNlYzRiOWVhODNh
+        algorithm: aes-256-gcm
+        iv: b7032830e0da85f449c8367f
+      hash:
+        md5: 3e5357f89afc7158faa3230e5ea57e51
+  published: 2009-03-13 08:41:00
+  content: 又是一个逃犯，改天叫咋档抓你去！嘿嘿！
+  ip:
+    encrypted: NGQwMmM5NTgwYjNmZDU3ZTVlMDZiZjJk
+    algorithm: aes-256-gcm
+    iv: df75f1771e7abe9444e6cf94
+- type: reply
+  channel: native
+  id: "545"
+  author:
+    name: Leeiio
+    url: http://leeiio.me
+    email:
+      value:
+        encrypted: OTE0NDM5MmFmYzE3YTZmNjViMGU1ZDBhMjJiNGM4MjE=
+        algorithm: aes-256-gcm
+        iv: e9587dc0595cd4c19a43e794
+      hash:
+        md5: ffa60157af668384f5325116efd02385
+  published: 2009-03-13 12:25:00
+  content: 国外的大部分主机都是可以搞php.ini的，比如bluehost之流的。
+  ip:
+    encrypted: Njk4YTZmMjNiMDkwZDQ2M2FhNzJmOTJl
+    algorithm: aes-256-gcm
+    iv: 74382f17ac72599e9fb5350c
+  target: 533
+- type: reply
+  channel: native
+  id: "546"
+  author:
+    name: Leeiio
+    url: http://leeiio.me
+    email:
+      value:
+        encrypted: MDMwOTFiZDIxNzc0YmE1Y2JiNTA0NGNmMGIxYmNhYWQ=
+        algorithm: aes-256-gcm
+        iv: d4115a19aa8af6afd2e78db6
+      hash:
+        md5: ffa60157af668384f5325116efd02385
+  published: 2009-03-13 12:26:00
+  content: 都是折腾的人哪~
+  ip:
+    encrypted: MzU2NjcwZmMyMzJmNzU5YjA3OTVjN2Ri
+    algorithm: aes-256-gcm
+    iv: 55cc1d8cbe439ef688997402
+- type: reply
+  channel: native
+  id: "547"
+  author:
+    name: 减肥食谱
+    url: http://www.jianfeicn.com.cn
+    email:
+      value:
+        encrypted: ODI1NjhmZmVmNjhiMWQwYzJhNWEwODcxNjcwZDIxMzY=
+        algorithm: aes-256-gcm
+        iv: e0bc6d03a2acdb244fb08da1
+      hash:
+        md5: 0f631e0b61ef0769379f4f84b0e23b78
+  published: 2009-03-13 12:29:00
+  content: 网站早已移民出去了，一般博客产插件越多感觉加载的就越慢~~
+  ip:
+    encrypted: MGNlNzhmODUxNWU5NDZkNzYxMzY1NTJhNTI1Zg==
+    algorithm: aes-256-gcm
+    iv: 08decd0392f9bfc591842b0c
+- type: reply
+  channel: native
+  id: "548"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NTkyN2JkZTMyYjEyYTQ3ODE0MjZmNQ==
+        algorithm: aes-256-gcm
+        iv: 0d50b82245c2a87bb4fbabf3
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-14 19:56:00
+  content: 可是某些插件还真是有用，而且，数量还不少
+  ip:
+    encrypted: YjVlMzA5YzA4Y2YxOWE2NjY5MzE0ZTU2NjQwZDk0
+    algorithm: aes-256-gcm
+    iv: 85090c035eb2fb07408f7cd3
+  target: 547

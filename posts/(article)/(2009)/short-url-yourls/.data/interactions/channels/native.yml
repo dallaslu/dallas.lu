@@ -1,0 +1,592 @@
+- type: reply
+  channel: native
+  id: "1013"
+  author:
+    name: Showfom
+    url: http://showfom.com/
+    email:
+      value:
+        encrypted: ODFkMjE4MDcxYzc3NzM0ZmUyMzAyNDI1MGM0MDQ1MDNkYg==
+        algorithm: aes-256-gcm
+        iv: e1c406928bbf78800c8b17d8
+      hash:
+        md5: 8406d089bc81b664a2610b8d214c1428
+  published: 2009-06-27 17:04:00
+  content: 好，你的文章先收藏
+  ip:
+    encrypted: NTYyMmY5ODY1MTViMjIzMTUzMzY1ZDUyYjJiOA==
+    algorithm: aes-256-gcm
+    iv: eb04dcff95a2df9137cbdb73
+- type: reply
+  channel: native
+  id: "1014"
+  author:
+    name: ABitNo
+    url: http://abitno.linpie.com
+    email:
+      value:
+        encrypted: ZWQwMGJiMzU1NGE5OGMzYmMzM2RmZGY4NGZmYzc2ODlkNDliY2I5Yw==
+        algorithm: aes-256-gcm
+        iv: ede50843bd004a1d9af69e85
+      hash:
+        md5: 7008a3be585decb7b82a3de4f293bfec
+  published: 2009-06-27 22:09:00
+  content: |-
+    看到你的博客首先喜欢的是这个绿色的主题，我最喜欢绿色了，可就是没发现什么很的绿色设计，这个主题的设计真不错。。。
+
+    现在有这么多好的创意，twitter又让bit.ly给火爆了。。。不知道我什么时候也有个好的创意
+  ip:
+    encrypted: NjY0MDk0NTYzODcxMDczYjIwNGNmNzk3
+    algorithm: aes-256-gcm
+    iv: 233cd455dbdc4b4a7e10bf4f
+- type: reply
+  channel: native
+  id: "1015"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: YzM1Yzg4OWEzMzQ4YmE5ZGEwYWIxNw==
+        algorithm: aes-256-gcm
+        iv: 8258ed564386d1082ae5db02
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-06-27 22:15:00
+  content: |-
+    我这个主题都用上半年了，期间涂涂抹抹才成这个样子，到现在还是个半成品。
+    创意这个东西，只能是妙手偶得啦，总会有的
+  ip:
+    encrypted: YzMzYWI3MjA0ZTk2ZjJlMTNhNzhmNjU4M2VhNQ==
+    algorithm: aes-256-gcm
+    iv: 63d9730fe1ff5596c0076308
+  target: 1014
+- type: reply
+  channel: native
+  id: "1016"
+  author:
+    name: ABitNo
+    url: http://abitno.linpie.com
+    email:
+      value:
+        encrypted: Mzg1NzY0Y2VmNTJhZDg3NDMzMzllNmNmMDA0MzA2NDBmYzZlOWI4Yw==
+        algorithm: aes-256-gcm
+        iv: 25a18c9a14667329e8d77dd5
+      hash:
+        md5: 7008a3be585decb7b82a3de4f293bfec
+  published: 2009-06-27 22:17:00
+  content: 主题的用户体验都很不错
+  ip:
+    encrypted: ZTUwYmI1MWE2YTgzNTUzNmRmODQzZjA2Mjg=
+    algorithm: aes-256-gcm
+    iv: e9631c083b7fbd690f312fbe
+  target: 1015
+- type: reply
+  channel: native
+  id: "1017"
+  author:
+    name: zwwooooo
+    url: http://zwwooooo.com
+    email:
+      value:
+        encrypted: MzhhOTUxNDQ0ZmZkOTkyNDZiNjdmMTk1MzI1MDk1N2M1ZmJj
+        algorithm: aes-256-gcm
+        iv: 18d863358f3f0d00fd61aa07
+      hash:
+        md5: c4f34886ef5967ac537c27b0bd6f6a3f
+  published: 2009-06-27 22:45:00
+  content: 看看，暂时不折腾。
+  ip:
+    encrypted: MDg5ZWQ1MDQ2NjE3NWVjZmJmMmEzMjZlMjE=
+    algorithm: aes-256-gcm
+    iv: a7db3c79df55ddc44f114ae3
+- type: reply
+  channel: native
+  id: "1018"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: MmQ1MDg3ZmE2NmI1NTc5Y2YxYTViZTA5M2EyYjU1Yjc2MmEy
+        algorithm: aes-256-gcm
+        iv: 421561be92b7517b26bdc601
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-06-28 02:38:00
+  content: 心痒痒想搞个短网址...
+  ip:
+    encrypted: MzExZTcwNGQ0ZGYzNjU5YmM2ZWI2NGQyOTQ=
+    algorithm: aes-256-gcm
+    iv: 2a0f6c56000842cb7d68f7ce
+- type: reply
+  channel: native
+  id: "1019"
+  author:
+    name: 卢松松
+    url: http://www.lusongsong.com
+    email:
+      value:
+        encrypted: MzA4ZDRkM2ZmZjFkOWFhYWQyOWE5MmM2NWVkNjE4
+        algorithm: aes-256-gcm
+        iv: 2a755e87b361569c313adf74
+      hash:
+        md5: b016fdf3945914d394b07ba16126c486
+  published: 2009-06-30 12:56:00
+  content: 对我不适用，因为我主推的是lusongsong.com这个域名 而不是他的域名
+  ip:
+    encrypted: MGNkNzY5YzU1YmYyMzU2NWIyMTExZjBiZjJlYzIy
+    algorithm: aes-256-gcm
+    iv: 667428b49d912a2d3a01b90c
+- type: reply
+  channel: native
+  id: "1020"
+  author:
+    name: Showfom
+    url: http://showfom.com/
+    email:
+      value:
+        encrypted: ZDY2YWU0MzdiYWEwMWRhZDlkMjJhOTE0NDdjMGUwMzNhOQ==
+        algorithm: aes-256-gcm
+        iv: a41857f62f6d13fe09d38b28
+      hash:
+        md5: 8406d089bc81b664a2610b8d214c1428
+  published: 2009-07-02 21:19:00
+  content: 这个是可以用自己的域名来建立的 囧
+  ip:
+    encrypted: YzU0Yjc4ODQxMDZhNGE5NGI0MzExNDNhODE=
+    algorithm: aes-256-gcm
+    iv: 344e52760d54612d3f086f42
+  target: 1019
+- type: reply
+  channel: native
+  id: "1021"
+  author:
+    name: Huey
+    url: http://www.iplaysoft.net/
+    email:
+      value:
+        encrypted: MGE1ZWEzZGI5MWU0OGI5MjdmMDcyMGM1NTdkNjJlOThlZGI1
+        algorithm: aes-256-gcm
+        iv: 25382dc74c20bf1c95f76d54
+      hash:
+        md5: fb3a13ebaf28da29a32a51dad0ed4b07
+  published: 2009-07-05 10:35:00
+  content: 订阅再说…
+  ip:
+    encrypted: OTQxNzYyZTJlZGJkMDMwMjQ5MDAzY2Ez
+    algorithm: aes-256-gcm
+    iv: 4278f3cad9ff0ba5299ffab4
+- type: reply
+  channel: native
+  id: "1022"
+  author:
+    name: 仁心博客
+    url: http://www.9sh.net
+    email:
+      value:
+        encrypted: YTMxYjJlMzBlMGFkZWQ3OGQyZWYwZjE3MTcxODIy
+        algorithm: aes-256-gcm
+        iv: 46fa669596f8c789d799cd50
+      hash:
+        md5: 23f735497eb40acdc2c99ca4f3de63b3
+  published: 2009-07-07 22:17:00
+  content: 这个真不错啊
+  ip:
+    encrypted: OGRlMmQyM2MxYjNlODBhZWI3MWNlYjg3ZTM=
+    algorithm: aes-256-gcm
+    iv: 598070e98eca88e5e94e01ec
+- type: reply
+  channel: native
+  id: "1023"
+  author:
+    name: 小花
+    url: http://kisexu.com/
+    email:
+      value:
+        encrypted: NzRkYWY1ZjdkNzA2ZDI1YThjZjM4MmM5YWZhYWI2YTE=
+        algorithm: aes-256-gcm
+        iv: 622397060ebda32184a031f7
+      hash:
+        md5: 67ffd3c961d86b4a3ea498d0bfb036f1
+  published: 2009-07-08 16:49:00
+  content: Dallas，我的yourls安装后，转发有问题，比如这个网址 http://kisexu.com/2 是一个转发地址，可是转发之后显示
+    string(19) "http://jingxiao.org" 不知道是什么问题，可以帮帮忙吗，告诉我什么原因，谢谢了
+  ip:
+    encrypted: YTQ1ZDBmNzYyODg5NzQwYmY3OWQ2YzQ1MmMzNg==
+    algorithm: aes-256-gcm
+    iv: 23c1749153e5c8744d1d7928
+- type: reply
+  channel: native
+  id: "1024"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: N2YwMmUxNjczY2I1MTlkZGMwNmZhZg==
+        algorithm: aes-256-gcm
+        iv: 630f70dab15d8e6f7f850539
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-07-08 17:51:00
+  content: 我刚升级到 1.1，也发现了这个问题。之前是没有的
+  ip:
+    encrypted: MWU4ZWRhZDk1ZjExNzAwNjBlZGUyMDU1YzI1OA==
+    algorithm: aes-256-gcm
+    iv: 480a09a6085f8c861e21f422
+  target: 1023
+- type: reply
+  channel: native
+  id: "1025"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZjZjNDdhMThmMzE2MzZiYjFjMDZmZA==
+        algorithm: aes-256-gcm
+        iv: b0e1c411b3b070e54c28b3f7
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-07-08 17:55:00
+  content: |-
+    打开 yourls-go.php ，第23行，改为：
+    //var_dump($url); die();
+    可能作者疏忽了吧，居然能忘记把这句话注释掉。
+  ip:
+    encrypted: NDIzN2JhMzk0Zjg4YWZjNTJiMWM0ZThkZGMyOQ==
+    algorithm: aes-256-gcm
+    iv: 2bd110c01001d91d8e91dce2
+  target: 1023
+- type: reply
+  channel: native
+  id: "1026"
+  author:
+    name: 小花
+    url: http://kisexu.com
+    email:
+      value:
+        encrypted: ZGY5ZjRiZTc2NGE1Mjk5NmM0ZDkwNDk4NjFiNDA4YWU=
+        algorithm: aes-256-gcm
+        iv: cce9830d8d5c4ef8575abbf5
+      hash:
+        md5: 67ffd3c961d86b4a3ea498d0bfb036f1
+  published: 2009-07-08 18:10:00
+  content: 太感谢了，你是个好人啊！
+  ip:
+    encrypted: YzNmMjgxMTllZWEyZTk0NGNlODU1NQ==
+    algorithm: aes-256-gcm
+    iv: 39e262959bb20b06ca127557
+  target: 1025
+- type: reply
+  channel: native
+  id: "1027"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NTIyYzE1N2M1YTQwZjUzOTFjZWVlMg==
+        algorithm: aes-256-gcm
+        iv: ef77cbe0ed98fd72794d8155
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-07-08 18:14:00
+  content: 呵呵。我看到你在装 WordPress ？
+  ip:
+    encrypted: ODc5YjAwODgwNGI0ZjA1MGEzY2MyZWJiMDJkNA==
+    algorithm: aes-256-gcm
+    iv: c09147e60122f4fa4ac0f8c4
+  target: 1026
+- type: reply
+  channel: native
+  id: "1028"
+  author:
+    name: 小花
+    url: http://kisexu.com
+    email:
+      value:
+        encrypted: YjQzYjE4NGI4ZmJmNmFiMWQ2OWIwMjg0ZjhhMTdiNGI=
+        algorithm: aes-256-gcm
+        iv: fd2f5d224e1d58dc6761848b
+      hash:
+        md5: 67ffd3c961d86b4a3ea498d0bfb036f1
+  published: 2009-07-08 18:16:00
+  content: 恩，是装第N次（N&gt;20)了，这回准备先自己做个主题再装
+  ip:
+    encrypted: YmE2OGMzNzk2MmM2ZjQ2Y2NiZDJjZQ==
+    algorithm: aes-256-gcm
+    iv: 63b0844f91e8e32b8d3d3b9b
+  target: 1027
+- type: mention
+  channel: native
+  id: "1029"
+  published: 2009-08-01 08:08:00
+  url: http://showfom.com/yourls/
+  content: "[...] //var_dump($url); die();不修改的话生成短网址的时候会出错，感谢 Dallas
+    发现。&#160;安装：Yourls 的安装方法也比较简单，首先打开 includesconfig-sample.php [...]"
+  author:
+    name: 使用 Yourls 强化你的短网址系统 - Showfom's Blog
+- type: reply
+  channel: native
+  id: "1030"
+  author:
+    name: Showfom
+    url: http://showfom.com/
+    email:
+      value:
+        encrypted: YzEwNTJhZjcxMjcyYTZiOGJlNzQzNjFlMGJjZjEzNDk2NQ==
+        algorithm: aes-256-gcm
+        iv: b3fec5a2cefe48c831a47353
+      hash:
+        md5: 8406d089bc81b664a2610b8d214c1428
+  published: 2009-08-01 08:26:00
+  content: http://showfom.com/yourls/  我写好详细的教程了 嘎嘎~
+  ip:
+    encrypted: MWYwYmU2NzFmYmU0ZThkMjYyNWQxNTMwOGJlZg==
+    algorithm: aes-256-gcm
+    iv: 792ab00dff1c4320ed74314b
+- type: reply
+  channel: native
+  id: "1031"
+  author:
+    name: 西风
+    url: http://www.naease.com
+    email:
+      value:
+        encrypted: NWY5MmVjZjcyMzZmNjIwYzdiMWFkNDE4
+        algorithm: aes-256-gcm
+        iv: 02548297996d366fb9e4528e
+      hash:
+        md5: acb833676d4887ce1d92439e5e5092bf
+  published: 2009-08-01 10:51:00
+  content: 好文章
+  ip:
+    encrypted: Mzg0MGZhYTUwZmNjOTk4ZGZjODU0MDE5MzNlMTNj
+    algorithm: aes-256-gcm
+    iv: 91f9fa93d5c410c3256b15b4
+- type: reply
+  channel: native
+  id: "1032"
+  author:
+    name: Gonten
+    url: http://www.gonten.com
+    email:
+      value:
+        encrypted: NDA0YjdkOWE4MzEzMDU1MGVkYTc2NDNmNjE=
+        algorithm: aes-256-gcm
+        iv: ad9d273dfbcbedf9e404cc9e
+      hash:
+        md5: 337d660089cd636c75076122ed4f3e89
+  published: 2009-08-01 18:14:00
+  content: 我的不能自定义伪静态，郁闷哦
+  ip:
+    encrypted: ZGQyYjA4MjI0ODVlZDIzNGE0YmYwYTg3ZmU=
+    algorithm: aes-256-gcm
+    iv: 1b0ebc19ece77f45604f0018
+- type: reply
+  channel: native
+  id: "1033"
+  author:
+    name: Dianso
+    url: http://014.cc
+    email:
+      value:
+        encrypted: NmVhMjE3MzQ3NGQyMDRmODgwNmZkMzU0ZDY=
+        algorithm: aes-256-gcm
+        iv: c1e680ee8c692be585a3fe9d
+      hash:
+        md5: fd126aa64db6755fe66749e7870b9c9c
+  published: 2009-08-01 20:36:00
+  content: 谁建立好了啊，发个演示看看。
+  ip:
+    encrypted: OTYwZDI0NWVlZWVhN2Y1NWJmNjg4ZjM5ZmQ=
+    algorithm: aes-256-gcm
+    iv: d6785c66d5b78ba5da4a7419
+- type: reply
+  channel: native
+  id: "1034"
+  author:
+    name: dreamtale
+    url: http://room302.cn
+    email:
+      value:
+        encrypted: NzMzYWRkZDJkYzk4Yjk0MmVkYzBjN2I2YWI=
+        algorithm: aes-256-gcm
+        iv: ed9689792251d3ace462fb6d
+      hash:
+        md5: ee1b7d96518d8c50b0cf885492e2c95f
+  published: 2009-08-01 22:17:00
+  content: 哇，你的主题好好看
+  ip:
+    encrypted: M2NmMDljNjJlYjVkZWVjNDdhYjA1NWUzNmQxYWU0
+    algorithm: aes-256-gcm
+    iv: b7e764d474e6d409da84e540
+- type: reply
+  channel: native
+  id: "1035"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: YTJhN2I1NGY0NmU4NGI5NmFmZDBjOQ==
+        algorithm: aes-256-gcm
+        iv: 44ad4e7ddb969a7b0f2e8f05
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-08-05 08:32:00
+  content: 羞赧中 ……
+  ip:
+    encrypted: MDUxMDJjZDI3OGIzZjhiNGUyNjIyYjhjODMzYTky
+    algorithm: aes-256-gcm
+    iv: 140799655d4b66dcf39be5c1
+  target: 1034
+- type: reply
+  channel: native
+  id: "1036"
+  author:
+    name: Travis
+    url: http://b.imi.im
+    email:
+      value:
+        encrypted: ODU2NTIzZjQ5YjI4NDhkMg==
+        algorithm: aes-256-gcm
+        iv: a5292907e15aa20597d35ebf
+      hash:
+        md5: 563e34c117c588b4fbaf6a8cf3cd4870
+  published: 2009-12-01 11:23:00
+  content: 成功   http://fir.im
+  ip:
+    encrypted: M2UyOTM1MTg3NDllYmY4NzhkNjIzMDkxMDljOTc2
+    algorithm: aes-256-gcm
+    iv: 1017bc02d592b1cf69c4a939
+- type: reply
+  channel: native
+  id: "1037"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: Y2YxZjE3MTllOGJiNTEwMjQwZjhmZA==
+        algorithm: aes-256-gcm
+        iv: bf6685f0b6f09b1109ba2eb7
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-12-01 21:23:00
+  content: 很拉风的米
+  ip:
+    encrypted: NWE2N2U5YzEyZThmNzYyYTczOGEwYTcwYjQyNGY2
+    algorithm: aes-256-gcm
+    iv: 9d17573317b4cb689bd3c645
+  target: 1036
+- type: reply
+  channel: native
+  id: "1038"
+  author:
+    name: Travis
+    url: http://b.imi.im
+    email:
+      value:
+        encrypted: ZGU4NDA4Y2Q3NmFkODNmNg==
+        algorithm: aes-256-gcm
+        iv: 5f71aa8843d675d5d6c6e14a
+      hash:
+        md5: 563e34c117c588b4fbaf6a8cf3cd4870
+  published: 2009-12-04 16:30:00
+  content: |-
+    一般一般  我还有
+    imi.im
+    immi.im
+    没舍得用呢
+  ip:
+    encrypted: NDhjMzUxOGZhMzk5Yjg4NjJjYWU0MjRiNWY2MzI3
+    algorithm: aes-256-gcm
+    iv: 41e6e429f3e59d6bd3ed53d2
+  target: 1037
+- type: reply
+  channel: native
+  id: "1039"
+  author:
+    name: 屁屁虎
+    email:
+      value:
+        encrypted: MTMzNmIyNDkzMDc1NzYwNmQ0YTk2MjUxNjU2OA==
+        algorithm: aes-256-gcm
+        iv: a6824599a152c0dd4d0f7a01
+      hash:
+        md5: db06fc67586fca6cd5d7006887a005f1
+  published: 2009-12-22 00:28:00
+  content: 我比较喜欢d88w.cn，因为很简单，而且还有自定义别名和点击数统计功能
+  ip:
+    encrypted: YjQ5Mzc0YzQxNDlkNGNjNmMxN2QxOGEzZmQ=
+    algorithm: aes-256-gcm
+    iv: 6656a21a0e5c6297841f8665
+- type: reply
+  channel: native
+  id: "1040"
+  author:
+    name: stonehoo
+    url: http://sthoo.com
+    email:
+      value:
+        encrypted: M2IwY2VhMTU2MGQyNjY4ODVkMzdlOWUwMTE1NGRmZjFjOTk3N2FkOA==
+        algorithm: aes-256-gcm
+        iv: c4a32fbe88e86db62f627610
+      hash:
+        md5: 097075e639ecf2b1342c1c208072b2c0
+  published: 2010-01-08 14:00:00
+  content: showfom童鞋不错 我要看看安装教程 哈哈
+  ip:
+    encrypted: MDg3NjMxYzNlMGU5NDM4MDBiZjRiNmEyZjFiNA==
+    algorithm: aes-256-gcm
+    iv: e9d645cec96cb3e555536d3d
+  target: 1030
+- type: reply
+  channel: native
+  id: "1041"
+  author:
+    name: 橡筋
+    url: http://blog.tofud.com
+    email:
+      value:
+        encrypted: MmRmN2UyMGIzMjM2MmE3NTAwMWI1NzJmOTdlZDRkMTQ=
+        algorithm: aes-256-gcm
+        iv: 878f4861b39d5bc738184d41
+      hash:
+        md5: b8c1faa7cbe20fc07e474c4663cabe1f
+  published: 2010-01-31 18:14:00
+  content: |-
+    我的也成功了！！谢谢兽兽的教程！
+    演示：http://2kg.us/1
+  ip:
+    encrypted: ODk5NWI2ZmEwMDMxZjM0MmE1Y2EyODA5ZTM=
+    algorithm: aes-256-gcm
+    iv: e9286905266eca9e7c8bd41a
+- type: reply
+  channel: native
+  id: "1042"
+  author:
+    name: 何苦呢
+    url: http://nowayhere.com
+    email:
+      value:
+        encrypted: NzRkY2ZhZDI1ODg2YTZlMDFhY2FiMWY1YjFkMDZm
+        algorithm: aes-256-gcm
+        iv: 80d25ea3ac544478010a92b6
+      hash:
+        md5: 2d726c591648e2ca2dff79290fc266e7
+  published: 2010-12-18 17:04:00
+  content: 太复杂了 还不如用简单一点的。
+  ip:
+    encrypted: MmRjZTE2MDY3MDIxOWQwYWE5MzIyYThiY2Q=
+    algorithm: aes-256-gcm
+    iv: b41e79b0a95e02d0d7ad8a74

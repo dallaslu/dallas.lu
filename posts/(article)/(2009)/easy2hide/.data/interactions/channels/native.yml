@@ -1,0 +1,3157 @@
+- type: reply
+  channel: native
+  id: "867"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: YWMzMWVkNmFkOWUzYjgzNzM5YTE1Zg==
+        algorithm: aes-256-gcm
+        iv: 12d3cd2e8019b05ec82188dd
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-21 16:39:00
+  content: 测试一下咯
+  ip:
+    encrypted: NGUyMDNlN2YzZjk1MGZlOTY0ZWE1MGUzZGI0YQ==
+    algorithm: aes-256-gcm
+    iv: 4cec6af6f77b5f76907e0d87
+- type: reply
+  channel: native
+  id: "868"
+  author:
+    name: Shawn
+    email:
+      value:
+        encrypted: OWJjYzExMWMzMmY4OTg3NWY5ZThiY2U5N2E4OWEzMzEwMw==
+        algorithm: aes-256-gcm
+        iv: 0907cbd4004720bbd5b30492
+      hash:
+        md5: d71862a81f0165cd7faf178d6198f3be
+  published: 2008-12-21 17:35:00
+  content: 不错
+  ip:
+    encrypted: YTRiODRjNmRiMGNiM2NlNWQyYTg0MmI0YWQ=
+    algorithm: aes-256-gcm
+    iv: 902eba73d56ffeef18b06928
+- type: reply
+  channel: native
+  id: "869"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MThkMTJhMjBkOTNkNDFiNjRkMzEwYQ==
+        algorithm: aes-256-gcm
+        iv: 3913a82ce7530b0f82257213
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-21 17:43:00
+  content: 哪里不错？莫非你昨天也下了？呵呵
+  ip:
+    encrypted: Nzc1NDA0NDVkZDQ0MTc5ZGY5NTk5NTM2YmZjNA==
+    algorithm: aes-256-gcm
+    iv: bccf9df7cca4ec43f2acdb5e
+  target: 868
+- type: reply
+  channel: native
+  id: "870"
+  author:
+    name: Shawn
+    email:
+      value:
+        encrypted: MDYzYTcyZDdiZWUyNzMzZTYyNDQ5ZDJmNDE1MmM1MzFjYw==
+        algorithm: aes-256-gcm
+        iv: a55139c4916d02f47dc5f1e6
+      hash:
+        md5: d71862a81f0165cd7faf178d6198f3be
+  published: 2008-12-21 17:45:00
+  content: 没有。。我说把这个思路用于文章内容的想法不错。
+  ip:
+    encrypted: NDI0MzRiYjQ5OWJmYjZlZDgxZjkwMThjOTQ=
+    algorithm: aes-256-gcm
+    iv: 3006e08b0752b625e9847e2a
+  target: 869
+- type: reply
+  channel: native
+  id: "871"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: NTEwMjc0NTY4Yjc5MzZlMWQyMDAwYjBiMjhiNTZjY2Y0ZTk5ZDRmMGU5MDQ=
+        algorithm: aes-256-gcm
+        iv: fc214bd07b7a911dcd429d56
+      hash:
+        md5: 5b5274fe979864736dc6cf59036eed3c
+  published: 2008-12-21 18:40:00
+  content: |-
+    我晕。。敢情AV也是激发创作的动力之一！哈哈
+
+    其实原先就不是很喜欢论坛里的这一设置。。那些要积分的就更麻烦了。。
+  ip:
+    encrypted: ZWMyZGEyZjUzNDcxNDNlN2Y3MTAwZjg2NmU4MA==
+    algorithm: aes-256-gcm
+    iv: 2136ef44aa058eff45759682
+- type: reply
+  channel: native
+  id: "872"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ODA0YTM2NzFkOTJjNWUyZDYxZjc1Nw==
+        algorithm: aes-256-gcm
+        iv: fca8625611ba171298e6febc
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-21 19:44:00
+  content: 总有一些东西不愿意随便暴露的，比方这个下载链接。适合没事找揍卖关子的人。这个插件要是搞牛了，拿来做个有奖评论之类的也不错哈
+  ip:
+    encrypted: Mzc0ODM3NTJlY2U5MmE3YmIxZmU0OGE1MjA5Yw==
+    algorithm: aes-256-gcm
+    iv: 0f9325e3c9ba498a3ba03fa0
+  target: 871
+- type: reply
+  channel: native
+  id: "873"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: YzFlM2M1MmYzYmQzNTY4YTViMGNjNmM3MTU5MDU2MTVhNWJl
+        algorithm: aes-256-gcm
+        iv: c506a50e9d510a632a58fff2
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2008-12-21 22:43:00
+  content: |-
+    welee 的自拍裸照，下载地址：
+    抱歉！只有成为 welee 的女友才能看见隐藏的内容。
+    ------------------ 呵呵，玩笑一下 :P
+
+    这插件构思不错，不过需要慎用，免得赶走访客就不好了。
+  ip:
+    encrypted: NDQwYjUwZTM2MDExM2RiMGRlNzBhZTcx
+    algorithm: aes-256-gcm
+    iv: 278cad0f01731ec5ee6b12b5
+- type: reply
+  channel: native
+  id: "874"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZjNiMjdiNDcwZmE4ZTFkYjRiNzM2Zg==
+        algorithm: aes-256-gcm
+        iv: de69a48ff21759e131a4a81a
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-21 22:47:00
+  content: 你把“女友”俩字换成男友，肯定留言量飙升。另，这插件在留言里也支持隐藏。
+  ip:
+    encrypted: MmI1ZDEzNzlmNjk3MjU2MjVlNTNjMTM0ZmFlNw==
+    algorithm: aes-256-gcm
+    iv: 00ee080cd60dde2e0a0bdbf9
+  target: 873
+- type: reply
+  channel: native
+  id: "875"
+  author:
+    name: xiaorsz
+    url: http://www.xiaorsz.com
+    email:
+      value:
+        encrypted: MDExMzkxN2UzNjc3Yzk4YzdjZTcwMmUyMjY1ZGZhYjMzZQ==
+        algorithm: aes-256-gcm
+        iv: bb2f76e7426a3ed68238effb
+      hash:
+        md5: c419cb20777cc932e6edbc4aecf3400d
+  published: 2008-12-21 22:58:00
+  content: |-
+    不错，收藏了哈！
+    说不定哪天能用到呢！！！好多论坛都这样，哈哈！
+  ip:
+    encrypted: YTU5NjM1YzYxZGVmMDAxNTM2Yjk1ZGMzNzBmZg==
+    algorithm: aes-256-gcm
+    iv: f21f5f5b67cc0f4270450d6f
+- type: reply
+  channel: native
+  id: "876"
+  author:
+    name: xiaorsz
+    url: http://www.xiaorsz.com
+    email:
+      value:
+        encrypted: MWZlMjlkYmY4NjJjN2E5NWRlNWE4N2ExMGI1ZjhhOTc1ZA==
+        algorithm: aes-256-gcm
+        iv: df7eaebc2295e0cd131477f0
+      hash:
+        md5: c419cb20777cc932e6edbc4aecf3400d
+  published: 2008-12-21 22:59:00
+  content: 貌似更改和隐藏那里有点小问题哈！
+  ip:
+    encrypted: MWE2MTcwZDgxMGY5NWFiYWRiZDZjNjM2OGE2Mg==
+    algorithm: aes-256-gcm
+    iv: a92d900c8c92a4ef08057a8b
+- type: reply
+  channel: native
+  id: "877"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZmEzYTJjMTJkMTQ3ZDliY2EzZDBhOQ==
+        algorithm: aes-256-gcm
+        iv: ca864f951539dc0bfc217817
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-21 23:11:00
+  content: 我很久以来都是登录状态，今天上午发现了问题。不过已经改了啊，你强制刷新下看看？
+  ip:
+    encrypted: ZGE4ODdjMTZmNGY0ZTk2NjMxZTczMzA2ZDhkNA==
+    algorithm: aes-256-gcm
+    iv: ae1ee267c7fe59816a334988
+  target: 876
+- type: reply
+  channel: native
+  id: "878"
+  author:
+    name: bssn
+    url: http://www.bssn.org
+    email:
+      value:
+        encrypted: MTMxMTJkZGNlZGQzYzUyZjIzZmMyMmRlYWQ=
+        algorithm: aes-256-gcm
+        iv: 8f02c71a3d794b4ab69a93ce
+      hash:
+        md5: d199e94de3ffde95823ad520cfe032c3
+  published: 2008-12-23 11:01:00
+  content: 已经投入使用了？
+  ip:
+    encrypted: ZDE3Nzk0YzM4OWY0ZGU0MjdlMGUxZTA2
+    algorithm: aes-256-gcm
+    iv: f0aabd313e5c4e7b46d0a35e
+- type: mention
+  channel: native
+  id: "879"
+  published: 2008-12-23 13:31:00
+  url: http://blogunion.org/wordpress/wordpress-plugins/easy-to-hide.html
+  content: "[...] Easy to Hide wordpress插件下载链接：猛击这里。 [...]"
+  author:
+    name: Easy to Hide wordpress插件：仅对发表评论者开放部分内容 - 博客联盟
+- type: reply
+  channel: native
+  id: "880"
+  author:
+    name: Andor
+    url: http://wordzine.cn
+    email:
+      value:
+        encrypted: NjRmOThmYmY1NmU4MzlmNzUxOTJlZWIwMTJkYWMzYWJmNjA2YjNmMGI1
+        algorithm: aes-256-gcm
+        iv: fbdddfceafc6f11aa26fc9ba
+      hash:
+        md5: a9b5fc6465e3bcc5f71a045998b80579
+  published: 2008-12-23 15:50:00
+  content: 嗯，中国特色~
+  ip:
+    encrypted: MTJkMmExZGQ4NDliODg2MGE0NmYyOGFkOTY4YTQ4
+    algorithm: aes-256-gcm
+    iv: 7dc4be75bc68bf6dba758a9d
+- type: reply
+  channel: native
+  id: "881"
+  author:
+    name: 曾英杰
+    url: http://blogunion.org
+    email:
+      value:
+        encrypted: MGRlYmY1NzNhZDU2ZjAzNDFiZWEzNzQzOWVlMjk3YzE=
+        algorithm: aes-256-gcm
+        iv: 94f45223e7eb0a256776c4a5
+      hash:
+        md5: e717bf291df754917f334c8f308f36b4
+  published: 2008-12-23 18:55:00
+  content: 多谢，非常有意思的插件，找了很久了。
+  ip:
+    encrypted: MTJjODY5OGZkNGRkYjAwZDQ5ZmYxODI4
+    algorithm: aes-256-gcm
+    iv: b2388b642b5240ac07ec1448
+- type: reply
+  channel: native
+  id: "882"
+  author:
+    name: mercy
+    url: http://meecy.com
+    email:
+      value:
+        encrypted: Y2VjNDQxODc2NjM0ODQwZTcwYjFkNWNiZDczNGIw
+        algorithm: aes-256-gcm
+        iv: 2d1c239d9b45f276c52aa22d
+      hash:
+        md5: a2dcf8411c372d9334aefe3a598aade1
+  published: 2008-12-23 18:58:00
+  content: 此处作者自删除[cookie]×××[/cookie]字，这样也行？
+  ip:
+    encrypted: YTZkMGMzYjM3MDc1ZmFiZGZkNzcyNA==
+    algorithm: aes-256-gcm
+    iv: 5d3561e7c45a5cca03b77b01
+- type: reply
+  channel: native
+  id: "883"
+  author:
+    name: Caimin
+    email:
+      value:
+        encrypted: NDMwOTFjODZlMzdlNWE4Yjg2MTc=
+        algorithm: aes-256-gcm
+        iv: 504bd94a63f90b729cff024c
+      hash:
+        md5: 58f9935d07cbbf2402a83b26b5fc93c6
+  published: 2008-12-23 19:07:00
+  content: klvnjskldfvn
+  ip:
+    encrypted: NzNjMjM0NGRkNzJiY2UzMjExOGQ0OGJi
+    algorithm: aes-256-gcm
+    iv: 1f14f5634df0d5037e3b3ae3
+- type: reply
+  channel: native
+  id: "884"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: MDM2OTU4MzljYmEzMmRiNzhmOGM4ZWI0NzVjMDRhNWVkOTljMjYzYzI2NWM=
+        algorithm: aes-256-gcm
+        iv: cc099d150e57371dd7f1e868
+      hash:
+        md5: 5b5274fe979864736dc6cf59036eed3c
+  published: 2008-12-23 19:50:00
+  content: 哇色 都已经发到WP官方去了^^牛人！
+  ip:
+    encrypted: NzVmNTk4Yzg1NThjMDNkMGE5Mjg1NDY3OWQyMg==
+    algorithm: aes-256-gcm
+    iv: 7a53e4c2cebd45263021b3ff
+- type: reply
+  channel: native
+  id: "885"
+  author:
+    name: 沿阶草
+    url: http://www.yanjiecao.com
+    email:
+      value:
+        encrypted: NzAzZTE2NmFjYzhhMDljM2EzYWJhMzA4YzBlNDZmODZjNzJmZDM=
+        algorithm: aes-256-gcm
+        iv: fc2cbf3684a9798378fe0d37
+      hash:
+        md5: 3073c3227d023c3d7d579cf62d0c25e9
+  published: 2008-12-23 19:52:00
+  content: |-
+    是不是CSS隐藏啊？
+    discuz论坛的那种强大功能确实比较有用，对于那些社区博客来说。
+  ip:
+    encrypted: NTUyYTdjM2FkNzg3NjY1YTkwNjNkZWVj
+    algorithm: aes-256-gcm
+    iv: ceea53e1c981ccd42d3af64e
+- type: reply
+  channel: native
+  id: "886"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OTE1NzUzNTdlMjVmMTQ3MjQwZmM4Yg==
+        algorithm: aes-256-gcm
+        iv: 6b001922ce316bf18d59929f
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-23 20:11:00
+  content: 是啊，评论里也可以用。
+  ip:
+    encrypted: MGRlYmU2ZmMzMmJhMDEwNDg3ZWZlMTcwNWM2Mg==
+    algorithm: aes-256-gcm
+    iv: e24e3e746f7e77993bb739cf
+  target: 882
+- type: reply
+  channel: native
+  id: "887"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: YWE4NjM5MzA5NWY4MjcxOTdiYTM1ZQ==
+        algorithm: aes-256-gcm
+        iv: 1a8070948f1fdd2005c4294b
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-23 20:12:00
+  content: 不是 CSS 地，把这两个标签中间的内容根据 cookie 判断替换掉相关的内容。
+  ip:
+    encrypted: NmNhZTBlYWQ2NWYyMjM4ZGI0MGMzMjFmYjRjOA==
+    algorithm: aes-256-gcm
+    iv: d5a99161a0a25df9ecc724f6
+  target: 885
+- type: reply
+  channel: native
+  id: "888"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MjYwOTQ0YTc0NTE2MjgxMDkyMWZkNg==
+        algorithm: aes-256-gcm
+        iv: bf5cf213426559fe7826419a
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-23 20:14:00
+  content: 别的不发，这个也得发下，嘿嘿，俺第一个插件
+  ip:
+    encrypted: NWVlMWFhYWVmYTI0M2VmNTdhMmNmNjg5NzBiZQ==
+    algorithm: aes-256-gcm
+    iv: 1ffad0849bdaf836cb0bfe6a
+  target: 884
+- type: reply
+  channel: native
+  id: "889"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: YmFkNzQ1NzQ5ZjdjZjY1MzhlOGNhYg==
+        algorithm: aes-256-gcm
+        iv: 8f72ca4cbd3577d097901730
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-23 20:15:00
+  content: 您是不是奔着电影下载地址来的？ -_-||
+  ip:
+    encrypted: NDkyOTkyZDNkNzdiOTI1YTYxY2RjY2ZhYTAwMw==
+    algorithm: aes-256-gcm
+    iv: 536f7f0c8b6cc6c252888e55
+  target: 883
+- type: reply
+  channel: native
+  id: "890"
+  author:
+    name: sofish
+    url: http://www.happinesz.cn/
+    email:
+      value:
+        encrypted: NzA0Y2MzYTlmNWNhYzkyZjg5NDA1Zjg2N2EzNA==
+        algorithm: aes-256-gcm
+        iv: 2b5d315108551cb168ef85de
+      hash:
+        md5: e8fb37bb5570f1f8a349a5d248ede347
+  published: 2008-12-23 21:16:00
+  content: 经，不过，很好玩，哈哈，强大。
+  ip:
+    encrypted: YThmNTNmNmI0ZGU4NmI1NDVjZjMxMGQ3NTM=
+    algorithm: aes-256-gcm
+    iv: 931606632b0cb6a59c150ee4
+- type: reply
+  channel: native
+  id: "891"
+  author:
+    name: dupola
+    url: http://dupola.com
+    email:
+      value:
+        encrypted: NmJkZDM3MWNlNjc2Yzc5YWFhOTZiNTRlZWFmNzFmN2NiZWZmNTA3ZA==
+        algorithm: aes-256-gcm
+        iv: d93540fc35acfe5948a0fced
+      hash:
+        md5: a852ba5e9a48f4bc69e7a537940e73fe
+  published: 2008-12-24 02:32:00
+  content: 来来来，测试一下。。。
+  ip:
+    encrypted: ZmMyZTJhM2YxZTE1ZDE0Zjg0YTNkMjM4NDIzOQ==
+    algorithm: aes-256-gcm
+    iv: 362d18af7f4233d5807e9fef
+- type: reply
+  channel: native
+  id: "892"
+  author:
+    name: MY-Hou
+    url: http://myhou.org
+    email:
+      value:
+        encrypted: ZTNmZGIyODAxNTFlYmI4MjE0ZTdjZDIyYzEwNTBmNzI0NDk2
+        algorithm: aes-256-gcm
+        iv: 7c76c0b06c8424f553969763
+      hash:
+        md5: 28abf68414bf71deaba661b7ba1c332e
+  published: 2008-12-24 02:41:00
+  content: 我要惊喜、我要惊喜...哈哈
+  ip:
+    encrypted: MDMzOGMzNDc0OTI3NjkwYWY1MDQ1NmMw
+    algorithm: aes-256-gcm
+    iv: c7fd5292d7df3007cf740a8a
+- type: reply
+  channel: native
+  id: "893"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MDBiZDA3MjgwNjg4OTIzY2NlYmJhOQ==
+        algorithm: aes-256-gcm
+        iv: b43949c102f20bd47214177d
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-24 04:20:00
+  content: 我没记错的话，这个下载还是你发滴吧
+  ip:
+    encrypted: OWQ3ZTI5YTY3YjNlZTMyMzczMzRlOThkMzY4NQ==
+    algorithm: aes-256-gcm
+    iv: 121aa594c40bcb3541da3c12
+  target: 892
+- type: reply
+  channel: native
+  id: "894"
+  author:
+    name: you
+    url: http://volgus.cn
+    email:
+      value:
+        encrypted: MTg2YWIxNTY2YzkzNDU3MmM1OGU3ZTAzMDY5Mjli
+        algorithm: aes-256-gcm
+        iv: 07d24abeb55bfece25c3fbc5
+      hash:
+        md5: 0027ea9fbf16573bcd89abb4117f24d0
+  published: 2008-12-24 16:25:00
+  content: 強大的說，測試一下。
+  ip:
+    encrypted: YTI4NjYyY2VjZjY1MTE5Mzk5YzEyNGNl
+    algorithm: aes-256-gcm
+    iv: 93ec7611f0f329385e106b2f
+- type: reply
+  channel: native
+  id: "895"
+  author:
+    name: daniel
+    url: http://3xspace.cn
+    email:
+      value:
+        encrypted: Yzk0ZGY2YzRjOGVkY2YzMzQ0MjIwODcwNWM=
+        algorithm: aes-256-gcm
+        iv: 9b174c5a46c30f8c0fc427a8
+      hash:
+        md5: 3cf71b46a50c3c109ab8c214c0ff4659
+  published: 2008-12-26 16:04:00
+  content: 很不错的插件，我也在空间介绍一下
+  ip:
+    encrypted: M2Q0ZDdlMDViZDYwNDcxMTJhYWQ1NTkwYTQ0MQ==
+    algorithm: aes-256-gcm
+    iv: 1e135bafa58e6ba26c604648
+- type: mention
+  channel: native
+  id: "896"
+  published: 2008-12-26 18:35:00
+  url: http://3xspace.cn/wp-plugin-easy2hide1226.htm
+  content: "[...] 插件是国人开发的，有兴趣的去Dallas博客看看吧。 [...]"
+  author:
+    name: Easy2Hide回复后可见 | 资讯520
+- type: reply
+  channel: native
+  id: "897"
+  author:
+    name: 坏人 Huài Rén
+    url: http://www.vsssv.net
+    email:
+      value:
+        encrypted: ZGY2ZGY3M2I2YzkzNDM2ZGE1OGM2NDY0ZDk1YjkwOWI=
+        algorithm: aes-256-gcm
+        iv: fa1c38f1b11ceb5b3230b9a0
+      hash:
+        md5: 5440aecce8f1c79202fefe9fa6f7420e
+  published: 2008-12-27 01:48:00
+  content: |-
+    为什么我在本地测试总是隐藏不成功呢
+
+    需要不同IP测试吗
+  ip:
+    encrypted: NDAyZWY5MDljN2ZjYTM3ZmRjN2UzMTk4NGRiNWYy
+    algorithm: aes-256-gcm
+    iv: 25174b792f1fbfc6395ae13b
+- type: reply
+  channel: native
+  id: "898"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ODc4MzM1Y2Q4OWFkM2JjNTkwNTAxNQ==
+        algorithm: aes-256-gcm
+        iv: 1306214242184f29788150a1
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-27 09:43:00
+  content: 清除 Cookie 试试
+  ip:
+    encrypted: MGI5ZWZhNjIxZmY0ZGZjZTVhMDdjMWMxNTAzMzAx
+    algorithm: aes-256-gcm
+    iv: 8f94d78824c84aa7def414ad
+  target: 897
+- type: reply
+  channel: native
+  id: "899"
+  author:
+    name: daliu
+    url: http://www.whminsu.com
+    email:
+      value:
+        encrypted: NDM1OTY4OTFmMGVjYzk1YzIzNDRhNGMyMWU4OGYzOGMzZg==
+        algorithm: aes-256-gcm
+        iv: cbde01143ee91727e6be15c0
+      hash:
+        md5: 053dfc6bc9fde0feda102de14fa39447
+  published: 2008-12-27 16:49:00
+  content: 这个插件在我这里有些错乱，找不到按钮。但是点击查找的时候到出现了。还有，能否更加完善一番，将按钮直接放在tinyMce界面中？倒是很期待这个样子的。
+  ip:
+    encrypted: MzEyNDJlODFiNzg3MWM2OTFmOTZiNmRl
+    algorithm: aes-256-gcm
+    iv: 70af64b84f09017184459e1b
+- type: reply
+  channel: native
+  id: "900"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZTM1ODRiYjU4NzNhNDgyMTk4MTM3NQ==
+        algorithm: aes-256-gcm
+        iv: 0951fd23603095b646ebfda0
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-27 18:13:00
+  content: 不会吧～我在几个博客测试都有按钮的说。主要是 quicktag 里加按钮比较简单，等过段时间下个版本增加功能后会考虑的。
+  ip:
+    encrypted: OWYwZGM1YzIzZjc3OGIzZjZlMmVmMmVhZmYzMg==
+    algorithm: aes-256-gcm
+    iv: 6ef865eb3f353f72b559a3cc
+  target: 899
+- type: reply
+  channel: native
+  id: "901"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZGY2MTQ4N2M0MTE3YzgyMjMwOGY4Yg==
+        algorithm: aes-256-gcm
+        iv: b34189cb080c05c13f14856e
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-27 18:14:00
+  content: 谢谢啦，呵呵
+  ip:
+    encrypted: NjNiYzFkMjA2OGYwODMwYjRhNmNhMTRkOWI3Nw==
+    algorithm: aes-256-gcm
+    iv: 357b385a79edced7de274276
+  target: 895
+- type: reply
+  channel: native
+  id: "902"
+  author:
+    name: shami
+    url: http://shami.no-ip.org
+    email:
+      value:
+        encrypted: ODYxNzk0MWI3MzZiMDI3NGE0NmQ5YjE1ZTRmNWQxYzg=
+        algorithm: aes-256-gcm
+        iv: 74e4a01278efdb37259dae0d
+      hash:
+        md5: 97a4fc9bc76b69d8b34695bd92a1fb85
+  published: 2008-12-29 03:46:00
+  content: 測試看看....
+  ip:
+    encrypted: MGMzODQ1Nzc1ZGIyMWQ1N2NhZjkzMWYwM2E0MGE1
+    algorithm: aes-256-gcm
+    iv: 4a01f8d7e9b7f8582c801d2e
+- type: reply
+  channel: native
+  id: "903"
+  author:
+    name: 幸福收藏夹
+    url: http://www.happinesz.cn/archives/897/
+  published: 2008-12-29 13:03:00
+  content: >-
+    <strong>Easy2Hide - 回复可见Wordpress插件...</strong>
+
+
+    怎么说呢，介绍这个插件，但你应该慎用。并不是因为Easy2Hide的功能有问题，而是因为这个区区只有30来行代码的插件，可能让你的博客变成水区，而且不是一般的水区，是强大的罪恶的&quot;....
+  ip:
+    encrypted: MDM1ZGYwZDdlYzNmNmNkMjk3N2E2MQ==
+    algorithm: aes-256-gcm
+    iv: e84887fd92d7745f05ec7c54
+- type: reply
+  channel: native
+  id: "904"
+  author:
+    name: NetPuter
+    url: http://orzdream.cn/
+    email:
+      value:
+        encrypted: YWM5NmFjZWQ4NDhiMjE1ODMzNDlmMjJmNzhhZjFhNTY2NGNmZDk5MjVhODM5MA==
+        algorithm: aes-256-gcm
+        iv: 33ca95bd5732f95b5cb0a07b
+      hash:
+        md5: ecdc14816bcdf17ffaab3f5aa51e6218
+  published: 2008-12-29 13:05:00
+  content: 才发现你的Blog..囧下..赞!
+  ip:
+    encrypted: YmE2MmNkODI5NTc0ZWIzYmZlNmFmZWViMDZhNQ==
+    algorithm: aes-256-gcm
+    iv: df975c83894f8764c34e29b0
+- type: reply
+  channel: native
+  id: "905"
+  author:
+    name: 何必呢
+    url: http://www.hebine.net
+    email:
+      value:
+        encrypted: NDYzM2NjMzFiZGE1Mjc4MDc5Njc2YzkyNzViZGRhMTlkNzM3MjVmNQ==
+        algorithm: aes-256-gcm
+        iv: b1272aacd100223a8559ad35
+      hash:
+        md5: c093e6020c44eaadf4e227c52bc1512a
+  published: 2008-12-29 13:23:00
+  content: 不错的插件～
+  ip:
+    encrypted: NTExM2U5YmI2MTgxMzI3ZDRjNGE4YjU0NGY=
+    algorithm: aes-256-gcm
+    iv: e75e90e42267db0d8e84cbcc
+- type: mention
+  channel: native
+  id: "906"
+  published: 2008-12-30 00:27:00
+  url: http://willerce.com/post/289
+  content: "[...] 大日志中隐藏回复后方可见的内容. 作者:Dallas 下载地址: 原插件发布页面 Download [...]"
+  author:
+    name: Willerce &raquo; Blog Archive &raquo; Wordpress Plugins:Easy to Hide
+- type: reply
+  channel: native
+  id: "907"
+  author:
+    name: kerby
+    url: http://cs72.com
+    email:
+      value:
+        encrypted: Y2VmODNkZTFiMGQ4YTEyMzEwZjQzYTM0MDgwMzY3MGZjNA==
+        algorithm: aes-256-gcm
+        iv: 918a3c277e8191315889c7ed
+      hash:
+        md5: 95c2ca68b1bde3f48fd02b5fd8d1b0dd
+  published: 2008-12-30 00:33:00
+  content: |-
+    强烈建议博主开发“隐藏我的留言”插件：
+
+    把我的留言隐藏起来，只有博主才能看到，其他人都看不到！！
+
+    开发一个这样的插件吧，Dallas，需求绝对比这个回复可见好得多
+  ip:
+    encrypted: YzJlNmYxMzliNzA0N2Q1NDE3NDNjMGEy
+    algorithm: aes-256-gcm
+    iv: 086d8737709553e47fabe833
+  target: 905
+- type: reply
+  channel: native
+  id: "908"
+  author:
+    name: 吉吉
+    email:
+      value:
+        encrypted: MGQ1OTc4MTgyZDU0Y2EyN2FkN2U5NmY1NzExNjU1MDMxZDc0MTcwOA==
+        algorithm: aes-256-gcm
+        iv: 1c3f1fb7c4dc6dcc4db15b66
+      hash:
+        md5: 2af9300648631e7426207d3fa95024ef
+  published: 2009-01-02 09:35:00
+  content: 下载使用了你的这个插件，放了一个隐藏的flash小动画，但是在火狐界面里不起作用，根本不隐藏，而在ie浏览器里却可以隐藏内容。是不是这个插件不能在firefox里用呀？
+  ip:
+    encrypted: MGU2ODk4MjFlY2VmMjMzZTRlYjA3YzI5MmI=
+    algorithm: aes-256-gcm
+    iv: c108ec86cccdf53a3cda0e8c
+- type: reply
+  channel: native
+  id: "909"
+  author:
+    name: loren
+    url: http://www.ipinwei.com
+    email:
+      value:
+        encrypted: ZDdiMjg4ZTAwMjI0ZDcwYmY5NjhlNGZlNmU1M2JjYTU1ZTU2
+        algorithm: aes-256-gcm
+        iv: 89a5defa7a5d5fe4ba8f510c
+      hash:
+        md5: b020d9f8595274d25de98a8c141fe131
+  published: 2009-01-06 20:44:00
+  content: 我用的是WP2.7版本，但是HTML编辑器里面没有出现便捷按钮，请问如何办？
+  ip:
+    encrypted: NWJkOWZjZDRhY2ViNGRiMTcyNjMzZDUzOGIzYWJk
+    algorithm: aes-256-gcm
+    iv: cc5f42607e871cadae3ced81
+- type: reply
+  channel: native
+  id: "910"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OWE4MTJjZmFlNDMwMjVmM2FlNDNlOA==
+        algorithm: aes-256-gcm
+        iv: c8b7fd906443b7687f5686ea
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-01-06 20:55:00
+  content: 你再看看？中文版里面，按钮的名字是“隐藏”
+  ip:
+    encrypted: OThkZGM2MzRlZTllMjAyNDMyYmY5Yw==
+    algorithm: aes-256-gcm
+    iv: 2684eb406c20186619b47faf
+  target: 909
+- type: reply
+  channel: native
+  id: "911"
+  author:
+    name: bigCat
+    url: http://ooxx.me
+    email:
+      value:
+        encrypted: YTQ1NzM0ODhjMDhkNGVmMjgw
+        algorithm: aes-256-gcm
+        iv: b840de0cfe15309bb2094981
+      hash:
+        md5: c0d3d3cdd6f4c93499351c7aa2cbcea6
+  published: 2009-01-07 02:29:00
+  content: 好拽.....
+  ip:
+    encrypted: NDgyOTY5ZjA4MTNmZGRlZGY2M2FmY2E5ZWY0Ng==
+    algorithm: aes-256-gcm
+    iv: a10c7ec072b66de0a922b5e5
+- type: reply
+  channel: native
+  id: "912"
+  author:
+    name: hiswing
+    url: http://nofocus.net
+    email:
+      value:
+        encrypted: YWZiZDNjNzlmMTdmYmY5M2E1ZDA0ZTVhYTQ5OGU5MWYzMg==
+        algorithm: aes-256-gcm
+        iv: 6712d1ca36439c1665af00eb
+      hash:
+        md5: 6a7fb06ff9b47454a5f76f5d54e52465
+  published: 2009-01-13 21:44:00
+  content: 好东东，它会让冷冷清清的地方顿时变的热闹起来
+  ip:
+    encrypted: ZDc2MGRkN2Q2MzlmZWViZWNlNDZkZmU0ZGY1ZQ==
+    algorithm: aes-256-gcm
+    iv: 5507b150927a51c94afbfc88
+- type: mention
+  channel: native
+  id: "913"
+  published: 2009-01-16 00:50:00
+  url: http://willerce.com/post/64/
+  content: "[...] 大日志中隐藏回复后方可见的内容. 作者:Dallas 下载地址: 原插件发布页面 Download [...]"
+  author:
+    name: Wordpress Plugins:Easy to Hide - Willerce Blog - Just a WordPress weblog
+- type: mention
+  channel: native
+  id: "914"
+  published: 2009-01-19 02:30:00
+  url: http://www.bloghost.cn/?p=161
+  content: "[...] 插件是国人开发的，有兴趣的去Dallas博客看看吧。 [...]"
+  author:
+    name: Easy2Hide让WordPress内容回复后可见
+- type: reply
+  channel: native
+  id: "915"
+  author:
+    name: alligator
+    email:
+      value:
+        encrypted: NTlmYWE0ZmQ3ZmY0ODAwYWQ4N2JlY2I0ZjhiZDg0OTk0Ng==
+        algorithm: aes-256-gcm
+        iv: 9e65af09ee94337d5fc666a4
+      hash:
+        md5: 79f89386f919669be2b2dc7913c2d981
+  published: 2009-01-27 05:46:00
+  content: 能否开发个某几篇文章仅会员可以看到的插件啊！不用WP自己的设密码的方式！
+  ip:
+    encrypted: YjY0NDU3NTI1M2I1YmNiZTMzNjA5NTVhMGZjYg==
+    algorithm: aes-256-gcm
+    iv: a4067474d07e47b67c14c310
+- type: reply
+  channel: native
+  id: "916"
+  author:
+    name: netputer
+    url: http://orzdream.cn
+    email:
+      value:
+        encrypted: YjQ2MWMyYTBlZmVkY2Y0ZTY5ZTdlNDI5YWI1N2JmNzQyM2VhODAxMmQ2NDZiMw==
+        algorithm: aes-256-gcm
+        iv: df10ae2b4b3c028d992c4b2f
+      hash:
+        md5: ecdc14816bcdf17ffaab3f5aa51e6218
+  published: 2009-02-02 14:07:00
+  content: 有没有可以在 RSS Feed 中显示的呢？
+  ip:
+    encrypted: YmQ1MmE4NDZiZmEzYTllNDA3ZTM2YzQwOTkzOQ==
+    algorithm: aes-256-gcm
+    iv: 5bb4096682e116833f7f572e
+- type: reply
+  channel: native
+  id: "917"
+  author:
+    name: berrygame
+    url: http://www.berrygame.com
+    email:
+      value:
+        encrypted: ZWY4NjQzZGU2M2ZkOGZiYzJkYWJmZDk3MDkwYjQ0ZTRiNg==
+        algorithm: aes-256-gcm
+        iv: 66de8a7614f6247f3944befa
+      hash:
+        md5: 4e3169439dc2a8c8fafb6ac3db858b2f
+  published: 2009-02-25 21:10:00
+  content: 为什么我在后台启用了这个插件，然后在HTML模式下，选中内容后点隐藏，就是没有出现任何效果。有什么其它使用方法吗？
+  ip:
+    encrypted: YTdlNGZkYjg5ZjEzOTZhZDA4OThkMGYwOWYzZg==
+    algorithm: aes-256-gcm
+    iv: 73995c0b77840156cc4e121b
+- type: reply
+  channel: native
+  id: "918"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: YzZkOTU1ZGJjMWI5M2NhZGMyZDdiOA==
+        algorithm: aes-256-gcm
+        iv: a14535d4b75cb6a55b05ce41
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-02-26 11:26:00
+  content: 手动添加隐藏标签
+  ip:
+    encrypted: MzkwYTg3NDZkMDAwNWU5NjFhZWEyZmZhNGVmYmI4
+    algorithm: aes-256-gcm
+    iv: bc25556a8bf8871661e1bfd6
+  target: 917
+- type: reply
+  channel: native
+  id: "919"
+  author:
+    name: berrygame
+    url: http://www.berrygame.com
+    email:
+      value:
+        encrypted: ZWUxNzU5ZDVjZTc2MzNiMDVlY2U2YzlmMjFiZWFhZjVhZA==
+        algorithm: aes-256-gcm
+        iv: a0cdcd454449cd18aa6ed5c4
+      hash:
+        md5: 4e3169439dc2a8c8fafb6ac3db858b2f
+  published: 2009-02-26 14:05:00
+  content: 手动添加<!--easy2hide start--> 与 <!--easy2hide end-->
+    还是没有效果。这个要添加在html模式下的吧？会不会是主题的原因，我用gamezine，博客地址：www.berrygame.com。我想增加一些人气，光有下载没有评论。
+  ip:
+    encrypted: MjllNGU2OGM0NGFkMTRjMWM1OGVkNDFlYjc=
+    algorithm: aes-256-gcm
+    iv: dba01b7d703a06238e3b03c0
+  target: 918
+- type: reply
+  channel: native
+  id: "920"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OGNjNmUxNzExMDgzZjQ5ZjdlMzMyNw==
+        algorithm: aes-256-gcm
+        iv: 2748cf80c23ba86ee6e5f039
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-02-26 17:50:00
+  content: |-
+    你是指没有隐藏的效果吧？我还以为点后台那个按钮没反应呢。
+    可能你的浏览器中有缓存，导致程序判定你为老用户所以不隐藏了吧。
+    如果拿这个插件来赚表面人气容易挨骂地，呵呵。
+  ip:
+    encrypted: NjVlNTg2ZTYxMjM3MWFmNGJiN2I5ZTJjNTJiYzRh
+    algorithm: aes-256-gcm
+    iv: 43336b2184133decec1a4984
+  target: 919
+- type: reply
+  channel: native
+  id: "921"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZTdmMWU5NTEzZTQ1MTEyMDk0ZjNiMw==
+        algorithm: aes-256-gcm
+        iv: 10685b6bb8242dd1817ee692
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-02-26 17:58:00
+  content: 应该是你手动写错了，是 "--"，2个字符
+  ip:
+    encrypted: NmM5ZTNkZDg4NTJmMTdiMjllZmYwYWU1NDg0MmNi
+    algorithm: aes-256-gcm
+    iv: e82bb34a38af7e731b940898
+  target: 919
+- type: mention
+  channel: native
+  id: "922"
+  published: 2009-03-14 16:11:00
+  url: http://wordpresspluginsdatabase.com/easy2hide-2434.html
+  content: "[...] words needed to hide between&#8221;&#8221; and &#8220;&#8220;,
+    You could learn more here&#8230; .....read more       Download
+    Plugin!    Plugin Owner: Dallas Homepage: Visit Plugin's Website  Version
+    0.3.1 | [...]"
+  author:
+    name: Easy2hide Plugin | WordPress Plugins Database -
+      WordPressPluginsDatabase.com
+- type: mention
+  channel: native
+  id: "923"
+  published: 2009-03-21 09:17:00
+  url: http://seosem.ws/seo-toolbox/keyword-elite-video-trainin/
+  content: "[...] 其实功能实现是通过http://dallaslu.com/easy2hide/
+    这个插件实现的。我的目的不是为了好玩，也不是一定要人回复，主要是不希望被SE收录进去，若作者寻路而来我的麻烦就大了，呵呵。
+    抱歉，只有在本站发表过评论才能阅读隐藏内容。        前一篇文章&laquo; 用于外链建设的2XX个免费博客平台 [...]"
+  author:
+    name: Keyword Elite 官方视频教程 | SEO/SEM搜索引擎优化交流
+- type: reply
+  channel: native
+  id: "924"
+  author:
+    name: Burning
+    url: http://www.burninger.com
+    email:
+      value:
+        encrypted: MTZjYWM4ZWZkODgxNDVmYjQ2MGM1OWJlZDBiYTU4MmQ0NWFl
+        algorithm: aes-256-gcm
+        iv: a1e4c376d763a421c24c3e74
+      hash:
+        md5: 9f1bd080bbf4b9605edf737474b42563
+  published: 2009-03-22 22:35:00
+  content: 这个东东不错
+  ip:
+    encrypted: YjVjNWNjZjAyYWYzYjk4ZGZlN2E=
+    algorithm: aes-256-gcm
+    iv: d74f22669732e68a8811a553
+- type: reply
+  channel: native
+  id: "925"
+  author:
+    name: onefrozen
+    url: http://onefrozen.com
+    email:
+      value:
+        encrypted: MzlmYWJmNjA0NzU0ZGIzNzY0N2ZmOWU2NzRmOWM4YzEzOGYw
+        algorithm: aes-256-gcm
+        iv: 05c199eb57806ed56fdeefa3
+      hash:
+        md5: 262c05469ae9ea38a07a0edf515e455a
+  published: 2009-03-23 01:51:00
+  content: 我这个留言的目的是想告诉告诉伟大的无比尊敬的无比正确的博主大大，这插件灰常的好用，感谢您的提供
+  ip:
+    encrypted: MDNkZjdkNzJkZjAxODM4ZTk4NzI3ZDdlYjQ=
+    algorithm: aes-256-gcm
+    iv: b8aa1ef97c28697d318726f3
+- type: reply
+  channel: native
+  id: "926"
+  author:
+    name: "9"
+    url: http://hiing.net
+    email:
+      value:
+        encrypted: NWFjYzVmOGE4OWEzY2QyNzBlZmRkNjhiMDUyMWViYzQ=
+        algorithm: aes-256-gcm
+        iv: 4947e075926ef2acffc52ba6
+      hash:
+        md5: 7a477831d30aaa94762750766778d015
+  published: 2009-03-25 16:54:00
+  content: 不错,隐藏的内容很吸引人
+  ip:
+    encrypted: NGU0YmEzY2U3NjAzZWE5NGVkNDMzZWE0YWQ=
+    algorithm: aes-256-gcm
+    iv: 34cd0f8f1714e9e4c0cc3b11
+- type: reply
+  channel: native
+  id: "927"
+  author:
+    name: heiwu
+    email:
+      value:
+        encrypted: YTNmYTY3MTRlYjYwYjE4NGFhOGQ4Njk0MzhkNWI0Mzk3Y2M5
+        algorithm: aes-256-gcm
+        iv: 3a7d7821cf8ae0f54d8c1c85
+      hash:
+        md5: f2674ab924d216b4a4d7d5e75e1c1afb
+  published: 2009-03-28 15:07:00
+  content: 呵呵，博主真是大气，我初来乍到，很很的菜，来向博主学习一哈。
+  ip:
+    encrypted: NjM2YmQ1OWNiNWFlMWM4Yjk2YmU0MDhi
+    algorithm: aes-256-gcm
+    iv: da5391464d1e2befff47e367
+- type: reply
+  channel: native
+  id: "928"
+  author:
+    name: xiao3
+    url: http://xiao3meng.org
+    email:
+      value:
+        encrypted: ZDZkMWI4OTM5N2Y0YjM5MGFjMjA1MTc4NjNhMzVjYzQ3NDAy
+        algorithm: aes-256-gcm
+        iv: 01dd41eea1f6dba02bf4e4c6
+      hash:
+        md5: 06df4a7981e3e2d7639e7597da8723ee
+  published: 2009-04-27 12:40:00
+  content: 使用这个插件以后我的编辑器会出现两排重复的按钮！请作者检查下！
+  ip:
+    encrypted: YjNiMzI0YmUyZjJhM2Q4MTAyODc5NGI0NTY=
+    algorithm: aes-256-gcm
+    iv: a450428a6343ab337706805b
+- type: reply
+  channel: native
+  id: "929"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NTJkYjVmMWNmNDJkMzZhOWZjYTMzOA==
+        algorithm: aes-256-gcm
+        iv: 881e6a7ebab8d4f5e3c3eccd
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-29 20:16:00
+  content: 谢谢提醒。已经修复。
+  ip:
+    encrypted: ZTk1MmY0MmFiNDY4M2M2YWRmMjA3YmNiOGU3YzQ0
+    algorithm: aes-256-gcm
+    iv: 5fa8c6cdbcd921254136a364
+  target: 928
+- type: reply
+  channel: native
+  id: "930"
+  author:
+    name: Pablo
+    email:
+      value:
+        encrypted: Y2NkODRiYjAxMzk3MjQwN2IyNmFhYjUwMWU=
+        algorithm: aes-256-gcm
+        iv: 996f9cc7511b2d5d4700f649
+      hash:
+        md5: 5a146b01cf4a27757a3f0308431ce266
+  published: 2009-04-29 21:51:00
+  content: 看看隐藏了什么~~~
+  ip:
+    encrypted: Yzc5OWRjY2RlYTU4ZjJiYmUyMjM0ZjlhZmI4OA==
+    algorithm: aes-256-gcm
+    iv: 1a5b408197aaefe475a150a5
+- type: reply
+  channel: native
+  id: "931"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ODUxM2QyM2M0NTMzODY0YzMxOGJjZg==
+        algorithm: aes-256-gcm
+        iv: 37dedad8edf61cb27c35f598
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-29 21:55:00
+  content: 现在什么都没有啦。我并没有启用这个插件。
+  ip:
+    encrypted: MWJhMWRjODA5ZjViNzMzZDVhYWY1NjEwZGQwZTVj
+    algorithm: aes-256-gcm
+    iv: bb966a521124b4a62f31adf0
+  target: 930
+- type: reply
+  channel: native
+  id: "932"
+  author:
+    name: baron
+    url: http://www.turkbaron.net
+    email:
+      value:
+        encrypted: NzljZDMwZTgyYjhjNmFiMTI2ZmI0NjlkZTZkZGE2MTM1OTk5MmI=
+        algorithm: aes-256-gcm
+        iv: 28c807311dd46b33432df50e
+      hash:
+        md5: 3e995ee1196e9397acd0eb8fde71cde4
+  published: 2009-04-29 22:50:00
+  content: Works great, thank you
+  ip:
+    encrypted: NjUxYWQ5MTdhNjI5YjEzNTVmNjg0NzJhMDI=
+    algorithm: aes-256-gcm
+    iv: 658984b51dac1cf8fe80882f
+- type: reply
+  channel: native
+  id: "933"
+  author:
+    name: late_boy
+    url: http://lateboy-sr.net
+    email:
+      value:
+        encrypted: ODIwMDgzNDc1NWExOGYwZjdlMWVhYzJhMGI0NDZlZmZkNjhj
+        algorithm: aes-256-gcm
+        iv: f8831eb97296a7ee3bd816f5
+      hash:
+        md5: 2096b1a16a19f58c7175a9c5df9839c1
+  published: 2009-04-30 21:11:00
+  content: 你好，昨晚我下载此插件后启用，发现在HTML那栏并没有隐藏按钮,只能使用输入的方法，敢问此问题该如何解决？？？
+  ip:
+    encrypted: OGFhMTY4MzY5ZGFlOTcwNTA3MzY1MDliNjg3MA==
+    algorithm: aes-256-gcm
+    iv: a348a367ed8a733271480260
+- type: reply
+  channel: native
+  id: "934"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: M2ZhYjgyNTE1NzBmODgzZDY5MzFkYQ==
+        algorithm: aes-256-gcm
+        iv: a0a67504326d1d16ae05dfbf
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-30 21:21:00
+  content: 在 2.7 及 2.7.1 中测试通过。可尝试 ctrl + F5 强制载入一下。我现在访问你的博客出错。
+  ip:
+    encrypted: MDJkZGU4YzRlODdmOTRjMGY1MDg4NWY0ZGY0OTlm
+    algorithm: aes-256-gcm
+    iv: 24fbadaf9e624d6d4d02d260
+  target: 933
+- type: reply
+  channel: native
+  id: "935"
+  author:
+    name: late_boy
+    url: http://lateboy-sr.net
+    email:
+      value:
+        encrypted: NzJjYTAzY2YxYTAxNTkzZDc4NTI0ZDEyZWIxOGQ1Mzk5OWM2
+        algorithm: aes-256-gcm
+        iv: 9e6f837715fdcc9bda547b13
+      hash:
+        md5: 2096b1a16a19f58c7175a9c5df9839c1
+  published: 2009-04-30 22:18:00
+  content: |-
+    我分别在IE &amp; FIREFOX两个浏览器内测试，也尝试刷新以重新加载，但还是无法显示？？？
+
+    PS：我博客正处以设置状态，所以现进入为“修复”界面~
+  ip:
+    encrypted: YzM0Y2U3NzdjNjk0ZmFiYmZhMDU2ZjBlYTI2Nw==
+    algorithm: aes-256-gcm
+    iv: e3a354c9a24f6bc22f9dc46f
+  target: 934
+- type: reply
+  channel: native
+  id: "936"
+  author:
+    name: D。K
+    email:
+      value:
+        encrypted: YzY4M2U3ZDEzOTRlY2Y5MzJkNGIyMWQxMWU=
+        algorithm: aes-256-gcm
+        iv: 38e7783ad99108ce53a699bb
+      hash:
+        md5: 2c2d4ac1519ba4cc1b28d96b6de446a3
+  published: 2009-05-03 04:18:00
+  content: 为什么用了无效果
+  ip:
+    encrypted: ZjVmMjViODIxYjUwN2Q0MTJlOWM3NmNlMjQ=
+    algorithm: aes-256-gcm
+    iv: 654d6df9fdc026fb6184d62b
+- type: reply
+  channel: native
+  id: "937"
+  author:
+    name: late_boy
+    url: http://lateboy-sr.net/
+    email:
+      value:
+        encrypted: NDUzYTYzNDcyNWMzZDdkZThhMjg0MWUxZjIyZGM4N2I1NTMw
+        algorithm: aes-256-gcm
+        iv: 81245c7927e1441e46cfbe30
+      hash:
+        md5: 2096b1a16a19f58c7175a9c5df9839c1
+  published: 2009-05-03 20:42:00
+  content: 感谢‘Dallas’在邮件中的热心解答，问题已解决^^
+  ip:
+    encrypted: NzhhMzc3NWRlZDFmOGRlOWM4NmM3MjI5N2E4NQ==
+    algorithm: aes-256-gcm
+    iv: a67ef1ea8c1b0197abccab8e
+- type: reply
+  channel: native
+  id: "938"
+  author:
+    name: zrqx008
+    url: http://lmblog.comli.com
+    email:
+      value:
+        encrypted: NGEyZGY0MmI4M2EyMzhiZTliOTg5YzRhN2EzY2U3YjU=
+        algorithm: aes-256-gcm
+        iv: f587c5846d6c616f6d97b552
+      hash:
+        md5: 2eabd11fe9978bd86dfd82ad773242da
+  published: 2009-05-13 16:38:00
+  content: 为什么我安装后没有在HTML编辑器中看到/easy2hide
+  ip:
+    encrypted: OWQ4NjFmODNmZDNmOTE3OWM5MWZkZWM3ZmI=
+    algorithm: aes-256-gcm
+    iv: 7cb0e98a3788d55207e882f6
+- type: reply
+  channel: native
+  id: "939"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MjEzZmU1YjI0ZWM3NjhlODYyZmZjZg==
+        algorithm: aes-256-gcm
+        iv: 2c98daf538586d02af25046c
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-05-13 22:00:00
+  content: 您的WP版本是？官方的中文版吗？
+  ip:
+    encrypted: YjBhMzhlYzZkMzBlOTgyYjdhYTcwYmE2
+    algorithm: aes-256-gcm
+    iv: cedd6cec1c010a1f46d2a0ff
+  target: 938
+- type: mention
+  channel: native
+  id: "940"
+  published: 2009-05-18 22:24:00
+  url: http://www.iplaysoft.net/wordpress-easy2hide/
+  content: "[...] Easy2hide：Home | Download Easy2hide | Requires WordPress
+    Version: 2.0.2 or higher [...]"
+  author:
+    name: 玩软部落 &raquo; WordPress 插件推荐：Easy2Hide
+- type: reply
+  channel: native
+  id: "941"
+  author:
+    name: chn ke
+    email:
+      value:
+        encrypted: ZjE5ZjVlMDQ4YzBlYmYyYzYxMTYwNzRiYWM5ZQ==
+        algorithm: aes-256-gcm
+        iv: 19646af1bc586d6e754b2c01
+      hash:
+        md5: 206b7e7c22c9803c960e919162b69015
+  published: 2009-05-19 20:00:00
+  content: 真的有下金瓶梅???
+  ip:
+    encrypted: OTkzMzE1ZjMwMWQ1OGQ1MjY2MGVmZjA2
+    algorithm: aes-256-gcm
+    iv: c10c64d6aefd859a7675941c
+- type: reply
+  channel: native
+  id: "942"
+  author:
+    name: 啊啊啊
+    email:
+      value:
+        encrypted: ZTgyNmQwZjFjODczOWUwNzY2NGM4Y2EzNDJjNTQw
+        algorithm: aes-256-gcm
+        iv: 967b613d8790a73f08de8d17
+      hash:
+        md5: 0c68db5068763072ec021a981964afac
+  published: 2009-05-21 11:03:00
+  content: 一个BUg.只要回复一个文章,所有文章的隐藏都能看见哦
+  ip:
+    encrypted: Zjk3YWQyZjA1ZTc2YjNiN2RiZDNiOTUyYmQwMA==
+    algorithm: aes-256-gcm
+    iv: d4f47f1b9a3576e7ef279830
+- type: reply
+  channel: native
+  id: "943"
+  author:
+    name: lAtE_bOy
+    url: http://lateboy-sr.net
+    email:
+      value:
+        encrypted: ZWU4NTkyZmM4ZmI4M2IxM2QyOWQ3NWJlNmJjNzc5MTU3OWRl
+        algorithm: aes-256-gcm
+        iv: 451851c8f80e7a3d8ad978b0
+      hash:
+        md5: 2096b1a16a19f58c7175a9c5df9839c1
+  published: 2009-05-22 02:32:00
+  content: |-
+    =.=!
+    楼主在最后那段已表明‘并非“回复可见”，发表评论的人可以看到所有文章的隐藏内容。’
+  ip:
+    encrypted: OTRmNzg0OGQzMWY2ODIyYTU0ZjZjNTk2
+    algorithm: aes-256-gcm
+    iv: 9d61c449cc351e6ac929f022
+  target: 942
+- type: reply
+  channel: native
+  id: "944"
+  author:
+    name: 卖墨商城
+    url: http://www.mymall.cn
+    email:
+      value:
+        encrypted: MGEwMTAwNTcwNTA3NjBjMDYzMGVjNmRiMzc2NTA3
+        algorithm: aes-256-gcm
+        iv: 37badc6ec51351c9ae62d06b
+      hash:
+        md5: 23d9f0e36f8fae8aa537a061f4d77cb3
+  published: 2009-05-24 09:31:00
+  content: 我的装了不后，编辑器没出现标签怎么办？
+  ip:
+    encrypted: YTMzMWIwMDMwNzhiZTc2YjY3ZWYxMjhiZWQxYg==
+    algorithm: aes-256-gcm
+    iv: ea571d0a7953bc1e0ebc83c4
+- type: reply
+  channel: native
+  id: "945"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MmQxNmFiNjYyYzlmMzU0NWQ1YmJkNw==
+        algorithm: aes-256-gcm
+        iv: e23e8bab63c4d5676168ed2c
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-05-24 12:34:00
+  content: 这个...已经有人提过了。不过我到现在还没重现这个问题，修复之后会更新插件的。暂时的话，只有动手敲代码了
+  ip:
+    encrypted: YTI4YjEyMzk2NDk0YjljNjEwNWQ3ZmU0OTdlYQ==
+    algorithm: aes-256-gcm
+    iv: 5861a88b6f7510d8ef7c4499
+  target: 944
+- type: reply
+  channel: native
+  id: "946"
+  author:
+    name: 啊啊啊
+    email:
+      value:
+        encrypted: NmNjMTMyMzRhMDcyNDlmZDU5MDlkNjM5YWQ1ZjIw
+        algorithm: aes-256-gcm
+        iv: a84347d732b32ca376fce8e4
+      hash:
+        md5: 0c68db5068763072ec021a981964afac
+  published: 2009-05-24 21:23:00
+  content: 囧...
+  ip:
+    encrypted: MDdlMDM5ZTcxNmI5MTZkM2FhZTdlMTM1NzE=
+    algorithm: aes-256-gcm
+    iv: 09d1679b827a04bdd1c4f82c
+  target: 943
+- type: reply
+  channel: native
+  id: "947"
+  author:
+    name: Ella
+    url: http://www.ohhdear.org
+    email:
+      value:
+        encrypted: ZDBkNzRiMTUzMDZhNTliMjcxM2QwMmQ0MTFhM2JjM2RjODU0MDhlZDA2NTIxOGUyMTg1OQ==
+        algorithm: aes-256-gcm
+        iv: f2d1c3b4028861677dfbff5c
+      hash:
+        md5: 52b0d1b1ce4385e711def50d9fe90585
+  published: 2009-06-04 13:38:00
+  content: Hi...! This rocks. You rock. Thank you for sharing and helping people
+    out. I send you a virtual beer :)
+  ip:
+    encrypted: Zjg0YzliNjAwM2VmMzhkMDkzNGE2YjZhY2Y=
+    algorithm: aes-256-gcm
+    iv: ffe56f01d16710dc8f088b92
+- type: reply
+  channel: native
+  id: "948"
+  author:
+    name: 墨白
+    url: http://www.mobai.org
+    email:
+      value:
+        encrypted: YjM4Y2EyMDIxZGExMGU4MDdjZTVmMTY3NWQxNzIwMjM=
+        algorithm: aes-256-gcm
+        iv: 5389a215b68d67d38f124ac5
+      hash:
+        md5: d57300a68ddc9db824adcab3ede972c3
+  published: 2009-06-07 08:11:00
+  content: 拿去用了……
+  ip:
+    encrypted: YjNkNWRmNDc0OTkxMGJkZmM4NGY0MTAyOTFiZg==
+    algorithm: aes-256-gcm
+    iv: 00e46dbbc4aee9002f998029
+- type: reply
+  channel: native
+  id: "949"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NmNmZmZlODc2YmFmN2Y2OTA3YmJiZA==
+        algorithm: aes-256-gcm
+        iv: f535b65cab027ef6839b21bf
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-06-11 21:51:00
+  content: 新版本已经支持单篇文章回复可见。之前并非 bug 。
+  ip:
+    encrypted: MTBhNTczZmY4OWYwZmY5ZDRjMjkxMw==
+    algorithm: aes-256-gcm
+    iv: 7343e0c8c109674149e2a99e
+  target: 946
+- type: reply
+  channel: native
+  id: "950"
+  author:
+    name: Leon
+    url: http://leons.me/
+    email:
+      value:
+        encrypted: YzNkNjBmM2FiYTA3MTAzNDBiNzlkOTEwNDRkZDg2Njc2NWEwODk=
+        algorithm: aes-256-gcm
+        iv: 5fbbad6a3865c5789e5b7d6d
+      hash:
+        md5: 993b48ee47f9fa74d7b70ae035dc7a9e
+  published: 2009-06-15 20:56:00
+  content: |-
+    插件更新？不错！
+
+    BTW：我的博客已经迁移至新域名，麻烦将原友情链接（liyang80s.com）去掉，改为新链接，谢谢！
+    链接名称： Leon Website
+    链接地址： http://leons.me/
+  ip:
+    encrypted: ZjkxYTBmMTU4ODIyMjVhNmI4YTljOGRkYWZjNw==
+    algorithm: aes-256-gcm
+    iv: 5784d7ec6b12287c2a167457
+- type: reply
+  channel: native
+  id: "951"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: YWQ1NTRmMDk2MTNlMzEyYWRjM2Y0Zg==
+        algorithm: aes-256-gcm
+        iv: d9556b439b64cad135a99708
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-06-16 00:57:00
+  content: ~~已经更新
+  ip:
+    encrypted: NDU2NzljNmI2Y2FkMjcwNjI3MjEwMTllNmMwYQ==
+    algorithm: aes-256-gcm
+    iv: 487239aafa6e9885debf54ca
+  target: 950
+- type: reply
+  channel: native
+  id: "952"
+  author:
+    name: 卢松松
+    url: http://www.lusongsong.com
+    email:
+      value:
+        encrypted: ZmEyNDExNDZiYWI4YzRiZjJmZmI4ZDdkYzdjNTdl
+        algorithm: aes-256-gcm
+        iv: 60426c03e6eef4314f647c6f
+      hash:
+        md5: b016fdf3945914d394b07ba16126c486
+  published: 2009-06-18 22:47:00
+  content: 不错 功能挺强的哈！
+  ip:
+    encrypted: YTE0ZGUxYjA0ZmM2NDE0ZTJkZDBjZDFmMjc2Yg==
+    algorithm: aes-256-gcm
+    iv: 42834d7014847cdb850df9e7
+- type: reply
+  channel: native
+  id: "953"
+  author:
+    name: ryan
+    url: http://www.akheart.cn
+    email:
+      value:
+        encrypted: NjBkZWI2NDQzMzllNDEzZDRhZWUyNzUz
+        algorithm: aes-256-gcm
+        iv: 9eff23e776c9381298f98a47
+      hash:
+        md5: 357d636016224c39c716d4e6d88c82e3
+  published: 2009-06-23 20:31:00
+  content: 功能不错，只是目前用不上。。。
+  ip:
+    encrypted: NjczNmNmYWY3ZGJmYThiZjFlMjU4YzU5NWY=
+    algorithm: aes-256-gcm
+    iv: 24de49ca50313099895a322f
+- type: reply
+  channel: native
+  id: "954"
+  author:
+    name: 老A
+    url: http://aionshops.com/blog
+    email:
+      value:
+        encrypted: YTA5ZTE5NDA2MDhmNTI1ZDc3Yjk4ZDBmZmQ3YWU5
+        algorithm: aes-256-gcm
+        iv: aad3dcac90987552282eab4f
+      hash:
+        md5: e658d786be3035eb932c3f420803ef51
+  published: 2009-06-24 11:18:00
+  content: 插件很好用，就是用户采用RSS直接能看到隐藏的文字，希望改进。
+  ip:
+    encrypted: YmMyMmZlYzE1MzdiNzY1OWM5ZWFmMDM2YjI1Njhi
+    algorithm: aes-256-gcm
+    iv: 1d245c8ee7c8a960c5dd5ce6
+- type: reply
+  channel: native
+  id: "955"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: YTQxZjY0Yjk2NmI2ODlhYWJiYzU0Yw==
+        algorithm: aes-256-gcm
+        iv: 831326cf474cf0afb09d3c71
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-06-24 12:04:00
+  content: 看来，下次改成可选的好了
+  ip:
+    encrypted: YjVmZmIwZmU0YTM3YTYxNjY5ZDJkMA==
+    algorithm: aes-256-gcm
+    iv: 2784bc61313d06823399d7a0
+  target: 954
+- type: reply
+  channel: native
+  id: "956"
+  author:
+    name: 许三品
+    url: http://www.wodidai.com
+    email:
+      value:
+        encrypted: OGFkNTEzYTQ0ZGZmOWM0OTlmNDczODk1YTgzNzFi
+        algorithm: aes-256-gcm
+        iv: 8785ef5a6f8297cfe9bdedc8
+      hash:
+        md5: 5eb0b6720c35ee492bdc719993b45e2f
+  published: 2009-06-25 16:04:00
+  content: 呵呵，原来是将论坛那上回复可见的玩意搬了上来~
+  ip:
+    encrypted: N2Y2ZGQzMDlmZDc2ZDY1ZDU5N2JmZTY3YjI=
+    algorithm: aes-256-gcm
+    iv: 118897bc302d987665e44d4a
+- type: reply
+  channel: native
+  id: "957"
+  author:
+    name: 臻臻
+    url: http://www.nhljz.net
+    email:
+      value:
+        encrypted: OGJhNzdiMGY2YmY4MWFhZDZhMGQ5NjE5
+        algorithm: aes-256-gcm
+        iv: fc38dfd37dbe66ec391d4e35
+      hash:
+        md5: bcdf006ce18bf54ae9f2002883500cb9
+  published: 2009-06-27 10:45:00
+  content: 请问怎么可以设置默认为&lt;!--easy2hide start{reply_to_this=true}--&gt;
+  ip:
+    encrypted: YjI2OGVmZjk3YzQ4ZjdkNzVkZWQwN2Fk
+    algorithm: aes-256-gcm
+    iv: 794c52593fc9cf240b3804c3
+- type: reply
+  channel: native
+  id: "958"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: N2I5OGY4ZTYwYTcwMmU0NTMzMzUyYg==
+        algorithm: aes-256-gcm
+        iv: 7e026d8b9f4829b2e3889d7b
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-06-27 10:52:00
+  content: 抱歉，暂时还不能。下次更新的时候吧
+  ip:
+    encrypted: OTFjZjliMTc2ZjM1ZjMyM2ExYTgzMzYyM2EwMA==
+    algorithm: aes-256-gcm
+    iv: 46af1aa91d7a21607446a5b2
+  target: 957
+- type: reply
+  channel: native
+  id: "959"
+  author:
+    name: 臻臻
+    url: http://www.nhljz.net
+    email:
+      value:
+        encrypted: NDBiMzE5MDY2OTFiMDJkNThkNjJlMjEx
+        algorithm: aes-256-gcm
+        iv: f032cded60d4806f9591e597
+      hash:
+        md5: bcdf006ce18bf54ae9f2002883500cb9
+  published: 2009-06-27 11:03:00
+  content: >-
+    好的好的，这个插件我非常的希望，我是搞下载的，早知道这个插件就好了。
+
+    同时一个建议，隐藏内容提示的文字、颜色都希望能够改一下，或者告诉下手动改的方法。和其他文字混在一起，看不出是隐藏回复内容。非常感谢您提供强大的插件，谢谢。
+  ip:
+    encrypted: N2I2MmMwMzBiMzJjMjNkNmVmOTQ2OGU3
+    algorithm: aes-256-gcm
+    iv: 6223dafbc9d6e7f0d837d0ff
+  target: 958
+- type: reply
+  channel: native
+  id: "960"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: N2I2M2UwYzhlNTA5NGMyMzMzNmM1MA==
+        algorithm: aes-256-gcm
+        iv: 5a09e621bbd1ce21fb1a0e7d
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-06-27 13:01:00
+  content: |-
+    暂时先试试加段 CSS
+
+    .easy2hide_notice{
+    	border:1px dashed #FF9A9A;
+    	display:block;
+    	padding:8px;
+    	margin-bottom:1.5em
+    }
+  ip:
+    encrypted: Yzc2MTk5OTAzMGJhMDE2NjM4YmU5OTYzZDJlOQ==
+    algorithm: aes-256-gcm
+    iv: d6ad212bcfdccab69b38a093
+  target: 959
+- type: reply
+  channel: native
+  id: "961"
+  author:
+    name: 老A
+    url: http://aionshops.com/
+    email:
+      value:
+        encrypted: MTY1YWYyMmNmYWM2MDY5OTFlM2U5NTFiMjk2ZThi
+        algorithm: aes-256-gcm
+        iv: b95b7199725d423a2df1540d
+      hash:
+        md5: e658d786be3035eb932c3f420803ef51
+  published: 2009-06-27 14:20:00
+  content: |
+    只要在
+    <code>add_action('admin_footer', 'easy2hide_footer_admin');</code>
+    的上部加入以下代码即可
+
+    add_filter('the_excerpt_rss', 'easy2hide');
+    add_filter('the_content_rss', 'easy2hide');
+  ip:
+    encrypted: YmIxMjZmNzdhYjdiZjRjN2M3ZTIyNjcxMjU2ZA==
+    algorithm: aes-256-gcm
+    iv: 266aca27efedd30d6350e8f7
+  target: 955
+- type: reply
+  channel: native
+  id: "962"
+  author:
+    name: 臻臻
+    url: http://www.nhljz.net
+    email:
+      value:
+        encrypted: YzEzNTYwMWMyMWQ2YzIwY2I5MjhhOTAyMTM=
+        algorithm: aes-256-gcm
+        iv: c11b2f965f7664d6cb8ecbb0
+      hash:
+        md5: 98004b7ed686db2c67131d9139a8d0a5
+  published: 2009-07-11 01:54:00
+  content: 有两个网友反映评论后看不到隐藏内容，问过一个，用的是TT浏览器，然后没详细说系统和其他。同时希望能增加会员不用评论可见，继续加强下插件，谢谢。
+  ip:
+    encrypted: YmYyZWEyZTkwMmYyNzAxMmRlNjQyNWM1ZmI=
+    algorithm: aes-256-gcm
+    iv: 716cb669b92887ecdbcca4b1
+- type: reply
+  channel: native
+  id: "963"
+  author:
+    name: late_boy
+    url: http://lateboy-sr.net
+    email:
+      value:
+        encrypted: MjY2ZTNhM2I4OGZkNDg0ODAwOWVjNGZiMjA0NzFlZGEzMDQ1
+        algorithm: aes-256-gcm
+        iv: 633e754ac866d350404536f4
+      hash:
+        md5: 2096b1a16a19f58c7175a9c5df9839c1
+  published: 2009-07-11 04:01:00
+  content: |-
+    小小建议：希望单篇文章回复可见，与登入后可查看隐藏内容所显示的字眼分开^^
+
+    *期待Dallas兄的下次更新~
+  ip:
+    encrypted: MmQ5ODI0N2ZhMTJmZmJkNjcyOGRjZjQ0MmRjZQ==
+    algorithm: aes-256-gcm
+    iv: 3eb5ec1919e5ca13d82aebdf
+- type: reply
+  channel: native
+  id: "964"
+  author:
+    name: bucee
+    url: http://www.bucee.net
+    email:
+      value:
+        encrypted: ODUxOTA2MjE3YWVmMzQxNTk2ODAxYTExYzk1ZDdjNjI=
+        algorithm: aes-256-gcm
+        iv: 139e006baefea9a5749dc1c2
+      hash:
+        md5: d954284950ff023295d5c60a00875d0e
+  published: 2009-07-13 20:39:00
+  content: 我不回复也能看见。。是哪里出了问题？
+  ip:
+    encrypted: ZGVkYzAwNGYyZDZkZjczYmZlNDI5YzAz
+    algorithm: aes-256-gcm
+    iv: 887533ebe7e694695b2a3a88
+- type: reply
+  channel: native
+  id: "965"
+  author:
+    name: late_boy
+    url: http://lateboy-sr.net
+    email:
+      value:
+        encrypted: ZGJkZTUxYzY3M2RlOWQ3ZThlOWZhZDgxYTc3ZjMyYWYxODNj
+        algorithm: aes-256-gcm
+        iv: a041c4335fb24eb95a8f1c76
+      hash:
+        md5: 2096b1a16a19f58c7175a9c5df9839c1
+  published: 2009-07-20 23:29:00
+  content: >-
+    请问你是使用以下那一段代码？？？？
+
+    &lt;!--easy2hide start--&gt;xxxxx&lt;!--easy2hide end--&gt;
+
+
+    &lt;!--easy2hide start{reply_to_this=true}--&gt;xxxxxx&lt;!--easy2hide
+    end--&gt;
+  ip:
+    encrypted: NzE3NGQxZTg2OTM2Mjk4ZDA4YTQ0M2Qw
+    algorithm: aes-256-gcm
+    iv: ca50b862649c6db5b5e1170d
+  target: 964
+- type: reply
+  channel: native
+  id: "966"
+  author:
+    name: Wis
+    url: http://last7.sg
+    email:
+      value:
+        encrypted: OWVlZTUxZmEwYjA4NGVhOGY1MTU5YTgyMGVlZTdiZjU5OQ==
+        algorithm: aes-256-gcm
+        iv: 752c3005d854b9fcba3c669c
+      hash:
+        md5: 12f44d86db4db59ac6a7a32361ec585e
+  published: 2009-08-02 15:02:00
+  content: 请问作者如何修改提示语比如：抱歉，只有对本站任何文章发表过评论才能阅读隐藏内容和Sorry, only those who have
+    replied to this site could see this
+    words同时出现。因为我的网站需要中英文同时出现2种语言,目前插件好像是跟据wp后台语言来判断自动识别标识语的吧。望给出解决方法 O(∩_∩)O谢谢
+  ip:
+    encrypted: ZWY2NDI5YTQxYzQ4NDBjYWZlZDQwMDliMzM=
+    algorithm: aes-256-gcm
+    iv: fdb6e74b6e06a2e0b751142c
+- type: reply
+  channel: native
+  id: "967"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZjZhZTk4YWM5OTJjNDY0NGMyZDdkYQ==
+        algorithm: aes-256-gcm
+        iv: f1597b27a013fc000f37ff38
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-08-05 08:44:00
+  content: |-
+    简单粗暴的办法是，打开 easy2hide.php ，找到
+    $tips = __('Sorry, only those ...','easy2hide')
+    这样的语句，直接把英文提示部分替换为“汉语 + 英文”
+  ip:
+    encrypted: MWI5YWI4ZGQ4MmIxNTU5ODRkMzI1N2Q4NjcwMjkw
+    algorithm: aes-256-gcm
+    iv: d27f37de3304011728aca398
+  target: 966
+- type: reply
+  channel: native
+  id: "968"
+  author:
+    name: gerkyle
+    email:
+      value:
+        encrypted: Mjc3NzczZmQxNDA4NjVkMmQ4ZjIyNGRmYTBhZTA3NzY2Yw==
+        algorithm: aes-256-gcm
+        iv: 565498010d17652c50227144
+      hash:
+        md5: eb63028b06e1e56f7b6e95fa745748bc
+  published: 2009-08-07 11:46:00
+  content: 请问是不是2.8的不支持
+  ip:
+    encrypted: MjJmMGVhYjZkMzM1MWE4MzQ0Mjg1NTRjOGQ4ZA==
+    algorithm: aes-256-gcm
+    iv: f2368bd516de205f257c6429
+- type: reply
+  channel: native
+  id: "969"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: N2ViZjQ3MmM4YTliMGY2ZjA4ZTY5NA==
+        algorithm: aes-256-gcm
+        iv: 4aadf87eb595205240a41b6b
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-08-09 11:03:00
+  content: 怎么说？
+  ip:
+    encrypted: ZWM3MmFhYjZmNjE1YmM3Njk3MWQ5NDFlMjUxYTk4
+    algorithm: aes-256-gcm
+    iv: 61cd81949ac43bfb3d241430
+  target: 968
+- type: reply
+  channel: native
+  id: "970"
+  author:
+    name: 臻臻
+    url: http://www.nhljz.net
+    email:
+      value:
+        encrypted: NWIxODE0NmIxOTM0MjQ0OGQ1ZmIwYzFk
+        algorithm: aes-256-gcm
+        iv: 003e43fea5bfd5c1b41f6f66
+      hash:
+        md5: bcdf006ce18bf54ae9f2002883500cb9
+  published: 2009-08-28 16:17:00
+  content: 不更新了吗？
+  ip:
+    encrypted: Y2U4NGQyN2QwZGUzMDMzYTM3MTdhYzUzZTQ2OQ==
+    algorithm: aes-256-gcm
+    iv: 6b03eb27c6343ab816c6895a
+- type: reply
+  channel: native
+  id: "971"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZjY1NzU0NTBkMWY4MjAwZWYxMjIyOA==
+        algorithm: aes-256-gcm
+        iv: 51cbc55843626190b0b0f77d
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-08-29 07:56:00
+  content: 最近实在是太忙了……
+  ip:
+    encrypted: M2YyZjZkMzE2NTRjYjFkZTQ2OGJkNWQ4NzdiZg==
+    algorithm: aes-256-gcm
+    iv: 7e5d4364c110f56d8cd0dd8f
+  target: 970
+- type: reply
+  channel: native
+  id: "972"
+  author:
+    name: 测试下效果咯~
+    email:
+      value:
+        encrypted: NDU3ZWU5OWE2OGExNWQ0N2RlNjFkZjAzNDQ1Yw==
+        algorithm: aes-256-gcm
+        iv: 624972511ea6fe8cb024559a
+      hash:
+        md5: 646c258aecbce9ec3952de6b3968caf3
+  published: 2009-09-12 11:11:00
+  content: 测试下效果咯~
+  ip:
+    encrypted: ZWI5Mzk0M2YwNjVhNjIxM2JiNmQ3NzU1
+    algorithm: aes-256-gcm
+    iv: a59e6fb600901b5f2786aba7
+- type: mention
+  channel: native
+  id: "973"
+  published: 2009-09-17 01:26:00
+  content: "[...] Easy to Hide
+    wordpress插件下載鏈結：猛擊這裏，使用方法非常簡單了，上傳到plugins目錄後，到控制面板啟用，撰寫日誌時，把需要隱藏的內容放到 [
+    cookie ]、[ /cookie ]中即可。 [...]"
+  author:
+    name: Easy to Hide wordpress外挂：僅對發表評論者開放部分內容 | Wordpress 佈景
+- type: reply
+  channel: native
+  id: "974"
+  author:
+    name: 致富网
+    url: http://www.40111.com.cn
+    email:
+      value:
+        encrypted: NmUyOTYyNzkxNGY2MTEyYjRhZjlkZTcwMmVjMmEx
+        algorithm: aes-256-gcm
+        iv: 0e61ec5c6ccade53d8ed3375
+      hash:
+        md5: a6167dac83666747edf0656467bfdc3d
+  published: 2009-09-29 22:43:00
+  content: 试试咯。。
+  ip:
+    encrypted: ZTNjMGIzZjA0MjZmNTJiNjI4ZTFlZDUzNTI0Mg==
+    algorithm: aes-256-gcm
+    iv: 10ab66b792f7c950dfe87db3
+- type: reply
+  channel: native
+  id: "975"
+  author:
+    name: sukicn
+    email:
+      value:
+        encrypted: N2M4OTU1MTgzNGIwN2ZjZjQ5NTRiMDA2MGFjOTE1NDU2Zjk3MWU=
+        algorithm: aes-256-gcm
+        iv: e9a80caf47b3bf69eba81064
+      hash:
+        md5: aab485e75551fd3485dbd79705f6a415
+  published: 2009-10-16 20:40:00
+  content: 试试...
+  ip:
+    encrypted: NjZlZTE4NTcxMTgwYzM0NTAyMWNiZjk1YWFlNA==
+    algorithm: aes-256-gcm
+    iv: dc1d35e07ac0f4d979e8f107
+- type: reply
+  channel: native
+  id: "976"
+  author:
+    name: 嵐炎
+    email:
+      value:
+        encrypted: NmNlYTBkNzllMTEzNDVmMzQ5Yzk5NzAwZWRjMjU3YjZiZTI3NmI4NzQz
+        algorithm: aes-256-gcm
+        iv: 3058ed2f145b895fbf88a86f
+      hash:
+        md5: fb45344b6581ebb4d96e21c902ac97cb
+  published: 2009-11-12 19:09:00
+  content: |-
+    問一下
+    最新版0.4的語法
+    <!--easy2hide start-->
+
+    <!--easy2hide start{reply_to_this=true}-->
+    兩者還是有差別嗎??
+    我似乎用起來是一樣的 都是必須在該篇文章回覆才能看到
+    在別篇回覆過後,再來看此篇 還是一樣顯示要回復
+  ip:
+    encrypted: Y2JlZThhZjNlN2M1NThhNWJlMjRiNzQxOGRhZQ==
+    algorithm: aes-256-gcm
+    iv: ff49a502729ce2668d220667
+- type: reply
+  channel: native
+  id: "977"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NTE0YWI0ZDM2NTA2OWQ0OWU2ZmMxMg==
+        algorithm: aes-256-gcm
+        iv: 2b424383813f414694ab756a
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-11-13 07:56:00
+  content: 第一種只要求曾經評論過。應該有差別的啊。
+  ip:
+    encrypted: ZjhlMjJmZmZiM2VhNmUxYWNiMWYyOWVmNzQwNQ==
+    algorithm: aes-256-gcm
+    iv: 3dab7b20bce435ae288e7fb0
+  target: 976
+- type: mention
+  channel: native
+  id: "978"
+  published: 2009-11-13 20:15:00
+  url: http://kwe.net.cn/?p=77
+  content: "[...] 插件是国人 Dallas 开发的，Easy to Hide
+    wordpress插件下载链接：猛击这里，使用方法非常简单了，上传到plugins目录后，到控制面板启用，撰写日志时，把需要隐藏的内容放到 [
+    cookie ]、[ /cookie ]中即可。 [...]"
+  author:
+    name: Easy to Hide wordpress插件：仅对发表评论者开放部分内容 – 【KWE的博客】
+- type: reply
+  channel: native
+  id: "979"
+  author:
+    name: 成叔叔
+    email:
+      value:
+        encrypted: YWIxZDhhMzUwMjEzMjE4ZWYzNDYxODk0YTI4ZQ==
+        algorithm: aes-256-gcm
+        iv: a6c8ace5887fb0ad1bfdfffd
+      hash:
+        md5: 69355d86c5d9abbd02c69b1eda06df4c
+  published: 2009-11-16 15:42:00
+  content: 怎么有时候没有作用呢？
+  ip:
+    encrypted: Yjg4OGEzOGE1MWRkZjI2NmM2YmQwYmEz
+    algorithm: aes-256-gcm
+    iv: 4b9806b856613597b665bc6e
+- type: reply
+  channel: native
+  id: "980"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NzI4YTk0ZTdmMDI5NTEwOWFlZmQ4Ng==
+        algorithm: aes-256-gcm
+        iv: 37ba6436f093154f7d00245f
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-11-17 17:02:00
+  content: 浏览器缓存或者服务器缓存都可能导致这个问题
+  ip:
+    encrypted: MGY2N2E0NmIwNjE0MDM5ZDlhYTZjZjFjYzQ5MA==
+    algorithm: aes-256-gcm
+    iv: c6070bf292ffc25898c4c6ce
+  target: 979
+- type: reply
+  channel: native
+  id: "981"
+  author:
+    name: 臻臻
+    url: http://nhljz.net
+    email:
+      value:
+        encrypted: MDMzNzY4ZDEzZjlkNTE1ZjZkNzRiZmNhZTA0MDYy
+        algorithm: aes-256-gcm
+        iv: a26b484b58e177d0dfa3162e
+      hash:
+        md5: 3f3ce932b48bb69f9e28f85edd87afab
+  published: 2009-12-02 21:36:00
+  content: 博主应该是太忙了，插件到我不搞下载了，都没有更新了。。可惜了这个插件了。。。
+  ip:
+    encrypted: ZDM2MDQyYTIzNmUxNTQyM2JhZmIwNTcy
+    algorithm: aes-256-gcm
+    iv: c7a04f4f7da663b8bf095a3c
+- type: reply
+  channel: native
+  id: "982"
+  author:
+    name: sunny1981
+    email:
+      value:
+        encrypted: OTg1N2QzOGZjNTE1MzlmYzk0OGQzOGIxOWI4ZWE3
+        algorithm: aes-256-gcm
+        iv: 2103f4560d53f1650d21b1fa
+      hash:
+        md5: 135d22b27867536e432206356bda0900
+  published: 2009-12-27 23:07:00
+  content: 请问一下，“曾经在博客留言的评论者”还是“当前文章”的评论者可见，具体设置方法
+  ip:
+    encrypted: YTkxMTI3NzVhYzZhZjhlZWJhYThlMzA2OTAzMA==
+    algorithm: aes-256-gcm
+    iv: 66d0af3f9ddddb121939269b
+- type: reply
+  channel: native
+  id: "983"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZTNhNWJmZjZkODAxOGI5MzBjZWUxZA==
+        algorithm: aes-256-gcm
+        iv: 90fc374816b9c1ad70be7858
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-12-30 23:08:00
+  content: 文中应该提到了~关键在于 reply_to_this
+  ip:
+    encrypted: MDQ3MTY5OWM1YTZkZWRlMjFkNzA3MmIwMjA=
+    algorithm: aes-256-gcm
+    iv: 591b92cc453626e5f26b2e81
+  target: 982
+- type: reply
+  channel: native
+  id: "984"
+  author:
+    name: coolnails
+    url: http://www.letsmg.com
+    email:
+      value:
+        encrypted: OTc0ZGVkMzliZWFiYzk0OTkyNTUzZjBiYThhMmYxNmE0Yg==
+        algorithm: aes-256-gcm
+        iv: 863e6d26b961291eeb0a60a8
+      hash:
+        md5: 0b1b96af059d6766bce25c2ea39ef0fb
+  published: 2010-01-15 19:08:00
+  content: |-
+    hi，你好很喜欢这个插件，但是有几个问题想请教。
+
+    1.如果想要改变“抱歉，只有对本文发表过评论才能阅读隐藏内容”这句话，需要在哪里改。我试了你上面说的方法，但是显示乱码。
+
+    2.想要改变这句话的颜色，需要怎么做？你上面提到添加CSS，但是可都具体一点在哪里添加？
+
+    菜鸟发问，不好意思哈。
+  ip:
+    encrypted: ZGU0OGQ1OGU4NWJkZjRjYmYzZDNkZWE1
+    algorithm: aes-256-gcm
+    iv: 4f4b7892dd4d48b06600eae5
+- type: reply
+  channel: native
+  id: "985"
+  author:
+    name: 老莫
+    email:
+      value:
+        encrypted: MmZjYWY0NTU2YTRlYmI0NTU2MDFlZmYxOTBiNzBmODAwYmRhYTM=
+        algorithm: aes-256-gcm
+        iv: fb1b3d2f564c6dc186723549
+      hash:
+        md5: 607e0c886152b6e1fad470fdcdb84596
+  published: 2010-01-24 19:27:00
+  content: 在Google浏览器下有问题，没有隐藏。
+  ip:
+    encrypted: YjQyMjRmNjk1NGRmYmM1YWM2MDBkZQ==
+    algorithm: aes-256-gcm
+    iv: 40820c31b76a2b295394ab82
+- type: mention
+  channel: native
+  id: "986"
+  published: 2010-02-25 17:34:00
+  url: http://www.1986x.net/archives/2394.html
+  content: "[...] Easy2Hide插件下载地址: 点击下载 Easy2Hide插件作者地址: 点击进 入 [...]"
+  author:
+    name: Wordpress 回复可见插件Easy2Hide _海盗船长
+- type: reply
+  channel: native
+  id: "987"
+  author:
+    name: 减肥食谱
+    url: http://www.jfei365.cn
+    email:
+      value:
+        encrypted: OTBmMjc0NDdlMjg2M2EyNDhjYmZmODQ2NGM3N2FhZDdiMTJhMWVlODA5ZjE3ZA==
+        algorithm: aes-256-gcm
+        iv: aa272e8165517c1ff8948470
+      hash:
+        md5: 777dccd9f3db06e07717b0062fbf2a68
+  published: 2010-03-06 21:56:00
+  content: 这个插件不错，待会试试看~~~
+  ip:
+    encrypted: MzJhMjc5ZDM3Zjc2YTU5YTg3MDcwYzUzYTQ2MQ==
+    algorithm: aes-256-gcm
+    iv: f442664e1dc532f3a2b2edb9
+- type: reply
+  channel: native
+  id: "988"
+  author:
+    name: HillBoy
+    url: http://hillboy.org
+    email:
+      value:
+        encrypted: Yzc3NjlkMDIzMWUxOTY1ODEwY2E5NGY1ODE0NGQzODFjMjMxZTc=
+        algorithm: aes-256-gcm
+        iv: b163f413985843758f8b8541
+      hash:
+        md5: 37b417b6064f5e442d0c93a12faa8b74
+  published: 2010-04-23 21:58:00
+  content: 博主太忙了，这插件可能太监了
+  ip:
+    encrypted: ZmI5ZmY1ZGVlNTIyMzQ5NWZjMjUyNGZhMDk=
+    algorithm: aes-256-gcm
+    iv: 35e289119d945ae3c09888ba
+- type: reply
+  channel: native
+  id: "989"
+  author:
+    name: billpeace
+    email:
+      value:
+        encrypted: MzAyY2NkNGI2MDVkOWI4MzlkNWEzNDZiODgyYTA0MjFhYWM1ZTQ=
+        algorithm: aes-256-gcm
+        iv: cf94c8115222d039bc836899
+      hash:
+        md5: 3d92eefbc388f1593946f260d945431b
+  published: 2010-05-07 13:51:00
+  content: |-
+    怎么有人反映 回复看不见
+
+    不知道怎么回事
+  ip:
+    encrypted: NTBjZTI4YjFjMmY1ZWU2MjFlZTZhMTIwZDcxNg==
+    algorithm: aes-256-gcm
+    iv: 743566da400591212d3614f0
+- type: reply
+  channel: native
+  id: "990"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZGNhZmVlN2ZkNGE1NzY1ZmYxZjJmOA==
+        algorithm: aes-256-gcm
+        iv: c352c857ed83bd42a898af32
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-05-08 16:48:00
+  content: 如果博客开启了缓存、浏览器禁用了cookie都会导致这种情况
+  ip:
+    encrypted: Yzk2YTZmMjBhNDg4NDkzMjBhODg1MzcwNGM=
+    algorithm: aes-256-gcm
+    iv: 23442be464686eda52d37c57
+  target: 989
+- type: reply
+  channel: native
+  id: "991"
+  author:
+    name: billpeace
+    email:
+      value:
+        encrypted: Nzg3ZjU0ZjFiOTBlMjExM2YyMWE4OWYwNGI2ZDdiZmRlMGNhOTI=
+        algorithm: aes-256-gcm
+        iv: 1de7922c46e41835f93c257b
+      hash:
+        md5: 3d92eefbc388f1593946f260d945431b
+  published: 2010-05-08 16:58:00
+  content: |-
+    谢谢你的回复
+
+    一般浏览器默认是禁用cookie吗?
+  ip:
+    encrypted: ZGZkMDQxNWFiMDM1YTY1ODEzYTQ2ZjgyMzQ0Ng==
+    algorithm: aes-256-gcm
+    iv: e57e72473ed0ee27eee5e6a0
+  target: 990
+- type: reply
+  channel: native
+  id: "992"
+  author:
+    name: billpeace
+    email:
+      value:
+        encrypted: MjYyZjBiMWFmZTdmOTA5ODg2MzQ4Y2Y0ODY3NzE2Yzc2NjQxMWE=
+        algorithm: aes-256-gcm
+        iv: 4f672b91cb8ffddec17d2ec3
+      hash:
+        md5: 3d92eefbc388f1593946f260d945431b
+  published: 2010-05-08 17:09:00
+  content: |-
+    我查了一下 wp-config.php 没有 define('ENABLE_CACHE',true);这句
+    也没有安装 WP-Cache或者WP Super Cache之类的插件
+
+    而且  我发现自己的IE8没有开启第三方cookie  就是 覆盖自动cookie处理 隐私设置
+    可以回复 而且看到隐藏的内容
+  ip:
+    encrypted: NzE1NDA4NzFkZDcwNTEyODEwODRkN2ExNzBkMQ==
+    algorithm: aes-256-gcm
+    iv: fccc55198517572d926ea88c
+  target: 990
+- type: reply
+  channel: native
+  id: "993"
+  author:
+    name: billpeace
+    email:
+      value:
+        encrypted: OGM4YTlmYzllZTA2YTE0M2IwMWUwNTk4OTRlODFhY2JkNDIwNTc=
+        algorithm: aes-256-gcm
+        iv: b7f36ca539a9264b34ec33fb
+      hash:
+        md5: 3d92eefbc388f1593946f260d945431b
+  published: 2010-05-08 17:15:00
+  content: |-
+    可能跟 隐私级别有关
+
+    我的隐私级别是中，可能那些看不到的人 都设置成 高了
+
+
+    就是想问一下 我怎么查看到底有没有开启缓存
+    谢谢了
+  ip:
+    encrypted: YzNkZWIxN2M5MjA1M2NjMDQ0YjQxMTQ0N2EzYQ==
+    algorithm: aes-256-gcm
+    iv: 8aa98be077996e3282bda028
+  target: 990
+- type: reply
+  channel: native
+  id: "994"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NmNjOWUxMTQwZWQ3ODk5ODYyNjhmZg==
+        algorithm: aes-256-gcm
+        iv: 2426f1ae04efb598154bdfa0
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-05-08 17:17:00
+  content: 看样子，你真的没开缓存。
+  ip:
+    encrypted: NDk3ZTY2YmI4MjNjMzUyNDliN2JlOTkzMGI=
+    algorithm: aes-256-gcm
+    iv: b7adc4d07ef4b89494bd0347
+  target: 993
+- type: reply
+  channel: native
+  id: "995"
+  author:
+    name: billpeace
+    email:
+      value:
+        encrypted: ZjI4NTBmYTljMTcyYWUyYTZhYmI2Zjc2NWUxMjU5ZTQzNzIyMWM=
+        algorithm: aes-256-gcm
+        iv: f6be6218141a84a54a18bc87
+      hash:
+        md5: 3d92eefbc388f1593946f260d945431b
+  published: 2010-05-08 23:06:00
+  content: |-
+    你推荐使用缓存吗
+
+    个人站点 流量不大的站点
+  ip:
+    encrypted: MzRiN2MzNzE2ZTc3ZjM0NjgzZGI3NDdiOGE5ZQ==
+    algorithm: aes-256-gcm
+    iv: 91ba268e1cf59c35698af3ee
+  target: 994
+- type: reply
+  channel: native
+  id: "996"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZWIwYTc0MTFiODU5YmFhOTgzYTU0Zg==
+        algorithm: aes-256-gcm
+        iv: 1666e930c2c5f90e85078386
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-05-10 12:05:00
+  content: 问题是，使用缓存没有什么坏处啊。除非你用到easy2hide这样的与缓存冲突的功能。
+  ip:
+    encrypted: Y2VhNjU2NGE2OTRlMjdjYmU5YzU4YTY2OWZiNA==
+    algorithm: aes-256-gcm
+    iv: 68949644aebe3e2cc07a3970
+  target: 995
+- type: reply
+  channel: native
+  id: "997"
+  author:
+    name: billpeace
+    email:
+      value:
+        encrypted: OGNhYTFlYTZjYTU0YmFlNTIwNGUxMzhlZDVlZTA3NGY3ZjBmY2E=
+        algorithm: aes-256-gcm
+        iv: 7d3207848f335d2ff5c21472
+      hash:
+        md5: 3d92eefbc388f1593946f260d945431b
+  published: 2010-05-18 12:58:00
+  content: |-
+    我不用缓存 很多都反映 easy2hide 隐藏的内容看不到
+    不知道是怎么回事
+
+    我提示他们开启cookie 好像也没有效果 还是看不到
+  ip:
+    encrypted: MTEwNDU1MjI5ZjMwMzg5MjI4NTRjMTExMjk0MQ==
+    algorithm: aes-256-gcm
+    iv: 15ee7b9c7112387f29c82a83
+  target: 996
+- type: reply
+  channel: native
+  id: "998"
+  author:
+    name: billpeace
+    email:
+      value:
+        encrypted: NDg0ODhhYzhhMTczNTkyNzQyMGJhNjZiMzQxODBiMjU5OTBlYjA=
+        algorithm: aes-256-gcm
+        iv: 616b1dfdcd0bfcd547d4b893
+      hash:
+        md5: 3d92eefbc388f1593946f260d945431b
+  published: 2010-05-18 13:59:00
+  content: 缓存插件 有什么推荐的吗
+  ip:
+    encrypted: OGRiNzJjZmZhODUwZDI0NjNiZWQ3NzczNjAxNw==
+    algorithm: aes-256-gcm
+    iv: b074a6173d36d3640daaad28
+  target: 996
+- type: reply
+  channel: native
+  id: "999"
+  author:
+    name: 猪尊宝
+    url: http://tao2.net
+    email:
+      value:
+        encrypted: Y2VmMTU3ZmY1Y2RlNmRhNjEyOGRjZQ==
+        algorithm: aes-256-gcm
+        iv: 8d1c1a628f15789247711ec2
+      hash:
+        md5: 628b1861326ceddb3bb0b30f05a42719
+  published: 2010-05-22 23:16:00
+  content: 确定能用不？以前的都不能用的说。
+  ip:
+    encrypted: NTBmZDI0YWExY2Y0MDk5MzlhN2RiY2Mx
+    algorithm: aes-256-gcm
+    iv: 7e02c5b96516b8354f178581
+- type: reply
+  channel: native
+  id: "1000"
+  author:
+    name: joyla
+    url: http://joyla.org
+    email:
+      value:
+        encrypted: NTUyMDliZDYxYWY1NzFjNzM4YzM1MTVkMjY1Mg==
+        algorithm: aes-256-gcm
+        iv: cee85ca663cc5a3a3cb3435d
+      hash:
+        md5: 09dc3655c1f3845f3a01d4a340886896
+  published: 2010-05-23 23:21:00
+  content: 啊哦，这个插件很棒啊！
+  ip:
+    encrypted: ZDA1ZDk2ZmM2NDEwMDBkNmY2NmQ3OTM4Y2Y=
+    algorithm: aes-256-gcm
+    iv: 7d1eae4e78e300470dc50f08
+- type: reply
+  channel: native
+  id: "1001"
+  author:
+    name: Dianso
+    url: http://014.cc
+    email:
+      value:
+        encrypted: Mzg2MTI2NjI2YjFlNzc3NmJlZTk3ZjgzOWQ=
+        algorithm: aes-256-gcm
+        iv: a2e103f3b0d27e752863142f
+      hash:
+        md5: fd126aa64db6755fe66749e7870b9c9c
+  published: 2010-07-15 00:36:00
+  content: 终于找到了这个插件
+  ip:
+    encrypted: NTIyYzZkZmE0NmVjMzVjZjc1MTFjYTUyZjY=
+    algorithm: aes-256-gcm
+    iv: a8ae8520b03ba23addbe3d3e
+- type: reply
+  channel: native
+  id: "1002"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MDM0MDJlNjIwYTRmMmQzMTgwYTUyZQ==
+        algorithm: aes-256-gcm
+        iv: d09852de1958ef0faee31170
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-07-16 18:27:00
+  content: 太久没更新了。
+  ip:
+    encrypted: ZDA1MmM2ZjYzMTAwZWQ4NTg0YjA5M2NmNWNhZmMy
+    algorithm: aes-256-gcm
+    iv: 8519a0d267dbc90acab24613
+  target: 1001
+- type: reply
+  channel: native
+  id: "1003"
+  author:
+    name: 米哥
+    email:
+      value:
+        encrypted: MDMzOWZlZGRhZWMyMjliMGQ0OTk3YmZlMWYwZDBlMTI=
+        algorithm: aes-256-gcm
+        iv: 76e807afe3d5eab88c281d1b
+      hash:
+        md5: f1868e49675033ae7a58da2ecea3d5d2
+  published: 2010-08-09 23:18:00
+  content: 可不可以做一个自动全局设置的! 现在要一篇一篇的加很累~!
+  ip:
+    encrypted: NWRlNDUyMmE5Y2M1NGZkYjZhMGYzZjQzNjFkNA==
+    algorithm: aes-256-gcm
+    iv: e20d04f9040a2c79681a632e
+- type: reply
+  channel: native
+  id: "1004"
+  author:
+    name: 米哥
+    email:
+      value:
+        encrypted: MGQ2NTMxODc4YzE0Yjc0YmU2MWY3NWI4NDA2ODkzMTg=
+        algorithm: aes-256-gcm
+        iv: 04fb9504b94e232fc54a6840
+      hash:
+        md5: f1868e49675033ae7a58da2ecea3d5d2
+  published: 2010-08-10 00:28:00
+  content: 隐藏后管理员查看也必须回复才可见,能否改进一下
+  ip:
+    encrypted: ZDJkMGNkMjQ1YTVmNDIyYzE5ZTIxYWI0ZjZhYw==
+    algorithm: aes-256-gcm
+    iv: cd741c5d6705f59ee06660c2
+  target: 1003
+- type: reply
+  channel: native
+  id: "1005"
+  author:
+    name: 梧州SEO
+    url: http://wzseo.info
+    email:
+      value:
+        encrypted: OTljMTY0YWZjYWFiOWE1ODE2MGIxM2I4MGE2ZmUyMzcxMzhk
+        algorithm: aes-256-gcm
+        iv: 478ffa8eb8c794d62f8dc7b4
+      hash:
+        md5: abd5b0452b133583bcafd1bad1d09c1b
+  published: 2010-08-20 13:37:00
+  content: 正在找这个东东呢，想不到真有呀，太好了。谢谢了！
+  ip:
+    encrypted: OWY1OTE4OTMwYjNmMjczNTViODkzYTE0ZWM4MA==
+    algorithm: aes-256-gcm
+    iv: a3bef1f481a791b640eda717
+- type: reply
+  channel: native
+  id: "1006"
+  author:
+    name: iubear
+    email:
+      value:
+        encrypted: YjNlNTJlNTU5MDhhZTRkOGI1YzkyMjg1
+        algorithm: aes-256-gcm
+        iv: 022d2fe84807a1451d9e6606
+      hash:
+        md5: 800415eb86ffb2bb2de164a658226dbf
+  published: 2010-08-23 14:42:00
+  content: 谢谢！正在看看~
+  ip:
+    encrypted: ZTE3MDQwODRmOGRjMjMxNWRmZjhhNDA5MTY4OA==
+    algorithm: aes-256-gcm
+    iv: 56f5990c2442ac87484635cc
+- type: reply
+  channel: native
+  id: "1007"
+  author:
+    name: YY
+    url: http://www.dear-lover.cn/
+    email:
+      value:
+        encrypted: OGM2NGNlM2E4ZjQzM2Y5MDUyM2RiNDBkN2FhNzBjNjQ=
+        algorithm: aes-256-gcm
+        iv: c958b3d4b8b5d984adb2e7aa
+      hash:
+        md5: cef94f73db9e7becbdd5a7ac833a5329
+  published: 2010-09-28 21:30:00
+  content: caicai
+  ip:
+    encrypted: NTZiNGMzZDNkMTBhZWRjOGY2MGM3ZDZmMjhkNQ==
+    algorithm: aes-256-gcm
+    iv: 90f045285b9f07c07b64b8fc
+- type: reply
+  channel: native
+  id: "1008"
+  author:
+    name: 输卵管堵塞的治疗方法
+    url: http://shuluanguanduse.com
+    email:
+      value:
+        encrypted: MWIzNDAxZmFiOTgxOWFiZDFjYmE0YWZjNmJhZDNjOTdjMA==
+        algorithm: aes-256-gcm
+        iv: c7f1be1a99dd2ae90d9e2e8d
+      hash:
+        md5: 86ae99787dab5e1efd30d00a19fb191f
+  published: 2010-10-08 22:57:00
+  content: 好邪恶的插件，如果不是有特别的内容的话还是少用的好
+  ip:
+    encrypted: OTViODhlNTQyNzZhMThlM2M3MDU5ZWJhNjE=
+    algorithm: aes-256-gcm
+    iv: b4a8fc1a9e2148914782c2d6
+- type: reply
+  channel: native
+  id: "1009"
+  author:
+    name: pangdage
+    url: http://mm.pangdage.com
+    email:
+      value:
+        encrypted: MzAwZDc3NTAxODdkZmNlZjM4YTEyMTk3OWVmYmNjNTRiODgx
+        algorithm: aes-256-gcm
+        iv: 27f78a779cd66f2de252b78b
+      hash:
+        md5: b484bd6af17006afc967acb6d7bdfa3f
+  published: 2010-10-21 19:20:00
+  content: |-
+    我想编辑显示文字来着的。
+
+    发现要改MO PO的语言文件....
+
+    这就麻烦了啊..
+  ip:
+    encrypted: MGQ0OThiNWViNjRmYWQ3NTJkNDJiYjAwYjA=
+    algorithm: aes-256-gcm
+    iv: dcfd2a0b4b5337780afb03dc
+- type: reply
+  channel: native
+  id: "1010"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZWM0N2Y1MGFiYjQ5ZGUxZTRhNDc0MA==
+        algorithm: aes-256-gcm
+        iv: c63afeeb75125f773f5a3f08
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-10-22 08:16:00
+  content: 下载一个 Poedit（貌似是叫这个名字）。很好用。
+  ip:
+    encrypted: ODQ0MDQ5ZjI3ODZiMzcyM2M2M2YxYw==
+    algorithm: aes-256-gcm
+    iv: b121f2a83d778956e2e153d2
+  target: 1009
+- type: reply
+  channel: native
+  id: "1011"
+  author:
+    name: uiandue
+    url: http://uiandue.com
+    email:
+      value:
+        encrypted: MGJkNTUzYjk5ZTgwZTVmZTg4MmM2YTdjZjRiMzU2NGMxZA==
+        algorithm: aes-256-gcm
+        iv: 7a58c9d93d52b1395e462716
+      hash:
+        md5: f8206f63fe26ab4a99925d06cc4845c4
+  published: 2010-10-26 12:00:00
+  content: 好高的楼啊。我爬。“曾经在博客留言的评论者”还是“当前文章”的评论者可见。这个功能好
+  ip:
+    encrypted: NGY4Nzg1NTNjZTkyODYzZDcyM2QxMDE2NGM=
+    algorithm: aes-256-gcm
+    iv: 962376883f4ec54568bb3d58
+- type: reply
+  channel: native
+  id: "1601"
+  author:
+    name: 胜势待发93
+    url: http://cupdish.com
+    email:
+      value:
+        encrypted: ZWZhMzViZmQ1MzU2ODQ5OGVkMzVlMDEwNzg1OTlkZDk=
+        algorithm: aes-256-gcm
+        iv: 8922c9b78a1232d357a13b3e
+      hash:
+        md5: 0a01130a52b6c34daea601a608230648
+  published: 2011-08-22 14:48:00
+  content: 你好，请问怎么修改提示语的颜色和字体呢？
+  ip:
+    encrypted: NTYxYTNlMmRhYmIzODI4ZDVlZTNkMmNmYjZjOA==
+    algorithm: aes-256-gcm
+    iv: c7e6caf8eb165d3e667a8b18
+- type: reply
+  channel: native
+  id: "1602"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: NGNkYjkyZjA2MzUxYTYyMWRjNzI5NQ==
+        algorithm: aes-256-gcm
+        iv: 75a08036bfd651fbd18f08e1
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-08-23 13:53:00
+  content: |-
+    可以写CSS
+    参见：http://dallaslu.com/easy2hide/#comment-960
+  ip:
+    encrypted: ZjRkOGJiM2JhOTU5NmYyYmRkY2U2Yzg3ZDk=
+    algorithm: aes-256-gcm
+    iv: a06ac374ad144d5f8bc2ea71
+  target: 1601
+- type: reply
+  channel: native
+  id: "1635"
+  author:
+    name: 囧啊囧
+    url: http://vv15.com
+    email:
+      value:
+        encrypted: MGVjN2E4ZmJhYmE1NDk3NzYyYjA=
+        algorithm: aes-256-gcm
+        iv: d026f85e4cf7e07137276fe1
+      hash:
+        md5: becff5ad58fdaaa78f36ccd4a547019e
+  published: 2011-10-10 00:35:00
+  content: 呃！开始还以为是英文的，今天跑到发布页来看才知道是国人开发的，请问能不能加入一个特定IP显示的功能啊？我找人帮忙改了下可以实现一个IP，多个IP不知道怎么弄。
+  ip:
+    encrypted: YmMzN2JiMjNiNTNjZDIzZjRlZjNmMjdkZGIzMGY4
+    algorithm: aes-256-gcm
+    iv: ca9da3d78a4c56c87eb3e67f
+- type: reply
+  channel: native
+  id: "1655"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: MmU5M2M2NzA4MWU2MDU0Y2M4NjU3YQ==
+        algorithm: aes-256-gcm
+        iv: f2df0e347402454f345a15b6
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-10-17 16:10:00
+  content: 好久好久没有更新了……特定 IP ？ 怎么会有这样的需求呢？
+  ip:
+    encrypted: MjNkYzVmOTk4NTVkYjdhZmQzYjk3OQ==
+    algorithm: aes-256-gcm
+    iv: 6b184e5c382e6486a82754a7
+  target: 1635
+- type: reply
+  channel: native
+  id: "1663"
+  author:
+    name: 青衿
+    url: http://blog.artzxy.com
+    email:
+      value:
+        encrypted: ZTUxZjViMzc3ZDRhMzU5YzA2OWYzMzZhMmE0OWQwZWI=
+        algorithm: aes-256-gcm
+        iv: c6b8047efe7624a132f9b024
+      hash:
+        md5: ba197121e206a52997b89385ea635de0
+  published: 2011-10-22 01:48:00
+  content: 希望默认为“回复此篇日志可见”，不知从html按钮那里替换语句可以不，怎么做呢，以前了解过，现在忘了。
+  ip:
+    encrypted: YzllNDg2ZGFkN2Q3MTA5NGZhOTUwYjk2Yjk3OQ==
+    algorithm: aes-256-gcm
+    iv: ea5d8c28ffff051ad9eb8428
+- type: reply
+  channel: native
+  id: "1668"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: NmNiNGNmMGQ0YzhmZjk3OGQxMTFmZQ==
+        algorithm: aes-256-gcm
+        iv: a441d672591117d391d5662c
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-10-26 10:08:00
+  content: "{reply_to_this=true} 还算容易记忆和输入的吧。"
+  ip:
+    encrypted: ZjQyMjMwMjM3Zjg0YjZjOWM4MDdkNA==
+    algorithm: aes-256-gcm
+    iv: b5ad5cd06116b6ee5463b43e
+  target: 1663
+- type: reply
+  channel: native
+  id: "1696"
+  author:
+    name: 张自云
+    url: http://www.icdiary.com
+    email:
+      value:
+        encrypted: Y2NhYmIwNWVmNDMzMmFkOTE3MTk2ZDJiZjgxMjM4YzY=
+        algorithm: aes-256-gcm
+        iv: e790a4d0fa594533152245b5
+      hash:
+        md5: 74f4f466b11dad717e16438f63d0b08e
+  published: 2011-11-24 16:57:00
+  content: 如果能让隐藏时的提示内容显示为红色字体就更好的了，再增加一个回复链接<a href="response" rel="nofollow">立即回复</a>
+  ip:
+    encrypted: NWEzM2I1NzBhNjRjZTY0NjEyYWVlMDFiNmVjNg==
+    algorithm: aes-256-gcm
+    iv: 4202d20b51b1a6de43503c3a
+- type: reply
+  channel: native
+  id: "1697"
+  author:
+    name: 匿名
+    email:
+      value:
+        encrypted: ZjUzN2QyZGYwYjUwZWQzOGNhMTczMw==
+        algorithm: aes-256-gcm
+        iv: 4fe398255db19d336afefc9b
+      hash:
+        md5: 7d8910c87d7006874b40085cc8e89dfa
+  published: 2011-11-24 20:36:00
+  content: 你可以修改css ：http://dallaslu.com/easy2hide/#comment-960
+  ip:
+    encrypted: ZWJiOTEwMTg3ZTcwN2UxZTg2MzAwNTNmMjk4MQ==
+    algorithm: aes-256-gcm
+    iv: dba194eac65ec63a1b177f2a
+  target: 1696
+- type: reply
+  channel: native
+  id: "1702"
+  author:
+    name: hit9
+    url: http://www.hit9.net
+    email:
+      value:
+        encrypted: NmQ4ZWU5YTM4NGI3OGU1MzNiNDFjY2FlODNlZg==
+        algorithm: aes-256-gcm
+        iv: 59d4b3c5f261064fde35c415
+      hash:
+        md5: 20dd05347249e3984f2d4546ea0ca127
+  published: 2011-11-27 17:23:00
+  content: 我想换掉那个显示的内容。如何办?另外你的404很性感
+  ip:
+    encrypted: YWUyNzAwOTBjYmQ2ZjZjOTlmOTlmMDc2OWI0ZQ==
+    algorithm: aes-256-gcm
+    iv: 100fd5dcf68d16f62f488187
+- type: reply
+  channel: native
+  id: "1703"
+  author:
+    name: hit9
+    url: http://www.hit9.net
+    email:
+      value:
+        encrypted: N2ViYjJiNGZmNzU4MWRjNmU0OTIzOGM3M2M1NA==
+        algorithm: aes-256-gcm
+        iv: b5927fab4e33ba6460f31174
+      hash:
+        md5: 20dd05347249e3984f2d4546ea0ca127
+  published: 2011-11-27 17:30:00
+  content: 博主我会了谢谢
+  ip:
+    encrypted: NDQ0YzgyNWU1MDZmMDQ4ODJmMWZkM2FjZjViMw==
+    algorithm: aes-256-gcm
+    iv: 769894cbef1f5db7ece1b56a
+- type: reply
+  channel: native
+  id: "1732"
+  author:
+    name: PeeMau
+    url: http://peema.us/
+    email:
+      value:
+        encrypted: Njk0NjcyNWNiZTQyMjdiY2JiYmRiMGM4NDJlNg==
+        algorithm: aes-256-gcm
+        iv: 3154879966b315b3b104898b
+      hash:
+        md5: d5f49cd3c0f340ce4730477a4ac3d0ae
+  published: 2011-12-21 21:35:00
+  content: wordpress更新3.3之后在编辑器里不显示easy2hide的按钮了，另外能让这个插件支持ajax方式提交之后显示内容吗？
+  ip:
+    encrypted: NWE4ZGFhOGZkNjU4OWU5MmQ0NDQ1ZDMz
+    algorithm: aes-256-gcm
+    iv: 91fd7384e00edd86a0bf2c1c
+- type: reply
+  channel: native
+  id: "1733"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZGJiNTQ1NDkyZmM3ZTE0MzQxNjEzYQ==
+        algorithm: aes-256-gcm
+        iv: 91a1da741e0bc45ec9b697fb
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-12-22 10:44:00
+  content: 目前未考虑支持 Ajax 方式提交评论。至于 WordPress 3.3 的支持，短期内因为时间问题暂不能解决
+  ip:
+    encrypted: NTViOGQxZmJiYWQ1ZWZiNDVmNmY3NTQ5NmZmYw==
+    algorithm: aes-256-gcm
+    iv: 9dbd577afcab31a227c8805b
+  target: 1732
+- type: mention
+  channel: native
+  id: "1735"
+  published: 2011-12-22 17:33:00
+  url: http://peema.us/archives/easy2hide-for-wordpress-3-3.html
+  content: "[...]
+    使用easy2hide插件可以在文章或者评论中随意插入隐藏内容，并可以选择“曾经在博客留言的评论者”还是“当前文章”的评论者可见。原作者@dallas\
+    lu 但是更新WordPress 3.3之后HTML模式下编辑器里的按钮没了，昨天在作者博客也留言了，但是回复说是没时间更新： [...]"
+  author:
+    name: easy2hide for WordPress 3.3自用版发布 | PeeMa.us
+- type: reply
+  channel: native
+  id: "1738"
+  author:
+    name: weii
+    url: http://www.jylogo.cn
+    email:
+      value:
+        encrypted: YTcwMzBkMGMzMWEyYzA1YmM4NDM0Ng==
+        algorithm: aes-256-gcm
+        iv: e506d527fd863e539a027ffb
+      hash:
+        md5: 6d94493c6a891337917113886e185f0b
+  published: 2011-12-25 19:07:00
+  content: 我也是同样的续期，求更新
+  ip:
+    encrypted: NzExMGM1ZmNiYWFkYTFkYWFiYTdmMmQy
+    algorithm: aes-256-gcm
+    iv: 2f6a886ce92d1cf25e9c7bbe
+  target: 1733
+- type: reply
+  channel: native
+  id: "1739"
+  author:
+    name: weii
+    url: http://www.jylogo.cn
+    email:
+      value:
+        encrypted: MGI1NzI3MWUzODg0ZTRlMjk0MTg5Yg==
+        algorithm: aes-256-gcm
+        iv: a11968095556155c78e035ea
+      hash:
+        md5: 6d94493c6a891337917113886e185f0b
+  published: 2011-12-25 19:08:00
+  content: 打错了，续期=需求。。。 汗呐
+  ip:
+    encrypted: MGRkMWU3NGE1MDZkY2VhM2Q3NDVkNzRl
+    algorithm: aes-256-gcm
+    iv: 7f3474ec66c60e9497750d72
+  target: 1738
+- type: reply
+  channel: native
+  id: "1755"
+  author:
+    name: ifox
+    url: http://www.cofface.org
+    email:
+      value:
+        encrypted: MmNjNDQ1ZTZiMTY4YmI5MjQ1MGU3MmIxYzNkNGY1MGQ=
+        algorithm: aes-256-gcm
+        iv: 2fd91451ad1f867197b89583
+      hash:
+        md5: 5cbd9e797f787ea5339d6300546be1b8
+  published: 2012-02-19 14:52:00
+  content: >-
+    暴力修改 方法：
+
+    查找此段代码：
+
+    $tip = __('Sorry, only those who have replied to any posts of this site
+    could see the hidden contents.', 'easy2hide');
+
+
+    3处全部替换为:
+
+    $tip = __('抱歉，只有对本文发表过评论才能阅读此段隐藏内容。', 'easy2hide');
+  ip:
+    encrypted: YjEwMTZjY2I5NGNhOTc1YjVhMDQ0ZTkxNGM=
+    algorithm: aes-256-gcm
+    iv: 97d0a2390fba527ab743fcf7
+  target: 984
+- type: reply
+  channel: native
+  id: "1756"
+  author:
+    name: ifox
+    url: http://www.cofface.org
+    email:
+      value:
+        encrypted: NGVjN2JhZjQwMGRjZTEyNzE2ZmJkODQ3ZmQ2ZWE5MjI=
+        algorithm: aes-256-gcm
+        iv: 20e22f761cf08e225914d0e9
+      hash:
+        md5: 5cbd9e797f787ea5339d6300546be1b8
+  published: 2012-02-19 14:53:00
+  content: |-
+    $tip = __('抱歉，只有对本文发表过评论才能阅读此段隐藏内容。', 'easy2hide');
+    可以在文字前面加上颜色代码
+  ip:
+    encrypted: OWE5NDRlNDUyZmFiZDc3YzUwYjRjYzJmMDE=
+    algorithm: aes-256-gcm
+    iv: 2a05e2920a1d82d1089d4545
+  target: 984

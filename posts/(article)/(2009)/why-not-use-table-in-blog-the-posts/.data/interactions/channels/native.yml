@@ -1,0 +1,241 @@
+- type: reply
+  channel: native
+  id: "657"
+  author:
+    name: sofish
+    url: http://www.happinesz.cn/
+    email:
+      value:
+        encrypted: MWY0NzFiOWUyY2JlMjU2NmYwNzY3MTU3OTdlYg==
+        algorithm: aes-256-gcm
+        iv: 0bacbdbd8d48aa754286cb93
+      hash:
+        md5: e8fb37bb5570f1f8a349a5d248ede347
+  published: 2009-04-30 21:10:00
+  content: 可能是习惯吧，表格其实也不容易，一般人也用不了，哈哈哈...
+  ip:
+    encrypted: YzI3ODdmZTY3ZTllNzQwMGRkYmIyYWEwNGZlZg==
+    algorithm: aes-256-gcm
+    iv: 44dbc23ff0952cebda271f6f
+- type: reply
+  channel: native
+  id: "658"
+  author:
+    name: 胡戈戈
+    url: http://hugege.com
+    email:
+      value:
+        encrypted: YWE5MDgxNzI4Y2Y2N2UzM2RhOTc1N2NkMDFlNGJhMGUwNzU1ODE=
+        algorithm: aes-256-gcm
+        iv: 73a9b92e69323e562f5ee5fd
+      hash:
+        md5: 6ca055fb6c2c719b879f43b3c3cf895d
+  published: 2009-04-30 21:34:00
+  content: 表格的很多东西大家都记不太起
+  ip:
+    encrypted: MzU3OGJkODU0Mzk5NTBhYzdhODg0NDMy
+    algorithm: aes-256-gcm
+    iv: 74d521fb7a78312ba050f9b2
+- type: reply
+  channel: native
+  id: "659"
+  author:
+    name: mg12
+    url: http://www.neoease.com/
+    email:
+      value:
+        encrypted: YThhNDM0MWNjZTk2YjNjZDY1YTZkODI3Y2UzZGQ4ZGIwZmMxZWJkMjBl
+        algorithm: aes-256-gcm
+        iv: eb0e7433d4446c5e06e96bb7
+      hash:
+        md5: 490cf262668eebb0f0f1a50d9d48d702
+  published: 2009-04-30 21:59:00
+  content: 表格还是很有用的, Google 将 table 用到了极致.
+  ip:
+    encrypted: ZjJlMTM5MDQ5NmZjMTI4NzA2MDYwNDZmOTlhMTFk
+    algorithm: aes-256-gcm
+    iv: 95f55bffcec8e394a4a8b56b
+- type: reply
+  channel: native
+  id: "660"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: MzFiODViNzhmNzg1Mzc5OTk5N2MxZTIxZTE2MzUxMTRjZWEy
+        algorithm: aes-256-gcm
+        iv: 3fb3d7313b8ee261c88f62f4
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-05-01 01:33:00
+  content: 印象中，某位国外名博就坚持用表格来建构页面而不用 DIV，其实这两种都有其优缺点，表格不够 DIV 灵活而且繁琐，table th tr td
+    标签不少，加上行和列的排版观念也比 DIV 复杂得多；而 DIV 虽说比表格灵活，可以定位在页面的任一位置，不过不同浏览器核心对 DIV
+    的解析也不同，这使得用 DIV 往往要为浏览器的兼容性而烦恼。
+  ip:
+    encrypted: Y2E2MjQ4N2MwODhkNzMyZWNiYjE2OGJmZGUxMg==
+    algorithm: aes-256-gcm
+    iv: fc3c4112b1d21d182eecc0e1
+- type: reply
+  channel: native
+  id: "661"
+  author:
+    name: yinheli
+    url: http://philna.com
+    email:
+      value:
+        encrypted: MzVkOWQ2YzY5NzcxZGMxN2RkNGVlZmUzNTM2ZmM5NDM4NQ==
+        algorithm: aes-256-gcm
+        iv: 232e7338d579740df341ec93
+      hash:
+        md5: 28ea04650153a2dc99acd9b8d1b6fc4e
+  published: 2009-05-01 14:56:00
+  content: |-
+    我的主题也是是定义了表格的样式的.
+    现在连修改日志.也是用html然后写好和主题差不错的样式.为的就是让用户查看直观方便.
+  ip:
+    encrypted: YmJjNjY1ZDgxZmI5ZWNhZWJmNDY4ZmFlMjQ=
+    algorithm: aes-256-gcm
+    iv: 74078778d9c5b06a9a83810e
+- type: reply
+  channel: native
+  id: "662"
+  author:
+    name: willerce
+    url: http://willerce.com
+    email:
+      value:
+        encrypted: ZmMwMjM3MjAxYzA0NjdlYTY0Yjg3YTE4YzAxMjc3ZmE0Nzk5
+        algorithm: aes-256-gcm
+        iv: 30a1bc5d3bafff853cc0ca0d
+      hash:
+        md5: 09d288a90ae2da168f11cb4c5e49199f
+  published: 2009-05-05 02:28:00
+  content: 我还真不知道插入表格的按钮用什么插件实现？
+  ip:
+    encrypted: OWQ2YmE1NTliOTViMWFjNzY3NzgwN2I4MDM=
+    algorithm: aes-256-gcm
+    iv: fe398c5d297b03d6b7dc921e
+- type: reply
+  channel: native
+  id: "663"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: YWE5N2VmZWQ4NmEyMzhlNWI3M2VkNDIxMjMzYjQ3
+        algorithm: aes-256-gcm
+        iv: 623e54a8931e337c6ea600e1
+      hash:
+        md5: 4b87562eea023ea062e9b45adca99002
+  published: 2009-05-05 20:45:00
+  content: |-
+    很久没有来啦。。
+    其实也会有，突然想用表格，但是却发现自己根本没有为表格设定样式，然后不得不放弃的时候。。
+    但是实际上用得又很少
+  ip:
+    encrypted: YjM2OTFmZWRiYThhOWFlZmVmZmI0ZGE3
+    algorithm: aes-256-gcm
+    iv: 0ef504bb772ec4c26ca65bb4
+- type: reply
+  channel: native
+  id: "664"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ODEzZTQ5ZDM3YzFiNTIxNTllNzY3Yg==
+        algorithm: aes-256-gcm
+        iv: 8ffdb2b18b69b0343ec154ec
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-05-05 21:44:00
+  content: 现存的插件都很老了。不过，最起码写段简单的 JS， 可以实现输入行数列数自动插入一堆标签，来代替手工吧
+  ip:
+    encrypted: NmVhZTIwZmFkYjRiYmY5ODlkNzUxMzMz
+    algorithm: aes-256-gcm
+    iv: ec2a84d610b327fc429e95a8
+  target: 662
+- type: reply
+  channel: native
+  id: "665"
+  author:
+    name: 乱序
+    url: http://www.axlenoco.cn/
+    email:
+      value:
+        encrypted: NmY1MGUzOWJhMzhiOWY4MzgwNzI1OTdl
+        algorithm: aes-256-gcm
+        iv: 8d384978e4f2802bb2a218f8
+      hash:
+        md5: bdf419d1b6dbde700796c067764bf541
+  published: 2009-05-09 10:01:00
+  content: 表格没怎么用过 只会css的人飘过
+  ip:
+    encrypted: ZmEyZmQ0MzIzMjFjZGI3M2ExNzkwYTM4
+    algorithm: aes-256-gcm
+    iv: 461fa7fd06eac60df587a21c
+- type: reply
+  channel: native
+  id: "666"
+  author:
+    name: 会律博客
+    url: http://www.huilvsay.com
+    email:
+      value:
+        encrypted: NjZkMGZkMWRjMWI5NGMyZTU2Y2ZlODAxZDAyZDlkOGYyMzI5
+        algorithm: aes-256-gcm
+        iv: 35726e40da4d15488b130768
+      hash:
+        md5: 3e5357f89afc7158faa3230e5ea57e51
+  published: 2009-05-16 09:39:00
+  content: 继续折腾吧你！
+  ip:
+    encrypted: Y2U3YmNjMmMwN2QxY2ZlOGZhMzQ3M2Q3OWZmNg==
+    algorithm: aes-256-gcm
+    iv: 4fd80d8404eb26574f3a0bce
+- type: reply
+  channel: native
+  id: "667"
+  author:
+    name: an9
+    url: http://an9.name
+    email:
+      value:
+        encrypted: OGEyNGY0MjA5NjE3ZmFkZjFjZDk5MzFk
+        algorithm: aes-256-gcm
+        iv: e1b9b964ff2480eb742408ac
+      hash:
+        md5: eccb79a399779ec63aae6c60238938f1
+  published: 2009-05-16 15:15:00
+  content: 技术贴,不懂.
+  ip:
+    encrypted: YWE5ODc2YmVmYmUxOWI4NzBjMzFhZDkwNjk=
+    algorithm: aes-256-gcm
+    iv: d2b0e2ed60aa6418dbc68663
+- type: reply
+  channel: native
+  id: "668"
+  author:
+    name: 卢松松
+    url: http://www.lusongsong.com
+    email:
+      value:
+        encrypted: NGNiMWZhMjgxNTY4NjFmZWRjNjk3MTk0YmUzNjU0
+        algorithm: aes-256-gcm
+        iv: 475b3fe7af7125f9f6603aca
+      hash:
+        md5: b016fdf3945914d394b07ba16126c486
+  published: 2009-05-17 14:33:00
+  content: |-
+    喜欢用什么就用什么。。。
+    不用随大流也行！
+    不过div+css是一种趋势
+    他有他的好处！
+  ip:
+    encrypted: MzFiZjAwNDZlMmY2OWI2ZGMxMWFjNjNlZDM1NA==
+    algorithm: aes-256-gcm
+    iv: b1e3bd6d328e02049c50d7b3

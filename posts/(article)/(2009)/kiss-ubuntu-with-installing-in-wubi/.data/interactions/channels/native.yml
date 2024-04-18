@@ -1,0 +1,329 @@
+- type: reply
+  channel: native
+  id: "473"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: NTVhZmNmNTMwMWZkZTkyZDVhYjMwZjIzMWNmMDUx
+        algorithm: aes-256-gcm
+        iv: 3488bdbcb16deb1f39f7ee04
+      hash:
+        md5: 4b87562eea023ea062e9b45adca99002
+  published: 2009-02-26 22:39:00
+  content: |-
+    沙发一个，我以为我荒得快，没想到你一荒就是一个多月啊。呵呵
+    前一阵子也用Wubi折腾了个吧星期了，
+    Ubuntu还是不怎么习惯那 呵呵
+  ip:
+    encrypted: NjZlMzY4ZmRjN2FjMzYxNzc2YjZjZDFlYzI5OA==
+    algorithm: aes-256-gcm
+    iv: 4a41dbac50757c4a698fc4fc
+- type: reply
+  channel: native
+  id: "474"
+  author:
+    name: Tina
+    url: http://tinasay.com
+    email:
+      value:
+        encrypted: MjE2YzQ0NWM5ZTMwMjEyOWU0NzI3MDY1YWNkMTRlNzYwYjhjYWNjYjhi
+        algorithm: aes-256-gcm
+        iv: ac59b922b603edd4dc39330a
+      hash:
+        md5: 7dd54cb0be144d62404afdf2ac02da8c
+  published: 2009-02-27 00:15:00
+  content: |-
+    居然还提供了下载地址...你在诱惑我................
+    算了 我认栽 我去下..................
+    折腾折腾折腾
+  ip:
+    encrypted: ZGZkMWNlYWYxMTE2ZDc2ZWI0ZjE0NGRjNDY4ZWVm
+    algorithm: aes-256-gcm
+    iv: 5e4fd966664b6f1ffcc0cbaf
+- type: reply
+  channel: native
+  id: "475"
+  author:
+    name: xiaorsz
+    url: http://www.xiaorsz.com
+    email:
+      value:
+        encrypted: Njc4MmJmZWQ5NzY4YTg5MTA1OTMyMTYxNTdmOTU2NzgyNQ==
+        algorithm: aes-256-gcm
+        iv: ce9b0cd95b24322962f3e087
+      hash:
+        md5: c419cb20777cc932e6edbc4aecf3400d
+  published: 2009-02-27 02:14:00
+  content: |-
+    以前装过,是蛮方便的这东西 !!
+    就是不知道是不是跟普通的相对少了什么东西 ?
+    你的确很久没更新了啊!!
+  ip:
+    encrypted: MTViNmUzNDgxOTJjOTAxY2M1YTBhZDU4YTcwYmEz
+    algorithm: aes-256-gcm
+    iv: ef065187b080699c8a859c6a
+- type: reply
+  channel: native
+  id: "476"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: YmRhMWNmZTE0NzllMmIzNmU5Njk0OTg0MzE3ZTJl
+        algorithm: aes-256-gcm
+        iv: 274b487b30689c79c0ac2b8a
+      hash:
+        md5: 4b87562eea023ea062e9b45adca99002
+  published: 2009-02-27 12:11:00
+  content: |-
+    请教你一个问题呀~
+    你是不是用的GoogleApps的邮箱啊？如果是的话；
+    是不是用它做了WP的管理员邮箱？如果是的话；
+    是不是能够收到WP的评论通知邮件？
+
+    我发现我只要设置了自己域名的Apps邮箱，就收不任何从WP发来的邮件了。。不知道是不是主机的问题。。
+  ip:
+    encrypted: NjZlNDZmNmQzNjllNTk2MWNjODhmNTE1MTg1Ng==
+    algorithm: aes-256-gcm
+    iv: bf782938fc450b0912b9cd80
+- type: reply
+  channel: native
+  id: "477"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MGFjMDMwNmNjZjEzNjBhMGMyZTJiNw==
+        algorithm: aes-256-gcm
+        iv: 96c69353ac9305402465d2e4
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-02-28 13:15:00
+  content: 这几天也有得忙了。这篇是拿来凑数的哈，要不博客存档就没二月份了
+  ip:
+    encrypted: ZjU0MDFiMDc3NDZlMWI2ZTA1MGRhNTI3YTJmNQ==
+    algorithm: aes-256-gcm
+    iv: 1f47a84081fb04551683a8ea
+  target: 473
+- type: reply
+  channel: native
+  id: "478"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MDY0ODgxMjVlMDQzYjE2ZmY5MjgwYg==
+        algorithm: aes-256-gcm
+        iv: 5713db1f77b363942f78632d
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-02-28 13:16:00
+  content: 我还可能提供入门介绍，让你彻底欲罢不能
+  ip:
+    encrypted: YTIyZDQ1OTVkNTZkNDkwMjQ1MzA0YTllYWMzYg==
+    algorithm: aes-256-gcm
+    iv: b163b6048a6a1f798b6e6cc6
+  target: 474
+- type: reply
+  channel: native
+  id: "479"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NmM0MWIzNjJkNDE1MDJhMWE3NWVlZQ==
+        algorithm: aes-256-gcm
+        iv: 3bc14eeb35c7c201a2137461
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-02-28 13:18:00
+  content: 性能上有些损失的。不过对于刚接触的人来说，的确是个安全方便的办法
+  ip:
+    encrypted: NDQ5NTk0MGVhOTk3NGU2NjdhODE5MWFlZjc0Yw==
+    algorithm: aes-256-gcm
+    iv: f1d5b7a3f2b72ad54e5ef036
+  target: 475
+- type: reply
+  channel: native
+  id: "480"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NjljZjgyMjYxZmM5NzBiN2Y1MmY5Ng==
+        algorithm: aes-256-gcm
+        iv: bba7e72e6638c2fa9771956f
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-02-28 13:21:00
+  content: |-
+    我用 QQ 邮箱当做管理邮箱的。你可以利用其他邮箱转发到你的 APP 邮箱啊。
+
+    用 Windows 的时候登陆QQ就可以即时收到邮件提示了，Ubuntu 里用软件收信的。
+  ip:
+    encrypted: NTAzNjI5NGRjYjk2ODk1NjdiN2JmMzA3NTM5YQ==
+    algorithm: aes-256-gcm
+    iv: 30a7667fd671990990e373c9
+  target: 476
+- type: reply
+  channel: native
+  id: "481"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: NDcyM2Y5NzE4YmU2ZDc1MDZlMmI0NDcxMjc0Zjhl
+        algorithm: aes-256-gcm
+        iv: 148e53aaf5d82567f4fa0c4d
+      hash:
+        md5: 4b87562eea023ea062e9b45adca99002
+  published: 2009-02-28 13:26:00
+  content: |-
+    呵呵 我的问题已经解决了~ 谢谢呀
+    用QQ邮箱 也是个好办法呀 呵呵
+  ip:
+    encrypted: N2FiNmYyOTA5ODgwN2ZmZTc4OTFhM2VhZjE=
+    algorithm: aes-256-gcm
+    iv: f01ddba7530a726c381ba1bc
+  target: 480
+- type: reply
+  channel: native
+  id: "482"
+  author:
+    name: welee
+    url: http://welee.org
+    email:
+      value:
+        encrypted: YzgyNzUzOTliNzE2NTA3NWNiODg5OTFjYmY4YTUxMTU2OTkw
+        algorithm: aes-256-gcm
+        iv: 15277d1669533f5c6800a3e9
+      hash:
+        md5: e5732183e01a3a98f1512857e7aefd57
+  published: 2009-02-28 15:26:00
+  content: >-
+    不知现在大家是否在比谁更新的最慢？哈哈哈。。。话说，我的文章更新也越来越慢了，呵呵！
+
+
+    顺便问一下哦，如果卸载 Ubuntu 的话，那启动选单会不会回复原状？因为我之前安装过 Ubuntu 在另一个分区，可后来卸载后，连 Windows
+    也无法启动了，搞到我要重新安装 Windows...
+  ip:
+    encrypted: NDY4NjYzNDc0YzRiN2FhNjczMjIyMjA5NDY=
+    algorithm: aes-256-gcm
+    iv: 095beb16191316b8c0743e5d
+- type: reply
+  channel: native
+  id: "483"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MGU1YWI1YmEyYzU5YzA5NzU5YzlkYQ==
+        algorithm: aes-256-gcm
+        iv: ef0301fea29e6cc754a83325
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-02-28 17:34:00
+  content: >-
+    整个假期都很懒散，呵呵。
+
+
+    Ubuntu 8.04 版的我试过，系统菜单会恢复的。
+    8.10的就不知道了。按说应该是没问题的。不能启动了拿Windows系统盘修复一下就能恢复了。如果不是Wubi 安装的话，在 Windows
+    里面更改分区就可能导致无法启动，可用 Ubuntu Live CD 来修复 Grub 启动菜单。
+  ip:
+    encrypted: MmEzZjI3MTE1YzQyZGFlY2FlNDNjNDQxOTNhMQ==
+    algorithm: aes-256-gcm
+    iv: a9a6ce6db552b05d1c460e78
+  target: 482
+- type: reply
+  channel: native
+  id: "484"
+  author:
+    name: 减肥食谱
+    url: http://www.jianfeicn.com.cn
+    email:
+      value:
+        encrypted: ZGFiNzFhZGZmYzdhN2ZkZWEwOTQ5NDgxOGFkYjlkNzk=
+        algorithm: aes-256-gcm
+        iv: 1ab7600ed385c64b6e8df278
+      hash:
+        md5: 0f631e0b61ef0769379f4f84b0e23b78
+  published: 2009-02-28 23:01:00
+  content: 之前装过一次，觉得笔记本的显示器对ubuntu支持不是太好，看起来总觉得怪怪的～～
+  ip:
+    encrypted: YTcyM2JlYjgzOGQyNjdiZTZlOTYwMjFhMmViM2M4
+    algorithm: aes-256-gcm
+    iv: b365b4ab3d5b8246ad08c820
+- type: reply
+  channel: native
+  id: "485"
+  author:
+    name: 许三品
+    url: http://baby.wodidai.com
+    email:
+      value:
+        encrypted: MmM3NzU0MGJlNTRjMzgxYjdkN2QyNTNhMTYyNzhk
+        algorithm: aes-256-gcm
+        iv: 4c93147828a97b13465a51ca
+      hash:
+        md5: 5eb0b6720c35ee492bdc719993b45e2f
+  published: 2009-03-01 00:38:00
+  content: 我去年也装过这个ubuntn玩过一段时间，最终因为太多的软件不支付而把它给卸载了！
+  ip:
+    encrypted: MzZmNzIyNTIzZDYzNDNkNDNjNzBjMA==
+    algorithm: aes-256-gcm
+    iv: beeba193fbf729f84a3a85a5
+- type: reply
+  channel: native
+  id: "1826"
+  author:
+    name: ...
+    email:
+      value:
+        encrypted: MWViYzVjMzJmNjFmNWUyNDA1OTY1Y2IwNzZmNzM1Yjk=
+        algorithm: aes-256-gcm
+        iv: c5552f96acaaeabbc4a72106
+      hash:
+        md5: 454574969c8bbb7608df0fd6efde0a18
+  published: 2012-07-23 17:27:00
+  content: 不能用啊，没有那个在window下安装的选项啊！
+  ip:
+    encrypted: NjU4NGQ4MWExMjg4YTkxZGZkNmVhNDg0MDI=
+    algorithm: aes-256-gcm
+    iv: ac02b725020a354c7f78d435
+  target: 475
+- type: reply
+  channel: native
+  id: "1827"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MzI3NmFhYzU5MGI1MzNkODgwMTgxMA==
+        algorithm: aes-256-gcm
+        iv: 9541c57a5a45692dc5cbc353
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2012-07-23 20:41:00
+  content: 本文中提到的是 Ubuntu 8.10，你用的版本是？
+  ip:
+    encrypted: YjAzZTU3ZmQ0NmFmNWZkZmExOTAyMzlj
+    algorithm: aes-256-gcm
+    iv: df9314b4a60e0e969d3088a6
+  target: 1826
