@@ -1,0 +1,1 @@
+{"callback":"https://livingroomofsatoshi.com/api/v1/lnurl/payreq/e73f832d-65c0-478b-bfb1-af10cd9180d8","maxSendable":100000000000,"minSendable":1000,"metadata":"[[\"text/plain\",\"Pay to Wallet of Dallas Lu\"],[\"text/identifier\",\"i@dallas.lu\"]]","commentAllowed":32,"tag":"payRequest"}

@@ -1,0 +1,10 @@
+{
+	"names": {
+		"_": "aa22717fdec2e7d28cc5bcd3a712598b40a793629f5ebfb1378196c55fb37b51",
+		"i": "aa22717fdec2e7d28cc5bcd3a712598b40a793629f5ebfb1378196c55fb37b51",
+		"dallaslu": "aa22717fdec2e7d28cc5bcd3a712598b40a793629f5ebfb1378196c55fb37b51"
+	},
+	"relays": {
+		"aa22717fdec2e7d28cc5bcd3a712598b40a793629f5ebfb1378196c55fb37b51": ["wss://relay.snort.social", "wss://relay.damus.io", "wss://relay.1bps.io"]
+	}
+}

@@ -1,0 +1,12 @@
+User-Agent: *
+Allow: /
+Disallow: /signin
+Disallow: /api/
+
+User-Agent: Baiduspider
+Disallow: /en/
+Disallow: /zh-TW/
+Disallow: /zh-Hans/
+
+Sitemap: https://dallas.lu/sitemap.xml
+Sitemap: https://dallas.lu/sitemap.txt
