@@ -1,0 +1,514 @@
+- type: reply
+  channel: native
+  id: "1800"
+  author:
+    name: jerryyang
+    email:
+      value:
+        encrypted: NzI5YjZhNzc2OWU5YmNiZTRiYzdlMTE5YTk3NzE0M2U5MzMxMjY0MmY2MjY1ZA==
+        algorithm: aes-256-gcm
+        iv: 64b0f948f0ebe451a742eddc
+      hash:
+        md5: efa0acddd5651791d7bbbd18d3b5fb60
+  published: 2011-10-11 11:51:00
+  content: 想要啊嗷嗷嗷~麻烦大侠啦~
+  ip:
+    encrypted: OGY1NzBmZGM0ZjM5NjgyNDZhNTBhZmEwMzY0NA==
+    algorithm: aes-256-gcm
+    iv: c9518bb584c299e2f1b43897
+- type: reply
+  channel: native
+  id: "1801"
+  author:
+    name: Kyle
+    email:
+      value:
+        encrypted: Y2VhZmVlYjMzNWQyYTU3YWVmMDc3ODQ4YTZmZTJkYTdjZTU2OTU=
+        algorithm: aes-256-gcm
+        iv: b00b2e9a14eb674072810c37
+      hash:
+        md5: 6734b1cab56a2356647a61da40c8c5c3
+  published: 2011-10-15 11:30:00
+  content: |-
+    刚入手了9900，一直苦于上推不方便，希望能得到api分享，绝不泄露。
+
+    twitter id: kylexwong
+    mail: *@gmail.com
+
+    万分感谢！
+  ip:
+    encrypted: NGM1MmQ0OTJkMjMzOWRmOGY2NzdhMDQyYzAwZA==
+    algorithm: aes-256-gcm
+    iv: 8eb49314314755db185073d7
+- type: reply
+  channel: native
+  id: "1802"
+  author:
+    name: Bearman
+    email:
+      value:
+        encrypted: MDJhZjg4M2UyNjE4ZjllOWFlNGJlYWJkOTkwZTA0
+        algorithm: aes-256-gcm
+        iv: d55da86af67ce47ef4447598
+      hash:
+        md5: e8d9895a50a30cb3431db269ecf1dcaa
+  published: 2011-10-15 23:18:00
+  content: |-
+    bearmaneyes
+    *@126.com
+
+     tks!
+  ip:
+    encrypted: MjcyNTRkYjgxNzE2NTgxNmVhNGYzMjJiYWY0ZA==
+    algorithm: aes-256-gcm
+    iv: e46cbf8710f5632dd909b939
+- type: reply
+  channel: native
+  id: "1803"
+  author:
+    name: freedom_han
+    email:
+      value:
+        encrypted: ZDFiMGEzYjcxZTZlZmE2MTYxYTEwNTNhNzAxMzliM2E0ZTg1
+        algorithm: aes-256-gcm
+        iv: 899575f55bb4c4ee75127eb1
+      hash:
+        md5: 9b971d0e8e52c5da4ca5175fd45aa2d7
+  published: 2011-10-17 20:54:00
+  content: |-
+    希望作者您能看到。
+    我的twitter账号是@freedom_han     邮箱是*@gmail.com
+    急需可用的api，望您能给一个，谢谢。
+  ip:
+    encrypted: ZTk0NGYzN2MwOGYzOTlmMzM3ZmJhM2Fi
+    algorithm: aes-256-gcm
+    iv: ee2f602bef12f662c038aa77
+- type: reply
+  channel: native
+  id: "1804"
+  author:
+    name: 闭bb
+    email:
+      value:
+        encrypted: YjNhM2UyODNhYjM5N2FmNGY1YzVmNDY2ZDE5N2M2NjE1YWM2YWE3Mw==
+        algorithm: aes-256-gcm
+        iv: 7ec82b202527dc588907bd5d
+      hash:
+        md5: 3c7bdaee945bc2ac5aace405a899523d
+  published: 2011-11-07 19:14:00
+  content: 一直在尝试搭建，可是从未成功。如果可以的话赐一枚api吧呵呵
+  ip:
+    encrypted: NGE0NmFlYWJiYTU5ZDIxZjQyYmQwZjkzZGU=
+    algorithm: aes-256-gcm
+    iv: 6bd5e1278faf9f44fd62b880
+- type: reply
+  channel: native
+  id: "1805"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: ZTNlMzFkZDc2Zjg0ZTc5MDAyMDhhMQ==
+        algorithm: aes-256-gcm
+        iv: 5cf2e90e6aaf5d999b73cea2
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-11-08 15:10:00
+  content: 已赐。
+  ip:
+    encrypted: ODNhYzhiMWRkOTgwMzU1OTlkMzU0Njhm
+    algorithm: aes-256-gcm
+    iv: 74f20fa4031c691d14c5b95b
+  target: 1804
+- type: reply
+  channel: native
+  id: "1806"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: ZWFkZTVlM2NmYTQzYThiMzE1MGI0Mg==
+        algorithm: aes-256-gcm
+        iv: 9303f86f1d073f64a78fba0c
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-11-08 15:11:00
+  content: 为防 spam 等，请勿公开私人邮箱。
+  ip:
+    encrypted: ZDVmNTg4YjcwOTljYzJhYjliYjRlZjIz
+    algorithm: aes-256-gcm
+    iv: 295b341b9ca6c68bb11a53ae
+  target: 1803
+- type: reply
+  channel: native
+  id: "1807"
+  author:
+    name: jeffery
+    email:
+      value:
+        encrypted: NzI4MWVmM2U1OTU4MzlhOGI5YmM5MDU2ZTA3ZTliYTZkMjg0OTAyMTFlOTkzOA==
+        algorithm: aes-256-gcm
+        iv: d84ee9857c573eba71bbd1ce
+      hash:
+        md5: 96a726986192bfd15d4e367e860e905b
+  published: 2011-11-09 16:45:00
+  content: |-
+    SOCIALSCOPE也不能用了，一直苦于上推不方便，希望能得到api分享，绝不泄露。
+
+    twitter id: jeffery1944
+    mail: *@hotmail.com
+
+    万分感谢！
+  ip:
+    encrypted: ZDFiN2IyMWI4ZGU1MjUyMjlhNTFiY2Y1ZTg=
+    algorithm: aes-256-gcm
+    iv: 7a38f73456cb6d36c36802d8
+- type: reply
+  channel: native
+  id: "1808"
+  author:
+    name: Amu
+    email:
+      value:
+        encrypted: MWUwY2JiZTM5M2U3ZTk2NmYxNDhmZGY2ZmRmMTRlYTc0MTg5YTZiNzI2
+        algorithm: aes-256-gcm
+        iv: d736b8b1e87bed9613edcd36
+      hash:
+        md5: 68d2216e3b29355a94e042d78f9d223f
+  published: 2011-11-10 15:57:00
+  content: 因为一些原因需要得到facebook或是twitter的即时信息，以前用的是XX门，可是最近不能用了，原因您也知道。希望得到一枚API，如有可能的话希望能够惠赐搭建API的教程或源码
+  ip:
+    encrypted: Y2Y0ZDU4OWRmNTA5ZjQ0ODFlOWE3NmIwMzQyMw==
+    algorithm: aes-256-gcm
+    iv: d00738d36bfe5227c02aadd8
+- type: reply
+  channel: native
+  id: "1809"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: NjJiODY3YjYxOTNmMWU0OWQxOGEwMw==
+        algorithm: aes-256-gcm
+        iv: de5574a43b226965c0a55fb7
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-11-11 08:59:00
+  content: 来一个国外邮箱，比如Gmail
+  ip:
+    encrypted: MzE0MDNhMzNkNDhlYjVkNmI5N2ZlYWFh
+    algorithm: aes-256-gcm
+    iv: 8a39075fb1004362b06cdf39
+  target: 1808
+- type: reply
+  channel: native
+  id: "1810"
+  author:
+    name: chbilg
+    email:
+      value:
+        encrypted: YTQyZjlmYjFlYjdiYWQ3ZGJiNjFhYWYxYTlhMjBjOTI=
+        algorithm: aes-256-gcm
+        iv: 72a4d6508a028d69ced74d48
+      hash:
+        md5: 2e0a7ddd3a01de554a89c07c62eec92b
+  published: 2011-11-13 14:42:00
+  content: |-
+    苦于折腾，希望可以得到一枚API，O(∩_∩)O~
+    Twitter：chbilg
+    Email  ：chbilg@gmail.com
+  ip:
+    encrypted: NzMzYTIzMGZjMTQ4YTllMDUzMzI1MjIzODBhYw==
+    algorithm: aes-256-gcm
+    iv: a34f373d573beb0a76e69aea
+- type: reply
+  channel: native
+  id: "1811"
+  author:
+    name: nuo
+    email:
+      value:
+        encrypted: MGI5YWI1OGY2NGY2YjZiZDU4NzMxODkxZWJhMDM2MTU=
+        algorithm: aes-256-gcm
+        iv: 40c95f09dd8ccb880cf48817
+      hash:
+        md5: be6ee0914bc60b61c337eb53f61fb0da
+  published: 2011-11-19 16:10:00
+  content: |-
+    完整操作了一遍好几遍似乎也不成功。求一枚API。
+    twitter Gin_Lu_
+    email： lu0929taboo@gmail.com 已注册的。密码284148952 搞定了我再改
+
+    如果你是重新注册的话lu704855238@gmail.com吧
+
+    谢谢了。T^T 搞了很久都不成功
+  ip:
+    encrypted: MmM2MjdiNjUxM2M3NjE5M2RhZWFkMjVhMDc=
+    algorithm: aes-256-gcm
+    iv: b83b269bc01fdbf9df938f1c
+- type: reply
+  channel: native
+  id: "1812"
+  author:
+    name: nuo
+    email:
+      value:
+        encrypted: NzY3ZTlmYjFlYjk0NWM2MjRmNTM4Y2VhYTY2ODk1Nzk=
+        algorithm: aes-256-gcm
+        iv: bdc7292e581e763d42e17e52
+      hash:
+        md5: be6ee0914bc60b61c337eb53f61fb0da
+  published: 2011-11-19 16:40:00
+  content: API地址发到704855238@qq.com吧谢谢！
+  ip:
+    encrypted: MjkzMjQ2YjE5NmQxYzZkODkzOTRmODg3NWU=
+    algorithm: aes-256-gcm
+    iv: 9b276f31a6b1bb2ac52c859d
+  target: 1811
+- type: reply
+  channel: native
+  id: "1813"
+  author:
+    name: nuo
+    email:
+      value:
+        encrypted: ZThmZmM2ZDgyMmE1MDQ2OWExM2Q2NmU2NmI1MTkzYmI=
+        algorithm: aes-256-gcm
+        iv: b43c9d239fc6a927303cabff
+      hash:
+        md5: be6ee0914bc60b61c337eb53f61fb0da
+  published: 2011-11-19 16:44:00
+  content: 。。。谢谢不用了我会了
+  ip:
+    encrypted: NDg4NDU1YWQyMmI3ODQyZGI1Mzg3ZGIzN2M=
+    algorithm: aes-256-gcm
+    iv: 9faa0881d508540f7aa028f1
+  target: 1812
+- type: reply
+  channel: native
+  id: "1814"
+  author:
+    name: chrisT
+    email:
+      value:
+        encrypted: ODY4M2RlNzZiZmU3NjU4M2FmZTQ4NGVhMmJkYzNmODQ3N2Q0
+        algorithm: aes-256-gcm
+        iv: 7c298b1fc76a5c5834306e0a
+      hash:
+        md5: 3997d08a03ec23eb9e045fef4c277ddc
+  published: 2011-11-20 01:50:00
+  content: |-
+    我的推号 @marsman85
+    谢谢大侠了  
+    Email：soupli85@gmail.com
+  ip:
+    encrypted: MjE3ZmQyZDlmYzc0ZDQwMzU5Yzk5OA==
+    algorithm: aes-256-gcm
+    iv: c59ab381629c36a9e77076fa
+- type: reply
+  channel: native
+  id: "1815"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: Mzg5ZTc0MGQ5MTFjYjA0YmE5NzNhNQ==
+        algorithm: aes-256-gcm
+        iv: b49a3aa0f4f03655a215324d
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-11-20 11:03:00
+  content: API地址都不用就会了？真是聪明的家伙
+  ip:
+    encrypted: MGViNWMwZWI0N2FhYzVlNTM1MmYzOTIxYThiOA==
+    algorithm: aes-256-gcm
+    iv: 1dafad511ada144143fcb136
+  target: 1813
+- type: reply
+  channel: native
+  id: "1816"
+  author:
+    name: nuo
+    email:
+      value:
+        encrypted: MTMxMWNlM2Q3YTc4YTE3MWNiZDc2ODYyZmRlNzAwOTI=
+        algorithm: aes-256-gcm
+        iv: dd14d7f51893bc5a26fbffc4
+      hash:
+        md5: be6ee0914bc60b61c337eb53f61fb0da
+  published: 2011-11-20 13:26:00
+  content: API搭好了可是软件翻不出去怎么办我是9530.给个下载地址吧最好有设置方法的地址
+  ip:
+    encrypted: ZGU3MjMxNmY0Yzk4MTIxYTM3M2QyZDlkMTc=
+    algorithm: aes-256-gcm
+    iv: 39e8eec61602d245b5cc1d8b
+  target: 1815
+- type: reply
+  channel: native
+  id: "1817"
+  author:
+    name: nuo
+    email:
+      value:
+        encrypted: ODc3ODgzZDQ5ZDQ1OTdmYzg3ZTVjYWU5ZTZlN2MyMzY=
+        algorithm: aes-256-gcm
+        iv: 1959d9cbbbc7b8d17db9260d
+      hash:
+        md5: be6ee0914bc60b61c337eb53f61fb0da
+  published: 2011-11-20 13:28:00
+  content: 我是用上面那个链接下载的坛子里的。可是不知道是不是设置问题导致network error
+  ip:
+    encrypted: ZDJmMjM1N2Y0YTY1ZmM4ZmZjMzcwMjA5N2E=
+    algorithm: aes-256-gcm
+    iv: 9685cfe6a2ea1b2fc215bae4
+  target: 1815
+- type: reply
+  channel: native
+  id: "1818"
+  author:
+    name: spe4
+    email:
+      value:
+        encrypted: M2U1NGMyMDM0NTQ2ZjZiMDIzODc0NjM3N2I0OWM4Y2NlMQ==
+        algorithm: aes-256-gcm
+        iv: 5555dd1909a49e60b5facc4a
+      hash:
+        md5: 5788f89807143ba8b559b19ff62c4b35
+  published: 2011-11-29 18:03:00
+  content: 如果可以的话，也给我分享一个有效的api吧。网上的都试过了。不能用了都。万分感谢。ilvoelu@gmail.com
+  ip:
+    encrypted: NmEzMmM3N2U3OTQwMjUxMzdlN2FjNjM0NDYwNzU4
+    algorithm: aes-256-gcm
+    iv: 3a50208d0a5488fd4bfe474f
+- type: reply
+  channel: native
+  id: "1819"
+  author:
+    name: spe4
+    email:
+      value:
+        encrypted: Mzk1MzEyZTRhYjIzZDM1OTNlOTljM2Y2MjE3NzViZTg0MQ==
+        algorithm: aes-256-gcm
+        iv: 3b971203e9f00b36df102735
+      hash:
+        md5: 5788f89807143ba8b559b19ff62c4b35
+  published: 2011-11-29 18:05:00
+  content: 如果可以的话，也给我分享一个有效的api吧。网上的都试过了。不能用了都。我用着ut
+    ,snaptu上不了了，ss我又没有邀请码，好像也用不了了。求一个api.万分感谢。ilvoelu@gmail.com
+  ip:
+    encrypted: Mzk4NWM2MTgwMTJhZmJhYzBiYWQ0MWViZDY2ODFm
+    algorithm: aes-256-gcm
+    iv: ab1759803e4c7bd1de34c857
+- type: reply
+  channel: native
+  id: "1820"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: ZTg1OTdhOGE0Y2M3ZjU3NzcwZDZmOA==
+        algorithm: aes-256-gcm
+        iv: 44721733626c1d6be137ffeb
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-11-30 09:36:00
+  content: 可能是网络问题
+  ip:
+    encrypted: NDAyM2U2MTU1N2ViNzc2NGRhODYyNGZlZWNlYg==
+    algorithm: aes-256-gcm
+    iv: 1df359940269a53b8068a2f4
+  target: 1817
+- type: reply
+  channel: native
+  id: "1821"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: MTdlYTY3M2U5YWIyYzAwYmRjZDAzMg==
+        algorithm: aes-256-gcm
+        iv: 7efeb41c5a7bcdd4cc092763
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-11-30 09:41:00
+  content: 设置方法在本文中已经有了，至于适用于 9530 的软件下载地址，只能您自己去找去尝试了。
+  ip:
+    encrypted: NzI2ODU0MGQyMzhjYThiODljZGFjYjEzYmFkZA==
+    algorithm: aes-256-gcm
+    iv: 9362612558a4a09d033224f0
+  target: 1816
+- type: reply
+  channel: native
+  id: "1822"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MzY2NDE5ZWZlOWM1NjQ4YmFkMTNhNg==
+        algorithm: aes-256-gcm
+        iv: 065aaecb610fd92936b62b74
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-11-30 16:15:00
+  content: |
+    
+    	为了防止收到垃圾邮件，请不要公开自己的电子邮箱地址
+
+    	文中API的分享方式已经更改，请访问相关链接申请
+  ip:
+    encrypted: YWNmZWE5NzMxODM1ZDBiMDQzMDlhMWQ1NGI0NA==
+    algorithm: aes-256-gcm
+    iv: aba73dd2b68a8978c62deca6
+  target: 1819
+- type: reply
+  channel: native
+  id: "1823"
+  author:
+    name: ccx
+    email:
+      value:
+        encrypted: OTgxZWEyZDJjMzExODBjM2MzMmU4YmZkMjg1NWU1NjgwZQ==
+        algorithm: aes-256-gcm
+        iv: ef152b17fd8d07088f8c7791
+      hash:
+        md5: 2e9dcceda562b2a755aaeee9537d2073
+  published: 2011-12-15 13:18:00
+  content: 我也想要个API，可以发给我一个吗？ 推 号   @Cmnowap
+  ip:
+    encrypted: NWQ0M2Y0ZTFmYWE1NGJjNGY4MzRlYWU4NWY=
+    algorithm: aes-256-gcm
+    iv: cb562a8e1faa59b6d023a443
+- type: reply
+  channel: native
+  id: "1824"
+  author:
+    name: Leo
+    email:
+      value:
+        encrypted: ZDhmNjI1NmQ5MGIyNzlkZDdkMTBmN2JlYWI2YTcwZWY0YjEyODcyZA==
+        algorithm: aes-256-gcm
+        iv: ef58c2742e51d5c91c03e6c8
+      hash:
+        md5: 7c8014d54801950fabd480cb0e9e6e0d
+  published: 2012-03-17 12:23:00
+  content: |-
+    Twitter ID:leoberry
+    Email :leoberry86@gmail.com
+  ip:
+    encrypted: ZTczZTdlN2Q5YWI2YjU3ODUwZDA3OTdlY2M=
+    algorithm: aes-256-gcm
+    iv: 9184141a58c636e494572f6a

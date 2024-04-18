@@ -1,0 +1,48 @@
+- type: reply
+  channel: native
+  id: "1729"
+  author:
+    name: sorry xu
+    email:
+      value:
+        encrypted: ZGFlZWFhYmRlMjMyOGE2YjM0YjhmZGI1NmQwYzUxYzdlNA==
+        algorithm: aes-256-gcm
+        iv: 560a676bb53c6790f8dcb723
+      hash:
+        md5: 6396f7a439525a43f5c8907f1afbe946
+  published: 2011-12-18 14:42:00
+  content: 好
+  ip:
+    encrypted: ZTRiNDU1MzAxYjg4NzhmMWE4MzU1NjAxZjljNA==
+    algorithm: aes-256-gcm
+    iv: 19b695c15a1fa9bc48a5dda3
+- type: reply
+  channel: native
+  id: "1750"
+  author:
+    name: 绿茶山庄
+    url: http://wangheng.org
+    email:
+      value:
+        encrypted: NmZhNDJkYmU4NjdkNTk3ODFjOTU5ZGZkMWMxNzY2YTc=
+        algorithm: aes-256-gcm
+        iv: 5930924ea106f3ba9c744591
+      hash:
+        md5: ae4ef19a781bb7dec97a8cd523773615
+  published: 2012-01-16 15:33:00
+  content: 嗯，不错的做法
+  ip:
+    encrypted: N2U3NzM0ZTIyY2VkN2QyNDU4ODNlOTNk
+    algorithm: aes-256-gcm
+    iv: 03a96558cda10d0359d333d2
+- type: mention
+  channel: native
+  id: "1758"
+  published: 2012-02-26 23:22:00
+  url: https://dallas.lu/wordpress-themes-functions-php-commonly-used-code/
+  content: "[...] &#039;fb_disable_feed&#039;, 1&#041;;
+    add_action&#040;&#039;do_feed_atom&#039;, &#039;fb_disable_feed&#039;,
+    1&#041;;移除评论框下“可用标签和属性”提示add_filter&#040;&#039;comment_form_defaults&#039;,\
+    my_comment_form_defaults&#041;; function [...]"
+  author:
+    name: wordpress 主题 functions.php 常用代码 - Dallas Lu

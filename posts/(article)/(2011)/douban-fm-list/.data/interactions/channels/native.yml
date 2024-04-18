@@ -1,0 +1,338 @@
+- type: reply
+  channel: native
+  id: "1619"
+  author:
+    name: Louis Han
+    url: http://LouisHan.com/
+    email:
+      value:
+        encrypted: YTZjMzFkYTVmZDkxZDgwYzUxOWYxY2Y4ZDc4NjQzZWNlN2Vl
+        algorithm: aes-256-gcm
+        iv: 6bde4dfb2cf0c2074478494a
+      hash:
+        md5: bda09c15de8028b03a5165944368f745
+  published: 2011-09-27 07:45:00
+  content: 导出来以后还是很麻烦啊
+  ip:
+    encrypted: NTg4Y2E4Yjk2NmQzNWI1YjExY2QzMTAxOTdjYw==
+    algorithm: aes-256-gcm
+    iv: 1f47ae66a1a5d4820f208266
+- type: reply
+  channel: native
+  id: "1624"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: OTI3Mjc2NDY0ODk4Y2MzNTk1NTkxZg==
+        algorithm: aes-256-gcm
+        iv: cdf92e195a68317966ac50bd
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-09-28 01:17:00
+  content: 嘿嘿，不麻烦啊，简单几步就搞定。
+  ip:
+    encrypted: Mzk4N2M2ZWI5MmRjNDYyZTMyMzkwNGIzYWQwMQ==
+    algorithm: aes-256-gcm
+    iv: db3771cbf36e51d689c2d3ee
+  target: 1619
+- type: reply
+  channel: native
+  id: "1682"
+  author:
+    name: Andy
+    url: http://blog.antingxu.com
+    email:
+      value:
+        encrypted: Mjk4MjgxODY3ODIxMDY1NDExYjk4NDMyMzBmZTBhZGE3YjI3
+        algorithm: aes-256-gcm
+        iv: f421fdfd785282e5f0c0a889
+      hash:
+        md5: 9ccaba14765aa9d394bb07f564d9d835
+  published: 2011-11-05 13:28:00
+  content: 博主你好……我在Windows 7 x64下用Firefox 7.0.1，按照你上述的提示进行操作，不work啊T_T
+    在豆瓣红心页面点击书签后木有反应……求助……
+  ip:
+    encrypted: ZmVhOWUwNTlmNGU3ODI2YWNlYzE0ZDE0
+    algorithm: aes-256-gcm
+    iv: 2be71b0f3c91542f302eb79b
+- type: reply
+  channel: native
+  id: "1685"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: M2I1Yzk2ZGI0YzUxYmE3ZTIxZWYwZQ==
+        algorithm: aes-256-gcm
+        iv: 89e71a1c47edd789a78cadbd
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-11-08 15:25:00
+  content: 我又试了一下，挺好用的。能说一下具体的情况吗？比如截图？
+  ip:
+    encrypted: YThhZDI5YTE2ODVlNTdhMmQxYzYzNzdj
+    algorithm: aes-256-gcm
+    iv: 8f9f20b18f43a35a98b1188b
+  target: 1682
+- type: reply
+  channel: native
+  id: "1709"
+  author:
+    name: 小二
+    email:
+      value:
+        encrypted: MGIyNWJiZTg3MDIyNmQ5YzhkMjQzZDE2NjhkZTU3NjJmZQ==
+        algorithm: aes-256-gcm
+        iv: f8e442a88fe0f2855fc261bd
+      hash:
+        md5: 06a422d5ca7c9e84d5a9ca8a5c353fed
+  published: 2011-12-03 13:13:00
+  content: |-
+    同没有反应
+    chrom和firefox都试了
+  ip:
+    encrypted: MGE0Y2QyNWNiYzk1ODA0MTJkMTc4YmFm
+    algorithm: aes-256-gcm
+    iv: 9f8caad792c7b9c73efab0f7
+- type: reply
+  channel: native
+  id: "1713"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MmQ4NTg5NGNmNzMyMDM1NTlkMDFiZQ==
+        algorithm: aes-256-gcm
+        iv: d0fb74e3e795be1f4193655a
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-12-05 20:05:00
+  content: 我又试了一遍，好用啊
+  ip:
+    encrypted: NWU2MjMzYTFjOGQxOTYwOTBiYTRlMTkwYWQxYw==
+    algorithm: aes-256-gcm
+    iv: df3725fbf23ae49766bc0311
+  target: 1709
+- type: reply
+  channel: native
+  id: "1762"
+  author:
+    name: 高文
+    email:
+      value:
+        encrypted: ZTQ1OTJmYTZhMzNjMTc3YjU4YTJiMDE0NGQwMDM0MmQyZA==
+        algorithm: aes-256-gcm
+        iv: 23ec09f198882b3f4255f127
+      hash:
+        md5: b6db6ff00aa31c047201a8505f4c5bcd
+  published: 2012-03-01 19:09:00
+  content: |-
+    hello，文章里的链接你搞错了。。。。。
+    'https://douban-fm-list.googlecode.com/svn/trunk/douban-fm-list.js" 
+
+    你后面写的是双引号，导致拖过去的书签是错误滴。。。
+  ip:
+    encrypted: YmIzYTMxZGE0MDM5ZjcwZTdiMmYyOGQz
+    algorithm: aes-256-gcm
+    iv: 9abdc114cfd3ea95a3a7ef75
+- type: reply
+  channel: native
+  id: "1763"
+  author:
+    name: 高文
+    email:
+      value:
+        encrypted: ODk4ZTJmM2E4NDUxYTE4OGRkMDIxNTZjNmVhMWVkZTJhNA==
+        algorithm: aes-256-gcm
+        iv: 5539fc7d864f08fb4bbeab41
+      hash:
+        md5: b6db6ff00aa31c047201a8505f4c5bcd
+  published: 2012-03-01 19:13:00
+  content: >-
+    javascript:(function(){var script =
+    document.createElement('script');script.type ='text/javascript';script.src
+    ='https://douban-fm-list.googlecode.com/svn/trunk/douban-fm-list.js';document.getElementsByTagName('head')[0].appendChild(script);})();
+
+
+    上面的才是正确的书签哦，又看到的人，可以试着修改一下。。
+  ip:
+    encrypted: OTY5NzVlY2U2NzM3OTdiNDIzOTcyNmFm
+    algorithm: aes-256-gcm
+    iv: 8d5ca52e17cf55b4e51f47c5
+  target: 1762
+- type: reply
+  channel: native
+  id: "1768"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NWQyZDA1ZjUzYzExYmQxNzgzOGE2NA==
+        algorithm: aes-256-gcm
+        iv: 629ee0a5622969960b84706c
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2012-03-07 01:46:00
+  content: 奇怪，我仔细检查了一下文中的链接，的确是单引号啊。
+  ip:
+    encrypted: OTQyNzI2ZDdjYTIzZmU1NjBmMWZiZg==
+    algorithm: aes-256-gcm
+    iv: dfb1367d54f41859d42df037
+  target: 1762
+- type: reply
+  channel: native
+  id: "1770"
+  author:
+    name: 高文
+    email:
+      value:
+        encrypted: MWI4NWYwN2I1MjMyOWFiOTliNTg2MWExZWE4MTlkYmM5YQ==
+        algorithm: aes-256-gcm
+        iv: 784e1c08b6cc5b9029509f83
+      hash:
+        md5: b6db6ff00aa31c047201a8505f4c5bcd
+  published: 2012-03-07 09:16:00
+  content: >-
+    不清楚哦，不过我看到的链接的确是单引号的，下面一行是我复制的快捷方式，你看一下：
+
+    javascript:(function(){var script =
+    document.createElement('script');script.type ='text/javascript';script.src
+    ='https://douban-fm-list.googlecode.com/svn/trunk/douban-fm-list.js
+
+
+    。。。复制到list.js就没有了，我也不清楚是啥原因。。
+  ip:
+    encrypted: Y2VmODdjNDA4YTdiNTg1ZDg3Y2U5ZTYw
+    algorithm: aes-256-gcm
+    iv: 7ee365e1d4a63f69d01ad9ae
+  target: 1768
+- type: reply
+  channel: native
+  id: "1771"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: YzlhMzgyYjE1YWI3MDA0NDgzYzYwYw==
+        algorithm: aes-256-gcm
+        iv: 3d014824990e87fe6b909116
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2012-03-07 10:45:00
+  content: 嗯，多谢，弄明白了。原来在 Chrome 和 IE 中，“https://”中的 被当做注释或是其他的什么了；现在文中的链接已经可用了。
+  ip:
+    encrypted: ZDg2ODNiYjU0ZDU5OTMzOTM2NTZlZTk3NTQxNjlk
+    algorithm: aes-256-gcm
+    iv: 8794b073474aa305c7daad46
+  target: 1770
+- type: reply
+  channel: native
+  id: "1772"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MGIwNjI1ZDhlN2Q2ZTNiYTcyNTRhMQ==
+        algorithm: aes-256-gcm
+        iv: 5c52d505c4ed4b98a12e031c
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2012-03-07 10:45:00
+  content: 修复了一处错误，你再试试看？
+  ip:
+    encrypted: ZjNlOWIwNjJhMjVkYjEyYTI0NzU1ZTFmODhkZjkz
+    algorithm: aes-256-gcm
+    iv: f78331799c213961f9cb8fd5
+  target: 1709
+- type: reply
+  channel: native
+  id: "1773"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZmFlMWEyNzc1M2QzYjBhM2I4MjUzYQ==
+        algorithm: aes-256-gcm
+        iv: c7526459e0dca189e11a9ca1
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2012-03-07 10:45:00
+  content: 修复了一处错误，你再试试看吧
+  ip:
+    encrypted: YWZkZjY3OTIxOWU5ZjU3ZDIzYzA0MTg2YzE4YTFh
+    algorithm: aes-256-gcm
+    iv: 0df8baf72d977f47b5a5b182
+  target: 1682
+- type: reply
+  channel: native
+  id: "2130"
+  author:
+    name: kueisan
+    email:
+      value:
+        encrypted: OGNkODM4MDJiZTdjZWFjOTVkOTIxYzEyYTFkYzNkMTk=
+        algorithm: aes-256-gcm
+        iv: f3754b0889964eef6c0757a3
+      hash:
+        md5: 410fc406448251f00095b73d149c9217
+  published: 2012-09-03 19:51:00
+  content: 貌似又用不了了
+  ip:
+    encrypted: NDZjYzBjMjZjNjA1MGZiNWQ3NWVkMGQyOGFmMg==
+    algorithm: aes-256-gcm
+    iv: 0ffd3f6c67d46091d7dbaae2
+- type: reply
+  channel: native
+  id: "2662"
+  author:
+    name: "123"
+    email:
+      value:
+        encrypted: ODNlNWQxOGY3MWNiNWJiNjRiMGViZDZiY2RhNjczYzk=
+        algorithm: aes-256-gcm
+        iv: 39536941e33be9859189864f
+      hash:
+        md5: 786604779d2259e9828bb5af830d71ed
+  published: 2014-02-18 17:53:00
+  content: 好像又不行哦
+  ip:
+    encrypted: OTEwYmZiMjEzMzJiYzBmYjE5MWY5ZQ==
+    algorithm: aes-256-gcm
+    iv: 7e5ed5e6c68d78539de708c4
+  target: 1771
+- type: reply
+  channel: native
+  id: "107277"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NDczNmNlYjYyZDk1NjE0YzNjZmZjYQ==
+        algorithm: aes-256-gcm
+        iv: 738eeceacf5475cec66ca3b1
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2014-06-10 10:13:00
+  content: 当然，豆瓣页面结构发生了变化。
+  ip:
+    encrypted: NmU5NjM4OTllOTQzYmYyNDY5NjE4OWJkZmY3MjBj
+    algorithm: aes-256-gcm
+    iv: 2db7987b0c956795bfddb64b
+  target: 2662

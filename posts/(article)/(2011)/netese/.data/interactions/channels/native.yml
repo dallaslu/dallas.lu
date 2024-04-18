@@ -1,0 +1,40 @@
+- type: reply
+  channel: native
+  id: "1644"
+  author:
+    name: Louis Han
+    url: http://LouisHan.com/
+    email:
+      value:
+        encrypted: MDBiZGZiOWUyYjY1MmZhYjUzZTY5NTBkNDdjMWQ5NWM3NTgw
+        algorithm: aes-256-gcm
+        iv: 158b2892a97aa894ba71545e
+      hash:
+        md5: bda09c15de8028b03a5165944368f745
+  published: 2011-10-13 19:27:00
+  content: 不知道参与Twitter翻译的都是哪些人  感觉英文版的不是更好吗
+  ip:
+    encrypted: YzVhYzQ4Y2ExZTA1OTlmZmMzNjU2NTUw
+    algorithm: aes-256-gcm
+    iv: db585d18500f73f0026474f6
+- type: reply
+  channel: native
+  id: "1653"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: YWMxMDk1OTAxMTMxMTNjZjgzZGExZQ==
+        algorithm: aes-256-gcm
+        iv: 9a338441852ca48a0855f66d
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-10-17 16:04:00
+  content: 应该是 Twitter 中文用户中的活跃者吧。嗯，和 GFW 比起来，英文根本不是门槛。
+  ip:
+    encrypted: ZWFkNjJjODhkZTY2Mzc3ZTYyYmVmMw==
+    algorithm: aes-256-gcm
+    iv: 93b78a617816fcde16267799
+  target: 1644
