@@ -1,0 +1,204 @@
+- type: reply
+  channel: native
+  id: "320"
+  author:
+    name: xiaorsz
+    url: http://www.xiaorsz.com
+    email:
+      value:
+        encrypted: ZmZmYzYyNzIyZDQ1YzkyOTUxZDJhNTY0MTdmZmQ4NzRhOQ==
+        algorithm: aes-256-gcm
+        iv: db16d4069ef53e389a066244
+      hash:
+        md5: c419cb20777cc932e6edbc4aecf3400d
+  published: 2008-12-29 21:24:00
+  content: |-
+    沙发！！
+    以后用第一种方法加过coolcode的！！
+    呵呵！第三种方法不错！！
+  ip:
+    encrypted: NTcyMDdiMWEyM2M4ZmY5NjdhZTI1NzNmMjYzMw==
+    algorithm: aes-256-gcm
+    iv: df07febe1db36a09928bfd1d
+- type: reply
+  channel: native
+  id: "321"
+  author:
+    name: sofish
+    url: http://www.happinesz.cn/
+    email:
+      value:
+        encrypted: ZGQ5MDY4ZDMwMmY5MGUwZjUzMzUzMDkyNTU2Yw==
+        algorithm: aes-256-gcm
+        iv: 4b2b06af18056b6871091df9
+      hash:
+        md5: e8fb37bb5570f1f8a349a5d248ede347
+  published: 2008-12-29 22:01:00
+  content: 上一个是可恶的插件，这一个是很可爱的插件，但这一次是可恶的人。
+  ip:
+    encrypted: MmRmZWU3MGIxYzE4MzE3MzcyYWYyNzcyYjU=
+    algorithm: aes-256-gcm
+    iv: 38d7165cf8936e1105ac4ead
+- type: reply
+  channel: native
+  id: "322"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZGQzYTk0M2ZkNmFiODRiNTY5N2IxZQ==
+        algorithm: aes-256-gcm
+        iv: cf110a5b5ab98342b08071ef
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-30 08:03:00
+  content: 囧……
+  ip:
+    encrypted: OGQxYjJkMTYyN2EwNjlmZmJhM2RjNzIwNzRlMQ==
+    algorithm: aes-256-gcm
+    iv: fce4e985ee3de3a53ba8a635
+  target: 321
+- type: reply
+  channel: native
+  id: "323"
+  author:
+    name: 小墨
+    url: http://www.leinky.com
+    email:
+      value:
+        encrypted: YWM2ZTc1ZTI2ODc3YTgwZDA5NmJmNDM3YjM4MjQ4MzlmZQ==
+        algorithm: aes-256-gcm
+        iv: 8067e458a35525d6fc3d1d73
+      hash:
+        md5: 917ccf140d8e8a321bd1c2d52ef8b549
+  published: 2008-12-30 08:54:00
+  content: 呼呼~感谢~马上去试试~
+  ip:
+    encrypted: ZTRkOWM2YzhjOTkwZmRlYmYzZTgxYmMwMDRmOQ==
+    algorithm: aes-256-gcm
+    iv: 0d938b1a2b876784574f0f86
+- type: reply
+  channel: native
+  id: "324"
+  author:
+    name: NetPuter
+    url: http://orzdream.cn/
+    email:
+      value:
+        encrypted: ODdjNjBiYzViZmZiMmQ1NGNlMTY0ZjE0NTI4N2VmMTYwYjQwZmU2ZmE1ZDkxNg==
+        algorithm: aes-256-gcm
+        iv: e1ba1ca940af6ff1eb3ae0b0
+      hash:
+        md5: ecdc14816bcdf17ffaab3f5aa51e6218
+  published: 2008-12-30 21:14:00
+  content: 嘿嘿,如果用第三种方法,又提高了所谓的用户体验咯~
+  ip:
+    encrypted: OTEzMDRkYmIxY2JiOGFhMzFiMmM2OWIxYTM5OQ==
+    algorithm: aes-256-gcm
+    iv: 60a2f1248500567762453398
+- type: reply
+  channel: native
+  id: "325"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MmYwNDJjNDQxZGZiYWYwMWUyMGIxNg==
+        algorithm: aes-256-gcm
+        iv: 3c62c9a6774abb0d106196fd
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-30 21:22:00
+  content: 体验可能是有的。但是一般用户也不会跑到我的后台来的吧……呵呵
+  ip:
+    encrypted: NmY5MjExOWJlMzgwNDhlYTE5MDUzMWUzMDZlZg==
+    algorithm: aes-256-gcm
+    iv: a0f81485cfafa4b169775861
+  target: 324
+- type: reply
+  channel: native
+  id: "326"
+  author:
+    name: ice
+    url: http://www.icerainbow.cn
+    email:
+      value:
+        encrypted: MTZkOTc4NDk1ZDg5NmFlNzQxMGY3MDc0YWQ3MGFlMTI3ZTcxNmY=
+        algorithm: aes-256-gcm
+        iv: 7ec19d632b3f7bd39d9fe69d
+      hash:
+        md5: a3d67360e76ace82ee8c9efc4d16a8f7
+  published: 2008-12-31 17:27:00
+  content: simple tag很好用啊
+  ip:
+    encrypted: YWUxMDRjMzNmYWQxYjRlMzg0ZjFiNjU0
+    algorithm: aes-256-gcm
+    iv: dc3c9eeb8d8d09454f6991e7
+- type: reply
+  channel: native
+  id: "327"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OWY3MWQzMWY3ZWQyMjg1YTA3OWZmZQ==
+        algorithm: aes-256-gcm
+        iv: ff28059761504b97f988bdc7
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-31 17:30:00
+  content: ……本文重点在于“按钮”。可能跟你说的不是同一个“标签”……
+  ip:
+    encrypted: YzA5NjAxMzQ5OGU1OTEwODNkNjY4ZGQzZTM3OQ==
+    algorithm: aes-256-gcm
+    iv: 20ccdef3b2fd95866bd22030
+  target: 326
+- type: reply
+  channel: native
+  id: "328"
+  author:
+    name: home loan
+    url: http://w2zq.com/sys/homeloan/
+    email:
+      value:
+        encrypted: MzE5MGU3YzU3YzlhNzA1OThkNTc1ZjBjOGM5ZTA0MmRhMDI5YWNiZGQ2OWM3Yw==
+        algorithm: aes-256-gcm
+        iv: 9764852c1996c606d1a32857
+      hash:
+        md5: 5923d27e8937c7c9853b8eeb89ca99eb
+  published: 2009-01-31 03:56:00
+  content: Lovely. Great site.
+  ip:
+    encrypted: MmUxMmE3ZmZmNmVkNWM3ZGIwODJhYzAy
+    algorithm: aes-256-gcm
+    iv: 9daa11f34daa730d49e469f6
+- type: reply
+  channel: native
+  id: "329"
+  author:
+    name: 花莫笑
+    url: http://www.sukicn.net
+    email:
+      value:
+        encrypted: NDQ4YTBhZmE2ZTdjNmFjMTc3ZDFiNDdhZTcwMzQ4ODI0NDhlNTA=
+        algorithm: aes-256-gcm
+        iv: e3fcd4959a264cc70cdd94c6
+      hash:
+        md5: aab485e75551fd3485dbd79705f6a415
+  published: 2009-11-17 12:47:00
+  content: |-
+    使用 AddQuicktag 插件
+    很好用
+    现在不用去改程序了 免得每次升级都去改了
+
+    现在 支持新的版本了呢
+  ip:
+    encrypted: NWNhNDc5ZjM2YTc3MjA0NTI2MDk4ZjY4MGVjMw==
+    algorithm: aes-256-gcm
+    iv: e8eb2663143f7898d16470c9

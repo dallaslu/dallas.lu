@@ -1,0 +1,21 @@
+- type: reply
+  channel: native
+  id: "59"
+  author:
+    name: bellamind
+    url: http://www.kyrpichy.ru
+    email:
+      value:
+        encrypted: YWJjY2I2Y2Y0NjkxZjkzODU1ZjRkNDBhNzdlYjA0OTYyNzUzNzM=
+        algorithm: aes-256-gcm
+        iv: c8ced8f33944f9546317840c
+      hash:
+        md5: 3ea0adeb03e673d3035f012c2a3228ae
+  published: 2009-02-23 04:33:00
+  content: |-
+    Кризис, говорят, в марте усилится. Хотелось бы знать, кто затеял все это
+    и как вообще мы докатились до такой жизни.
+  ip:
+    encrypted: ZWEzNzEwOTY0Yzc4MjgyMDAyNWI0ZWVm
+    algorithm: aes-256-gcm
+    iv: ffc90db23938eca6f11e68a6
