@@ -2,7 +2,7 @@
 title: Why do Firefox and Chrome want to kill EV certificate
 date: '2019-10-31 15:44'
 author: 'dallaslu'
-license: CC-BY-NC-ND-4.0-4.0
+license: CC-BY-NC-ND-4.0
 taxonomy:
     category:
         - Internet
