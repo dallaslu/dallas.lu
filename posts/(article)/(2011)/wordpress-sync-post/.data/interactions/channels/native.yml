@@ -1,0 +1,21 @@
+- type: reply
+  channel: native
+  id: "1607"
+  author:
+    name: 杜拉克草
+    url: http://pengmao.name
+    email:
+      value:
+        encrypted: N2JiY2NiOGFkMjY2Njk0M2E0YzIyZDAxZGZlNTZl
+        algorithm: aes-256-gcm
+        iv: d6b5997efbb3595db3067b4c
+      hash:
+        md5: c27adc0ab656d9a198d90a51764fa906
+  published: 2011-09-09 13:13:00
+  content: |-
+    如果虚拟主机的PHP的CURL库文件禁用了OpenSSL和LibSSL
+    就同步不到了哟
+  ip:
+    encrypted: NTA3MTM5MmU3YzhlN2Q1NjdkOWZmZTZkMjRmNg==
+    algorithm: aes-256-gcm
+    iv: 375f027b3c51ef7179f3e3e9

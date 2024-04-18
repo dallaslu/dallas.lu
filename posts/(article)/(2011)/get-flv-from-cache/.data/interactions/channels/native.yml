@@ -1,0 +1,95 @@
+- type: reply
+  channel: native
+  id: "1096"
+  author:
+    name: Louis Han
+    url: http://louishan.com/
+    email:
+      value:
+        encrypted: YjI0N2YzMzExOWQ1YjM1Njg0MDFmZjdhM2Y4MGQ0MDgzMmMx
+        algorithm: aes-256-gcm
+        iv: 481103a24bf0d4fce5cd80ac
+      hash:
+        md5: bda09c15de8028b03a5165944368f745
+  published: 2010-04-10 02:00:00
+  content: 我就经常用FF的缓存保存视频
+  ip:
+    encrypted: ZTQxOThkNWI1YTUzZWFlN2JiN2VjYw==
+    algorithm: aes-256-gcm
+    iv: 7fc5f32ce2b6b71904debe76
+- type: reply
+  channel: native
+  id: "1097"
+  author:
+    name: 51biger
+    url: http://www.51biger.cn
+    email:
+      value:
+        encrypted: YTQ1ODkxNjA2ZDg2YTliYjJmYjBlOWZmZmRjMA==
+        algorithm: aes-256-gcm
+        iv: c43e78b70744c43a03d02433
+      hash:
+        md5: ba7fb83aa5f509e1df7a79bea1a145ab
+  published: 2010-04-10 22:16:00
+  content: 不错，学了一招
+  ip:
+    encrypted: YWUzYjA0MDMyZDNjZTUwNTA4NDhkZTI2MmNiZA==
+    algorithm: aes-256-gcm
+    iv: e61a00000b48bf6dfb98355e
+- type: reply
+  channel: native
+  id: "1098"
+  author:
+    name: 帅哥
+    url: http://shuaige.me
+    email:
+      value:
+        encrypted: NGNmYTNhM2QxMDkzOGY4ZjNkM2EzYjI1NjAzZGIxMmQyOA==
+        algorithm: aes-256-gcm
+        iv: f2a6572fc670e668a5464665
+      hash:
+        md5: fe5928a9b74c5b1d5f86f5f5279f7829
+  published: 2010-04-12 14:05:00
+  content: 我用chrome~~
+  ip:
+    encrypted: MTU0MDhmZjM4NmZhZDZlZjNiZWRiZDQ1ZjJmZDk0
+    algorithm: aes-256-gcm
+    iv: 7d47ba7d7d3c5bf170baf0e3
+- type: reply
+  channel: native
+  id: "1390"
+  author:
+    name: Dianso
+    url: http://014.cc
+    email:
+      value:
+        encrypted: ZjdiZjAxOGJjZDVlODdmMGNhZjE2MzM2OTE=
+        algorithm: aes-256-gcm
+        iv: 3a8d057eeb5ec1a0dd6896e0
+      hash:
+        md5: fd126aa64db6755fe66749e7870b9c9c
+  published: 2011-06-17 02:24:00
+  content: 我喜欢抓包下载，都是两三个小的FLV文件，然后合并下就OK了
+  ip:
+    encrypted: MzVjOGU3M2NhMDNiMzM4MjM2MWI1OTdjNTdjMg==
+    algorithm: aes-256-gcm
+    iv: 64a6415b54a4d8cee2e609ae
+- type: reply
+  channel: native
+  id: "1592"
+  author:
+    name: 彪哥
+    url: http://brianwoo.com
+    email:
+      value:
+        encrypted: MGE2ZmE0ZTRlM2E3YTBkOWJlOGEwNmI4N2Y3NGMyYTBjMA==
+        algorithm: aes-256-gcm
+        iv: 3eeb3888548844f9c7d85537
+      hash:
+        md5: d7fc14198bc5f75f7087bdf7883ebd67
+  published: 2011-07-12 09:00:00
+  content: 以后达哥开个IT讲坛吧
+  ip:
+    encrypted: MTI1YjZiM2ZjMmVlYzEzMzQ4MzAyNA==
+    algorithm: aes-256-gcm
+    iv: 7bc04f0640c6a54a5051a1a2

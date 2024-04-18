@@ -1,0 +1,101 @@
+- type: reply
+  channel: native
+  id: "1671"
+  author:
+    name: Louis Han
+    url: http://LouisHan.com/
+    email:
+      value:
+        encrypted: NmQ4ZmY1ZmIzZmJlZmUxMTYxZDNmYmVhNmU2NzczNjQ2MzMx
+        algorithm: aes-256-gcm
+        iv: f82cec540d49ef7006ca3f27
+      hash:
+        md5: bda09c15de8028b03a5165944368f745
+  published: 2011-10-29 10:31:00
+  content: 也就是说这个东西没有意义了？
+  ip:
+    encrypted: NjUwNDc2OTZiMzc1MTQwZjgzZWE4ODFj
+    algorithm: aes-256-gcm
+    iv: 951d5b0fd7c10eca19e2580c
+- type: reply
+  channel: native
+  id: "1674"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: ZDdiMzViNDNjYzI3ODYxMmQxYTk4Zg==
+        algorithm: aes-256-gcm
+        iv: 5f6080463fdfa33e5847064a
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-10-30 17:37:00
+  content: 我猜是这样。唯一存在的价值就是防止误操作了。
+  ip:
+    encrypted: MTJmNGI4NGJkYTZmYjE1YTgwNTNlOGE1YTU2MA==
+    algorithm: aes-256-gcm
+    iv: fb27c5bc61e543fef0638a81
+  target: 1671
+- type: reply
+  channel: native
+  id: "1677"
+  author:
+    name: Pier
+    url: http://betterairlines.eu
+    email:
+      value:
+        encrypted: ZjFhZThkNjljOWFlZjlkMDExYTdmZDJmYWRkMzFkNjI2Zjc0NDA=
+        algorithm: aes-256-gcm
+        iv: bd6b33b43744a527022327b7
+      hash:
+        md5: e1a7e6cfc298bb1bd2e197b2d7cc00e1
+  published: 2011-11-02 10:02:00
+  content: |-
+    <i>我猜是这样。唯一存在的价值就是防止误操作了。</i>
+    +1
+  ip:
+    encrypted: YzZiMTllNGQyNzE0OTNiNWVmMzQ1OThiZDk5Mg==
+    algorithm: aes-256-gcm
+    iv: 1a65020cd04c3bbaf04e1e4a
+- type: reply
+  channel: native
+  id: "1691"
+  author:
+    name: iColor
+    url: http://iColor.Name
+    email:
+      value:
+        encrypted: YWRiMGM4NmI2YTljZTE4ZDUwMWJmNjg5NjYxZDVhYWUyZDdmNDk5MmUz
+        algorithm: aes-256-gcm
+        iv: 0541b30dc3f103448b8c69ad
+      hash:
+        md5: e9ef4119967a5dfd229738c5f8a88d44
+  published: 2011-11-15 17:30:00
+  content: 技术类博客吗？
+  ip:
+    encrypted: MmFiOTUyNmFhNjI3ZjBmOWEwZjJmNzYzNWFhNw==
+    algorithm: aes-256-gcm
+    iv: 87256d838c5c7d9823f81096
+- type: reply
+  channel: native
+  id: "1692"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: NzBiMWRkZGRmNGY5NWE3NjRmZjM5MA==
+        algorithm: aes-256-gcm
+        iv: 11b2658f15d02d563f602e39
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-11-16 09:39:00
+  content: 嗯，算是有一点技术 :)
+  ip:
+    encrypted: YjNiYjQ1MzJmNzA1ZGRkNjAxNDYyODRiYjZiNw==
+    algorithm: aes-256-gcm
+    iv: b4d3c319b37cf9c5c392ff3b
+  target: 1691

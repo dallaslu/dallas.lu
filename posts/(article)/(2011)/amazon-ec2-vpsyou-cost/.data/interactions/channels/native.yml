@@ -1,0 +1,40 @@
+- type: reply
+  channel: native
+  id: "1636"
+  author:
+    name: 囧啊囧
+    url: http://vv15.com
+    email:
+      value:
+        encrypted: YWEyZGIzNGRkN2U5MGVhMjVhN2U=
+        algorithm: aes-256-gcm
+        iv: 2eecb75514a6577c942ab82e
+      hash:
+        md5: becff5ad58fdaaa78f36ccd4a547019e
+  published: 2011-10-10 00:51:00
+  content: 用了半年VPSYOU，基本上还算稳定，期间从180升级到了360，无奈价格太贵，马上到期，换虚拟主机了，一个月35，相对其他主机也不便宜，不过目前还算稳定。
+  ip:
+    encrypted: NGI5MWQwYzUzOTkwODYxNDM0ZGUwZjRlOWYzNzlj
+    algorithm: aes-256-gcm
+    iv: 3cc44bf0ab1b9992066c1057
+- type: reply
+  channel: native
+  id: "1654"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: MGI0NzMwNDkyMGUyOTI2ZTY1YmVkMw==
+        algorithm: aes-256-gcm
+        iv: 3450ebc189b95be87bfb8765
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-10-17 16:08:00
+  content: 不早说，http://www.hostloc.com/thread-77672-1-1.html
+  ip:
+    encrypted: MjUzMzMxYTkxMDFlM2I5OTczMDNjZg==
+    algorithm: aes-256-gcm
+    iv: 39be8b2fda3a1e8b18e9c15b
+  target: 1636
