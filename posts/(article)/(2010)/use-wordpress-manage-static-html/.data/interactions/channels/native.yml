@@ -1,0 +1,336 @@
+- type: reply
+  channel: native
+  id: "1080"
+  author:
+    name: jeff
+    url: http://yunfeiquan.com
+    email:
+      value:
+        encrypted: MGNiZWI1Y2JhMDRmY2I3NDFmMTk0MzYwNjY4YjNjNGZjYg==
+        algorithm: aes-256-gcm
+        iv: a53abf049e05232d101a84b8
+      hash:
+        md5: 2d111745eebd6f1948f35e996f2803a9
+  published: 2010-03-23 10:26:00
+  content: 我看到你写的短网址的文章 很受启发，我也想弄一个  但是如果我只想短网址中出现某几个字符 该在什么地方修改呢？
+  ip:
+    encrypted: ZGQ3MWZmYjA2ZjZmZjU5YzMwNGVhNjJkMDg=
+    algorithm: aes-256-gcm
+    iv: 860405c90f9d3012ed4a4faa
+- type: reply
+  channel: native
+  id: "1081"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZGY1NGI4MWJhZGFlNGJlODkzMzRlMQ==
+        algorithm: aes-256-gcm
+        iv: e683ec266c6a40481fa575b8
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-03-23 10:36:00
+  content: 这个我不太清楚……
+  ip:
+    encrypted: MjNkYTA1NjcyZmJmNDcwMzYxMjBkYmE1MDU0MA==
+    algorithm: aes-256-gcm
+    iv: e496e2c5e32c76c061a22692
+  target: 1080
+- type: reply
+  channel: native
+  id: "1082"
+  author:
+    name: jeff
+    url: http://yunfeiquan.com
+    email:
+      value:
+        encrypted: MTVhMDYwMmU5YmQ2N2M5NzU0ZWU0OThlNDNhYTkzZmI4Yg==
+        algorithm: aes-256-gcm
+        iv: eb1c282e032e6dbff6f12dea
+      hash:
+        md5: 2d111745eebd6f1948f35e996f2803a9
+  published: 2010-03-23 10:39:00
+  content: 哇 你回复好快 刷新一下就出来了
+  ip:
+    encrypted: M2JkM2FlNWY2YzgyZjA0ZmU1YWZhZGU4ZWQ=
+    algorithm: aes-256-gcm
+    iv: c4fb21ddaa21bafa2c60296f
+  target: 1081
+- type: reply
+  channel: native
+  id: "1083"
+  author:
+    name: 宅男
+    url: http://www.mobai.org
+    email:
+      value:
+        encrypted: MTE5YzQ2NWFkMTlhNjhmMTNlNTZiNTdjMDI2NGE1NWU=
+        algorithm: aes-256-gcm
+        iv: 55f1e63ec14ac2269ea766e4
+      hash:
+        md5: d57300a68ddc9db824adcab3ede972c3
+  published: 2010-03-24 21:50:00
+  content: 你为啥把所有的东东都换了呢？Gtalk、博客域名等。。囧~呵呵
+  ip:
+    encrypted: OGFmZjYyY2E3MGU5M2U2NGI1YTZhZmNlMzFkMQ==
+    algorithm: aes-256-gcm
+    iv: cef4b6f8309ad9ebd56cbf09
+- type: reply
+  channel: native
+  id: "1084"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MmE4YWFkNDEyNGRmMGM0OTdiNjJmNw==
+        algorithm: aes-256-gcm
+        iv: 387557278b22a0bf116038e0
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-03-25 10:32:00
+  content: 原因之一是 .me 域名贵了些。干脆就换个 .com ，顺便给自己实名了。
+  ip:
+    encrypted: YjRhNmM2YTJhYjE1Mjc3YjA2ZTI3MmZjMDk4ZA==
+    algorithm: aes-256-gcm
+    iv: 5c6126da21b047110b96e960
+  target: 1083
+- type: reply
+  channel: native
+  id: "1085"
+  author:
+    name: 刘苏
+    url: http://www.liusublog.cn
+    email:
+      value:
+        encrypted: ZDE3OGYyODMyMGNkMjQ5NGFmNzUzNzE0Yjg0YQ==
+        algorithm: aes-256-gcm
+        iv: 8be4210438f7e3a8c7af6641
+      hash:
+        md5: 5bb9f8c54346e6cc0254f8f97d7c86da
+  published: 2010-03-27 16:02:00
+  content: 刘苏到访，留个脚印...
+  ip:
+    encrypted: ZTI4N2EwMzU5MTk2NGM3YzVmMWUxZGQ3NGQ4OQ==
+    algorithm: aes-256-gcm
+    iv: 0c9b3674a2466509cc51c688
+- type: reply
+  channel: native
+  id: "1086"
+  author:
+    name: pazz7ven
+    url: http://pazz7ven.org.ru/
+    email:
+      value:
+        encrypted: MTM0NzcwMDYzZGY4ODY3OTBmYWIzOThhNWE0Y2E5Yzk5YzIx
+        algorithm: aes-256-gcm
+        iv: 55f040ee0aa6cc9728ef12b0
+      hash:
+        md5: acbe5bf2edde0db849a0f054c7ff7486
+  published: 2010-03-27 17:03:00
+  content: 学习中
+  ip:
+    encrypted: MTZmNTIxZmVmMDdiNWYxY2QxNTdjYjNhYmE2MQ==
+    algorithm: aes-256-gcm
+    iv: 627e878010bbff414597bda2
+- type: reply
+  channel: native
+  id: "1087"
+  author:
+    name: pazz7ven
+    url: http://pazz7ven.org.ru/
+    email:
+      value:
+        encrypted: Y2ZlOWY0ZDc3NmMzOGIzYTk3MjEyZWVmMGQxODk5YTcwZDQw
+        algorithm: aes-256-gcm
+        iv: bb98dedf05b8d26f88e6bf1a
+      hash:
+        md5: acbe5bf2edde0db849a0f054c7ff7486
+  published: 2010-03-27 17:04:00
+  content: 主题很cool
+  ip:
+    encrypted: Y2UwMWU0ZmE5M2E5NDA3ZWUyM2VhOWQ4Mzc1OQ==
+    algorithm: aes-256-gcm
+    iv: 8ac6c0160c1de3f1552f9c24
+- type: reply
+  channel: native
+  id: "1088"
+  author:
+    name: BB霜
+    url: http://janyu.net
+    email:
+      value:
+        encrypted: YzU0YzdmY2ZjMTBlMDRlZDViNzMwZWMyODMwOTllODY1N2YxNzE4Y2Q3ODJiMzNm
+        algorithm: aes-256-gcm
+        iv: 6c5f6ba43dcd845064383037
+      hash:
+        md5: 7821ab1bfda6eaa639a9eb7ea05cac25
+  published: 2010-03-28 21:30:00
+  content: 很不错的一课
+  ip:
+    encrypted: N2U3MTUwMzQ3ZmJmNGNmNjY3ZDA1ZDdmMGQ=
+    algorithm: aes-256-gcm
+    iv: 85cb84286efc8b1498c4022e
+- type: reply
+  channel: native
+  id: "1089"
+  author:
+    name: 51biger
+    url: http://www.51biger.cn
+    email:
+      value:
+        encrypted: YmUwYWY5YWVmOTMyYWIyMzlmOTNhNzU3NWVlOA==
+        algorithm: aes-256-gcm
+        iv: 1b494f39872682cb055c60b1
+      hash:
+        md5: ba7fb83aa5f509e1df7a79bea1a145ab
+  published: 2010-04-03 21:08:00
+  content: 也不是真静态的
+  ip:
+    encrypted: MTE1MmM0NTkzMjI4ZTNkZGYwMGI3ZDllYzk2MQ==
+    algorithm: aes-256-gcm
+    iv: cb5ff9984c666db1d157f352
+- type: reply
+  channel: native
+  id: "1090"
+  author:
+    name: cluries
+    url: http://cuies.com
+    email:
+      value:
+        encrypted: MDYxYjgxNmQxM2E4NjQ1MjQ4ZGI4NGJhYzc4YzU2OWYzOTIz
+        algorithm: aes-256-gcm
+        iv: 0f17575ab2608800f3aef377
+      hash:
+        md5: 1f3b3ae43e3ebd45a51ab0334bb4cb16
+  published: 2010-04-06 12:35:00
+  content: |-
+    没有用过PHPNow
+    不过感觉这种集成环境都是正对开发环境的
+    所以
+    如果是正式上线
+    还是不要用这个玩意的好、
+    自己配置也花不了多少时间
+  ip:
+    encrypted: ODNjMjcxYzhkNzI1YTRkNWM0Yzc4MWNkMTY=
+    algorithm: aes-256-gcm
+    iv: d800da4f8ccd0418b6ea2aea
+- type: reply
+  channel: native
+  id: "1091"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MTc0MjFkNTM1MGEzZmRkYTllNmQ3YQ==
+        algorithm: aes-256-gcm
+        iv: 39ca5814321bb4b94d6f2c76
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-04-06 13:36:00
+  content: 这个倒是。用它主要图简洁快速
+  ip:
+    encrypted: OGRiYWI4ZGI4ZjQ3MzkyMzBiMmNlNTU2OTMyNA==
+    algorithm: aes-256-gcm
+    iv: 3254cf976eb62b829c02269e
+  target: 1090
+- type: reply
+  channel: native
+  id: "1092"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZTllMWZkZWZlNTRkMjUxOTMzNjI4Mw==
+        algorithm: aes-256-gcm
+        iv: e8b4cce245d84f66414d36c9
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-04-12 07:52:00
+  content: 最后生成的就是真静态的了
+  ip:
+    encrypted: MTVmNmM4Njg3ZTBiM2UxYmNlYjNmM2M5YWIzMw==
+    algorithm: aes-256-gcm
+    iv: ea6a5d5085092fcbc5941f7f
+  target: 1089
+- type: reply
+  channel: native
+  id: "1093"
+  author:
+    name: 二维码
+    url: http://hi.baidu.com/liusublog
+    email:
+      value:
+        encrypted: MGM4N2UzODhjNjhjZDY5M2I0NmRlNWM5NjIwYTcz
+        algorithm: aes-256-gcm
+        iv: b79afa7c7e8e22421ea2d947
+      hash:
+        md5: 6a287353a5bb3c9f31cad67ba0709788
+  published: 2010-04-12 10:13:00
+  content: 来过了，支持一下。
+  ip:
+    encrypted: ODM4MGQ4ZTk5MjljNTFhNjcyMmNjNw==
+    algorithm: aes-256-gcm
+    iv: 21f7d2be127fc6c0e2f85a0f
+- type: reply
+  channel: native
+  id: "1094"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZjQxZTU2YTk4ZDZkNzZhYTEyNTZkYg==
+        algorithm: aes-256-gcm
+        iv: f39015559dab66024cf81566
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-04-13 09:23:00
+  content: 呵呵，谢谢夸奖~
+  ip:
+    encrypted: ZDQ3Njg0ZTQ3ODM1YzExYWM1YWM0MjRlNjUzZA==
+    algorithm: aes-256-gcm
+    iv: 38bff6791ef2523b79c6b315
+  target: 1088
+- type: reply
+  channel: native
+  id: "1095"
+  author:
+    name: 优洛左旋肉碱
+    url: http://www.youluozuoxuanroujian.com
+    email:
+      value:
+        encrypted: NjU0MGFkOGZiMzBkMmJkODNmOTRiNmU4ZmI1MzljYjllZTA4NzI=
+        algorithm: aes-256-gcm
+        iv: 4d173f9142343cff7743c228
+      hash:
+        md5: 7aa7372ab7a30c7b80e482603497893c
+  published: 2010-09-11 15:46:00
+  content: |-
+    发现这个在静态化WordPress的时候经常主题不能正常显示哎~
+    teleport也是，3.0之后的WordPress默认主题倒是可以
+  ip:
+    encrypted: YTU0ZGM4MjkwNDBkY2E5ZmZkOGM1NDcwZGQ=
+    algorithm: aes-256-gcm
+    iv: 3a2a89c64016e7fefd725ed7
+- type: mention
+  channel: native
+  id: "1214"
+  published: 2011-01-15 06:03:00
+  url: http://www.naich.org/2011/build-a-static-site-with-wordpress/
+  content: "[...]
+    然后想到，既然服务器不能提供mysql数据库，是不是有可能建立一个不需要数据库的网页。是否我只要在某个机器上把网站建好，然后已经读入了数据库数据的网页\
+    直接保存下来，放到服务器上就可以了？冲着这个念头，我在网上找到了一篇文章。Dallas
+    Lu这位网友提供了一个方法，用wget命令直接抓取整个网站，然后上传到服务器上。我于是很快做了尝试。但是很快感觉到这个方法似乎对我并不适用：这个方法抓\
+    取的网站主题css设置等元素都不能正常获得。而如果想要改正这些东西的话，不仅要把wp-content里的主题文件复制过来，还要改动主题的那堆php文件\
+    里的函数。我这么一个懒人&amp;初学者就这么退缩了。于是这个尝试也宣告失败了。 [...]"
+  author:
+    name: 使用Wordpress建立静态网站 &laquo; Naich!

@@ -1,0 +1,19 @@
+- type: reply
+  channel: native
+  id: "1169"
+  author:
+    name: Dianso
+    url: http://014.cc
+    email:
+      value:
+        encrypted: MWEzZGUxMDQzNTA2YWJmMmVlNDQxZWI4NTk=
+        algorithm: aes-256-gcm
+        iv: c1d2ecb42dbeeaab5686f62a
+      hash:
+        md5: fd126aa64db6755fe66749e7870b9c9c
+  published: 2010-12-11 17:34:00
+  content: 用lnmp确实很爽，不过每个月基本都要有一次502错误。
+  ip:
+    encrypted: M2Y0ZTU5YTJiOTBkZTg1NDBiMjFkYjY3
+    algorithm: aes-256-gcm
+    iv: 5c66220e3460e768f7af26b3

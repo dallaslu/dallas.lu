@@ -1,0 +1,431 @@
+- type: reply
+  channel: native
+  id: "1126"
+  author:
+    name: Dianso
+    url: http://014.cc
+    email:
+      value:
+        encrypted: Y2Y4MTBmYjJiNDcxNGE3N2M3YjE5M2FkMGI=
+        algorithm: aes-256-gcm
+        iv: 1479d6e6184c61b49ed40aa3
+      hash:
+        md5: fd126aa64db6755fe66749e7870b9c9c
+  published: 2010-08-07 17:16:00
+  content: 每次访问首页都有个绝对地址，这个不错，记下来就行了
+  ip:
+    encrypted: NjNmZmQ3MWQzM2I4ZDZhMDY0ZGUzNWQzNjJkOA==
+    algorithm: aes-256-gcm
+    iv: fa73f6e46472403b668e68f3
+- type: reply
+  channel: native
+  id: "1127"
+  author:
+    name: 北街
+    url: http://www.ibeijie.cn
+    email:
+      value:
+        encrypted: MjE2YmJmYmNlOGQyYWFlODRjZWZkY2VlNmYzNA==
+        algorithm: aes-256-gcm
+        iv: 6ccf3edb6d8c7c63c736422f
+      hash:
+        md5: 1364d3e5207692dd7768b5e30fc2ddbf
+  published: 2010-08-16 15:20:00
+  content: 这种东西，总觉得还是自己的好~
+  ip:
+    encrypted: M2JhMTA0MzgwYWFkZjZjZTgyMTAwNDZlOTBlMGQ1
+    algorithm: aes-256-gcm
+    iv: 188302bf804c6257799f196b
+- type: reply
+  channel: native
+  id: "1128"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OTkwNmQ0YWMzNjlhNTVkM2M2NzRkZA==
+        algorithm: aes-256-gcm
+        iv: 664e2009ab04e57e7351a6a4
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-08-16 16:50:00
+  content: 哈哈，适合的才是最棒的
+  ip:
+    encrypted: YzBmOGJlZjdkNmI5NDgzOTE1Yjg5MDQ1ZGMwZWY3
+    algorithm: aes-256-gcm
+    iv: 2afed19a18372d905c32030d
+  target: 1127
+- type: reply
+  channel: native
+  id: "1129"
+  author:
+    name: 宅男
+    url: http://www.mobai.org
+    email:
+      value:
+        encrypted: ZDgyNjM0ZDhlNGNlNjIyMDEyMWI4Yg==
+        algorithm: aes-256-gcm
+        iv: 6112289cbce68b0098bf92cd
+      hash:
+        md5: 24adb58644bb162dee28042dc9b96718
+  published: 2010-08-21 10:04:00
+  content: 这个 不顶不行。哈哈哈。
+  ip:
+    encrypted: NTNjMGJlMzE3M2EwZmY0NWU5MjcyMWY2M2M2Ng==
+    algorithm: aes-256-gcm
+    iv: c11a9ab2edf724f71ef43252
+- type: reply
+  channel: native
+  id: "1130"
+  author:
+    name: 乐友
+    url: http://www.6yoo.info
+    email:
+      value:
+        encrypted: NzU0NmNiMTE4ZTcwNzFmNjg3MDMyYzA1ZWE=
+        algorithm: aes-256-gcm
+        iv: c6310c63681969c50c620fde
+      hash:
+        md5: a87446ca655c512f6690c27fd46190e8
+  published: 2010-08-24 19:18:00
+  content: 非常好。good
+  ip:
+    encrypted: MDgwOWEwNTFlOTc3MWQzNGI2YzA3MWJhMWQ=
+    algorithm: aes-256-gcm
+    iv: fb79ac1a4158ef68923c799a
+- type: reply
+  channel: native
+  id: "1131"
+  author:
+    name: 上善若水
+    url: http://www.meaw.cn/
+    email:
+      value:
+        encrypted: ZWY4MWZlZmE2Yzg1NmZiYjRlZWI3OGRiYzBmYzg0
+        algorithm: aes-256-gcm
+        iv: 37d0f7ac31ec667d3b64273b
+      hash:
+        md5: d0d99ac497d7b1e31b891dbd710e6077
+  published: 2010-08-25 16:30:00
+  content: 第一次来~~不错~~
+  ip:
+    encrypted: NjFlNzYxODhmN2Y5MWRkMjAxYzUzNmNlYzA=
+    algorithm: aes-256-gcm
+    iv: 4b9f99c29ea0bb96ee608ab4
+- type: reply
+  channel: native
+  id: "1133"
+  author:
+    name: 痛风
+    url: http://www.tongfengkx.com
+    email:
+      value:
+        encrypted: YzZmZjE5MWZjYjFlNGNhZjM0NmFiNzRkNzVjNg==
+        algorithm: aes-256-gcm
+        iv: d71c845ca8a9dbfe9a7c5f56
+      hash:
+        md5: 975b4865decc997cc81dc79208dc50e5
+  published: 2010-09-14 15:52:00
+  content: 说的很对啊，感谢分享！
+  ip:
+    encrypted: Yjc0ZWU1YTM3NTc0YjIwM2RkYjhlMzI2MjhhMjcw
+    algorithm: aes-256-gcm
+    iv: 1fa304dd5e09fa94366458f6
+- type: reply
+  channel: native
+  id: "1134"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NmM4ZjU5ZDk1ZTUwMTVlODEzYzY2NA==
+        algorithm: aes-256-gcm
+        iv: 2338d8a10e7de93c31f30362
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-09-14 16:17:00
+  content: 对你个通风的头
+  ip:
+    encrypted: ZTg5ZTIzOTc3Yjk5YjQ5MDM1ZmFiNzYyODg3Mg==
+    algorithm: aes-256-gcm
+    iv: 95c15df29fbab0f59648949c
+  target: 1133
+- type: reply
+  channel: native
+  id: "1135"
+  author:
+    name: 输卵管堵塞的治疗方法
+    url: http://shuluanguanduse.com
+    email:
+      value:
+        encrypted: Yjc1ZTg1MzIwNGM0MmM4ODg1NjM1ZjVjOGNlNGFiNmYzMQ==
+        algorithm: aes-256-gcm
+        iv: d08ab7a38d3921335848717b
+      hash:
+        md5: 86ae99787dab5e1efd30d00a19fb191f
+  published: 2010-10-08 23:00:00
+  content: 是不是和超短连接服务一样的？
+  ip:
+    encrypted: YjU5NTc1NjRjNTkwZmUyNzViMDRjMDg2MGY=
+    algorithm: aes-256-gcm
+    iv: d342951cd6909e7d7b0abc96
+- type: reply
+  channel: native
+  id: "1136"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MmE2ZDFkMDMwODFjNzEyNjYyMWZkYw==
+        algorithm: aes-256-gcm
+        iv: 654929d35fff6179f529dd0b
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-10-09 08:23:00
+  content: 把文本变成一个超链接。你这名字，真让人没办法。
+  ip:
+    encrypted: Y2RjMTA3ZDRiY2Y1M2U2NTM3ZDdlNw==
+    algorithm: aes-256-gcm
+    iv: 2ac18d4241ec396ed0ad4c09
+  target: 1135
+- type: reply
+  channel: native
+  id: "1137"
+  author:
+    name: Dianso
+    url: http://014.cc
+    email:
+      value:
+        encrypted: MjE1ZDkyMzAyMjQ1MDYzMjNjNmE0M2MxM2Q=
+        algorithm: aes-256-gcm
+        iv: 486246ccf60d259b51954c62
+      hash:
+        md5: fd126aa64db6755fe66749e7870b9c9c
+  published: 2010-10-25 16:10:00
+  content: "能开源么 :razz:"
+  ip:
+    encrypted: NGEyNTIxMmQ5Mjk0ZTQ4NTE0NmIxZGU4OTM=
+    algorithm: aes-256-gcm
+    iv: 4fef28252e6eda241125facf
+- type: reply
+  channel: native
+  id: "1138"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MTZlNjk1MDZlMTNjNWY4NzdmMDZlNg==
+        algorithm: aes-256-gcm
+        iv: d6e7605021f379c2cedd922f
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-10-25 16:21:00
+  content: 代码太烂，要的话我发给你
+  ip:
+    encrypted: NDdmZjlmM2IwZmRhN2U5YjEwZTZmNTEzODYyMDBh
+    algorithm: aes-256-gcm
+    iv: 4e4296fe6a67c356bce241d8
+  target: 1137
+- type: reply
+  channel: native
+  id: "1139"
+  author:
+    name: Dianso
+    url: http://014.cc
+    email:
+      value:
+        encrypted: MTQ4NmQzMzFlNjFlOWU4NWVlOTM5NDZlZTI=
+        algorithm: aes-256-gcm
+        iv: 19331ea6f0cdfcdad22c65c5
+      hash:
+        md5: fd126aa64db6755fe66749e7870b9c9c
+  published: 2010-10-25 19:10:00
+  content: |-
+    我的邮箱:
+    dianso#014.cc
+    太感谢你了
+    我感觉很好用，想建立个做收集文档
+  ip:
+    encrypted: NTgxODU2Mjk2Nzg3NTg4NGQ3ODk5YjQxNjk=
+    algorithm: aes-256-gcm
+    iv: ab932f99cb06bdfee3031da5
+  target: 1138
+- type: reply
+  channel: native
+  id: "1140"
+  author:
+    name: Dianso
+    url: http://014.cc
+    email:
+      value:
+        encrypted: NmQ0YWQwNTMxZTc1OGExNTY4MDQ1ZDQ1Yjg=
+        algorithm: aes-256-gcm
+        iv: fde43eba8d60e77a1ef9f2a6
+      hash:
+        md5: fd126aa64db6755fe66749e7870b9c9c
+  published: 2010-10-26 13:23:00
+  content: |-
+    我是nginx/0.7.67
+
+    修改`config.php`后，把conf里面https的都删除后，就404 Not Found，求助
+  ip:
+    encrypted: MzAzYTU2NWMxY2IwMmU0NmVmMmQyYzE2YjA=
+    algorithm: aes-256-gcm
+    iv: 3b0343aadf0d8f40f147127d
+- type: reply
+  channel: native
+  id: "1141"
+  author:
+    name: Dianso
+    url: http://014.cc
+    email:
+      value:
+        encrypted: YmRlMTJlNmYxY2VhZGU0ZDRlMzhmYjBlOGM=
+        algorithm: aes-256-gcm
+        iv: 4a6291d592d237c42846a5c1
+      hash:
+        md5: fd126aa64db6755fe66749e7870b9c9c
+  published: 2010-10-26 16:24:00
+  content: |-
+    http://dianso.cc
+    帮我看看啊
+  ip:
+    encrypted: ODU3NDI4ODQxMjA3Y2Y4ZDMyZTI0MDVmY2Y=
+    algorithm: aes-256-gcm
+    iv: 6331c4978b83811eac347a4d
+- type: reply
+  channel: native
+  id: "1142"
+  author:
+    name: jack
+    url: http://www.jack.hk
+    email:
+      value:
+        encrypted: OGNiMDAwNmUwNzhjZWY4YjcyZjAwZTNlZDA5MTdkOGY0NzMxZmYxMzg4
+        algorithm: aes-256-gcm
+        iv: 4e10940ff697db9292110f97
+      hash:
+        md5: 7bd4cca8d274527d918a0cefc356469c
+  published: 2010-11-15 20:22:00
+  content: |-
+    非常不錯
+    我最近在學習php
+    不知道可否發個代碼來研究下
+  ip:
+    encrypted: ZGNkOWVkYmQyYjU1ZTZkNDkwYWJhNWYwNjE5ZA==
+    algorithm: aes-256-gcm
+    iv: 2a788936bf563f4cc94c20b6
+- type: reply
+  channel: native
+  id: "1143"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZDZjZjg5MjliMzA0NjRmOWExNWYyOA==
+        algorithm: aes-256-gcm
+        iv: 42b79f89fd8ccc3439452e62
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-11-17 15:09:00
+  content: 我代码好烂的。既然有人感兴趣，我就发到google code 去 :)
+  ip:
+    encrypted: Mzg5YmZmYjQ5OTFlMjU5YzY1YWYwMTZkNWI2NjIx
+    algorithm: aes-256-gcm
+    iv: ce3e7c9bf75de1f393396d01
+  target: 1142
+- type: reply
+  channel: native
+  id: "1144"
+  author:
+    name: jack
+    url: http://www.jack.hk
+    email:
+      value:
+        encrypted: NzkzMDQ5OTFjYjc1Y2Q1MTdmMTlmMTUzN2ViM2ExOGFhZDUwMDBmZDgz
+        algorithm: aes-256-gcm
+        iv: 593ac9e2d6fe41b4cca73262
+      hash:
+        md5: 7bd4cca8d274527d918a0cefc356469c
+  published: 2010-11-17 22:08:00
+  content: |-
+    完全不爛，我剛學php。
+    另外想和你換個鏈接不知道怎麼樣？
+    哈
+  ip:
+    encrypted: YzVlOWZmOTg4MDUxZDYyMTQ3YmY1MA==
+    algorithm: aes-256-gcm
+    iv: 58c4b744aa4a753d9ff0a87e
+- type: reply
+  channel: native
+  id: "1145"
+  author:
+    name: jack
+    url: http://www.jack.hk
+    email:
+      value:
+        encrypted: YzEwMzEwOThhYWI0NTk4Yjg0YzZlMmEzYTAwMzA5ZGI4N2YxYzJkOWZl
+        algorithm: aes-256-gcm
+        iv: b35e182d5c33f2b6dc7284bf
+      hash:
+        md5: 7bd4cca8d274527d918a0cefc356469c
+  published: 2010-11-17 22:10:00
+  content: |-
+    ngix的配置？
+    我用centos的需要用嗎？
+  ip:
+    encrypted: ZjQyYzUyNDY3OTdhNWNiM2UwZmE4ZA==
+    algorithm: aes-256-gcm
+    iv: 3f818124139719ac270a7d63
+- type: reply
+  channel: native
+  id: "1146"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NzM1YjRiMmNlYmE1OGJiOGIyMjRlNQ==
+        algorithm: aes-256-gcm
+        iv: 420294b0368f44ab73f8de21
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-11-18 07:52:00
+  content: 用apache的话就不用了啊
+  ip:
+    encrypted: MGUzNzZhMWMzM2E0ZWZhZGI0MTE0OTY2YjBhNzQ3
+    algorithm: aes-256-gcm
+    iv: 468de41a36b0fc77a7819024
+  target: 1145
+- type: reply
+  channel: native
+  id: "1147"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MjU4Nzg4MjFhNmMzNzNhMTM3Y2MwMA==
+        algorithm: aes-256-gcm
+        iv: 4c565fd8647347dadcc4f016
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-11-18 07:53:00
+  content: 链接已加。
+  ip:
+    encrypted: ZDgwMDA5N2ZiY2RkNTYwNWU5YjU4YTYyMGQ3OTJj
+    algorithm: aes-256-gcm
+    iv: d3642dca306dd4e7af29d21d
+  target: 1144

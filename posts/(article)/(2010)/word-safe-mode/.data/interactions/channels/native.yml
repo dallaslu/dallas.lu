@@ -1,0 +1,21 @@
+- type: reply
+  channel: native
+  id: "1199"
+  author:
+    name: 踏浪者
+    url: http://www.talangzhe.com
+    email:
+      value:
+        encrypted: MzI2YWM0YTMwOWY0ZTQzZjMwNjM1YTViNzg2NmJi
+        algorithm: aes-256-gcm
+        iv: ffaab9d7c029d7e3ce85aec5
+      hash:
+        md5: f9a68942c6fd26a33c0fc4cda04403c9
+  published: 2010-12-31 16:01:00
+  content: |-
+    又学了一招，诚祝来年快乐、家庭幸福！
+    平安，如意！
+  ip:
+    encrypted: Yjg1YjQ4NGFiZTBiMTA4OTc0ZGQ4MDAwOGQxZg==
+    algorithm: aes-256-gcm
+    iv: f85c26fb49f6a1bb43cab3dc

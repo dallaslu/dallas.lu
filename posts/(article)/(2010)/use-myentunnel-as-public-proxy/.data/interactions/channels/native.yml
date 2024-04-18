@@ -1,0 +1,42 @@
+- type: reply
+  channel: native
+  id: "1078"
+  author:
+    name: 墨白
+    url: http://www.mobai.org
+    email:
+      value:
+        encrypted: NTNkZDljY2U5NmU4MjhmMDJmZGM0ZmNhNTJiNzIwNWU=
+        algorithm: aes-256-gcm
+        iv: 7d49a6c259ef78623afe084d
+      hash:
+        md5: d57300a68ddc9db824adcab3ede972c3
+  published: 2010-03-08 08:11:00
+  content: |-
+    传说中的沙发~
+    那原来的域名应该会一直用吧?
+  ip:
+    encrypted: Y2M4MmY1NjlhOWY5YTJmZjE5NWJkNWE0
+    algorithm: aes-256-gcm
+    iv: 4b375cf96636c8c973e232f2
+- type: reply
+  channel: native
+  id: "1079"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: Yjc3MTcwOGE1ZWZiYjkzYmYyZDJjZg==
+        algorithm: aes-256-gcm
+        iv: 4e4b075433ad3593ca0cbf59
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-03-08 13:43:00
+  content: 不会。年底就不续费了
+  ip:
+    encrypted: ZWUzZTJiODI4ZmQ1ZjliNzZmZmViNjI0ZTI=
+    algorithm: aes-256-gcm
+    iv: 17592789a23ac801fd9f609a
+  target: 1078

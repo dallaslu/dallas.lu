@@ -1,0 +1,19 @@
+- type: reply
+  channel: native
+  id: "1148"
+  author:
+    name: DHC
+    url: http://www.dhcdhc.info
+    email:
+      value:
+        encrypted: Yzc5ZDhjMmU2Mjg2ZDNkNGEyM2FhNzA3YzkxNjQ2NzEzMw==
+        algorithm: aes-256-gcm
+        iv: 0e4635c0bd34523eabfe7267
+      hash:
+        md5: 8ebf0ea2d7a57da5094c81085c80432f
+  published: 2010-09-03 22:49:00
+  content: 真好。实用。
+  ip:
+    encrypted: NzMxMjQwMGVhODkwYTFlNTc3YzZjNmU2OGE=
+    algorithm: aes-256-gcm
+    iv: 132a288e2e5185913fe32bf9

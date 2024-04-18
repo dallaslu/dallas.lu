@@ -1,0 +1,21 @@
+- type: reply
+  channel: native
+  id: "1186"
+  author:
+    name: A.shun
+    url: http://www.a-shun.com
+    email:
+      value:
+        encrypted: MTczNzg1MWZjMGZlZTFhODA0MGRhMWZhZGQ1ZTE1Mjg4MWY2
+        algorithm: aes-256-gcm
+        iv: 9948704377e48bb758166bb2
+      hash:
+        md5: 465d00391a0bd1c066aac037df4bf5d1
+  published: 2010-12-20 14:29:00
+  content: |-
+    SS 评价一直很好
+    就是邀请码难弄
+  ip:
+    encrypted: MzVkMGVkZWVhMjJjNmM1MTk0NTI1YTll
+    algorithm: aes-256-gcm
+    iv: 714c55df5dfdc612e9507249
