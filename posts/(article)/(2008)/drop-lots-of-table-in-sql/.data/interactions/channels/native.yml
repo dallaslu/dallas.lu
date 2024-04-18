@@ -1,0 +1,40 @@
+- type: reply
+  channel: native
+  id: "109"
+  author:
+    name: 蓝天博客
+    url: http://compassblog.cn/
+    email:
+      value:
+        encrypted: YzVlOWJkYTBiNDU1MTNiYTM0MzU0NmE4ODAwNzI5YWY=
+        algorithm: aes-256-gcm
+        iv: ed185cd1bd492db4e29659d0
+      hash:
+        md5: 4460c8b3dbb26d9c9b8564f16e146f20
+  published: 2008-12-01 00:09:00
+  content: 文章号专业，看不懂，但赞一个！
+  ip:
+    encrypted: NGVmNzRhNDhhOTJlMTU4YTljOTZhODEyY2NmNA==
+    algorithm: aes-256-gcm
+    iv: 86541cd2510f371e751a88c5
+- type: reply
+  channel: native
+  id: "110"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MGM4MGQzMDBkYjdmMmNmNjNkMmQ3NA==
+        algorithm: aes-256-gcm
+        iv: 94b565cc1608c433baeac1d2
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-01 00:20:00
+  content: ……其实很不高科技
+  ip:
+    encrypted: ZTIzYmEyNTY5MGQ3N2M3OGIyM2RlYWIxNzIwOQ==
+    algorithm: aes-256-gcm
+    iv: 2bec5e1bc4042d8141e4b0a3
+  target: 109

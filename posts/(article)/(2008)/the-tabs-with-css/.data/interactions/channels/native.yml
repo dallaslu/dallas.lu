@@ -1,0 +1,145 @@
+- type: reply
+  channel: native
+  id: "196"
+  author:
+    name: 子曰
+    url: http://www.laoliyue.cn
+    email:
+      value:
+        encrypted: NWQ2MDYzYjk0NzRjMjRiOWNiZDdlZGJkZWQ1MGQ1MTAzZQ==
+        algorithm: aes-256-gcm
+        iv: 8fd272101efd3f2a6d9043f7
+      hash:
+        md5: 11b4d535f0110876fcbc3ca6fd11ab79
+  published: 2008-12-08 19:54:00
+  content: 酱油一瓶，俯卧撑三个，走人～～
+  ip:
+    encrypted: MTg3NjI1MzBkYjlmNzY1M2RhZjM0MjFk
+    algorithm: aes-256-gcm
+    iv: aba0b3ec0e81744348bf4528
+- type: reply
+  channel: native
+  id: "197"
+  author:
+    name: k2max
+    url: http://k2max.cn
+    email:
+      value:
+        encrypted: Y2E3NDgxOWEwMmEwZTY4NTZiOWQ4MDc5NTM1Y2M3YWM=
+        algorithm: aes-256-gcm
+        iv: b117f66f049148c1dd7f2de2
+      hash:
+        md5: 22bf62be3bb392e32ad028ed936b36b2
+  published: 2008-12-08 20:50:00
+  content: 评论表单这的错位看着很不爽 ...
+  ip:
+    encrypted: Nzg1YjA3MWEzYmU4M2E1YmIzOTE3OTA3YjA=
+    algorithm: aes-256-gcm
+    iv: 126531c4451f0b9b016e4f36
+- type: reply
+  channel: native
+  id: "198"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MzBkOGU5M2EyN2UxZTk5MjI0YjA2Nw==
+        algorithm: aes-256-gcm
+        iv: dbb291436fd716b3ba9f106d
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-08 20:53:00
+  content: 的确，在 Linux 里面弄的，还没在 IE 测试。
+  ip:
+    encrypted: ZTYzY2QzYTNjN2M0YjJmOTNkYmIyNWI2
+    algorithm: aes-256-gcm
+    iv: 972afd432905062c8371efad
+  target: 197
+- type: reply
+  channel: native
+  id: "199"
+  author:
+    name: nipao
+    url: http://blog.nipao.com
+    email:
+      value:
+        encrypted: OTU4NWU0NjhhNjA0ZGU0YWQ2ZDZjODBiODA2ZA==
+        algorithm: aes-256-gcm
+        iv: afd0c4f7784fc2afe0fbde75
+      hash:
+        md5: 2fb6f3cfb9fbf54da6eeac8872917595
+  published: 2008-12-08 21:28:00
+  content: 既然你都说了不支持IE6，那就要解决他呀。不要让问题存在
+  ip:
+    encrypted: MzNkYjZkZjczYWVlZjdkZjhkZTFjNDNk
+    algorithm: aes-256-gcm
+    iv: 69419d9bda76041df09a224f
+- type: reply
+  channel: native
+  id: "200"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NDYzZmQwZDliNDQ2OTA5ZWYwMDc0MA==
+        algorithm: aes-256-gcm
+        iv: 533859ece44fb8b1ad882583
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-08 22:41:00
+  content: >-
+    <code>&lt;style&gt;*{position:relative}&lt;/style&gt;&lt;table&gt;&lt;input&gt;&lt;/table&gt;</code>
+
+    用这段代码干掉 IE6 算了 ，这样使用 IE6 的人就看不到难看的效果了~~
+
+
+    嘿嘿
+  ip:
+    encrypted: YTE3ZjllM2VlMTA3OTdmN2NmZmU0ZTli
+    algorithm: aes-256-gcm
+    iv: 79957d97840a471cb9f203a7
+  target: 199
+- type: reply
+  channel: native
+  id: "201"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: Y2QyNDc1Y2M3YmZhODY0NDY5ZGE2Mg==
+        algorithm: aes-256-gcm
+        iv: ed4088bf545e4a9e1dfd0035
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-08 22:44:00
+  content: 勉强算对上位置了，收工~
+  ip:
+    encrypted: MWJkZmU1NGVlMzgwNDFmNzM1MjllNWVi
+    algorithm: aes-256-gcm
+    iv: a6ed7ed91135f303c92de093
+  target: 197
+- type: reply
+  channel: native
+  id: "202"
+  author:
+    name: 煎鱼
+    url: http://janyu.net
+    email:
+      value:
+        encrypted: OTM3Y2MwYmUxZTRhZjUzZTRiZDJiNDRjNWM5ZDFiYmRkODU1Mjg0NmFmMGFlMDNl
+        algorithm: aes-256-gcm
+        iv: 1b066d671932020aeb1de964
+      hash:
+        md5: 7821ab1bfda6eaa639a9eb7ea05cac25
+  published: 2008-12-08 23:05:00
+  content: 这样的代码，一般到网上COPY,呵呵
+  ip:
+    encrypted: MjY3OTY1ZTI0ZmQ4MWY1Njk3NmY4OGY2ODE=
+    algorithm: aes-256-gcm
+    iv: 6848ab384c71141bbbeed64d

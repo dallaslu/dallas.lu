@@ -1,0 +1,113 @@
+- type: reply
+  channel: native
+  id: "37"
+  author:
+    name: deepblue
+    url: http://www.shansun.net
+    email:
+      value:
+        encrypted: NmU2YmU3ZWE2YTdlZWJiNjEyNzA2ZTZkN2MwNmJlNTZjMTQ0
+        algorithm: aes-256-gcm
+        iv: f5b6a4e77a88dda7e79ac76a
+      hash:
+        md5: 8a8c33a87910353b4db7d99649af9451
+  published: 2008-07-08 02:56:00
+  content: 我还是比较喜欢发邮件的
+  ip:
+    encrypted: Yjk4Y2VlYjczM2ZkOGYwMmUxMTEwMjhjMzY=
+    algorithm: aes-256-gcm
+    iv: f528dc41e3a6ec2359f20d60
+- type: reply
+  channel: native
+  id: "38"
+  author:
+    name: blacktulip
+    url: http://webabie.com/
+    email:
+      value:
+        encrypted: YWI3YzNlMmY3OTc3MmExYWExNjA5YWJmNzJlM2IzMGQxNWRhMjhkZA==
+        algorithm: aes-256-gcm
+        iv: 75585a968c7d1b732e0e17dc
+      hash:
+        md5: 8aedfe2ba8ecfee416fcb30b3b00a1c5
+  published: 2008-07-08 04:06:00
+  content: pidgin是好东西，腾讯，唉
+  ip:
+    encrypted: NDczYzZiMWE3ZDhiMDM3MGJjYzc=
+    algorithm: aes-256-gcm
+    iv: 9a25941e5acb37b4892591ea
+- type: mention
+  channel: native
+  id: "39"
+  published: 2008-07-12 00:55:00
+  url: https://dallas.lu/what-can-we-do-to-save-our-site/
+  content: "[...]
+    可是结果呢？从用户的角度讲，我真的需要这么多的SNS吗？比方说，我祖籍山东，有山东本地的SNS；在黑龙江上学，有黑龙江所有大学生的SNS；我喜欢看小说\
+    ，有小说读者的SNS；我学习Java，有Java学习者的SNS；我使用Ubuntu，也有SNS；我最近便秘了，谷歌了一下，发现排名第一的是个便秘病人的\
+    SNS……我们这是怎么了，一窝蜂的来做SNS。如同IM的问题，用户到底需要什么SNS？遍地开花的SNS如同一个个孤岛，让我轻易不敢靠岸。看罢最近火热的\
+    “博客过时论”的相关文章，还是不敢认同，还是博客靠谱点。博客像是我的门牌号，三教九流的朋友们记起我了就来拜访一下，我惦记谁了就去谁家看望看望，不管你是\
+    住集体宿舍（托管博客），还是乡间别墅（独立博客），你往来有鸿儒，我谈笑有白丁。IM则类似手机，有需要就直接沟通沟通，虽然各大IM没有学习通信公司的互通\
+    服务。 [...]"
+  author:
+    name: 拿什么拯救我们的小站&#160;-&#160;Dallas Lu
+- type: reply
+  channel: native
+  id: "40"
+  author:
+    name: sun
+    email:
+      value:
+        encrypted: OGQ1OWU0NjQ3YjIxMWIzMzc3Zjg0NmU3NWU=
+        algorithm: aes-256-gcm
+        iv: ef09c40369d7cf6f594db2ed
+      hash:
+        md5: 1a185b326a26f47b38cc270e14401a86
+  published: 2010-06-28 16:00:00
+  content: |-
+    Email能有通用的协议，为什么IM就没有通用的协议呢？了解了互联网之后发现这是不可能的，因为腾讯不同意.
+
+    确实有，google 一下XMPP,gtalk用的协议。
+  ip:
+    encrypted: ZWYyY2Y1NjQ2YzE2ZTJkMjFhZjk4NzUzYzA=
+    algorithm: aes-256-gcm
+    iv: 2e8215a7f94a3e33268a9eaa
+- type: reply
+  channel: native
+  id: "41"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MjQ3OWI1NzFlMzFiOTFhODI4NzRmYw==
+        algorithm: aes-256-gcm
+        iv: dd6c9faa61d56b647b7309d1
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2010-06-28 16:52:00
+  content: XMPP是开放协议，但是现有IM比如QQ很多不基于此。所以说，没有通用协议。
+  ip:
+    encrypted: ZTI2YjdkOGFhYjAwNDI5YTBiYzM0NDcxMDdiMQ==
+    algorithm: aes-256-gcm
+    iv: 439f10abae0a78b4453a5a10
+  target: 40
+- type: reply
+  channel: native
+  id: "42"
+  author:
+    name: 企业管理资料下载
+    url: http://www.kik.cn
+    email:
+      value:
+        encrypted: OTBkN2IzMDRlZDYwZmEyNTIxYzhlYmM5ZDU0YzVlNWVmMTM5
+        algorithm: aes-256-gcm
+        iv: 23813655c7c5db6da16bb270
+      hash:
+        md5: 3366693176e083f641dd2f94e5784501
+  published: 2010-11-20 14:38:00
+  content: QQ，哎。。。
+  ip:
+    encrypted: ZWZkODE3MjIwMDg3MzM5OTkwOGFmYWVjMzkxNQ==
+    algorithm: aes-256-gcm
+    iv: e4aa6e96d0102c18860a0688

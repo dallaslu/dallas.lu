@@ -1,0 +1,27 @@
+- type: mention
+  channel: native
+  id: "71"
+  published: 2008-11-23 21:14:00
+  url: http://fairyfish.net/2008/06/06/wordpress-related-posts-plugin-translation/
+  content: "[...] 简体中文包 [...]"
+  author:
+    name: WordPress Related Posts Plugin Translation
+- type: reply
+  channel: native
+  id: "72"
+  author:
+    name: 沿阶草
+    url: http://www.yanjiecao.com
+    email:
+      value:
+        encrypted: NWRmM2ZlNTk5Y2UzNzkwZGY1NTU3ZjlmYWFiYWUyMmI5M2JhMmM=
+        algorithm: aes-256-gcm
+        iv: fd9099febefc791c9fa9da4e
+      hash:
+        md5: 3073c3227d023c3d7d579cf62d0c25e9
+  published: 2008-12-14 22:14:00
+  content: 这插件功能应用简单，只是改下标题够了。
+  ip:
+    encrypted: YmJkNTZmYmUzYzVhZjQ0MmM3YTEzZWFi
+    algorithm: aes-256-gcm
+    iv: 5e3c0d33272ae700cf0db9e6

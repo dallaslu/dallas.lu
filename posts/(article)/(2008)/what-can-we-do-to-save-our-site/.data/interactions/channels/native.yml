@@ -1,0 +1,39 @@
+- type: reply
+  channel: native
+  id: "43"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MGIzZmJiZDdlYmYwMGYzMmZkYTg4ZA==
+        algorithm: aes-256-gcm
+        iv: 34ffecdf236894ee5a9c84d5
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-06 21:10:00
+  content: 预感此文终于有人会看，自沙之。
+  ip:
+    encrypted: OTUyODBmMWI4YjY3NGQ5MTI3Y2NjYzRj
+    algorithm: aes-256-gcm
+    iv: a97c2a0272229747c6167a96
+- type: reply
+  channel: native
+  id: "44"
+  author:
+    name: si
+    url: http://blog.yisifan.cn
+    email:
+      value:
+        encrypted: ZDdhYjVhOWI1MjVhMzVhOWQ5YTZkZjFlNTVlODUzNjUxMmIwMGY4MA==
+        algorithm: aes-256-gcm
+        iv: e920a527fada288cb3115bab
+      hash:
+        md5: 8e81cae986308c4b92b4643952da71c4
+  published: 2009-05-03 07:58:00
+  content: 我看了，不错呵呵。
+  ip:
+    encrypted: YzY4NDA5NzMzNmM1YzcwMzY0NDJiOGU3NzQzNWNk
+    algorithm: aes-256-gcm
+    iv: 5a32979b6e2d865235c18e52

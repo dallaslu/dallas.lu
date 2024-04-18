@@ -1,0 +1,228 @@
+- type: reply
+  channel: native
+  id: "234"
+  author:
+    name: JoBru
+    url: http://jobru.net
+    email:
+      value:
+        encrypted: NTg2Nzk0YmViMzE3YzMwZTUyZmU2YzhiMGYyODA0N2U1ZjhlNjRiYjEwMDU=
+        algorithm: aes-256-gcm
+        iv: 8cb6a86a960cb0ec65311b11
+      hash:
+        md5: 3131f3c681f1384e35850204e1c8246a
+  published: 2008-12-10 21:15:00
+  content: WP-MulticolLinks我倒很有兴趣，可以自定列宽度么
+  ip:
+    encrypted: YTRkOTlkNDcyODdiZjNmNDNmNDhhMDg2ODU=
+    algorithm: aes-256-gcm
+    iv: 9ff2548db755cd729526587d
+- type: reply
+  channel: native
+  id: "235"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NDNmNDFiMmUzMjM2YjhmODU4YmE1NA==
+        algorithm: aes-256-gcm
+        iv: 6582905c4333ae4e6abcd7ab
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-10 21:41:00
+  content: 不能定义宽度，但是能定义列数
+  ip:
+    encrypted: NDgwYTIyNjBkOTMzOTc3MTA5NGI2YTZkMmIwMg==
+    algorithm: aes-256-gcm
+    iv: b7882e6665edb5b4e2ff68b4
+  target: 234
+- type: reply
+  channel: native
+  id: "236"
+  author:
+    name: xiaorsz
+    url: http://www.xiaorsz.com
+    email:
+      value:
+        encrypted: OTlhNzRiMDZhNDJhYTlhMDAxOGFkNWRmYTE2NTk2ZDBmMw==
+        algorithm: aes-256-gcm
+        iv: 83ba1c4c8b9d9820a5604c82
+      hash:
+        md5: c419cb20777cc932e6edbc4aecf3400d
+  published: 2008-12-10 21:58:00
+  content: |-
+    “灰常的方便”？
+    莫非博主是湖南人？呵呵！
+    看来我们两个的插件相关还是蛮大的。
+  ip:
+    encrypted: MjM2NTdjMjhiZDI2Yzg3YTIwMTY0MjI1MjZkMA==
+    algorithm: aes-256-gcm
+    iv: fe89f273fcee84126ddf2b97
+- type: reply
+  channel: native
+  id: "237"
+  author:
+    name: xiaorsz
+    url: http://www.xiaorsz.com
+    email:
+      value:
+        encrypted: NGEzMjY4NjY3MzExNGExZDQ3YmU2YTg1MDdmMzI5ZDY1Yw==
+        algorithm: aes-256-gcm
+        iv: a63b9109cba76ba7be742104
+      hash:
+        md5: c419cb20777cc932e6edbc4aecf3400d
+  published: 2008-12-10 21:59:00
+  content: 友情链接显示两行貌似用CSS就可以很好的做到，我就这样搞的。呵呵！
+  ip:
+    encrypted: ZTBiY2QyNmI3ZDljM2IyZWU5NzA3MGZiY2RhYg==
+    algorithm: aes-256-gcm
+    iv: 1e47f8c0537af89c0668a6f1
+- type: reply
+  channel: native
+  id: "238"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NjRiMTJlOGZkMmI4ZGI0MWJiYzg1Mw==
+        algorithm: aes-256-gcm
+        iv: c43e7d719ca2304384fcd39b
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-10 22:08:00
+  content: 现在很多人都灰常喜欢说“灰常”这个词……呵呵
+  ip:
+    encrypted: OWQwZWIxNWMwNDNhZDgyNDkwZmJmNjNiNGM1NQ==
+    algorithm: aes-256-gcm
+    iv: 354362dfb693979ac948b939
+  target: 236
+- type: reply
+  channel: native
+  id: "239"
+  author:
+    name: nipao
+    url: http://blog.nipao.com
+    email:
+      value:
+        encrypted: YjRjNmQ3YTYwZDEwN2U2MzE5Mjg5NGJmMDExYg==
+        algorithm: aes-256-gcm
+        iv: 4d0748d29e0f4947cf848ddf
+      hash:
+        md5: 2fb6f3cfb9fbf54da6eeac8872917595
+  published: 2008-12-11 09:08:00
+  content: |-
+    我只用了你其中的两个
+    继去年之后很少有人写这种类型的博文了。
+  ip:
+    encrypted: NTRhZjE5MjczZmRlZDZhZGRmMjZlMWU3NmU=
+    algorithm: aes-256-gcm
+    iv: 486b1f41451a5eb5f40770af
+- type: reply
+  channel: native
+  id: "240"
+  author:
+    name: Dianso
+    url: http://014.cc
+    email:
+      value:
+        encrypted: MjgzMzgwNDMwZGEyMTMwM2E2ZmI1Y2YwNzdlY2E3N2I5MmY0YzE=
+        algorithm: aes-256-gcm
+        iv: af2f1746271e234dd5832c85
+      hash:
+        md5: 47e20ff48e5cd49dc472232a211a3ac1
+  published: 2008-12-11 17:50:00
+  content: |-
+    Samsarin PHP Widget
+    Clean Archives Reloaded
+    WordPress Database Backup
+    WordPress Related Posts
+    WP-PageNavi
+    这些都在用，哈哈
+  ip:
+    encrypted: YjY5YzlmNTcyZWM0M2IyYjBmYmZhNDkw
+    algorithm: aes-256-gcm
+    iv: 6218eebc4a693efbb0fdaefd
+- type: reply
+  channel: native
+  id: "241"
+  author:
+    name: 沿阶草
+    url: http://www.yanjiecao.com
+    email:
+      value:
+        encrypted: NzYyN2VmZGMyZDg4MWZkMjNiZWI2Y2E0MzdkNTc5YzA0YmYxZGE=
+        algorithm: aes-256-gcm
+        iv: b6c511fc28cc23cac8a2288c
+      hash:
+        md5: 3073c3227d023c3d7d579cf62d0c25e9
+  published: 2008-12-14 22:15:00
+  content: http://dallaslu.com/archievs 404错误。
+  ip:
+    encrypted: ZDk3ZmQ3N2JlNWJmZWIwZTkxZmRjN2Fk
+    algorithm: aes-256-gcm
+    iv: e392cc755dec2e3cafff3d56
+- type: reply
+  channel: native
+  id: "242"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MWJjMTc1NWE2YjFmNzQxMDgzYmI3NA==
+        algorithm: aes-256-gcm
+        iv: 6332d04dd8898d5bc9f099cc
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-15 02:57:00
+  content: 你哪里见到的链接？呃，应该是 archives
+  ip:
+    encrypted: NGU5ZjAwNDU3M2Q0ODZiM2ZjYWYyYmFmYTk4Ng==
+    algorithm: aes-256-gcm
+    iv: effa4e1e4e275d319be5024a
+  target: 241
+- type: reply
+  channel: native
+  id: "243"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NGIwZjkwZTg2Yzk0MjE5MGI4YmNmNA==
+        algorithm: aes-256-gcm
+        iv: 9f9bbf2788a6317cc9903d58
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-15 02:58:00
+  content: 发现了……谢谢提醒哈~
+  ip:
+    encrypted: YjZlMGE4MGFlMmRhMGMzMGIwY2U5MDViY2U1NQ==
+    algorithm: aes-256-gcm
+    iv: e468ab35641191657e035b98
+  target: 241
+- type: reply
+  channel: native
+  id: "244"
+  author:
+    name: 深圳瑜伽
+    url: http://www.xiaoyoga.com
+    email:
+      value:
+        encrypted: MWQ1OThlZjQ4OWI0ZWNhNjRmMDAzMmU2YzlhNWRi
+        algorithm: aes-256-gcm
+        iv: 28e5dee13313f056d97906d0
+      hash:
+        md5: ca303f08776917769b27a0a5b153f149
+  published: 2009-03-12 15:39:00
+  content: 很好
+  ip:
+    encrypted: YTRlZWZjMjljNGMyOWMzNTBkNzg1ZDQ1NTc=
+    algorithm: aes-256-gcm
+    iv: b3ffda9d94697ddc509a2b14

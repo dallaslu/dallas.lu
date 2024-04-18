@@ -1,0 +1,563 @@
+- type: reply
+  channel: native
+  id: "203"
+  author:
+    name: xiaorsz
+    url: http://www.xiaorsz.com
+    email:
+      value:
+        encrypted: YmQ1MDExMTdiYzU5OTIwYTM4NDM4YzllN2YxZTZhOGQ2Zg==
+        algorithm: aes-256-gcm
+        iv: e417caa66bf14c8d1d330748
+      hash:
+        md5: c419cb20777cc932e6edbc4aecf3400d
+  published: 2008-12-09 01:05:00
+  content: |-
+    呵呵，这些差不多都用到了！！
+    总结的很不错，支持下！
+  ip:
+    encrypted: YjJjZTViYzhjNGMyZDI0OGUyNWZjOTA3Y2Q=
+    algorithm: aes-256-gcm
+    iv: 7b9cc4904970c7ad9188cf0f
+- type: reply
+  channel: native
+  id: "204"
+  author:
+    name: bssn
+    url: http://www.bssn.org
+    email:
+      value:
+        encrypted: MTk0MGFjNzA5OWU0YmUyNTEzNTgxODQ0YTM=
+        algorithm: aes-256-gcm
+        iv: 4822631be907d7bddcc18d6f
+      hash:
+        md5: d199e94de3ffde95823ad520cfe032c3
+  published: 2008-12-09 09:17:00
+  content: 都不知道哪个好了，现在就想要一个能彻彻底底生成静态的那种。
+  ip:
+    encrypted: YWY4OTU4ZjdkYTU2NGU4NjljYzhkZmVl
+    algorithm: aes-256-gcm
+    iv: 6bb8e69cf81a8aca388fdf0d
+- type: reply
+  channel: native
+  id: "205"
+  author:
+    name: mercy
+    url: http://meecy.com
+    email:
+      value:
+        encrypted: ODEyMTQ0NmE0MzQzNzIzZjgwMjRlNWM5M2NiYjAy
+        algorithm: aes-256-gcm
+        iv: aafaa642933573d43b36c6f0
+      hash:
+        md5: a2dcf8411c372d9334aefe3a598aade1
+  published: 2008-12-09 12:20:00
+  content: 太复杂，做人还是简单点好 :-)
+  ip:
+    encrypted: MGQwMjYyOGZiMzdlYjc3YjNjMjBkMQ==
+    algorithm: aes-256-gcm
+    iv: 47d87183b9dec05bbc379e65
+- type: reply
+  channel: native
+  id: "206"
+  author:
+    name: Leeiio
+    url: http://blog.guaniu.com
+    email:
+      value:
+        encrypted: ZjE2NGVmMGFiNjNiZDU3ZWFkYzI0YjQ5N2Y2OWM0OGI=
+        algorithm: aes-256-gcm
+        iv: e517b325a5e01f32a4ff7ed0
+      hash:
+        md5: ffa60157af668384f5325116efd02385
+  published: 2008-12-09 17:40:00
+  content: 有钱我要选个牛逼的空间~速度快不用优化也快，哈~
+  ip:
+    encrypted: M2QyYzczOWMwYWMyNGE0ZTA1Y2JiNWIw
+    algorithm: aes-256-gcm
+    iv: c96b638ed7bdce95adcda05b
+- type: reply
+  channel: native
+  id: "207"
+  author:
+    name: k2max
+    url: http://k2max.cn
+    email:
+      value:
+        encrypted: ZGUzN2U2ZjAwMGI5N2M5ZWY2MmE4ZDhhMDY0NjllOWU=
+        algorithm: aes-256-gcm
+        iv: 71eada5bd80429760f9789f1
+      hash:
+        md5: 22bf62be3bb392e32ad028ed936b36b2
+  published: 2008-12-10 03:44:00
+  content: 我想... 你需要 cos-html-cache ..
+  ip:
+    encrypted: NDEyMTdkMTFhNjVlZWYyZDQyODdhNQ==
+    algorithm: aes-256-gcm
+    iv: 33c1c0eb5f4d74ff8e615e2e
+  target: 204
+- type: reply
+  channel: native
+  id: "208"
+  author:
+    name: k2max
+    url: http://k2max.cn
+    email:
+      value:
+        encrypted: ODgxM2UwOTQ4NDYxNTVkNjBjOGZhMThmOGFkZWFkYzg=
+        algorithm: aes-256-gcm
+        iv: fff39f09f9a148b5ce2c5fd6
+      hash:
+        md5: 22bf62be3bb392e32ad028ed936b36b2
+  published: 2008-12-10 03:49:00
+  content: |-
+    你用 Hyper Cache 了?
+
+    效果如何?
+  ip:
+    encrypted: ZjdmOTU4YWMzZjU3MzI3ZjI0ODg4OQ==
+    algorithm: aes-256-gcm
+    iv: b57c8ba87862f9c0faacadb4
+- type: reply
+  channel: native
+  id: "209"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZTdiZGU4YmQ3MGUzYjhkMjk5OWFkOA==
+        algorithm: aes-256-gcm
+        iv: de7c7ac8701fb985ed41eb27
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-10 05:06:00
+  content: 感觉很还可以吧~
+  ip:
+    encrypted: YTg5YjVjNWFhN2EyMWE4MjhmNTdlYzRkNmQ5Mg==
+    algorithm: aes-256-gcm
+    iv: d34a3275b34ead764238f785
+  target: 208
+- type: reply
+  channel: native
+  id: "210"
+  author:
+    name: xiaorsz
+    url: http://www.xiaorsz.com
+    email:
+      value:
+        encrypted: NTM4MGFiZjVlMGJlMTU0YjY2Mzk2YTk3MWU4MGVlMjZiOA==
+        algorithm: aes-256-gcm
+        iv: 8cf86f0ee15e7e804a6570f4
+      hash:
+        md5: c419cb20777cc932e6edbc4aecf3400d
+  published: 2008-12-10 11:32:00
+  content: 皮肤升级了？这样效果也蛮不错的！！
+  ip:
+    encrypted: MzllY2NkOTdmOWMyZDAxYzJlMjc0ZjJjYWY=
+    algorithm: aes-256-gcm
+    iv: 2c2cb84c7a1a506e1f643605
+- type: reply
+  channel: native
+  id: "211"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: N2YxOGM2MmI0NGRmMmVhMmQ0NTFkZg==
+        algorithm: aes-256-gcm
+        iv: 63fd6b2efe1632975f964b28
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-10 14:57:00
+  content: 呃，搞出问题了。。。然后又没时间弄了
+  ip:
+    encrypted: ODZkYTZlZTEyYzY4MjU1M2EwNTE2MzY2YWNhNg==
+    algorithm: aes-256-gcm
+    iv: c1cab70b782fb5ae870be7cd
+  target: 210
+- type: mention
+  channel: native
+  id: "212"
+  published: 2008-12-10 21:03:00
+  url: https://dallas.lu/wordpress-plugins-actived-2008-12-10/
+  content: "[...] Cache：类似的缓存插件可是 加速WordPress 的必备之物。Samsarin PHP Widget：在边栏中使用 PHP
+    代码，灰常的方便。WordPress [...]"
+  author:
+    name: 本博客启用的 WordPress 插件&#160;-&#160;Dallas Lu
+- type: reply
+  channel: native
+  id: "213"
+  author:
+    name: Donald
+    url: http://zuoshen.com
+    email:
+      value:
+        encrypted: ZThkYTY3NzcxMzkxZTJiZDg0NDAxNGJjMTFlOTQzMTU=
+        algorithm: aes-256-gcm
+        iv: f84faf885edacc75da5c4cab
+      hash:
+        md5: b5f0f80c348086807ddd1cad13e78654
+  published: 2008-12-13 11:36:00
+  content: 话说我那儿写了那么长的一篇介绍Hyper Cache的文章，欢迎引用。哈哈。实际使用中Hyper Cache对访问速度的提升要比WP
+    Super Cache明显得多啊，真是个不错的东西。
+  ip:
+    encrypted: Mzc2NWYyZmQ5MGQ5MWIwZTFlZDgxOQ==
+    algorithm: aes-256-gcm
+    iv: 54c1e39bb6b5527e32748f73
+- type: reply
+  channel: native
+  id: "214"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MmJmNjJiMTExODJjNjFhMzkxMjNlMg==
+        algorithm: aes-256-gcm
+        iv: 2597eec96074a0fd17790c30
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-14 18:48:00
+  content: 呵呵，介绍得很详细哈，才发现～
+  ip:
+    encrypted: YWNlOGI0ZmJjYTY3MzllYjg4ODJhNmQ3NDg2Yw==
+    algorithm: aes-256-gcm
+    iv: 3d20558521023cb29ef15e8a
+  target: 213
+- type: reply
+  channel: native
+  id: "215"
+  author:
+    name: 沿阶草
+    url: http://www.yanjiecao.com
+    email:
+      value:
+        encrypted: Y2RlNTdkZmNlYzUyMDY2YTRlMzIwNzk1NzMwZTdiZWQxMmFlZDE=
+        algorithm: aes-256-gcm
+        iv: ddf2cf36693d9daf80db3742
+      hash:
+        md5: 3073c3227d023c3d7d579cf62d0c25e9
+  published: 2008-12-14 21:05:00
+  content: 谢谢分享。加了一个滚动的gif图片总比“正在加载”这四个字好看。。
+  ip:
+    encrypted: NTU2YTgzZWUzYzUxZTY0OTU5MmIyNzJl
+    algorithm: aes-256-gcm
+    iv: afed95bed6d88521f7e47392
+- type: reply
+  channel: native
+  id: "216"
+  author:
+    name: Jinwen
+    url: http://smartr.cn
+    email:
+      value:
+        encrypted: YmY4YTQ5YWY2ZWE5ZDc1NGZlOWRkODdkNDVhNTUxZGVlMmNl
+        algorithm: aes-256-gcm
+        iv: d82e440c152645249f76a12c
+      hash:
+        md5: 5a35750c9a1473a16db876e756580790
+  published: 2008-12-23 04:32:00
+  content: 过来才看到你也写过这篇东西呢，也看下。PS.页顶的搜索栏样式要不再加一句：outline:none;呢，为了在水果机上一致。
+  ip:
+    encrypted: ZWM0NzM4ZjQ1MzFlMTFiOWYyYjJkYmE1
+    algorithm: aes-256-gcm
+    iv: cf4c62249aacd704c84e1fce
+- type: reply
+  channel: native
+  id: "217"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: M2QyNzYwZjg4MTRiOWZiMmIwODRhNQ==
+        algorithm: aes-256-gcm
+        iv: 9f2e0c0cfb1412ca789edc22
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-23 04:45:00
+  content: 呃，其实搜索栏那早就想改一下了，懒，加个隐藏就放那了。我只在 IE 和火狐上测试过……
+  ip:
+    encrypted: M2NkZmYxMTRhNmU4NDZhMWFjN2Q2ZWZhZmM1Zg==
+    algorithm: aes-256-gcm
+    iv: 6a8760ba6974f6f2b7851b11
+  target: 216
+- type: reply
+  channel: native
+  id: "218"
+  author:
+    name: 百家乐
+    url: http://www.asiadu8.com
+    email:
+      value:
+        encrypted: YTQ2NDFhYjUzODYwYWYxN2QyZjZmYmQyMTE=
+        algorithm: aes-256-gcm
+        iv: 8446a0ec1ab4a66ee0dc0ec4
+      hash:
+        md5: ba800792df6a09fadc3033379071e054
+  published: 2009-01-06 09:47:00
+  content: 谢谢楼主的分享呀，终于解决了我的问题啊
+  ip:
+    encrypted: ODA1MGIwOTkzMWUxM2VmODE0NjVhMWM5MWUxYw==
+    algorithm: aes-256-gcm
+    iv: b55b1bc9bef308703de230cd
+- type: reply
+  channel: native
+  id: "219"
+  author:
+    name: chancat
+    url: http://www.chancat.cn
+    email:
+      value:
+        encrypted: YzdlNjkyN2IyZTIxYWJiNTkyMzMyODZiNDBjNWZlNmE4YTRjODZhZA==
+        algorithm: aes-256-gcm
+        iv: b351edcc17911f15306597ee
+      hash:
+        md5: 4bf1f9c2863aa8ab26ba3298ed2dc08c
+  published: 2009-02-28 14:44:00
+  content: 收藏。学习
+  ip:
+    encrypted: YjM2NWRjOTk0NWM2YWIzZDFjNTI5MjE1N2M=
+    algorithm: aes-256-gcm
+    iv: 082afcc18a3711c11d2fd453
+- type: mention
+  channel: native
+  id: "220"
+  published: 2009-03-12 21:42:00
+  url: https://dallas.lu/apocalypse-for-fighting-with-wordpress/
+  content: "[...] php.ini 文件来启用 Gzip 压缩，结果，很久之前压缩 JS 和 CSS 文件来 加速 WordPress
+    的办法竟然失效了。曾经因为不能保存评论者 Cookie 而停用了 Hyper Cache [...]"
+  author:
+    name: 折腾启示录&#160;-&#160;Dallas Lu
+- type: mention
+  channel: native
+  id: "221"
+  published: 2009-05-16 16:28:00
+  url: http://www.ludou.org/blog/wordpress-exp-3.html
+  content: "[...] 二、加速 WordPress [...]"
+  author:
+    name: WordPress使用经验（三）速度优化 - 露兜博客
+- type: reply
+  channel: native
+  id: "222"
+  author:
+    name: wpcn
+    url: http://wpcn.net.ru
+    email:
+      value:
+        encrypted: ZWQ0NDYxMjU2YTlkZTFiNTRiYjIzYTVmZDI5OTFmZTI1OQ==
+        algorithm: aes-256-gcm
+        iv: 0480ee8a008cc2668dcc3520
+      hash:
+        md5: a66437cde2eb10a3ce4a486afc54053b
+  published: 2009-05-28 17:09:00
+  content: |-
+    很搞笑的是，我打开你的这个日志居然用了很久。。。“很久”是多久呢？半天！
+    半天是多久呢？很久！
+  ip:
+    encrypted: OGZmNmM4MTVjZGY2Mzk5ZjM3OWRlMDEwOTU=
+    algorithm: aes-256-gcm
+    iv: 92543c8322ed789654c8bab7
+- type: reply
+  channel: native
+  id: "223"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MTc4MTBmMmY0YWY3Mjg4Y2JhZDU3Mw==
+        algorithm: aes-256-gcm
+        iv: 764377b515b3726979d7146c
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-05-30 09:41:00
+  content: 我这里速度一直不错啊～jiong
+  ip:
+    encrypted: MzAyNmU0ZmRkNmVhM2RhNzNkNWQxZDI1M2Y3Zg==
+    algorithm: aes-256-gcm
+    iv: e29d5c91c4a1e91453a9bd15
+  target: 222
+- type: reply
+  channel: native
+  id: "224"
+  author:
+    name: Ludou
+    url: http://www.ludou.org
+    email:
+      value:
+        encrypted: ZTM0YzcyMzg0OTZlYWZhNTZiYzU4ODU3MzA1YmIzODAxMQ==
+        algorithm: aes-256-gcm
+        iv: 7b875ec41906288e71a6088c
+      hash:
+        md5: 865c6d9710c905793b6c7a356383aae5
+  published: 2009-06-14 17:44:00
+  content: |-
+    非常感谢你提供的方法。
+
+    也希望你继续参与WordPress Codex中文的完善工作，一起努力哦
+  ip:
+    encrypted: NjU3ZGRlOGJlY2IyNjM3ZTc0YjFhZjc5MmEwNA==
+    algorithm: aes-256-gcm
+    iv: fd41246d5f40b2727dd930e2
+- type: reply
+  channel: native
+  id: "225"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MDM2ZTQwZWNiOWM0YWM4OTExYjkxMA==
+        algorithm: aes-256-gcm
+        iv: e4b0c948331f9fbbee7df6be
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-06-14 17:55:00
+  content: 之前接触 mediawiki 程序少，貌似有些操作不太恰当……汗啊，我好像把中文首页给改了
+  ip:
+    encrypted: Njg2MmQ4MmUxZjA3MjVmMTE4NmFlN2NlMTM4Yg==
+    algorithm: aes-256-gcm
+    iv: 2f0a1ded0438fd65e91ceab9
+  target: 224
+- type: reply
+  channel: native
+  id: "226"
+  author:
+    name: Ludou
+    url: http://www.ludou.org
+    email:
+      value:
+        encrypted: ZjY0NTBiMDFjZTZiNTg2ZjQxYWRhMjkyOTc1YmZmMWQyYg==
+        algorithm: aes-256-gcm
+        iv: 2a82e9c60ae6dd7379ec964b
+      hash:
+        md5: 865c6d9710c905793b6c7a356383aae5
+  published: 2009-06-14 22:44:00
+  content: 我也看到，首页是改了，但是链接还在
+  ip:
+    encrypted: MWU1OGIxOTdiYTc5OTQ4ZjgxZGJmODhiNmZhYQ==
+    algorithm: aes-256-gcm
+    iv: b3caa26b4c50db0e8bd89e2b
+  target: 225
+- type: reply
+  channel: native
+  id: "227"
+  author:
+    name: Ludou
+    url: http://www.ludou.org
+    email:
+      value:
+        encrypted: OTc5NTJkMzRmZThhMTA4NTI0YzdjYzYyMWM5Y2ViYTUyYg==
+        algorithm: aes-256-gcm
+        iv: d216331e36db75f5d5702662
+      hash:
+        md5: 865c6d9710c905793b6c7a356383aae5
+  published: 2009-06-14 22:45:00
+  content: 错了，别人会帮你改过来，多尝试几遍就会了
+  ip:
+    encrypted: Yjk4NTg1NmMwZTIwMzUxNWI0ZDRlYzlkY2RlMQ==
+    algorithm: aes-256-gcm
+    iv: 89461dd109e4ba21b74e8bda
+  target: 225
+- type: mention
+  channel: native
+  id: "228"
+  published: 2009-06-18 20:49:00
+  url: http://www.graygift.com/wordpress/speed-up-wordpress/
+  content: "[...] footer.php 里面。 感谢Dallas [...]"
+  author:
+    name: Graygift@ye&raquo; 博客存档 &raquo; 加速wordpress
+- type: reply
+  channel: native
+  id: "229"
+  author:
+    name: 章鱼
+    url: http://www.myzhangyu.com
+    email:
+      value:
+        encrypted: Nzc0OThiNDVjMWU4ZDQwNThlZDA5MDdkYjI5ZjhmNjQ=
+        algorithm: aes-256-gcm
+        iv: e077d512bf0bc4969fc9a823
+      hash:
+        md5: 9e3139845553b02a3fbffc6b4d0a0bbf
+  published: 2009-08-09 10:48:00
+  content: for the fucking IE
+  ip:
+    encrypted: YzQ1ZGM1MmI0NzVhNWRhNzRhNWM3ZWQxODg=
+    algorithm: aes-256-gcm
+    iv: 483b2a201982ea239286621b
+- type: reply
+  channel: native
+  id: "230"
+  author:
+    name: "8848"
+    url: http://www.dfg659.com/
+    email:
+      value:
+        encrypted: YTc1MjQwNmE4ZTIxY2Y5ZDMxNjAwMDE3ZDEyOGI5YTE=
+        algorithm: aes-256-gcm
+        iv: 0c85acb6835cb9f23da9199f
+      hash:
+        md5: 7a14d0c88e3ae778357f9bfbd49be2d3
+  published: 2009-08-19 23:31:00
+  content: 为何我的进度条一闪就不见了？难道是服务器速度快 ？
+  ip:
+    encrypted: N2Y5YmNjMjBiYTcxMmZhN2E2NTQwOTM3NzdlOQ==
+    algorithm: aes-256-gcm
+    iv: 51bd162a9c702c1ca7f3feae
+- type: reply
+  channel: native
+  id: "231"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OGViNGE5NTMwNTIxMjBhYmY4MGE5Yg==
+        algorithm: aes-256-gcm
+        iv: e27624d839074884cba8ec48
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-08-20 12:08:00
+  content: 服务器速度快 是可能的原因之一~~
+  ip:
+    encrypted: NjA4ZDJlNmZhZDExYTkyZGVjYzUxMTgwYzU1Nw==
+    algorithm: aes-256-gcm
+    iv: 9fe5931e0d79e4235147eb38
+  target: 230
+- type: mention
+  channel: native
+  id: "232"
+  published: 2009-08-27 17:42:00
+  url: http://www.ludou.org/wordpress-exp-3.html
+  content: "[...] 二、加速WordPress [...]"
+  author:
+    name: WordPress使用经验（三）速度优化 - 露兜博客
+- type: reply
+  channel: native
+  id: "233"
+  author:
+    name: no75.info
+    email:
+      value:
+        encrypted: NDNjNGE0YmQ4NzViZGQ4Njg2Y2MyMjcy
+        algorithm: aes-256-gcm
+        iv: ccc8bac143c17abf9142c237
+      hash:
+        md5: 1a8c4df5ef0a0a773523cc05be6c9710
+  published: 2010-10-28 20:21:00
+  content: 很不错。。。。这些都是必须的
+  ip:
+    encrypted: ZTQ0YWJiNTFkODA1YWI3MjExNGQwMTNmNjU=
+    algorithm: aes-256-gcm
+    iv: c6ee3d3e41e1022c57fe08aa

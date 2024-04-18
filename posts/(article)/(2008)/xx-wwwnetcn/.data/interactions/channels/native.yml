@@ -1,0 +1,60 @@
+- type: reply
+  channel: native
+  id: "32"
+  author:
+    name: ok s
+    url: http://oksunny.cn/blog/
+    email:
+      value:
+        encrypted: YWU5ZjA1YzI5YTdlNGJjZDBkNWI5YTg4YWE=
+        algorithm: aes-256-gcm
+        iv: 55d92a442aa2732249f64087
+      hash:
+        md5: 0c3f12df69f52ba85acb92fe1913c30a
+  published: 2008-07-18 12:59:00
+  content: |-
+    感同身受！
+    晕~
+    同感！
+  ip:
+    encrypted: ZWEwMjNiMjg4ZDc5Njg2OGYxODJkNzQ1NTg=
+    algorithm: aes-256-gcm
+    iv: 34830387bda4ab0b37c7aa8d
+- type: reply
+  channel: native
+  id: "33"
+  author:
+    name: "775"
+    url: http://www.www.com
+    email:
+      value:
+        encrypted: NWRiMTFiYWNiYzM1ZGMxNDk5YzQ3NDFiZThmYzQ0ZTA0YjU1
+        algorithm: aes-256-gcm
+        iv: d0930d4f9af827233023e7fb
+      hash:
+        md5: c0d6ff632d8ac9053688356325bda5d5
+  published: 2008-12-24 05:59:00
+  content: ""
+  ip:
+    encrypted: ZTQ5MTVkZTBmNmE2NmZiZjFiMWYzNWUz
+    algorithm: aes-256-gcm
+    iv: a07502dcc72063e64ffbdd0c
+- type: reply
+  channel: native
+  id: "34"
+  author:
+    name: 张宇
+    url: http://keji.nuoyu.net/jishufangan/yidontongxin/List_3.html
+    email:
+      value:
+        encrypted: NWY2MjdlMDk1YmU3NjZjNWZkOWIyM2ViNDA0NjBhODc=
+        algorithm: aes-256-gcm
+        iv: 36d7b545f8d81ca7392fa9b2
+      hash:
+        md5: cce2638765a314bae1ac2097140b988a
+  published: 2009-01-06 16:10:00
+  content: 不错－不错。你的文章和博客都不错。有空我会常来转转
+  ip:
+    encrypted: NDZkN2FiYTQ2ZDQ4ZTY3NTQ0MTk0NDY0ZGJjYg==
+    algorithm: aes-256-gcm
+    iv: 6f24752cf517023bedf9c292

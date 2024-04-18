@@ -1,0 +1,294 @@
+- type: reply
+  channel: native
+  id: "159"
+  author:
+    name: 小O
+    url: http://www.oioq.cn
+    email:
+      value:
+        encrypted: NjE5MzdkMjZiNzAwN2M4MDJlM2NmZTYyZTRhZjg1YmYyMg==
+        algorithm: aes-256-gcm
+        iv: de74d85def3049988f0ecca5
+      hash:
+        md5: 641d8a0c975e2ba7ccae355ab6b60466
+  published: 2008-12-04 22:35:00
+  content: 喜欢你的主题，请告诉我一下代码的那个框是主题自带的css实现的吗？
+  ip:
+    encrypted: YTM3MzRiZDE2Y2U5OGNiM2EwYzQxZTBlMjQ=
+    algorithm: aes-256-gcm
+    iv: a6ab486f00e773803e522fff
+- type: reply
+  channel: native
+  id: "160"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: Y2IxN2M3ODc3NWZhZTAzNjI0MDVkYg==
+        algorithm: aes-256-gcm
+        iv: 52410885d65c40061d348a41
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-04 22:37:00
+  content: 那个只是引用框啦，不算代码框。主题链接在最下面，mg12的作品，我修改的东西不多，你直接去他那里下载吧，他的其他几款主题也不错。
+  ip:
+    encrypted: NjIyZTk4N2RmNGQ0MmQ2MTY1ZWE4Zjky
+    algorithm: aes-256-gcm
+    iv: 88aa9ffcfe657c9b921f5141
+  target: 159
+- type: reply
+  channel: native
+  id: "161"
+  author:
+    name: JoBru
+    url: http://jobru.net
+    email:
+      value:
+        encrypted: NmY5ODRlNzg0MGVhZDgxYTFmZDM4YWVmMDViZjc1NzBlMmI1NjliMjU2Yjg=
+        algorithm: aes-256-gcm
+        iv: d477b9b593cf86f4afc1c5b1
+      hash:
+        md5: 3131f3c681f1384e35850204e1c8246a
+  published: 2008-12-05 21:39:00
+  content: 貌似不错的说～
+  ip:
+    encrypted: YTFmNDY5ZDY1NjM3OGMzMjI3NGZiNTM0
+    algorithm: aes-256-gcm
+    iv: 7fd53a2d058c0f47dd4a752b
+- type: reply
+  channel: native
+  id: "162"
+  author:
+    name: 小O
+    url: http://www.oioq.cn
+    email:
+      value:
+        encrypted: ODdjODRlZmNlNDNlZmEwZDM0MWEwODNkOTUwZjJjMGE0ZA==
+        algorithm: aes-256-gcm
+        iv: e106b92d98d7928963713ad3
+      hash:
+        md5: 641d8a0c975e2ba7ccae355ab6b60466
+  published: 2008-12-06 15:52:00
+  content: >-
+    <blockquote cite="#commentbody-223">
+
+    <strong><a href="#comment-223" rel="nofollow">Dallas</a> :</strong>
+
+    那个只是引用框啦，不算代码框。主题链接在最下面，mg12的作品，我修改的东西不多，你直接去他那里下载吧，他的其他几款主题也不错。</blockquote>
+
+    谢谢啦，果然是自带的实现的。不过不是代码框，说错了。呵呵！
+  ip:
+    encrypted: MWFjMDA3NjQyYjRhY2UyNGE1NzMwOGExNDYzYg==
+    algorithm: aes-256-gcm
+    iv: 034f1f19b0d79c97db1b0de6
+- type: reply
+  channel: native
+  id: "163"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NzNhZmNjYzQ4NGRlNDcwMDdlNGQ1ZQ==
+        algorithm: aes-256-gcm
+        iv: 6e653c160c5bf5f6ac0c199a
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-06 16:01:00
+  content: 一直想找一个管理下载的插件。这个插件如果加一个 TinyMCE 里的按钮就好了，甚至添加文件都在编辑器里就搞定；现在唯一的缺点就是使用比较麻烦了，呵呵。
+  ip:
+    encrypted: MWM0MDI0MTY5MzQ1ZThmMDc4NWMwZjNm
+    algorithm: aes-256-gcm
+    iv: 04b8bbded82823d194eaadd1
+  target: 161
+- type: reply
+  channel: native
+  id: "164"
+  author:
+    name: 醉倚西风
+    url: http://www.panyuye.com
+    email:
+      value:
+        encrypted: YTc2YjFmMWI0MmUyMzUxMDA5YjcyNzI5MzZiZA==
+        algorithm: aes-256-gcm
+        iv: 778f18686136bbb947e881c4
+      hash:
+        md5: 021df48f47b605c198fc71f2c2660d78
+  published: 2008-12-06 18:36:00
+  content: 感觉主题修改的还是不错的
+  ip:
+    encrypted: ODRmN2ZmZDc0NzE1MTQzYTgxODA2ZjcwMWU0Yg==
+    algorithm: aes-256-gcm
+    iv: cafb026dc998893eb10f1a23
+- type: reply
+  channel: native
+  id: "165"
+  author:
+    name: yinheli
+    url: http://philna.com
+    email:
+      value:
+        encrypted: NzZmNmYwNDgwN2JjMDlmYjE5M2Q4ODEzZTI=
+        algorithm: aes-256-gcm
+        iv: 4e73c7f62e938709a38668a1
+      hash:
+        md5: e232702dd57b5a01ffb87d63cabd83f7
+  published: 2008-12-16 12:49:00
+  content: 我的下载都是用的外链.
+  ip:
+    encrypted: MmYyYjNiMzlhNTczMjYxMTdmOTEyNDExNDE=
+    algorithm: aes-256-gcm
+    iv: 6bc4df3bfc921c9aa786df9c
+- type: reply
+  channel: native
+  id: "166"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MzA1YzBiYThiODBlMzdhODdkOWFhYw==
+        algorithm: aes-256-gcm
+        iv: 37ea9f1997e91171fbf07f5c
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-16 13:06:00
+  content: 盗链啊~用这个插件显得盗链得很专业，甚至下载软件都都没注意真实地址
+  ip:
+    encrypted: NjgxNWI4ZWM5NDFkZGQ3NmFkMWIyODM4ZDZlNw==
+    algorithm: aes-256-gcm
+    iv: 50269193a199d3d83e57fee6
+  target: 165
+- type: reply
+  channel: native
+  id: "167"
+  author:
+    name: 深圳瑜伽
+    url: http://www.xiaoyoga.com
+    email:
+      value:
+        encrypted: ZDc5MjVlYTA1ZWJmMGVmOWZlZjNhYWI2YWI0NjAx
+        algorithm: aes-256-gcm
+        iv: 6311b235c2aca415fe70c72e
+      hash:
+        md5: ca303f08776917769b27a0a5b153f149
+  published: 2009-03-12 15:00:00
+  content: 盗链啊~用这个插件显得盗链得很专业
+  ip:
+    encrypted: NmViOGI3NWVmYzA0OTA3MWM0NDNjMzI3MzY=
+    algorithm: aes-256-gcm
+    iv: 54a3c7b0b16a961cd788694a
+- type: reply
+  channel: native
+  id: "168"
+  author:
+    name: magickyo
+    url: http://www.partone.cn
+    email:
+      value:
+        encrypted: ZTEyNmNkZDlmNzE4MjIxYTBhZjMwMTk1YTE3ODg5M2M4YmNl
+        algorithm: aes-256-gcm
+        iv: d31655d98f780b249ac779e7
+      hash:
+        md5: 75298bc8e2ae889823cc69a121ca53ab
+  published: 2009-05-06 21:54:00
+  content: |-
+    终于找到这个插件了～！
+    马上装上试了试，发现下载无法计数，总是显示0  不知道怎么回事？
+    能否提供帮助，在此谢谢了...
+  ip:
+    encrypted: ZGU4YzlmMGMyODY5ZjFlMGM5NmYwMTU1ODU0NA==
+    algorithm: aes-256-gcm
+    iv: 815d73516318b74b9e7b3ec5
+- type: reply
+  channel: native
+  id: "169"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MTVkZDhmY2VjYjVlN2E0OGYxOTU5Yw==
+        algorithm: aes-256-gcm
+        iv: e54a10ea62b1eb5bed40115a
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-05-06 22:04:00
+  content: |-
+    去该插件后台页面看看，下载次数是否为 0 ？
+    你使用的下载链接是否正确？
+    我因这插件调用数据十分繁琐，没有启用。呵呵，你首页很炫啊，主题也不错。
+  ip:
+    encrypted: NjA4OTVkNjNjM2UzMzdhN2E1ZDgzN2M1
+    algorithm: aes-256-gcm
+    iv: 4f0640eea731c01a9d862214
+  target: 168
+- type: reply
+  channel: native
+  id: "170"
+  author:
+    name: magickyo
+    url: http://www.partone.cn
+    email:
+      value:
+        encrypted: NzRhMDgxZjdiNTBmNGJlMjE5MjRhOTE3ODIwNGNkMjViNjlk
+        algorithm: aes-256-gcm
+        iv: b81af9b9a688531ad8210f56
+      hash:
+        md5: 75298bc8e2ae889823cc69a121ca53ab
+  published: 2009-05-07 21:52:00
+  content: |-
+    折腾了半天，还是没什么效果～！
+    发现些奇怪的问题：
+    1.默认情况下，下载计数功能失效，后台也显示为0，但其它全部功能OK...
+    2.在文章内使用两遍相同的下载链接，全部功能OK...
+    3.不使用自定义链接，全部功能OK...
+    实在是没辙了，我现在就是用/?download= 链接吧！
+    不过还是感谢你了...
+  ip:
+    encrypted: YWQyMjA3ZTRjYmM0ZmNmMWQxZWMxZmVlYjE=
+    algorithm: aes-256-gcm
+    iv: 9b196673cb847d2d586d73e9
+- type: reply
+  channel: native
+  id: "171"
+  author:
+    name: john
+    url: http://www.ddsofts.com
+    email:
+      value:
+        encrypted: OWFjNTNhYjJmZGFhNmE1ZWYyYjEyZGI4M2I0ZTRmZjYwZQ==
+        algorithm: aes-256-gcm
+        iv: 537c9227eae6b7d500f79930
+      hash:
+        md5: ef5aacbce259b19621acca10f787679d
+  published: 2010-07-20 15:56:00
+  content: 这个插件貌似比较麻烦，一个个文件添加代码，可以添加网盘链接吗？
+  ip:
+    encrypted: MjdiMDEzMTgwNTI1MTM5OTg5YWUwY2NkMzllOWQ4
+    algorithm: aes-256-gcm
+    iv: 54dba177ef456a4c371fbddf
+- type: reply
+  channel: native
+  id: "172"
+  author:
+    name: sky
+    url: http://www.skyf.in
+    email:
+      value:
+        encrypted: OGJhZDZlNzhhN2I5YzQwOTdmNjExYjdhZjk3MjgxMDE2YjEyZjk=
+        algorithm: aes-256-gcm
+        iv: efffddae00873e78cf40b7b4
+      hash:
+        md5: 4caa51a060271d8e9d46bd9e25f28cdb
+  published: 2010-12-11 09:40:00
+  content: 哈哈，非常支持下载类的插件的
+  ip:
+    encrypted: N2RjYzdmODQ0NTgyZGQ1YTg1MmExOGFhNTc3Zg==
+    algorithm: aes-256-gcm
+    iv: e71849086a053b8b97fa351b

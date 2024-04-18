@@ -1,0 +1,67 @@
+- type: reply
+  channel: native
+  id: "67"
+  author:
+    name: HE Yi
+    url: http://heyi.name
+    email:
+      value:
+        encrypted: ZjA2MDBiMWIwYTNjZWU4M2M0MjFmMzlkNTJmMQ==
+        algorithm: aes-256-gcm
+        iv: b8eb34b37d44a79d50fb6d39
+      hash:
+        md5: 797938c9fe17e7ae611b211243566fde
+  published: 2008-11-15 17:29:00
+  content: 用Linus的Lunix的同志还好多。(*^__^*)
+  ip:
+    encrypted: MDMwOGM2MTAzNzdkMTcyZTA4MGE2Yw==
+    algorithm: aes-256-gcm
+    iv: a68b78f60f53d50928904b0a
+- type: reply
+  channel: native
+  id: "68"
+  author:
+    name: 穷人
+    url: http://poorhenry.cn
+    email:
+      value:
+        encrypted: M2VmZWFiMTg4ZjhkN2E5ODQ3NDkxNDAwZDE4MWIzNzYxZg==
+        algorithm: aes-256-gcm
+        iv: 9e21c41a6b04d43ef417557f
+      hash:
+        md5: 0daddb00469dcd6c5d470ddcc6d0c3ff
+  published: 2008-11-15 19:32:00
+  content: 这个东东，越来越多的人再用了呀？我那天也搞一个，要跟上时代了……
+  ip:
+    encrypted: ODZmYWY2NmVkZDkyMzMzZjU4NTA3ZTE4
+    algorithm: aes-256-gcm
+    iv: 6860fac06ce435b804aa190c
+- type: mention
+  channel: native
+  id: "69"
+  published: 2008-11-17 18:35:00
+  url: https://dallas.lu/reinstall-ubuntu-8-10-from-iso-in-disk/
+  content: "[...] 这篇文章 来搞定 Swap [...]"
+  author:
+    name: Reinstall ...
+- type: reply
+  channel: native
+  id: "70"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: YTZmYmNiMWZjY2IwYTZmMjViZTdlYw==
+        algorithm: aes-256-gcm
+        iv: beb18ccf94608356fc8a7837
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-11-21 19:01:00
+  content: 恭喜你口头创造了另外一个操作系统
+  ip:
+    encrypted: OTgzZWEyNTQ1OTBiYzNjNzJiNmE2N2VmYjE=
+    algorithm: aes-256-gcm
+    iv: e217ddc6cc688be37f603a74
+  target: 67

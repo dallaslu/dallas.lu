@@ -1,0 +1,422 @@
+- type: reply
+  channel: native
+  id: "278"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: YmIxMjM1YTliYWUwOGJlNDY3OTdhMTEyMmMyZTg1OTI2NWZmNDA3YzYzOGQ=
+        algorithm: aes-256-gcm
+        iv: 6baf7d19b9f59f3218f524f1
+      hash:
+        md5: 5b5274fe979864736dc6cf59036eed3c
+  published: 2008-12-20 21:16:00
+  content: 仅仅做图片服务器应该是没有广告的吧？不会像Yupoo那样吧？
+  ip:
+    encrypted: YTNkN2E5NmVkMzAwMzc0YmUyNTFhYjg4MjdhMQ==
+    algorithm: aes-256-gcm
+    iv: c469c7c62f45111816541b1a
+- type: reply
+  channel: native
+  id: "279"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OWM1ZGNjYjVjNzMyNGMwMzM4YjYxYQ==
+        algorithm: aes-256-gcm
+        iv: 31417495935caf89e283765d
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-20 21:22:00
+  content: GoDaddy 的广告仅针对网页，只在 HTML 文件上加一段 JS 代码而已。当然不会了像 Yupoo 那样了，重要的是你有 FTP
+    权限，又用二级域名绑定。日后倘若真的出现问题了，直接换个地方就成了，文章都不用改的。
+  ip:
+    encrypted: MzNjMDBmMWM4OWNhMTlmNzRlMGU3MWUwNGZkMg==
+    algorithm: aes-256-gcm
+    iv: c59c24888e24d3130ab383e3
+  target: 278
+- type: reply
+  channel: native
+  id: "280"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: YThiMDI0ZDE0YThmNDg1Y2NiZjNmNTc2MjBmNDE3OGQ3MjRkM2VhYzZhMjA=
+        algorithm: aes-256-gcm
+        iv: d89183e663fea2a39a611095
+      hash:
+        md5: 5b5274fe979864736dc6cf59036eed3c
+  published: 2008-12-20 21:24:00
+  content: |-
+    你这么说我还真有点想法 我现在的域名就是在GoDaddy买的 不过貌似GoDaddy的空间经常被封啊。
+    这点让我很迟疑。。
+  ip:
+    encrypted: YzViMzM0OWMyMDZhZmZhM2YxMGI0NDRmYTc3ZA==
+    algorithm: aes-256-gcm
+    iv: d8ecf4b5110fe4085ea05110
+- type: reply
+  channel: native
+  id: "281"
+  author:
+    name: xiaorsz
+    url: http://www.xiaorsz.com
+    email:
+      value:
+        encrypted: MWViZGQ0NDAwOWI3NTEwMzU3YmZiZWI2NWNkMDU2MGUwOQ==
+        algorithm: aes-256-gcm
+        iv: e286f515306b8273e7713974
+      hash:
+        md5: c419cb20777cc932e6edbc4aecf3400d
+  published: 2008-12-20 22:07:00
+  content: |-
+    我也在那买的，不过用这个是不是要再买一个啊！？还是用原来的就可以！空间我可不想用这的！
+    目前还是放google好些，反正图片也不是很多的！
+  ip:
+    encrypted: OGRkZGE3MTI5NWYwMDQzNzg1YmQyMDE1OGUzMDkz
+    algorithm: aes-256-gcm
+    iv: ef86ed5abf134d7e12f705ad
+- type: reply
+  channel: native
+  id: "282"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OTQxODI1OTcyYjc1ODlmODhmZWQ2Yw==
+        algorithm: aes-256-gcm
+        iv: ae3b692172a90a29f1e6547c
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-20 22:11:00
+  content: 你是说 xuzhuoer.com
+    ？不能用这个米的，因为你一旦用这个米申请了免费虚拟主机，就不能干别的了。被封是有可能的，我们可以切操作系统来换 IP 。这个就看自己决定了哈，8
+    块钱一年，还是 Yopoo 的30元每月？
+  ip:
+    encrypted: ODJhYjMxNmZmZTdhMTM1YzU5YzVlNGIwZGNjZg==
+    algorithm: aes-256-gcm
+    iv: b385957fe342a1d047de4c98
+  target: 280
+- type: reply
+  channel: native
+  id: "283"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: N2MzNzhjNGQyNTUwN2UxNzE1MTk1Yw==
+        algorithm: aes-256-gcm
+        iv: c31ce4697b681993790a3177
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-20 22:13:00
+  content: 最好是像我说的申请个 info 米，反正又不做站，只拿来换空间。Google 的图片万一被和谐了就废了
+  ip:
+    encrypted: YzRkN2ZjYTY1Yzk2YjFjMzM0OGI1YmFjZjY2Zg==
+    algorithm: aes-256-gcm
+    iv: 3c5c71476174bafefeaf8dcc
+  target: 281
+- type: reply
+  channel: native
+  id: "284"
+  author:
+    name: Zoll
+    url: http://xuzhuoer.com/
+    email:
+      value:
+        encrypted: YTc2NTgyYTc0NTg5ZmEzY2YyZTMwNjFmMTUyOTAzMjUwZWEyOTJiMGIwNDM=
+        algorithm: aes-256-gcm
+        iv: d99969edc1183106b096751f
+      hash:
+        md5: 5b5274fe979864736dc6cf59036eed3c
+  published: 2008-12-20 22:13:00
+  content: 我现在图片也都放在Picasa在，不过如果万一以后空间不够用了，全部换地址是很麻烦的事情。还是比较希望Picasa能够升级容量 呵呵
+  ip:
+    encrypted: NmRkMmMyYzlkYmJkOTIzNGJmYTRlNjAzODk3Nw==
+    algorithm: aes-256-gcm
+    iv: 276f7c0bf6492afe630517ee
+- type: reply
+  channel: native
+  id: "285"
+  author:
+    name: bssn
+    url: http://www.bssn.org
+    email:
+      value:
+        encrypted: ZmEyMDM2MGY4MDUxOGVjMWRhMjI1MDdmMDU=
+        algorithm: aes-256-gcm
+        iv: 91d854d0ed7daae8837cb4af
+      hash:
+        md5: d199e94de3ffde95823ad520cfe032c3
+  published: 2008-12-20 23:14:00
+  content: 问题在于他的空间对于这个举动是否支持。现在老外的空间都是各种限制。如果老外空间对于图片图片的限制并不多的话，也没有必要专门跑godaddy搞一个空间放吧？
+  ip:
+    encrypted: YTc2ZmU5NWRkNjJkZDljMWFlN2Q5ODc4MzM=
+    algorithm: aes-256-gcm
+    iv: 6b22c35f6c5417059cdf8338
+- type: reply
+  channel: native
+  id: "286"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZjIyNWYzODE1NGUwZTE5MjZjODIwNQ==
+        algorithm: aes-256-gcm
+        iv: e2fefeef536aa5a6fd76ffbf
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-20 23:30:00
+  content: 恩，也不用刻意去搞。很多人在 Godaddy 有闲置域名，申请了免费主机又因为广告不能做站。哪天去研究一下他们的用户协议，应该没道理不支持
+  ip:
+    encrypted: YTczNjdjY2ZlZGIyZjAyZDgzMTg2NGJiNzdmMQ==
+    algorithm: aes-256-gcm
+    iv: 4cac9318993c853368fcdc01
+  target: 285
+- type: reply
+  channel: native
+  id: "287"
+  author:
+    name: Shawn
+    email:
+      value:
+        encrypted: MGFiYzFjMTE2ZTMzNDMwYzk0ODYxZGU1YmZhNjgxZjBlYg==
+        algorithm: aes-256-gcm
+        iv: 20c4e106e67f03227a0b84ad
+      hash:
+        md5: d71862a81f0165cd7faf178d6198f3be
+  published: 2008-12-21 01:49:00
+  content: Yupoo 是 30 块一年。。。
+  ip:
+    encrypted: YzExNWRjMmFkMTExMTQxZmU2OTVjMjlmMmI=
+    algorithm: aes-256-gcm
+    iv: ac7575fb920ea1f55cb96668
+  target: 282
+- type: reply
+  channel: native
+  id: "288"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MDVjMzRkNDM4MDdkZWQ5Y2IwZGE2YQ==
+        algorithm: aes-256-gcm
+        iv: c289eebda76c63ac34506d6d
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-21 02:02:00
+  content: 我只用过几天，后来发现有水印。这下，暴露了，囧……
+  ip:
+    encrypted: OGIzMDczYzBkZWZkODM5NmQ0ZThhZTY5ZTJhNg==
+    algorithm: aes-256-gcm
+    iv: 6bbc3625c9221c6b36eb8658
+  target: 287
+- type: reply
+  channel: native
+  id: "289"
+  author:
+    name: Mao
+    url: http://www.maoxmao.com/
+    email:
+      value:
+        encrypted: MTJlMTlkYWEzYjIwOWE0YTgwYzJkMmNmODVkMDczYTdhMzJiZjE=
+        algorithm: aes-256-gcm
+        iv: bd26871f0cb1eeae2d7f363a
+      hash:
+        md5: bdb8b1b5ce2de2b8d0c1f6e89049ce28
+  published: 2008-12-23 23:20:00
+  content: gd 的免费空间..经常被封IP~~
+  ip:
+    encrypted: YTRhMmY5Y2EzNDQ5Yjk3ZDc5NjNiYTcxZWM3Yg==
+    algorithm: aes-256-gcm
+    iv: 176527f9c5085d5ba927f9d4
+- type: reply
+  channel: native
+  id: "290"
+  author:
+    name: POPOEVER
+    url: http://plod.popoever.com
+    email:
+      value:
+        encrypted: ZTkwYzAzMTZiOTFhMjc4ZmJjOGRmMzY5ZjU1YzFlMjhkMmM4
+        algorithm: aes-256-gcm
+        iv: 6e7c3babb8aa8b2906a89e5c
+      hash:
+        md5: bc0d75658db2e71f1a717b31f599c8a6
+  published: 2008-12-24 03:01:00
+  content: 信用卡支付扣大约一美元左右是用于在线交易的验证费用，验证你的帐户合法性，事后会归还，一般是一到三个月，注意一下帐单就是了
+  ip:
+    encrypted: Y2JmZjMwMjAxYzFlYmU0MTAwN2I3MmJm
+    algorithm: aes-256-gcm
+    iv: c2e6798da996bfccc65512c9
+- type: reply
+  channel: native
+  id: "291"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: N2RhNDZiYWYyODUwNDZiZjA1MjQ1Yw==
+        algorithm: aes-256-gcm
+        iv: 2f1a595e80847a53e2901af9
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-24 04:23:00
+  content: 月光博客：http://www.williamlong.info/blog/archives/99.html
+  ip:
+    encrypted: MjE0YjQ3Y2YzMDU2NjNlYzczY2NmZmFmYzE4NQ==
+    algorithm: aes-256-gcm
+    iv: 88c5fbc82b2b6a93d89e732c
+  target: 290
+- type: reply
+  channel: native
+  id: "292"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NDVkNmU4MmY4YzExYWRiYmU2M2ZkMA==
+        algorithm: aes-256-gcm
+        iv: f4c3dba1bae643f57fab158c
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-24 05:04:00
+  content: 我的现在还没被封呢，差不多1个月了
+  ip:
+    encrypted: YjA0NzdjNTBmMWUwYjQ2Njg4MzQ5ZTFlZWM1YQ==
+    algorithm: aes-256-gcm
+    iv: bb165bf521fa0983fa76854b
+  target: 289
+- type: reply
+  channel: native
+  id: "293"
+  author:
+    name: cooku
+    email:
+      value:
+        encrypted: Y2Q4NDNkMGUzODRkZDhhZGY4ZGM2NWQwNzgzZg==
+        algorithm: aes-256-gcm
+        iv: 1fd39eb6910b04839109dbe4
+      hash:
+        md5: 3d236c6cde2ca42ec4c1bd229affe190
+  published: 2008-12-24 22:42:00
+  content: 这要续费该怎么办呐 = =？
+  ip:
+    encrypted: OTI3NmY2NTVmNjMzNjU0NzExOGVhMjY1ZDBlMmRk
+    algorithm: aes-256-gcm
+    iv: c93e1e31d5a5123eabee1e0a
+- type: reply
+  channel: native
+  id: "294"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NDYxNDhiODAzZjNhNDZlODNmYzE4Ng==
+        algorithm: aes-256-gcm
+        iv: d919015b7ad3e7dcc5460942
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-25 00:36:00
+  content: ……呃，没考虑这么久远的问题。可以用一年呢。实在不成可以换个米继续。
+  ip:
+    encrypted: ZTg4MDY1NWM4OWY3OTdkZmNhNzRmZjE1NTI3NQ==
+    algorithm: aes-256-gcm
+    iv: bbeae9270327dd66bef6c3ab
+  target: 293
+- type: reply
+  channel: native
+  id: "295"
+  author:
+    name: zylew
+    url: http://www.liuzhenyun.com
+    email:
+      value:
+        encrypted: MmE3NmMwMmJkM2I1M2Y4YmRiZjlhZjk5NGE=
+        algorithm: aes-256-gcm
+        iv: 83a0038ce0f0bdf02855f730
+      hash:
+        md5: 9a630e57af3e30b80212a0a5869d185a
+  published: 2008-12-27 21:20:00
+  content: 俺怕它被宕
+  ip:
+    encrypted: YWZhNWVlMGI0MjcwYmU3NjMyMjY2Mjk1NzM=
+    algorithm: aes-256-gcm
+    iv: 09f8601eb35601819504acde
+- type: reply
+  channel: native
+  id: "296"
+  author:
+    name: AG
+    url: http://www.allengao.com
+    email:
+      value:
+        encrypted: ZWQ2NTQyOGIxZmZkNWQwOTFmZDExZDljYTA5NjQ3
+        algorithm: aes-256-gcm
+        iv: 54c8ffc64fec68c81bba5674
+      hash:
+        md5: a889098b56416c7d780b42194c308847
+  published: 2008-12-29 07:51:00
+  content: 可以只绑定二级域名到godaddy免费空间
+  ip:
+    encrypted: MmU2YjAwMGU1NWQyZmNjNTU4NDk4YWMzNDc=
+    algorithm: aes-256-gcm
+    iv: d83af6df34d25447a6e9a0cb
+  target: 282
+- type: reply
+  channel: native
+  id: "297"
+  author:
+    name: ice
+    url: http://www.icerainbow.cn
+    email:
+      value:
+        encrypted: YmQ4OWRmZDY2Y2MwMDUyNzNmNmQ5NWQzYmVmZmJkMmYyZDU0NjY=
+        algorithm: aes-256-gcm
+        iv: 088058d53108ee72ffc5715c
+      hash:
+        md5: a3d67360e76ace82ee8c9efc4d16a8f7
+  published: 2008-12-31 17:26:00
+  content: 正准备注册域名，正好来扫扫盲！
+  ip:
+    encrypted: MDQ3ZmE3ZmQyNmYzNWI0M2RhODA2OTJj
+    algorithm: aes-256-gcm
+    iv: a430211249a80651eda59549
+- type: reply
+  channel: native
+  id: "298"
+  author:
+    name: Dianso
+    url: http://014.cc
+    email:
+      value:
+        encrypted: NTY3ZGI5MjQwNzc0OWQyN2EzZjhhNWEzMTc=
+        algorithm: aes-256-gcm
+        iv: 26a8af30949aed2ed1c097bd
+      hash:
+        md5: fd126aa64db6755fe66749e7870b9c9c
+  published: 2009-04-25 13:44:00
+  content: 和我的想法一样啊，以前就用了个info的做为FTP下载。
+  ip:
+    encrypted: N2JiYjA1NzE2YjMzN2EzYmM2MGM0N2ZiNDY=
+    algorithm: aes-256-gcm
+    iv: ec9188ee10b8b1fa626469c8

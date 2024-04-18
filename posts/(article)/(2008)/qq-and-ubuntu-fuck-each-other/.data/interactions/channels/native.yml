@@ -1,0 +1,59 @@
+- type: reply
+  channel: native
+  id: "52"
+  author:
+    name: bssn
+    url: http://www.bssn.org
+    email:
+      value:
+        encrypted: ZmM0NGEyNWRiMGE0YzkzNWExNzJiZTA3YmM=
+        algorithm: aes-256-gcm
+        iv: 9efc5406699c6c602985b299
+      hash:
+        md5: d199e94de3ffde95823ad520cfe032c3
+  published: 2008-08-06 00:16:00
+  content: |-
+    不是已经发布了嘛？
+    博主是哪儿地？
+  ip:
+    encrypted: NzRmY2ExYWFjMjFkNmQ4ZGYwMjFlNDkwZTY3MA==
+    algorithm: aes-256-gcm
+    iv: b54ac2c13d60a5113f642839
+- type: reply
+  channel: native
+  id: "53"
+  author:
+    name: 聊天QQ
+    url: http://www.nuoyu.net/QQ/Index.html
+    email:
+      value:
+        encrypted: ZGYwOGJlNmY0NTMwNTMxNmZhNWY2OTk2ZjA0MzNkNjY=
+        algorithm: aes-256-gcm
+        iv: 56fa78e84fbde4c2f2d76c59
+      hash:
+        md5: cce2638765a314bae1ac2097140b988a
+  published: 2008-12-29 03:32:00
+  content: 网站文章都很不错啊．我可以转载一下文章吗？元旦将至。祝福大家元旦快乐
+  ip:
+    encrypted: YjMwMjZkMmNkZWNlNjk5OTUyNDljYTFiNzAyNA==
+    algorithm: aes-256-gcm
+    iv: 72ec8e104a5a7beff47c91dc
+- type: reply
+  channel: native
+  id: "54"
+  author:
+    name: Holmesian
+    url: http://www.holmesian.cn
+    email:
+      value:
+        encrypted: Yjg5YTM5Mjk5NTgzYTkxMjg0NmNmMDNkZjJhNzEyOTc=
+        algorithm: aes-256-gcm
+        iv: 7360ded19825b4acef3e6589
+      hash:
+        md5: d0748a5c41a5b93c83ab208b8a7f2159
+  published: 2009-03-13 15:16:00
+  content: 现在官方Linux下的QQ已经趋于完善了。。。  至少基本功能可用。。。
+  ip:
+    encrypted: ZGZmMGY1MGFjZDM5MDFhYzMzMzY5YzVhNjc4YQ==
+    algorithm: aes-256-gcm
+    iv: cbd37a727a79e39d020460ff

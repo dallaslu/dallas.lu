@@ -1,0 +1,23 @@
+- type: reply
+  channel: native
+  id: "252"
+  author:
+    name: dimlau
+    url: http://www.dimlau.com
+    email:
+      value:
+        encrypted: NjFjMjhiNDAyNjEzZjllM2U5NjlhOTQxMjQ4M2I1ZTQ=
+        algorithm: aes-256-gcm
+        iv: 97a57e35b70fd67e395a8cbc
+      hash:
+        md5: f78889e2fcd6a5491fd676e0233c72b9
+  published: 2008-12-22 20:41:00
+  content: |-
+    。。。这和li没有太大关系吧
+    几乎任何标签都能做到这些
+
+    之所以li不会被普遍用来做全页面布局，不是因为它弱，而是因为它在各种浏览器的默认属性（行高啊边距啊等等等等）太不一样。从这一点说我更喜欢span
+  ip:
+    encrypted: ZmUwYmM0NDVjY2Q1ZGNmZWMwZDZmODcz
+    algorithm: aes-256-gcm
+    iv: 0e34fd4547f4d498abf96b5a

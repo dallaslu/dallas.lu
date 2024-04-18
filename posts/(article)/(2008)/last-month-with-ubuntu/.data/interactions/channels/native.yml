@@ -1,0 +1,72 @@
+- type: mention
+  channel: native
+  id: "28"
+  published: 2008-07-08 00:51:00
+  url: https://dallas.lu/what-kind-of-im-i-want/
+  content: "[...] 所幸的是，我终于发现了这样的一款软件，就是 Pidgin 。之前一直没有长期应用这个软件的打算，直到我投入Ubuntu的怀抱。 [...]"
+  author:
+    name: 我要什么样的IM&#160;-&#160;Dallas Lu
+- type: reply
+  channel: native
+  id: "29"
+  author:
+    name: Holmesian
+    url: http://www.holmesian.cn
+    email:
+      value:
+        encrypted: YTVjZGEwMjE5NzUxMGJiZGQxMzMwNThmZjZlYjViMjE=
+        algorithm: aes-256-gcm
+        iv: e40ec7e943cef203c21ec3e1
+      hash:
+        md5: d0748a5c41a5b93c83ab208b8a7f2159
+  published: 2009-03-13 15:13:00
+  content: |-
+    我一直在用ubuntu
+
+    不知道你在ubuntu下用libfetion否？    我现在出现了一个很郁闷的问题
+
+    就是libfetion一直会登录潮湿。。。  无语。。。
+  ip:
+    encrypted: YjZkZGRkY2M0NzU4NTViYWFjMWYyN2NhMWQ4MA==
+    algorithm: aes-256-gcm
+    iv: d46f8e553ecadad22391ac57
+- type: reply
+  channel: native
+  id: "30"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NDExNTljNjMxOGM3YmY4YzNlMzkwYg==
+        algorithm: aes-256-gcm
+        iv: b993c51095a5ebf26a46426c
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-03-13 21:41:00
+  content: 或许你该更新一下。我用的是 Pidgin 的 libfetion 插件。很稳定。见我新文章《玩转 Pidgin 》
+  ip:
+    encrypted: ODhiYmEwMDhjN2FkZThiZWU5NzFhNDU5OTkyMjAx
+    algorithm: aes-256-gcm
+    iv: d730100e811cf9b05241919f
+  target: 29
+- type: reply
+  channel: native
+  id: "31"
+  author:
+    name: 嘉佑
+    url: http://huzuofeiwei.com
+    email:
+      value:
+        encrypted: ODNjOTVlNDI3MTUzODIzYWNiZTAxODljODk4Y2ZjOGU3N2U0ZmJiMQ==
+        algorithm: aes-256-gcm
+        iv: 23a6317261a1db9aeb7cf3c7
+      hash:
+        md5: f760d70eab84444e5cbcc907049dd61a
+  published: 2009-05-18 22:37:00
+  content: 哈哈，希望更多的人用 Linux （我就不说“希望更多的人用 Ubuntu 了”，我本人用 Fedora ，嘎嘎）
+  ip:
+    encrypted: MTE2NWJkM2E2ZWJlM2VlNDc4MTM5OWNk
+    algorithm: aes-256-gcm
+    iv: 01950c54ef6c91b55dc3def0

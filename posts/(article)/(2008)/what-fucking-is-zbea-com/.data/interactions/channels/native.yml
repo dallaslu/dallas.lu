@@ -1,0 +1,168 @@
+- type: reply
+  channel: native
+  id: "73"
+  author:
+    name: xinple
+    email:
+      value:
+        encrypted: YWIwNWEzMDVkYmEyZTNjYjNlMmVlZmE0YjBjMzc0ZDU=
+        algorithm: aes-256-gcm
+        iv: cb013193cbe24eed3cf6a639
+      hash:
+        md5: 6397c95e74879b4c2b66ec8a550e7c1b
+  published: 2008-11-20 00:03:00
+  content: |-
+    我也是这样，后来问了主机商，是因为重庆网通劫持了404页面，这个用.htaccess重定义404页面也没用。
+
+    只能任由宰割。
+  ip:
+    encrypted: NTdiNDczMmM5NzVmOWNmMzI0NTgzZDNkMTM=
+    algorithm: aes-256-gcm
+    iv: 37ecfa2b7812f91a4dcafe23
+- type: reply
+  channel: native
+  id: "74"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ODY2YmM1MGVlYWRmNGQzZTVkODRiNw==
+        algorithm: aes-256-gcm
+        iv: 81d7cb8319bb55e3567403ca
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-11-21 19:03:00
+  content: 可是重庆网通干嘛转到这么个地址来， zbea.com ，网通买了这个域名？
+  ip:
+    encrypted: YTJhNDBjYTczMDY1NjM5NDdkZDU5ZTQ1ZmY=
+    algorithm: aes-256-gcm
+    iv: 4181b7a09b80f2e1cea4b648
+  target: 73
+- type: reply
+  channel: native
+  id: "75"
+  author:
+    name: jKey
+    url: http://www.SuiBianA.com
+    email:
+      value:
+        encrypted: Zjg0YjhhMzY0MDkyZGI2Yzk5ZTVhZjM4
+        algorithm: aes-256-gcm
+        iv: 77f75de30984109be896a84b
+      hash:
+        md5: cadd3db5554be050ff60088abc06248b
+  published: 2008-11-22 19:20:00
+  content: 我也是，哎……
+  ip:
+    encrypted: NmZjOWRiOTdkNWY3YzcwYTZmZjU5NA==
+    algorithm: aes-256-gcm
+    iv: d5187749c2b1dcbf9ad5c48c
+- type: reply
+  channel: native
+  id: "76"
+  author:
+    name: xinple
+    email:
+      value:
+        encrypted: MzgzZTJjZDMyZDAxNGI0ZDY3M2YyNGJhNDk3YTEyMTM=
+        algorithm: aes-256-gcm
+        iv: b6f90430df9017d3243d22b6
+      hash:
+        md5: 6397c95e74879b4c2b66ec8a550e7c1b
+  published: 2008-11-23 20:48:00
+  content: 看上面挂的谁的广告链接那就是谁注册的哇
+  ip:
+    encrypted: ZGNmZDk3ZDU2ZjQ5ZjkxZjVjZjE5MWE0ZmY=
+    algorithm: aes-256-gcm
+    iv: db0f9d18e08c77b53987a8a6
+  target: 74
+- type: reply
+  channel: native
+  id: "77"
+  author:
+    name: "404"
+    email:
+      value:
+        encrypted: NWNhMzJhNzAwM2M5OGVkNDkwNDQzNg==
+        algorithm: aes-256-gcm
+        iv: 2272ee65de46bc13cf965b93
+      hash:
+        md5: 0428353ed3314db8163d34d8d8f5e507
+  published: 2008-11-28 14:26:00
+  content: 并不是网通劫持的，是他们自己加的。
+  ip:
+    encrypted: YzFiZmRkNTI5YTc4MzZmYmMwYjk=
+    algorithm: aes-256-gcm
+    iv: f8db6e1df61433356d391c32
+- type: reply
+  channel: native
+  id: "78"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NTNhNTU0N2U1NTEwMDM2MDFlYmQ5OA==
+        algorithm: aes-256-gcm
+        iv: 372858dcc95de74b15c48e61
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-11-28 14:59:00
+  content: 他们？谁？
+  ip:
+    encrypted: OTRkMDQ2MzI0YjlkYjdkYzdiOGJkYmNjYTViMTdh
+    algorithm: aes-256-gcm
+    iv: 80bfb759684b316240557d9c
+  target: 77
+- type: reply
+  channel: native
+  id: "79"
+  author:
+    name: "404"
+    url: http://404
+    email:
+      value:
+        encrypted: OGU2ZTc0NmUwNmVmZTlhMDcxYWIzNw==
+        algorithm: aes-256-gcm
+        iv: ad06e5c59c20e67d4756cd10
+      hash:
+        md5: 0428353ed3314db8163d34d8d8f5e507
+  published: 2008-11-30 21:14:00
+  content: |-
+    点击这个吧:http://paanwill.cn/51baofu/
+    报复下他们,他们的广告将被判为作弊,服务器资源将耗尽!
+  ip:
+    encrypted: NzkwYzk2MGUzMTJjYThlNjBhM2EwMjgx
+    algorithm: aes-256-gcm
+    iv: fb1ef45fd299577e29acd6bb
+- type: mention
+  channel: native
+  id: "80"
+  published: 2008-12-04 11:47:00
+  url: https://dallas.lu/zbea-com-game-over/
+  content: "[...] 404
+    页面，其主页自称是重庆网通，但是有大篇幅广告。我的主机商也对此向用户发送了声明邮件。     2008年12月4日06:09  分类: [...]"
+  author:
+    name: zbea 圆寂了？！&#160;-&#160;Dallas Lu
+- type: reply
+  channel: native
+  id: "81"
+  author:
+    name: miao
+    url: http://www.ismiao.com
+    email:
+      value:
+        encrypted: ZDFhNTczMTEyZGIyZjUyNWM5ZmRjNjdmYjE5ZjM0
+        algorithm: aes-256-gcm
+        iv: 2a2cd01354212664d9ac3369
+      hash:
+        md5: 1d83b3e4eee7a60c30c44c595b18efa5
+  published: 2009-03-20 18:38:00
+  content: 木马猛于虎也
+  ip:
+    encrypted: ZDRlZmQ5N2RjYTY2YWFjOGU0MTJhNTlh
+    algorithm: aes-256-gcm
+    iv: 3be00e996028a6a89ee43840

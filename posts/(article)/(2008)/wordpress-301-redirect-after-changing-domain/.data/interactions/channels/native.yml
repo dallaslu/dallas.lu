@@ -1,0 +1,221 @@
+- type: reply
+  channel: native
+  id: "142"
+  author:
+    name: bigCat
+    url: http://ooxx.me
+    email:
+      value:
+        encrypted: YzIyZWEyODY1MDZkMTMxYjMz
+        algorithm: aes-256-gcm
+        iv: 955c12e11f79f34f740ed623
+      hash:
+        md5: c0d3d3cdd6f4c93499351c7aa2cbcea6
+  published: 2008-12-04 00:23:00
+  content: |-
+    那个.htaccess里面方法是用正则表达式替换老米为新米哈
+    .me很好玩吧
+    或者你可以直接俩米指向一空间,在wp后台设置域名,自动跳转的,不过可能是302跳转,没测试...如果是301就完美了
+  ip:
+    encrypted: MGI3OGJiYTc5ZDI5OWExMGRjMGQxMzE1NDc4OQ==
+    algorithm: aes-256-gcm
+    iv: 7fcb1382821e8ea00bca13a4
+- type: reply
+  channel: native
+  id: "143"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NGViZDliZmJmMGJlNzk5MDliNDVmOA==
+        algorithm: aes-256-gcm
+        iv: 5076f472cad82e3316d48fc9
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-04 00:32:00
+  content: 我也记得 WordPress 自己可以跳的，不过这次死活不跳。话说我这 .me 貌似买贵了？貌似在 GoDaddy 空间域名一起买，最小支出
+    8 美刀左右就够了……
+  ip:
+    encrypted: ZTlmNmUzMDM4MjRhZTYyMzgyZDI4NDIw
+    algorithm: aes-256-gcm
+    iv: 49aba7985e83cd9852e23f8b
+  target: 142
+- type: reply
+  channel: native
+  id: "144"
+  author:
+    name: bigCat
+    url: http://ooxx.me
+    email:
+      value:
+        encrypted: OGIyNzlhYzAzODFhMDk5Yjgz
+        algorithm: aes-256-gcm
+        iv: 2cf7573dd383007ee5a9fad9
+      hash:
+        md5: c0d3d3cdd6f4c93499351c7aa2cbcea6
+  published: 2008-12-06 17:39:00
+  content: |-
+    - - 我买的时候20刀,现在15刀
+    不要买godaddy空间
+    不撞墙你来问我
+  ip:
+    encrypted: NzI0ZmE1OTIzNWMyMjliNmYyMjk5MGJiNDAxMw==
+    algorithm: aes-256-gcm
+    iv: fae75b794ae110a923cd3a51
+  target: 143
+- type: reply
+  channel: native
+  id: "145"
+  author:
+    name: 猪小猪
+    url: http://www.openboy.net
+    email:
+      value:
+        encrypted: NjgwOGU1YWEwYjExNmE4ZTA3M2FiZTBjNmM3NDlmNjFmZg==
+        algorithm: aes-256-gcm
+        iv: 616a3369fa4c3ed828d3cc68
+      hash:
+        md5: 5e70189097512d41a7c30d8ac6fc7be5
+  published: 2008-12-07 13:58:00
+  content: 现在和空间一起买.me也便宜么？我用的是gd主机...不过.me要一下买俩年吧
+  ip:
+    encrypted: YjQ5YzhkODhmZjZiZWNmMDgwNjkxZg==
+    algorithm: aes-256-gcm
+    iv: e700e8dcc4a3b8dc145a9e10
+  target: 143
+- type: reply
+  channel: native
+  id: "146"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MDcxYzlmM2MzMzE0ZWM3NDkyOTE3YQ==
+        algorithm: aes-256-gcm
+        iv: ff6d5985f2443870419178f5
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-07 14:02:00
+  content: 的确是，我后来试过生成订单。.me 不要求两年。
+  ip:
+    encrypted: ZjQ4ZWUyZThiNDk1YWUzYzBlZWUxMzI2
+    algorithm: aes-256-gcm
+    iv: fca1f7816bcddb94d5a823a3
+  target: 145
+- type: mention
+  channel: native
+  id: "147"
+  published: 2009-01-06 17:56:00
+  url: http://www.bokelife.com/change-domain-878/
+  content: "[...]
+    接下来就是使用传说中的301跳转，据说这样可以将PR及收录转到新域名来，不知是否，总之做了再说。经过Google了一番之后，找到篇文章不错，是Dall\
+    as的《换域名后 WordPress 重定向》，于是乎照着修改了.htaccess这个文件后，一切完美跳转。.htaccess中添加到内容如下：
+    &lt;IfModule mod_rewrite.c&gt; RewriteEngine On RewriteCond %{HTTP_HOST}
+    ^jtsj.net.cn [NC] RewriteRule ^(.*) http://www.bokelife.com/$1 [L,R=301]
+    &lt;/IfModule&gt; # BEGIN WordPress &lt;IfModule mod_rewrite.c&gt;
+    RewriteEngine On RewriteBase / RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d RewriteRule . /index.php [L]
+    &lt;/IfModule&gt; [...]"
+  author:
+    name: 启用新域名bokelife.com - 寂寞部屋
+- type: reply
+  channel: native
+  id: "148"
+  author:
+    name: oran
+    url: http://www.berryon.com
+    email:
+      value:
+        encrypted: OTZhZDA1OGQwNTU4NDdiMmIyZTlmODRmZjY2Yw==
+        algorithm: aes-256-gcm
+        iv: 6628cabde283b6bb5cac1cb7
+      hash:
+        md5: 272ef26c85847efc196c91795d9d4436
+  published: 2009-02-23 11:17:00
+  content: 谢谢了，今天换域名就靠这个了。
+  ip:
+    encrypted: NjBkMmM5N2U4NDFjMzcwNzI2ZjBmYmM1MGQyZg==
+    algorithm: aes-256-gcm
+    iv: 5d5565b28dfb0431cecaf293
+- type: reply
+  channel: native
+  id: "149"
+  author:
+    name: 摩摩诘
+    url: http://www.digglife.cn
+    email:
+      value:
+        encrypted: MTJiZDJkNzgyODQyNTc1ZjdmMzg5YzU2ZjIwN2E5ZmJmYg==
+        algorithm: aes-256-gcm
+        iv: dd322647a77eff26d1fe20e8
+      hash:
+        md5: e2f807f85cd979013c4d4239382f3841
+  published: 2009-03-07 13:57:00
+  content: 很有用,谢谢!!
+  ip:
+    encrypted: ZmM2Mzk2NWQ2ZGYxMjNjYzgwOTc3OWZlMmMxMWY1
+    algorithm: aes-256-gcm
+    iv: b233a63f92631fb9441495e1
+- type: reply
+  channel: native
+  id: "150"
+  author:
+    name: 向晚
+    url: http://endless.im
+    email:
+      value:
+        encrypted: ZjJjOThkYjhiZmEzODhkMmY0NmU3Yjg4MWIyOWFiOTM=
+        algorithm: aes-256-gcm
+        iv: f84b186d746facc5b99aa923
+      hash:
+        md5: 89d43a6a870047341534dda12f56dfc1
+  published: 2010-08-13 18:14:00
+  content: 还没折腾成功，汗。
+  ip:
+    encrypted: ODIwZGVhMzdkYTlhYWVhMDIzNjQ2YWUzZmU0Zg==
+    algorithm: aes-256-gcm
+    iv: 2372317e92bedd5808e21f1b
+- type: reply
+  channel: native
+  id: "1608"
+  author:
+    name: 长微博
+    url: http://www.changwenzi.com/
+    email:
+      value:
+        encrypted: MTlkNWJhNmQ1MWU0ZGQ2YWEwY2E=
+        algorithm: aes-256-gcm
+        iv: 7acd16d1d26cd83e1c3e163b
+      hash:
+        md5: 61ef7991c9c865d3e9f2ecd08154084e
+  published: 2011-09-16 13:52:00
+  content: 博主是linux主机吧？有无win的301方法？
+  ip:
+    encrypted: MDY0NjgyZDQ1ZGE4ODY3M2ZmMzBiZjEw
+    algorithm: aes-256-gcm
+    iv: abb7c8adfa8aa270fbc35038
+- type: reply
+  channel: native
+  id: "1609"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu/
+    email:
+      value:
+        encrypted: ZjBiYzNkNWVlOWIzZWY2MjVlYzhlYg==
+        algorithm: aes-256-gcm
+        iv: 83f9558f5018684586669f8a
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2011-09-16 13:59:00
+  content: Apache 在 Win 上也是这么写配置文件的吧，如果不支持 .htaccess 文件，那你可以在 Apache 的配置文件里面写。
+  ip:
+    encrypted: MTJlZjUxNGZiMzI0YjcwY2ZkN2YwNmI1MzkxZQ==
+    algorithm: aes-256-gcm
+    iv: ded28d6f6401d35be579c5bf
+  target: 1608

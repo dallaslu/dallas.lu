@@ -1,0 +1,63 @@
+- type: reply
+  channel: native
+  id: "2"
+  author:
+    name: 老吧
+    url: http://www.lao8.org
+    email:
+      value:
+        encrypted: ZDdmNjE5OTdmYWI5MjVhNjdjNzNlMTRmNzA4NWE0
+        algorithm: aes-256-gcm
+        iv: f368d8d677d7019c01608889
+      hash:
+        md5: 380e85f7d51f544ac24c2a1a58a42482
+  published: 2008-06-26 09:00:00
+  content: |-
+    这种域名出来岂不是乱弹了？？
+
+    必然引发seo抢注
+  ip:
+    encrypted: NDBmYWI3MTExZjY5MzExZDAyYjgzNTYwNzJiOTg3
+    algorithm: aes-256-gcm
+    iv: 66af502240d59b99dd5ee0b3
+- type: reply
+  channel: native
+  id: "3"
+  author:
+    name: 大猫
+    url: http://caitou.com
+    email:
+      value:
+        encrypted: N2M2ZDFlMTc2OGRlYzFmNjdmNDVhZDRhYzc3Yzg4MzgyNTAwMTY=
+        algorithm: aes-256-gcm
+        iv: 870ca30ae2e5ba0052bad6f1
+      hash:
+        md5: 4a2d440cd72550d4fd83e10ce4353305
+  published: 2008-06-28 00:54:00
+  content: |-
+    呃..有个记忆的难度
+    现在大家都.com
+    就可以记忆什么什么.com
+  ip:
+    encrypted: ZTBlMDRlZDZhODkzN2MwMTJjOWI2M2NhN2VmZg==
+    algorithm: aes-256-gcm
+    iv: 265e1253f567752171de9670
+- type: reply
+  channel: native
+  id: "4"
+  author:
+    name: Dianso
+    url: http://014.cc
+    email:
+      value:
+        encrypted: NzJhZWQ0YTM5NDljMjg4NDY5ODMxMWRiNWExOTBiZWU4NjRhZTE=
+        algorithm: aes-256-gcm
+        iv: 361290e42f7e97d7f455848a
+      hash:
+        md5: 47e20ff48e5cd49dc472232a211a3ac1
+  published: 2008-11-25 22:27:00
+  content: dotworlds几年前用过
+  ip:
+    encrypted: YWY0Y2U1YWMyMWNiOGIzNDUyN2IwYmM1NGJjYg==
+    algorithm: aes-256-gcm
+    iv: 997a828d76b8318de453702f

@@ -1,0 +1,43 @@
+- type: reply
+  channel: native
+  id: "65"
+  author:
+    name: k2max
+    url: http://k2max.cn
+    email:
+      value:
+        encrypted: NWI2N2JlMDk0MjE1MjVjOWU0MGQ1OTgxMGE1ZTA0Mjg=
+        algorithm: aes-256-gcm
+        iv: 9771180bf48e7fa99988074f
+      hash:
+        md5: 22bf62be3bb392e32ad028ed936b36b2
+  published: 2008-12-04 09:42:00
+  content: |-
+    - -#
+
+    你至少该贴张血淋淋的图吧 ..
+  ip:
+    encrypted: MzE1NTQ1YTc3NTEzNTk2YTU5YmU0ZQ==
+    algorithm: aes-256-gcm
+    iv: fdd6a9e471efbfad59e5edb8
+- type: reply
+  channel: native
+  id: "66"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MDkzOTg1YWEzNTk5YTQ1ZThmOTc0MA==
+        algorithm: aes-256-gcm
+        iv: a24cb5d3573ddd1cba6c70c6
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-04 11:50:00
+  content: ……直面惨淡的人生，正视淋漓的鲜血？
+  ip:
+    encrypted: MzI5NzEwN2M5YWRkZWZmMTU3MTQyZWRm
+    algorithm: aes-256-gcm
+    iv: 8694fcabe24f40af10a1b2c1
+  target: 65

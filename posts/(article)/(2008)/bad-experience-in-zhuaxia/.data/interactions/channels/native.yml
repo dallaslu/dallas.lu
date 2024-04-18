@@ -1,0 +1,80 @@
+- type: reply
+  channel: native
+  id: "299"
+  author:
+    name: xiaorsz
+    url: http://www.xiaorsz.com
+    email:
+      value:
+        encrypted: MTI5YTY3NTQzMzJlNTY0M2Q5NzVkZDk3NmEzZTc2YTU2YQ==
+        algorithm: aes-256-gcm
+        iv: 8453a576af26dafc26b899bb
+      hash:
+        md5: c419cb20777cc932e6edbc4aecf3400d
+  published: 2008-12-21 14:37:00
+  content: |-
+    这个很少去！！
+    看样子的确不怎么样？！！
+  ip:
+    encrypted: OTVlNGIwNzgwZjc3ODY3MTRkNGNmY2JmNTY3ZA==
+    algorithm: aes-256-gcm
+    iv: 9a434589d457796ee7cd61d1
+- type: reply
+  channel: native
+  id: "300"
+  author:
+    name: Shawn
+    email:
+      value:
+        encrypted: NDZiNGRmMjhjMThiNTkyZjA3NTMwNTkyNTdiMDhkMDg0OA==
+        algorithm: aes-256-gcm
+        iv: 20d5ff0a9c4d881eee800ea7
+      hash:
+        md5: d71862a81f0165cd7faf178d6198f3be
+  published: 2008-12-21 17:46:00
+  content: |-
+    应该是你替换了系统字体的原因，我访问抓虾是正常的。
+
+    微软雅黑字体行距比较大，所以才造成这种情况。
+  ip:
+    encrypted: ODZmMjVjNjdlZDI2MTI1ZGMxMWE0MWRjOGU=
+    algorithm: aes-256-gcm
+    iv: 4fa157312378228c382d21a8
+- type: reply
+  channel: native
+  id: "301"
+  author:
+    name: 小O
+    url: http://www.oioq.cn
+    email:
+      value:
+        encrypted: ZTYzYWFlOWE4ZDFkYzhkYWRhZDRhYzY0YjY5YjA4YjFlYQ==
+        algorithm: aes-256-gcm
+        iv: afe1a7f45c73930089a7885c
+      hash:
+        md5: 641d8a0c975e2ba7ccae355ab6b60466
+  published: 2008-12-28 22:32:00
+  content: 偶一直用抓虾，只是偶尔会抽一下风。无大碍！
+  ip:
+    encrypted: ODI0Y2UzYzdiMjM1Nzg4Y2Q0MDRiNWY2OWM=
+    algorithm: aes-256-gcm
+    iv: 8092c3555a5ee6d9635fdbe5
+- type: reply
+  channel: native
+  id: "302"
+  author:
+    name: ice
+    url: http://www.icerainbow.cn
+    email:
+      value:
+        encrypted: NjZjN2E3OTQyODJkMWJlNTczNDRiYzFlMjA2OWEwODgyNjA1NDE=
+        algorithm: aes-256-gcm
+        iv: d453ee1358b89c47fbb813e7
+      hash:
+        md5: a3d67360e76ace82ee8c9efc4d16a8f7
+  published: 2008-12-31 17:24:00
+  content: 以前用，现在转到鲜果了！
+  ip:
+    encrypted: NTk1YmU2MWUwMWU3MDZkNjE2MWIwODI2
+    algorithm: aes-256-gcm
+    iv: d1551901a53b620cdf07aff9

@@ -1,0 +1,59 @@
+- type: reply
+  channel: native
+  id: "48"
+  author:
+    name: dfrg.msc
+    url: http://hi.baidu.com/dfrg_msc
+    email:
+      value:
+        encrypted: N2MxOGEyNjM2YjgwNWEyZDk4YjU4NzEyNTMxM2U1MjE4NWU5NDg4M2M0ZWU1Y2RiYTk=
+        algorithm: aes-256-gcm
+        iv: c4cd26ecd920fe59054bf9e3
+      hash:
+        md5: f42c192dc3a181bb5601c22055970663
+  published: 2008-07-18 15:16:00
+  content: |-
+    沙发！！
+    写得很好玩！
+  ip:
+    encrypted: MjFhNGUwMmRmOGVmZmFhYmM2ZWI2ZTBjM2I5NQ==
+    algorithm: aes-256-gcm
+    iv: d1362410256b5308ae6ba506
+- type: reply
+  channel: native
+  id: "49"
+  author:
+    name: 苍月
+    url: http://chengxiao.net.cn/
+    email:
+      value:
+        encrypted: OThjZDBkNDQ1NmE5NzE2YzAwM2I2MDhiZjk3NDkzMzZlZmI2YWViNg==
+        algorithm: aes-256-gcm
+        iv: 0a25719ba92b1abc448aa3c6
+      hash:
+        md5: 313e41ed05bbbe28350343bd1dfb0b57
+  published: 2008-08-27 20:54:00
+  content: 头疼阿～QQ FOR LINUX真难用，还是喜欢PIDGIN，不过老掉线，气死人，害我现在一有人M我就重启换系统
+  ip:
+    encrypted: OTA3OWQxOGUxNTJkNTJhZGRlYWNkZDMyMGZiYg==
+    algorithm: aes-256-gcm
+    iv: 0842c110d667345da8ea3297
+- type: reply
+  channel: native
+  id: "50"
+  author:
+    name: 聊天QQ
+    url: http://www.nuoyu.net/QQ/Index.html
+    email:
+      value:
+        encrypted: MjRhNTY1Yzk4NGU5MmFmNzFmMzI3MjhjM2NkYjliMGU=
+        algorithm: aes-256-gcm
+        iv: bd9acfb40d280106413303d3
+      hash:
+        md5: cce2638765a314bae1ac2097140b988a
+  published: 2008-12-29 03:32:00
+  content: 网站文章都很不错啊．我可以转载一下文章吗？元旦将至。祝福大家元旦快乐
+  ip:
+    encrypted: OTcyZmQxOTVhZDk2ZWExZTFjOWQ3ZDVkMDZjYg==
+    algorithm: aes-256-gcm
+    iv: 0bef1bef46409a00e2f51d3c

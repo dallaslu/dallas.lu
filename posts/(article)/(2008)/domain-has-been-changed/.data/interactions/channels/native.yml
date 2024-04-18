@@ -1,0 +1,554 @@
+- type: reply
+  channel: native
+  id: "111"
+  author:
+    name: xiaorsz
+    url: http://www.xiaorsz.com
+    email:
+      value:
+        encrypted: NThkN2RmODg2YWU4OGRiMGRmNDVhZTRmNGUwNzEyZWZkOA==
+        algorithm: aes-256-gcm
+        iv: e111787e5116cada0512276f
+      hash:
+        md5: c419cb20777cc932e6edbc4aecf3400d
+  published: 2008-12-01 23:49:00
+  content: 我来占楼恭喜了！
+  ip:
+    encrypted: OGIyMmU5NmU0MmQyODM4ZGE0ZTZhZDE3NWZkNg==
+    algorithm: aes-256-gcm
+    iv: 5c30d9fbab35508c6ed1e253
+- type: reply
+  channel: native
+  id: "112"
+  author:
+    name: xiaorsz
+    url: http://www.xiaorsz.com
+    email:
+      value:
+        encrypted: NzI5NWZjNTlhMDRhMzkzNGQ0MzdjNDc3NDUyNTg4ZmNlNg==
+        algorithm: aes-256-gcm
+        iv: 490d2c2d0592dac0cf78dafb
+      hash:
+        md5: c419cb20777cc932e6edbc4aecf3400d
+  published: 2008-12-01 23:51:00
+  content: 我的评论怎么没了？？
+  ip:
+    encrypted: ZjNmZGFkYWU4OGU4YTYzZTM2MjFlYjcyZGUzYw==
+    algorithm: aes-256-gcm
+    iv: 32e741cab3dc7a8057f35f44
+- type: reply
+  channel: native
+  id: "113"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: M2UxNjQ5MmZlYWVmOTY4ZTY0NjdiNg==
+        algorithm: aes-256-gcm
+        iv: 165e8ea5ebc8951278e72008
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-02 00:04:00
+  content: 我这里首次评论需要审核滴~~
+  ip:
+    encrypted: ODQ5M2FjZDZlMjhiODljYmJjMjFkMDhkMDVkMA==
+    algorithm: aes-256-gcm
+    iv: 57fb410aebbe8b021bfd409d
+  target: 112
+- type: reply
+  channel: native
+  id: "114"
+  author:
+    name: yinheli
+    url: http://philna.com
+    email:
+      value:
+        encrypted: YWQ1OGRkNDA3YzkxOTkyZjk2Yzg1NmQzZDM=
+        algorithm: aes-256-gcm
+        iv: 9f8e96a04f3e4d178e555a83
+      hash:
+        md5: e232702dd57b5a01ffb87d63cabd83f7
+  published: 2008-12-02 02:32:00
+  content: 唉.我也换过...
+  ip:
+    encrypted: OWM5NjgzYzJmMDI4ZGY0NDU0MGRmOTE5NTQ=
+    algorithm: aes-256-gcm
+    iv: a2badf27d14357843efa5957
+- type: reply
+  channel: native
+  id: "115"
+  author:
+    name: 蓝天博客
+    url: http://compassblog.cn/
+    email:
+      value:
+        encrypted: YWJkNjUzNjJmNmE5MDg0MzcwNTQ2YjgwMDIwNDgzNzY=
+        algorithm: aes-256-gcm
+        iv: 4ba66e84bfb0053186977a0b
+      hash:
+        md5: 4460c8b3dbb26d9c9b8564f16e146f20
+  published: 2008-12-02 11:11:00
+  content: 觉得换米比较麻烦，关键是链接都要改变！
+  ip:
+    encrypted: MjAxNzE5M2EyYjg3ZDI3YzBjNmU2ZmU4NWM3Zg==
+    algorithm: aes-256-gcm
+    iv: 999c361f9d4060f0e9c7a156
+- type: reply
+  channel: native
+  id: "116"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NjVlZGEyNTljMTJkYmFiODUzY2IwNg==
+        algorithm: aes-256-gcm
+        iv: 7d2a9dfbbc5fb46403c7e0e9
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-02 12:32:00
+  content: 不会啊，做好301重定向，旧的链接就自动跳转到相应的新链接上了
+  ip:
+    encrypted: YjRkMjE5ZGVjNWFmYmViNzk3YTY1ZWRiODljNQ==
+    algorithm: aes-256-gcm
+    iv: ed8b4292401f25980a882ac6
+  target: 115
+- type: reply
+  channel: native
+  id: "117"
+  author:
+    name: Michael
+    url: http://www.mcluo.com
+    email:
+      value:
+        encrypted: YjRhYTg3NmYyZWU4ODg4ZjlkZDQzMzVjYTFjNmE1OTUzNDNlNjI3Yw==
+        algorithm: aes-256-gcm
+        iv: 8b2b926cd0d43b8e042c35a4
+      hash:
+        md5: 70b1f3139e175d8d78cbe83d0f2249dc
+  published: 2008-12-03 10:10:00
+  content: 前来恭喜, .ME的米还挺少见的,呵呵
+  ip:
+    encrypted: MTExMTdkMTYwM2QxYjI0M2U3OWZhZGQ3Nzk=
+    algorithm: aes-256-gcm
+    iv: f89f05382b6082e53e3984d3
+- type: reply
+  channel: native
+  id: "118"
+  author:
+    name: 孙波
+    url: http://www.sunbo.name
+    email:
+      value:
+        encrypted: ZmM5NzBkNWY3OWVlZTZkNjY4OTM2MzgwZTc4OWY1NTFkMWQ1ZTI0ZQ==
+        algorithm: aes-256-gcm
+        iv: fe878376dcf6126a9a819b5f
+      hash:
+        md5: 9f0a67feb64333133477213c3f253ae1
+  published: 2008-12-03 20:31:00
+  content: 真的假的...0.99刀的优惠码？
+  ip:
+    encrypted: ZTg5NGVlY2RmYzA4NjA4ODUyYzE2OWZlZTRlOGIw
+    algorithm: aes-256-gcm
+    iv: c0f30127f895b16bf4c31d35
+- type: reply
+  channel: native
+  id: "119"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: N2IwNzUxZTk1NTVhOTVhOTk2ZmFmZQ==
+        algorithm: aes-256-gcm
+        iv: 98420eae994528d9d48290e9
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-03 23:42:00
+  content: 2天前可是千真万确的。不知道现在如何了。你可以去 GoDaddy 的账号看看呃。
+  ip:
+    encrypted: NmQ5NGIwNzZjMGI4ZTc4ODgyOTcxZTU5
+    algorithm: aes-256-gcm
+    iv: 740f2e69b32e5004220659c0
+  target: 118
+- type: reply
+  channel: native
+  id: "120"
+  author:
+    name: 十二星座
+    url: http://www.exingzuo.cn
+    email:
+      value:
+        encrypted: ZWVlZTA1NjM4ZjI5YjAyZGE3NzUwMzRjMWQzZGUyZDY3NmE2MzhiNzc4MWNjOQ==
+        algorithm: aes-256-gcm
+        iv: ebeb63f107d3839cd6072d2b
+      hash:
+        md5: 777dccd9f3db06e07717b0062fbf2a68
+  published: 2008-12-08 21:56:00
+  content: 我的米还有大半年才用完，所以现在不急，换的话，PR，排名什么的都没了啊～～
+  ip:
+    encrypted: YjIwNzZkNWNiNTEyMDEyZGQzYjg5MWNj
+    algorithm: aes-256-gcm
+    iv: 4498b5a034bafc32244f98a1
+- type: reply
+  channel: native
+  id: "121"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NTZmYjZlNDA5M2QyYjE2MzYzNTdlNg==
+        algorithm: aes-256-gcm
+        iv: c80f090a5d88c47ad261d09d
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-08 21:59:00
+  content: 所以说要趁早咯，哪天 PR10 了，谁舍得换
+  ip:
+    encrypted: Zjg5NzZiYWRmNWRiNzFhZGQzZWM1NmQw
+    algorithm: aes-256-gcm
+    iv: 0cf50007701f6197985b447a
+  target: 120
+- type: reply
+  channel: native
+  id: "122"
+  author:
+    name: 毛毛虫
+    url: http://www.juzizhou.com
+    email:
+      value:
+        encrypted: YTQ5ODZlYmFmNjhhNjBhYjg0NzE1ZjNiYTg1NDA5ZjliODY5
+        algorithm: aes-256-gcm
+        iv: 011e911036abd387792f2985
+      hash:
+        md5: 9664f2d3a189b36bb5bfebd91f8a29d4
+  published: 2008-12-10 13:25:00
+  content: .me的米好少。我第一次见到用于做网站的。
+  ip:
+    encrypted: ZDFiMmE5NjZlYmFjNjQwOWNhMjNiMDM1YmVhOTBj
+    algorithm: aes-256-gcm
+    iv: ee15a14e4bc595cdfac6d00b
+- type: reply
+  channel: native
+  id: "123"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MThmZDEzNGE2MGIxYWE5ZGFiZGExNA==
+        algorithm: aes-256-gcm
+        iv: d42a56af883b9c5d01565200
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-10 15:00:00
+  content: 晕，域名不用来做网站难道拿去红烧了吃掉 ……囧
+  ip:
+    encrypted: MmQ0YmFlOThlZmQxODBmYTI0Y2E4MDFkMzliYQ==
+    algorithm: aes-256-gcm
+    iv: 30ac2204b4b371c3903c4c66
+  target: 122
+- type: reply
+  channel: native
+  id: "124"
+  author:
+    name: mercy
+    url: http://meecy.com
+    email:
+      value:
+        encrypted: NjJkZGU1N2RlMWU2M2FhNjM3ZTI0YzVkOGE0NDY5
+        algorithm: aes-256-gcm
+        iv: 9b478ad84f4df52a42167b19
+      hash:
+        md5: a2dcf8411c372d9334aefe3a598aade1
+  published: 2008-12-23 18:51:00
+  content: .me的米慢慢开始普及了，我认识的好几个blogger都换到.me的域名了。
+  ip:
+    encrypted: ZDc3NWRiNWRkNjhhOTBlZTJhMTAwYg==
+    algorithm: aes-256-gcm
+    iv: cbbe47d73f1f060de916fe9e
+- type: reply
+  channel: native
+  id: "125"
+  author:
+    name: Johnny
+    url: http://www.bokelife.com/
+    email:
+      value:
+        encrypted: YmE4MWZmN2U1OWQ4MWM2NzA1NmE3MjY2Mzc1ZjhiZjJjOWE0
+        algorithm: aes-256-gcm
+        iv: 568ba4ac1aadaebc6085b66c
+      hash:
+        md5: fab385da3d98ea99d87f3433a00be5cd
+  published: 2009-01-06 18:46:00
+  content: 这个99domain 已经失效了。我前两天买的时候最低优惠是$7.46
+  ip:
+    encrypted: ZjcxMDkyZTVkZWY2MWM3ZGRhYzUwM2Q4
+    algorithm: aes-256-gcm
+    iv: 4d368e53dbfd31bb3b4292cf
+- type: reply
+  channel: native
+  id: "126"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZDc0NWFjYWFmMDYwMGEwOTUzYzRjOQ==
+        algorithm: aes-256-gcm
+        iv: 441d15d30979f5d497ae7cfe
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-01-06 21:04:00
+  content: 呵呵，是啊，这么难得的优惠码。6.99的优惠码比较好找吧。我的两个 .me 的米，只是凑了一个 .info 米，到30美元，用了个优惠5美元的，心疼啊
+  ip:
+    encrypted: NDQ3YmU5YjA3MDI1NTc1NmEzMGVlMg==
+    algorithm: aes-256-gcm
+    iv: 51282a2906d7207fface9634
+  target: 125
+- type: mention
+  channel: native
+  id: "127"
+  published: 2009-03-14 09:53:00
+  url: https://dallas.lu/2008-1-1-2008-12-25/
+  content: "[...]
+    没错，您没看错标题。从年份的角度看，元旦确实早于圣诞。从元旦开始博客独立，期间经历1次搬家、两次换米、数据丢失，还有备案事件、奥运和谐，依然坚持到了圣\
+    诞来临。 [...]"
+  author:
+    name: 从元旦到圣诞&#160;-&#160;Dallas Lu
+- type: reply
+  channel: native
+  id: "128"
+  author:
+    name: 枫子
+    url: http://www.imfeng.com
+    email:
+      value:
+        encrypted: MzZlODgzODk1ODcwZDVlYzQ3NjVjMDdmY2UxYw==
+        algorithm: aes-256-gcm
+        iv: a5e355b758b9e53a0ba4a75c
+      hash:
+        md5: d8c662e0f690897a5092574c655fbd45
+  published: 2009-04-08 17:07:00
+  content: dnsm.net是不是很差啊
+  ip:
+    encrypted: MmI2YmU4ZjViMzEzYTVjNzBmMTQ5YjU3MTdiMQ==
+    algorithm: aes-256-gcm
+    iv: 07ae4a954a0e177a84a0d6a8
+- type: reply
+  channel: native
+  id: "129"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MzgyNzhlYjNkMWFkYjc0YjIwMGRjNQ==
+        algorithm: aes-256-gcm
+        iv: d8947a0b775c8bfc6fa3c3cd
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-08 17:17:00
+  content: 国内的严格来讲都不靠谱。我在康盛（idc.comsenz.com）那还注册了几个米，以前是提供管理密码的，但是现在不给了。
+  ip:
+    encrypted: YzQ4ZjEwMTgxODIyODM0YTBjNjFjMTQ2NWIzOWI5
+    algorithm: aes-256-gcm
+    iv: 59f8a6d0074454a08df3b91a
+  target: 128
+- type: reply
+  channel: native
+  id: "130"
+  author:
+    name: 枫子
+    url: http://www.imfeng.com
+    email:
+      value:
+        encrypted: NmQ4OWU2YmExYmRmZmE4ZGNjNDUyYzMwMGE3ZQ==
+        algorithm: aes-256-gcm
+        iv: 7d5d275b4b9b9d88a48bae68
+      hash:
+        md5: d8c662e0f690897a5092574c655fbd45
+  published: 2009-04-08 17:20:00
+  content: |-
+    我打开速度超慢...
+    最近想买一个域名cc的
+    那人是到dnsm.net注册的
+    他说可以过户..转出
+
+    不知道怎么样》。
+  ip:
+    encrypted: YjliYjBlMGExZmRlYjNlZDkwODdmY2EwMzMxYQ==
+    algorithm: aes-256-gcm
+    iv: 831d6590c19e1514de48f281
+- type: reply
+  channel: native
+  id: "131"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: OTQ1Mzg5YjgxODVlOTY4Mjc3YWFkMg==
+        algorithm: aes-256-gcm
+        iv: 8017c2554091c2248f1ef674
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-08 17:25:00
+  content: |-
+    你说哪里打开慢？我博客还是 dnsm.net ?
+    在 dnsm.net 注册个账号，他就可以把域名直接push到你的账号。我一朋友也在那注册过，还行。只不过本文提到的续费事件让我很不爽。
+  ip:
+    encrypted: MzA0ZjQwNzRhYzg2OTMwZTE4MmI3OWM0MmNiNDUz
+    algorithm: aes-256-gcm
+    iv: eaa0387598cf36189b91cd9e
+  target: 130
+- type: reply
+  channel: native
+  id: "132"
+  author:
+    name: 枫子
+    url: http://www.imfeng.com
+    email:
+      value:
+        encrypted: Y2UzNDQyOWM0ZjZmYTIyZTRhNWVjZTFmNjYxZA==
+        algorithm: aes-256-gcm
+        iv: 5085eb5aed637cdbbe7d604b
+      hash:
+        md5: d8c662e0f690897a5092574c655fbd45
+  published: 2009-04-08 18:03:00
+  content: |-
+    可以转到别的IDC不...
+    我这里超级卡啊...
+  ip:
+    encrypted: ZmE4NDdmYTgxZWQ2NzNjMDJhYzhiYTAxOWJkNQ==
+    algorithm: aes-256-gcm
+    iv: f97297b080451abbdd3f03db
+- type: reply
+  channel: native
+  id: "133"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NjVmNTA5OGYwNzg2MzBmMjE5ZDk2Ng==
+        algorithm: aes-256-gcm
+        iv: 23aee5f9f878b32f8d8e0d7d
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-08 18:17:00
+  content: 这个就不知道了。你加他客服QQ问问
+  ip:
+    encrypted: OTU4MWIxZGM4MTM2ZDVlYmI4ZWY3Y2I2ZTdjMWVl
+    algorithm: aes-256-gcm
+    iv: 7955b0b0228bd257a223967c
+  target: 132
+- type: reply
+  channel: native
+  id: "134"
+  author:
+    name: 枫子
+    url: http://www.imfeng.com
+    email:
+      value:
+        encrypted: Y2M5YzIyZDZiY2QwMWE5MDUxMDNlNWFhNDAxNQ==
+        algorithm: aes-256-gcm
+        iv: 4d8cd5fc3b9bed7af51fda16
+      hash:
+        md5: d8c662e0f690897a5092574c655fbd45
+  published: 2009-04-08 18:18:00
+  content: 非常感谢...
+  ip:
+    encrypted: MGVkN2Q4MDNmYmVkNDAzYjY2ZTg1YjkxNDliOA==
+    algorithm: aes-256-gcm
+    iv: 5c689d4bee649d63ca38bc11
+- type: reply
+  channel: native
+  id: "135"
+  author:
+    name: iHead
+    url: http://iamhead.cn
+    email:
+      value:
+        encrypted: YjI4ZjNjY2MwNTBiYzMxYjVkN2ExMWQ2NGExZTRiMzhjZmQ3
+        algorithm: aes-256-gcm
+        iv: 7d567f4faf3b4d8a2bb9002a
+      hash:
+        md5: bb31a37def67dcd96949aba4c58b7f01
+  published: 2009-04-12 21:47:00
+  content: 现在.me的米还真贵的说...
+  ip:
+    encrypted: MmZmZDZhYjY2NDBjMGY1NDJjMGM2NjUyZTg=
+    algorithm: aes-256-gcm
+    iv: e817938919ba1cb59c25a337
+- type: reply
+  channel: native
+  id: "136"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MWM2MjQ1MjBmNWZiMDY4YzJhZTcwMw==
+        algorithm: aes-256-gcm
+        iv: c077b4da3d1b36258f0bc234
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-04-12 23:23:00
+  content: 好像已经降价不少了
+  ip:
+    encrypted: YzE5NmU0YzM1ZjQ2OTEyYTgwNTI4MjIyN2Y2ZTQx
+    algorithm: aes-256-gcm
+    iv: 6a38adedbdd9b9ca64a62d14
+  target: 135
+- type: reply
+  channel: native
+  id: "137"
+  author:
+    name: jsy2046
+    email:
+      value:
+        encrypted: NzFlMTQ5OThiMjBhMjlmYWRkYzljNjhkODQxZWYyMGE2OA==
+        algorithm: aes-256-gcm
+        iv: cc2dab055a08fe4e744bbea3
+      hash:
+        md5: c0f4d7bdde0aeeee41608e8e13d6facc
+  published: 2009-10-14 17:30:00
+  content: 楼主，现在还可以0.99美元买米吗？我也想买大米，国内的不良奸商太多了
+  ip:
+    encrypted: ZTU2NTFhM2JmOTUxZjU1ODBlNzgxYzA1Mzg2N2Ni
+    algorithm: aes-256-gcm
+    iv: 4e5d9c4eb58f27f880e514a5
+- type: reply
+  channel: native
+  id: "138"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MDM4NWExNzc5ZTJjMTFkNWE3OGI4Mw==
+        algorithm: aes-256-gcm
+        iv: b0ca1ce1c68ed03923319dcf
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-10-14 17:52:00
+  content: 最近几次优惠都没有这么爽了。价格也还可以接受的吧
+  ip:
+    encrypted: NGMyOWVmM2Y4ZDJhMGE4NGNmZjhlMjM4YTYwMA==
+    algorithm: aes-256-gcm
+    iv: 09cf5ad8958ffc4514986919
+  target: 137

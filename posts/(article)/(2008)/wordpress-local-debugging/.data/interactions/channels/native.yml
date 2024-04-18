@@ -1,0 +1,82 @@
+- type: reply
+  channel: native
+  id: "245"
+  author:
+    name: MY-Hou
+    url: http://myhou.org
+    email:
+      value:
+        encrypted: OTE0YjkxOTIyZTI4MGU2NmFjZTNjMjMxZjgzNDZjMGEzYWE4
+        algorithm: aes-256-gcm
+        iv: 59fd1e4a438360db92e51f1c
+      hash:
+        md5: 28abf68414bf71deaba661b7ba1c332e
+  published: 2008-12-14 16:54:00
+  content: |-
+    安全第一，养成先本地hao习惯
+    haha
+  ip:
+    encrypted: NjZmNjM4MjI0Y2M0NWQwY2U4ODUzZTc3
+    algorithm: aes-256-gcm
+    iv: 024f160cfd57afed31a067ed
+- type: reply
+  channel: native
+  id: "246"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: YWYxYWNjOWNkOTFlZmZhYzhkYzlkZQ==
+        algorithm: aes-256-gcm
+        iv: c5a883f7328cc47cca2e9fed
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-12-14 18:50:00
+  content: 安全是一个因素，更重要的是麻烦
+  ip:
+    encrypted: YmYwZDE5ZmNlYWJkNmQ4NzQ3MDA1OWU3Mzk2Ng==
+    algorithm: aes-256-gcm
+    iv: a1774924b1acee69b6916d85
+  target: 245
+- type: reply
+  channel: native
+  id: "247"
+  author:
+    name: krisyuan
+    url: http://yuantao.org.cn
+    email:
+      value:
+        encrypted: MDNjMDdiYjZiM2YwMzE3OTE4YTdiNTY5ZTBkMDdjNWIzOWQ5
+        algorithm: aes-256-gcm
+        iv: 19264bb727ae5d704fd2ef0d
+      hash:
+        md5: 50a29594632cc0ec0f00396da112b06a
+  published: 2009-01-04 23:36:00
+  content: 呵呵，我一般是在本地ubuntu下测试的，xp下装个xampp也可以吧？
+  ip:
+    encrypted: NzUxNDMxMTIwMmEzY2FmNmE5NTcxOWQwNjBlZDMx
+    algorithm: aes-256-gcm
+    iv: 6071a1d0d8aa46cdbdf6c5aa
+- type: reply
+  channel: native
+  id: "248"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZTY5MDBlNDE4OTc5YTRlMTEzYmRjZg==
+        algorithm: aes-256-gcm
+        iv: 845c7ed17ff1c09040e4de7e
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2009-01-06 18:30:00
+  content: 呵呵，因为我之前就是用的 PHPnow ，主要是简单，解压之后运行个文件就 OK 了
+  ip:
+    encrypted: M2FlMWQxY2I4OTM4MjJmZmRhZGI5OQ==
+    algorithm: aes-256-gcm
+    iv: b86d5d6f50619bb276f2f094
+  target: 247

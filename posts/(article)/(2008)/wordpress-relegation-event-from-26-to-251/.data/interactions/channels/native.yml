@@ -1,0 +1,69 @@
+- type: reply
+  channel: native
+  id: "45"
+  author:
+    name: Denis
+    url: http://fairyfish.net/
+    email:
+      value:
+        encrypted: YjVhOWJmOGM0NmE4YzBjOWQ1YThkNzhhZWNjZTdjNzNkN2MxYzk5NDA1ZjM=
+        algorithm: aes-256-gcm
+        iv: 24bc295316b4f9757c4e8299
+      hash:
+        md5: d5641fcab0de38fb96c98b93a258ed19
+  published: 2008-07-15 18:13:00
+  content: 我们有个地方设置最新中文版下载链接，忘记设置了。汗。不好意思啊。
+  ip:
+    encrypted: ZTQ0YTJlODEzYTgzZGZiN2E3Y2Y0MWJiMzk0M2Rm
+    algorithm: aes-256-gcm
+    iv: 5ba0992bc3d7e4a8ecd681e2
+- type: reply
+  channel: native
+  id: "46"
+  author:
+    name: Leo
+    url: http://cuteleo.cn
+    email:
+      value:
+        encrypted: MGZhMzI1ZTQwMjUzOWRmNjQxZmNhNWI3N2VhYzJiYTY=
+        algorithm: aes-256-gcm
+        iv: a09af67da82a5738eb0d7767
+      hash:
+        md5: 27ef23f9da0310fed9cbc8329f786000
+  published: 2008-07-15 18:19:00
+  content: |-
+    @dallaslu：
+    您好！
+
+    非常抱歉，出了2.6的中文版之后，我们忘了修改插件向指向的获取新版本的文件内容，所以导致了您的麻烦。目前已经做了正确的指向了。
+    再次表示抱歉！
+
+    祝好
+
+    WordPress 中文团队成员 Leo 敬上
+  ip:
+    encrypted: ZWNhMTRlZjUwZGVmNjZkMDZiYWIxMWFlYTNhOQ==
+    algorithm: aes-256-gcm
+    iv: 58e5827910ff6ca1fa30ba54
+- type: reply
+  channel: native
+  id: "47"
+  author:
+    name: Dallas Lu
+    user: dallaslu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZTBhNThjYjE0MDQ0ZjQ3MmRhNjcxZg==
+        algorithm: aes-256-gcm
+        iv: 119c506efbb6f35a48605bd9
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2008-07-15 18:33:00
+  content: |-
+    已经恢复了。
+    还是不用这个插件了，有阴影……
+  ip:
+    encrypted: MzkyYmEwOTMwZWFhMWM3NWY3YzNhZTFhMjY=
+    algorithm: aes-256-gcm
+    iv: d3967db0c75d16c814e5711b
