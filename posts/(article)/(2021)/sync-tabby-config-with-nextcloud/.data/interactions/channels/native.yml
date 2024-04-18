@@ -1,0 +1,21 @@
+- type: reply
+  channel: native
+  id: "627093"
+  author:
+    name: fun90
+    url: https://www.fun90.com
+    email:
+      value:
+        encrypted: NmNlNDE4NjIwNzcyOTcyOWQyOGQzMDQ3YTcyNmQ2
+        algorithm: aes-256-gcm
+        iv: a267c61e0bbd89534060cf7d
+      hash:
+        md5: 129a604c7290fad4d9a337656e713c38
+  published: 2021-08-04 00:49:00
+  content: |-
+    “Tabby 支持添加多个密钥，在 Profile 配置中，点击 Add a private key 即可添加。”
+    需要先在Plugins中将ssh打开，才能在Profiles中添加SSH connect，里面才有Add a private key
+  ip:
+    encrypted: MTcwOTZiNWM1YmU1ZDNiMWRlZTE1NzdkMDU=
+    algorithm: aes-256-gcm
+    iv: 0e0b0406040e795d27ee6072
