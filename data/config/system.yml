@@ -1,6 +1,7 @@
 public:
   locale:
     default: "zh-CN"
+    supports: ['en', 'zh-CN']
   user:
     default: "dallaslu"
     orcid: "https://orcid.org/0009-0004-6959-1301"
@@ -27,11 +28,8 @@ public:
       secret:
         hash:
           sha256: 44bb9da44b424c6dfc9233819e907029ff2ccdfaa89919d3696ddf8db7ff6647
-  bing:
-    indexnow:
-      enabled: true
-      key: 34d0a8da0eb84276ace282bf4fb69404
-      location: "https://dallas.lu/34d0a8da0eb84276ace282bf4fb69404.txt"
+  indexnow:
+    enabled: true
 
 private:
   email:
