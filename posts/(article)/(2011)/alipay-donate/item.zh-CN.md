@@ -2,8 +2,8 @@
 title: 支付宝捐赠按钮
 date: '2011-09-19 12:01'
 author: 'dallaslu'
-published: false
-
+published: true
+deleted: true
 taxonomy:
     category:
         - Internet

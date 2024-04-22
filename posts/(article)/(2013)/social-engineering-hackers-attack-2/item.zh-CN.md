@@ -1,3 +1,4 @@
 ---
-published: false
+published: true
+deleted: true
 ---

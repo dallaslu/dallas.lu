@@ -2,7 +2,8 @@
 title: 主题站 freebbthemes
 date: '2011-05-31 20:16'
 author: 'dallaslu'
-published: false
+published: true
+deleted: true
 taxonomy:
     category:
         - '%e5%85%8d%e8%b4%b9%e4%b8%bb%e9%a2%98'

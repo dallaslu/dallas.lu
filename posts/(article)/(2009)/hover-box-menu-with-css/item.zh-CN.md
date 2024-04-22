@@ -2,8 +2,8 @@
 title: CSS 悬浮盒菜单
 date: '2009-04-27 21:59'
 author: 'dallaslu'
-published: false
-
+published: true
+deleted: true
 taxonomy:
     category:
         - Internet
