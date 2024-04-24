@@ -1,0 +1,11 @@
+- type: reply
+  channel: native
+  id: 1f75c2645658409b4079b1bac6e9e2a5c3173186
+  author:
+    name: 咸亨
+  published: 2024-04-24T10:40:15.474Z
+  content: 所以到底 `127.0.0.1` 有多少种写法呢？
+  ip:
+    encrypted: ZDJhNWMzNmQ4MjgxMDNkZDA4ZDAxYzQ2YTM0Nw==
+    algorithm: aes-256-gcm
+    iv: 1b50bf0e8ad2dc20cdf5cdcc
