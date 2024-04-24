@@ -12,6 +12,9 @@ taxonomy:
         - Podman
 keywords:
   - Tabby Sync
+  - Tabby 多端同步
+  - Tabby 同步
+  - Tabby配置同步
   - Tabby Web
   - podman-compose
   - podman tabby web

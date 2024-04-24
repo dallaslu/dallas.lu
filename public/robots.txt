@@ -2,6 +2,7 @@ User-Agent: *
 Allow: /
 Disallow: /signin
 Disallow: /api/
+Disallow: */CITATION.cff
 
 User-Agent: Baiduspider
 Disallow: /en/
