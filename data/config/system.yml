@@ -30,6 +30,15 @@ public:
           sha256: 44bb9da44b424c6dfc9233819e907029ff2ccdfaa89919d3696ddf8db7ff6647
   indexnow:
     enabled: true
+  openid:
+    server: https://login.launchpad.net/+openid
+    delegate: https://login.launchpad.net/+id/DksAAfk
+  openid2:
+    provider: https://login.launchpad.net/+openid
+    local_id: https://login.launchpad.net/+id/DksAAfk
+    X-XRDS-Location: https://login.launchpad.net/+id/DksAAfk/+xrds
+  git:
+    repo: 'https://github.com/dallaslu/dallas.lu.git'
 
 private:
   email:
