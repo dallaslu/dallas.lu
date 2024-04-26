@@ -16,6 +16,10 @@ keywords:
   - Markdown转PDF
 toc:
   enabled: true
+x.com:
+  status: https://x.com/dallaslu/status/1783896218814517522
+nostr:
+  note: note1jkfut2kx6xv68d03h44cl02czwdk3a3j8ltl9u5jn78r4lpg6xtsuxvme3
 ---
 
 刚开始开发本站的程序时，我就考虑到页面打印的问题。Markdown 转 PDF 有很多种方案，而网页转 PDF 体验就很差了，很多不重要的内容影响了打印效果。无论是打印到纸张还是打印到 PDF，网页本身的排版功能是完全胜任的。

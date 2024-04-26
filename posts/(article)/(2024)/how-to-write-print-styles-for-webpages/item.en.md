@@ -16,6 +16,10 @@ keywords:
   - 'markdown to pdf'
 toc:
   enabled: true
+x.com:
+  status: https://x.com/dallaslu/status/1783896218814517522
+nostr:
+  note: note1jkfut2kx6xv68d03h44cl02czwdk3a3j8ltl9u5jn78r4lpg6xtsuxvme3
 ---
 
 Just started the development of this site's program, I have considered the issue of page printing. Markdown to PDF has a variety of options, and the web page to PDF experience is very poor, a lot of unimportant content affects the printing results. Whether you print to paper or to PDF, the layout of the page itself is fully capable.
