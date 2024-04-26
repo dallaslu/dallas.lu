@@ -169,7 +169,7 @@ Keep an eye on your true cost of living, and the day your passive income exceeds
 
 [^note:depreiation-peroid]: Depreciation of different types of assets in a business has different time periods, usually at least 2 years. Personal books are not required to adhere strictly to this convention.
 [^note:depr-resell]: When a depreciated asset is sold, the residual value needs to be transferred out of the asset account and into the cash account.
-[^note:amortized-amount]: 149 USD / 12 = 12.43 USD，Cumulative rounding errors are calculated in the last month, so the cost for June is $12 USD.
+[^note:amortized-amount]: 149 USD / 12 = 12.43 USD，Cumulative rounding errors are calculated in the last month, so the cost for June is \$12 USD.
 
 [^rent-example]: Dallas Lu. [Beancount 记账规则不完全指北(Beancount Incomplete accounting rules)](https://dallas.lu/beancount-bookkeeping-rules-incomplete-guide/). 2022.「How are amortization and installment type transactions recorded」
 [^sspai-real-cost]: ElijahLee. [折旧摊销在个人记账中的应用(Depreciation and Amortization in Personal Bookkeeping)](https://sspai.com/post/40718). 少数派. 2018. 「报表不能真实地反映生活成本(Statements do not give a true picture of the cost of living)」

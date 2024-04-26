@@ -20,7 +20,7 @@ review:
        - "https://ph-files.imgix.net/aef9b320-af4f-4258-9f82-32b9470a5f3c.png?auto=format&fit=crop"
   rating: 1
 ---
-一年前在 <http://www.v2ex.com/t/81933> 获知消息，于是无脑入了两个。今年9月13号，Paypal 发来邮件说 Kamrul H. Bappy 通过循环付款向我收费 $5，我等了两天没有收到任何相关的邮件，就通过 Paypal 得知收款人是 CentrioHost 的。登录该站一看，什么订单信息都没有了，以为和 Godaddy 一样，既然用不到服务了，就申请退款吧。 
+一年前在 <http://www.v2ex.com/t/81933> 获知消息，于是无脑入了两个。今年9月13号，Paypal 发来邮件说 Kamrul H. Bappy 通过循环付款向我收费 \$5，我等了两天没有收到任何相关的邮件，就通过 Paypal 得知收款人是 CentrioHost 的。登录该站一看，什么订单信息都没有了，以为和 Godaddy 一样，既然用不到服务了，就申请退款吧。 
 
 ===
 

@@ -29,7 +29,7 @@ UberTwitter 在今年早些时候[改名为UberSocial](http://www.bjxiaoc.cn/ind
 
 并非人人都有精力去搭建这么一个API，而我的成本如下：
 
-VPS $479.4，SSL $12.9，域名 $13.99
+VPS \$479.4，SSL \$12.9，域名 \$13.99
 
 ## API分享计划
 
