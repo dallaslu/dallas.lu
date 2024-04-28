@@ -23,6 +23,7 @@ x.com:
   status: https://x.com/dallaslu/status/1777749360635502963
 nostr:
   post: note1dcl6tmy8lujnujlpg3wx5yxsz6f86jq2t7pjr8gkprn0t5kjmpgq69xzpv
+hackernews: https://news.ycombinator.com/item?id=40112109
 ---
 
 最近 XZ 的后门事件引发热议，大家都对攻击者 Jia Tan 的真实身份很感兴趣。有网友发现，他的 commit 信息中包含了东八区的时区信息，但是他在中国的节假日并不休息。有趣的是，他在东欧的节假日都是休息的。最后的结论是，他是身在东欧，伪装成来自东八区。本文介绍一些修改 Git 提交时间的技术细节。

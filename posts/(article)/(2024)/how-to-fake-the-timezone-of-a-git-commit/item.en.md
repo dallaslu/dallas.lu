@@ -23,6 +23,7 @@ x.com:
   status: https://x.com/dallaslu/status/1777749360635502963
 nostr:
   post: note1dcl6tmy8lujnujlpg3wx5yxsz6f86jq2t7pjr8gkprn0t5kjmpgq69xzpv
+hackernews: https://news.ycombinator.com/item?id=40112109
 ---
 
 The recent backdoor incident on XZ has sparked a lot of discussion, and everyone is interested in the real identity of the attacker, Jia Tan. Some netizens found out that his commit message contained information about the timezone of the Eastern 8 regions, but he is not closed on holidays in China. Interestingly, he is off on holidays in Eastern Europe. The final conclusion is that he is in Eastern Europe, disguised as being from the East 8 region. This article describes some of the technical details of modifying Git commit times.
