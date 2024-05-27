@@ -74,5 +74,5 @@ The Internet is just a highway, and the traffic is just one side of it. When car
 
 [^knowledgefxg]: 知识分享官. [想看一下最近挺火的……](https://x.com/knowledgefxg/status/1793574554130096171). X. 2024-05-23.
 [^hejiayan]: 何加盐. [中文互联网正在加速崩塌](https://www.cnbeta.com.tw/articles/tech/1431972.htm). cnBeta. 2024-05-23. [MP](https://mp.weixin.qq.com/s/afg3zHPpEyRzSfOR1Aeh3w).
-[^lixiaoming]: 北京大学李晓明. [随着开发大模型的浪潮掀起，我们这个200TB的数据……](https://weibo.com/1677746711/Ny2u7AGmd). 微博. 2023-12-20.
+[^lixiaoming]: 北京大学李晓明. [随着开发大模型的浪潮掀起，我们这个200TB的数据……](https://weibo.com/1677746711/Ny2u7AGmd). Weibo. 2023-12-20.
 [^something-about-nostr-protocol]: Dallas Lu. [Something about Nostr protocol](https://dallas.lu/something-about-nostr-protocol/). Dallas Lu. 2023-03-09.
