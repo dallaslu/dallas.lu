@@ -20,7 +20,7 @@ nostr:
   note: note178665z4wcp77edrm29sthzldrxueajtephwvwdj9umhwatyyjrvs762xh2
 ---
 
-A recent article, "Is the Chinese Internet Collapsing at an Accelerating Rate?",  triggered attention. What's more interesting is that this article, which was first published on Media Platform of WeChat, was deleted by the platform. Some netizens lamented that “Chinese Internet” is really collapsing.
+A recent article, "Is the Chinese Internet Collapsing at an Accelerating Rate?",  triggered attention. What's more interesting is that this article, which was first published on Media Platform of WeChat, was deleted by the platform. Some netizens lamented that “Chinese Internet” is really collapsing.[^knowlegefxg]
 
 ===
 
@@ -30,7 +30,7 @@ What exactly are the characteristics of the Chinese Internet that would make a s
 
 ### Platformized, Closed
 
-The article chose Media Platform(MP) of WeChat as its publishing platform, an act that in itself is digging a brick from the wall of the Chinese Internet. Because the MP itself is not "Internet".
+The article chose Media Platform(MP) of WeChat as its publishing platform[^hejiayan], an act that in itself is digging a brick from the wall of the Chinese Internet. Because the MP itself is not "Internet".
 
 The size of the MP is so large that it naturally combines the best of the regulatory mechanisms. The scale of the platform is such that it can be “closed” to form a closed loop, but it still provides an accessible URL for external traffic, but the only thing that is missing from this page is the function of user comments. Inside, there are many anti-Internet features, such as not being able to use hyperlinks freely. Lamenting the collapse while actively digging for bricks is, in the end, nothing more than a traffic benefit for the platform. This in itself is also driven by the natural instinct to chase 'attention' for internet content. So why is there so much traffic on the platforms? It's still because of regulation that leaves most people with no choice but the platform.
 
@@ -60,7 +60,7 @@ Please repost, archive, and cite those you find valuable, revitalize it, or give
 
 ## Inspired by Nostr
 
-Traditional centralized platforms do two things - authentication and dissemination. In the Nostr network, nodes are only responsible for propagation, and authentication of content is achieved through cryptography. Content here is inherently suitable for forwarding, archiving, and quoting.
+Traditional centralized platforms do two things - authentication and dissemination. In the Nostr network, nodes are only responsible for propagation, and authentication of content is achieved through cryptography[^something-about-nostr-protocol]. Content here is inherently suitable for forwarding, archiving, and quoting.
 
 I have a tyrannical theory: all Internet content, should not have the ability to be deleted with a single click. Once content is published and distributed, it should be extremely difficult to actually delete. You can state that you deleted it, but the original content, and the deletion statement, have the potential to live forever together.
 
@@ -71,3 +71,7 @@ It wasn't a primitive tribe before a recorded civilization, it must have been an
 ## Conclusion
 
 The Internet is just a highway, and the traffic is just one side of it. When cars disappear, they're not all scrapped, they're more likely to be parked in a garage. So, is the future of the Internet better? Better, I guess.
+
+[^knowledgefxg]: 知识分享官. [想看一下最近挺火的……](https://x.com/knowledgefxg/status/1793574554130096171). X. 2024-05-23.
+[^hejiayan]: 何加盐. [中文互联网正在加速崩塌](https://www.cnbeta.com.tw/articles/tech/1431972.htm). cnBeta. 2024-05-23. [MP](https://mp.weixin.qq.com/s/afg3zHPpEyRzSfOR1Aeh3w).
+[^something-about-nostr-protocol]: Dallas Lu. [Something about Nostr protocol](https://dallas.lu/something-about-nostr-protocol/). Dallas Lu. 2023-03-09.
