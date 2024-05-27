@@ -20,7 +20,7 @@ nostr:
   note: note178665z4wcp77edrm29sthzldrxueajtephwvwdj9umhwatyyjrvs762xh2
 ---
 
-A recent article, "Is the Chinese Internet Collapsing at an Accelerating Rate?",  triggered attention. What's more interesting is that this article, which was first published on Media Platform of WeChat, was deleted by the platform. Some netizens lamented that “Chinese Internet” is really collapsing.[^knowlegefxg]
+A recent article, "Is the Chinese Internet Collapsing at an Accelerating Rate?",  triggered attention. What's more interesting is that this article, which was first published on Media Platform of WeChat, was deleted by the platform. Some netizens lamented that “Chinese Internet” is really collapsing.[^knowledgefxg]
 
 ===
 
