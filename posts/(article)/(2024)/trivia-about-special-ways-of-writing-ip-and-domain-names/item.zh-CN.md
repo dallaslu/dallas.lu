@@ -60,7 +60,7 @@ Cloudflare 有一个 DNS/Warp 服务 IP `1.1.1.1` 非常酷[^cloudflare-dns]。�
 
 如果你拥有过域名，并设置过 CNAME 解析或 NS，可能遇到过必须在结尾加个 `.` 的情况。但如今，如 Cloudflare 等服务商都允许不写绝对完整的域名了。逐渐很多人就忘记了这件事，所以在域名结尾加个 `.`，会有意外的效果。比如，阿里云是禁止使用未备案的域名提供 Web 访问的，但其没有考虑结尾含 `.` 的情况，所以在结尾加上 `.` 就能正常访问。这个方式我用了很多年，直到大概最近三年内才失效。
 
-有趣的是，各家网站对于域名结尾的 `.` 的处理方式也不一样。比如，<http://tesla.com.> 和 <http://http://google.com.> 是跳转到无 `.` 结尾的域名；而 <http://microsoft.com.> 是 404 页面；<http://x.com.> 和 <http://amazon.com.> 是空白页面；<http://baidu.com.> 是连接被重置；<http://openai.com.> 则可正常访问。
+有趣的是，各家网站对于域名结尾的 `.` 的处理方式也不一样。比如，<http://tesla.com.> 和 <http://google.com.> 是跳转到无 `.` 结尾的域名；而 <http://microsoft.com.> 是 404 页面；<http://x.com.> 和 <http://amazon.com.> 是空白页面；<http://baidu.com.> 是连接被重置；<http://openai.com.> 则可正常访问。
 
 ### 最短的 URL
 
