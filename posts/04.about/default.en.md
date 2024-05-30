@@ -55,7 +55,7 @@ This cert is sponsored by [TrustAsia](https://www.trustasia.com/)。
 * 2012 [Linode VPS](https://www.linode.com/?r=ae55e4ac259593b7f0698627838194ba4451a878)
 * 2020 Google Cloud
 * 2021 [Linode VPS](https://www.linode.com/?r=ae55e4ac259593b7f0698627838194ba4451a878)
-* 2023 [CloudCone](httpss://app.cloudcone.com/?ref=9410) HS6
+* 2023 [CloudCone](https://app.cloudcone.com/?ref=9410) HS6
 * 2023 Dedicated Server
 
 ## Program
