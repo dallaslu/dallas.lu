@@ -34,7 +34,7 @@ While studying IPv6, everyone knows that consecutive zeros can be omitted, repre
 
 ### Abbreviations in IPv4
 
-As plantegg mentioned1, `127.1` represents `127.0.0.1` by simply omitting the intermediate zero values.
+As plantegg mentioned1[^plantegg], `127.1` represents `127.0.0.1` by simply omitting the intermediate zero values.
 
 The common IP format `127.0.0.1` uses dotted decimal notation, where four octets are separated by dots `.`. However, you could also write it in hexadecimal as `0x7f000001`, in decimal as `2130706433`, or in octal as `017700000001`, all of which represent `127.0.0.1`.
 
@@ -46,7 +46,7 @@ IPv4 essentially is a 32-bit integer, and these alternative notations are automa
 
 ### The Shortest IPv4 Address
 
-Cloudflare has a DNS/Warp service IP `1.1.1.1` which is quite cool. In fact, its alternate IP `1.0.0.1` is cooler, as it can be simply written as `1.1`, making it the coolest Class A IPv4 address available at the beginning of its range.
+Cloudflare has a DNS/Warp service IP `1.1.1.1` which is quite cool[^cloudflare-dns]. In fact, its alternate IP `1.0.0.1` is cooler, as it can be simply written as `1.1`, making it the coolest Class A IPv4 address available at the beginning of its range.
 
 In non-monospaced fonts, `1` is generally narrower than other characters, so `1.1` might be the shortest printed public IPv4 address.
 
