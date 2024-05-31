@@ -32,6 +32,9 @@ data:
       url: 'https://pinlyu.com/'
     - name: 人间历险计
       url: https://www.meettea.com
+    - name: Leeiio Chaos Made
+      url: https://leeiio.me/
+      description: The world is golden. 關注前端，後台，電影，音樂，攝影，設計。我是個興趣廣泛滴人。
 menu:
   footer: true
 ---
