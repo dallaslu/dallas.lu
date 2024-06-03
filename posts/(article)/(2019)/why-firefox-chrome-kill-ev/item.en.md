@@ -12,6 +12,8 @@ taxonomy:
         - SSL
 toc:
   enabled: true
+keywords:
+    - EV ssl
 ---
 In the latest versions of Firefox and Chrome, when visiting HTTPS sites using EV certificates, the address bar does not display the green lock icon and company information, instead, it displays the same gray lock icon as DV certificate sites.
 

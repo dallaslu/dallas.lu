@@ -9,6 +9,9 @@ keywords:
     - nic.eu.org
     - 注册EU.org
     - EU.org注册
+    - EU.org域名
+    - eu.org域名申请
+    - nic.eu.org域名申请
 published: true
 license: CC-BY-NC-SA-4.0
 toc:

@@ -12,7 +12,8 @@ keywords:
   - 伪造 git commit 时区
   - 隐藏 git 时区
   - git commit 日期
-  - git commit 时区
+  - git commit timezone
+  - gt timezone
   - Jia Tan
   - XZ Utils
   - GIT_AUTHOR_DATE

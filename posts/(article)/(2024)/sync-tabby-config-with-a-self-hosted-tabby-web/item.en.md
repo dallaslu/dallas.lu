@@ -15,6 +15,7 @@ keywords:
   - Tabby Web
   - podman-compose
   - podman tabby web
+  - Tabby Config
 toc:
   enabled: true
 ---

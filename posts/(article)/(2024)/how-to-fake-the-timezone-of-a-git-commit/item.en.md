@@ -13,6 +13,7 @@ keywords:
   - hide timezone for git
   - git commit date
   - git commit timezone
+  - git timezone
   - Jia Tan
   - XZ Utils
   - GIT_AUTHOR_DATE

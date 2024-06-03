@@ -17,6 +17,7 @@ keywords:
   - Beancount 退款怎么记
   - Beancount 报销
   - Beancount 多成员
+  - Beancount 记账入
 toc:
   enabled: true
 ---

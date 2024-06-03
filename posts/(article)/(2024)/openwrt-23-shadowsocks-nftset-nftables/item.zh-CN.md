@@ -15,6 +15,7 @@ toc:
     enabled: true
 keywords:
   - openwrt 23 redir
+  - dnsmasq nftset
 image: featured.webp
 x.com:
   status: https://x.com/dallaslu/status/1770670425284207034
