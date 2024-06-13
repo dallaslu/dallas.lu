@@ -122,3 +122,23 @@
     encrypted: YWM5YjgwNmIxOWNlOTdhOWU3Y2YxYWNmYTI=
     algorithm: aes-256-gcm
     iv: 7788c2500af2ea087d0c8034
+- type: reply
+  channel: native
+  id: 54291226bec0f8f542c099f29f3d6587a2422bdb
+  author:
+    name: Dallas Lu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MTU1YjcxZDc5YTliN2M4NTNlZWFkZQ==
+        algorithm: aes-256-gcm
+        iv: a4ed08e524822716bc576128
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2024-06-13T04:57:58.251Z
+  content: 我用目前的最新版重新部署了一次，依然是正常的。在你的日志中，`build/squirrel.yaml` 看上去并不是仓输入法的配置文件。
+  ip:
+    encrypted: ZWUzM2MzNjNhMmQ5NjkzN2M5YzIyMzkyNTg2OA==
+    algorithm: aes-256-gcm
+    iv: 4e403b5df68ad05a5cae6feb
+  target: 11e1f36fdcbb4af433d4fb43932b184fdafe1817
