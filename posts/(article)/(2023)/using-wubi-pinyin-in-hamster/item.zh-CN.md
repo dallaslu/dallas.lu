@@ -4,7 +4,7 @@ date: '2023-05-23 05:23'
 published: true
 taxonomy:
   category:
-    - Internet
+    - Software
   tag:
     - Rime
     - Hamster
@@ -26,23 +26,37 @@ keywords:
 
 先访问袖珍简化字拼音 https://github.com/rime/rime-pinyin-simp ，里面包含两个我们需要的文件`pinyin_simp.dict.yaml`和`pinyin_simp.schema.yaml`，下载备用。再访问五笔86和五笔拼音 https://github.com/rime/rime-wubi ，下载其中的4个 YAML 文件。
 
-## 使用方案
-
-[仓输入法](https://github.com/imfuxiao/Hamster) 是一个很新的输入法应用。从 [App Store](https://apps.apple.com/cn/app/id6446617683) 下载安装。打开仓输入法应用，选择「输入方案上传」，单击「启动」按钮。用与手机连到同一 Wi-Fi 的电脑访问 App 页面显示的地址，在 Web 管理界面中，将上述 6 个文件上传到 `/Rime` 文件夹中。
-
-在电脑上创建文件 `default.custom.yaml` 并上传到 `/Rime` 文件夹中：
+在电脑上创建文件 `default.custom.yaml`：
 
 ```yaml
 patch:
   schema_list:
-     schema: wubi_pinyin
-     schema: wubi86
-     schema: pinyin_simp
-     schema: clover
-     schema: double_pinyin_flypy
+     - {schema: wubi_pinyin}
+     - {schema: wubi86}
+     - {schema: pinyin_simp}
 ```
 
+如果你想使用其他方案，亦可在此处添加。
+
+## 使用方案
+
+[仓输入法](https://github.com/imfuxiao/Hamster) 是一个很新的输入法应用。从 [App Store](https://apps.apple.com/cn/app/id6446617683) 下载安装。
+
+### 使用「Wi-Fi 上传方案」
+
+打开仓输入法应用，选择「输入方案上传」，单击「启动」按钮。用与手机连到同一 Wi-Fi 的电脑访问 App 页面显示的地址，在 Web 管理界面中，将上述 7 个文件上传到 `/Rime` 文件夹中。
+
 回到仓输入法 App 主页，点击「重新部署」。如果在「输入方案」功能中看到了新增的「五笔・拼音」方案即为成功。
+
+### 使用「输入法方案导入」
+
+通过 IM 工具或邮件，将上述文件做成 zip 压缩包，保存在 iOS 的文件中。打开仓输入法应用，选择「输入方案设置」，单击右上的加号按钮，选择导入方案，选择该 zip 文件即可。
+
+## 设置拼音提示五笔编码
+
+打开仓输入法 App，进入「键盘设置」->「候选栏设置」，打开「显示候选 Comment」开关。
+
+![使用拼音输入时自动提示五笔编码](wubi-pinyin.jpg)
 
 ## Sync
 
