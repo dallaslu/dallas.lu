@@ -8,7 +8,6 @@ taxonomy:
         - Internet
     tag:
         - Regexp
-        - Zhihu
         - Mahjong
 image: mahjong.jpg
 keywords:
