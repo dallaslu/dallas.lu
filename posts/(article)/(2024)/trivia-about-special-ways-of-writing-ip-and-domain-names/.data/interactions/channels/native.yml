@@ -9,3 +9,22 @@
     encrypted: ZDJhNWMzNmQ4MjgxMDNkZDA4ZDAxYzQ2YTM0Nw==
     algorithm: aes-256-gcm
     iv: 1b50bf0e8ad2dc20cdf5cdcc
+- type: reply
+  channel: native
+  id: 55be5428969ab490005aa34c979e2838f14f47f4
+  author:
+    name: soulizer
+    url: https://www.ntiy.com
+    email:
+      value:
+        encrypted: NGU4YTAxYzZkMDcxODRhYjhmYjVlYjBmZTY=
+        algorithm: aes-256-gcm
+        iv: 406ba81493a7641dc40c2f86
+      hash:
+        md5: 5c481c94e33768bd896fced563afeed3
+  published: 2024-06-13T06:18:39.445Z
+  content: 最短的 URL，我认为是 moz://a，但是仅在火狐浏览器下，跳转到 mozilla.org
+  ip:
+    encrypted: ZjdkOTI0YWQ3ZGNiMWZjYmI2N2Y1NWU0NzVlNg==
+    algorithm: aes-256-gcm
+    iv: 1d4d637f057c01df78086ab6
