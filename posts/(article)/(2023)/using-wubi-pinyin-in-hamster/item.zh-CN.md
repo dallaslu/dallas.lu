@@ -36,7 +36,7 @@ patch:
      - {schema: pinyin_simp}
 ```
 
-如果你想使用其他方案，亦可在此处添加。
+如果你想使用其他方案，亦可在此处添加。可直接访问仓库获取以上文件：<https://github.com/dallaslu/rime-wubi-pinyin>
 
 ## 使用方案
 
