@@ -755,3 +755,31 @@
     algorithm: aes-256-gcm
     iv: fc478ade0953df3646149e08
   target: a14cbcf3bb4a297730a3e6210ddcdd743c79e002
+- type: reply
+  channel: native
+  id: f5198a83ec94cbba0ea85d6e9c0b9368481d7077
+  author:
+    name: soulizer
+    url: https://www.ntiy.com
+    email:
+      value:
+        encrypted: MzBlNjNmN2MyZGE1ZDNhOThkNDQ5MDc2NDc=
+        algorithm: aes-256-gcm
+        iv: ae66f6d3d9308bdadbb2e887
+      hash:
+        md5: 5c481c94e33768bd896fced563afeed3
+  published: 2024-06-13T05:28:20.589Z
+  content: "美ICP备20090306号，哈哈哈哈。\r
+
+    \r
+
+    大佬好久不见。之前在geekhub（目前暂时无了）见过的（我的ID是：collector）。翻译大佬，还为geekhub做过柠檬精排行榜。印象很深刻。\
+    \r
+
+    \r
+
+    今天在逛博客的时候，看到大佬的评论，看到这个熟悉的ID，特来拜访！"
+  ip:
+    encrypted: MmVmNGIyNWU2YThiMjFiZTU0OWZkYTJjMzE3Mg==
+    algorithm: aes-256-gcm
+    iv: 5196e8af8e5da8dcd0c8ded4
