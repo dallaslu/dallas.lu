@@ -1,0 +1,24 @@
+- type: reply
+  channel: native
+  id: 89f02209be52982890559c35907497216245c34d
+  author:
+    name: Soulizer
+    url: https://www.ntiy.com
+    email:
+      value:
+        encrypted: MTRlNjg0Y2FkMDVkNGNjZjM0NTEzOWI0YTg=
+        algorithm: aes-256-gcm
+        iv: 755928cf031ee0b602d710ca
+      hash:
+        md5: 5c481c94e33768bd896fced563afeed3
+  published: 2024-06-13T07:12:47.762Z
+  content: "通过“在公众号首发”来“维护版权”其实是一个无奈之举。因为在别的平台，尤其是自建网站或者知名度不高的小平台，发布时间通常被认为是可以伪造的\
+    。而如果作者能够发出一个发布时间早于抄袭者的微信公众号文章链接，至少能证明作者的创作时间早于抄袭者。\r
+
+    \r
+
+    就比如大佬的这个博客，我看了好几篇文章，并且注意到这几篇文章的发布日期和时间都是对应的。虽然可以设置定时发布，但总难免被别有用心的人做文章。"
+  ip:
+    encrypted: NzNhOWEyODYwMDY1MWU4Nzk3YWRhYjJjODc0MQ==
+    algorithm: aes-256-gcm
+    iv: a6712398c6f3f6a1e894b74a
