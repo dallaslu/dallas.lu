@@ -5,14 +5,14 @@ author: 'dallaslu'
 
 taxonomy:
     category:
-        - Im
+        - IM
     tag:
         - Baiduhi
         - Gtalk
         - Msn
         - QQ
     series:
-        - Unify Your Account Name 
+        - Unify Your Online Accounts
 
 keywords:
   - 统一帐号
