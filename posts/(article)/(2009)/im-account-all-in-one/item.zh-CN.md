@@ -11,6 +11,8 @@ taxonomy:
         - Gtalk
         - Msn
         - QQ
+    series:
+        - Unify Your Account Name 
 
 keywords:
   - 统一帐号
