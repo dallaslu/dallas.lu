@@ -22,3 +22,34 @@
     encrypted: NzNhOWEyODYwMDY1MWU4Nzk3YWRhYjJjODc0MQ==
     algorithm: aes-256-gcm
     iv: a6712398c6f3f6a1e894b74a
+- type: reply
+  channel: native
+  id: 0bb57add9b2daa3938faacbb06a6ecbdbf3889fc
+  author:
+    name: Dallas Lu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MWZhOTFmMDBmNWY0OWM3NmNmZTcyMw==
+        algorithm: aes-256-gcm
+        iv: b8fdfc51bc54aa7795d7bcf5
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2024-06-14T04:06:27.418Z
+  content: "哈哈，您发现了一个关键问题。日期和时间的确是我手动设置的定时发布时间，是为了隐藏时区，权作为一个保护隐私的无聊手段。\r
+
+    \r
+
+    大平台为了公信考虑，不会为普通人提供发布时间的修改，但理论上公众号平台和我的网站都能篡改时间。文章缺失了这一方面的讨论，感谢指出！\r
+
+    \r
+
+    对于野生创作者，我认为可信时间戳、DOI生成服务，甚至投递内容（或摘要指纹）到可信渠道比如邮局、社媒，都能解决版权的问题。这几个方法成本过高，我计划在\
+    网站程序中集成自动创建 Web 存档的功能。目前已经接入了
+    IndexNow，但搜索引擎并不一定会创建网页快照。我认为能通过自动化、标准化来解决首发版权的问题，届时大家可自由选择平台，而不是出于在大平台维权方便\
+    而偏向选择大平台，加速「崩塌」。"
+  ip:
+    encrypted: OWNhZjRkZGQwMDJkY2MzOWU1OTBiODFm
+    algorithm: aes-256-gcm
+    iv: 37ea3ec942cf07a4005c0c04
+  target: 89f02209be52982890559c35907497216245c34d
