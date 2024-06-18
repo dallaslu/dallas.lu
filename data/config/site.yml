@@ -23,7 +23,7 @@ public:
   beian: 美ICP备20090306号
   issn: 2770-7288
   adsense:
-    enabled: true
+    enabled: false
     client: ca-pub-3229298254354999
   copyright:
     start: 2008
