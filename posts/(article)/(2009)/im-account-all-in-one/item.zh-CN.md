@@ -53,7 +53,7 @@ Google 企业套件生效需要几个小时。
 
 ## Gtalk
 
-那么，现在你已经拥有了类似im@yourname.com的邮箱，当然，名字凭你喜好；im 可以认为是“I am”，也可以理解为IM，简单好记（<a href="https://dallas.lu/about/" target="_blank">我的</a>）。如果你申请的企业应用套件生效了的话，你同时也拥有了一个登录名字为im@yourname.com的**Gtalk账户**。
+那么，现在你已经拥有了类似im@yourname.com的邮箱，当然，名字凭你喜好；im 可以认为是“I am”，也可以理解为IM，简单好记（<a href="https://dallas.lu/about/" target="_blank">我的</a>）。如果你申请的企业应用套件生效了的话，你同时也拥有了一个登录名字为im@yourname.com的 **Gtalk账户**。
 
 ## QQ
 
