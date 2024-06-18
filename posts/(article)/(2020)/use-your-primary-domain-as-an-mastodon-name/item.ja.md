@@ -9,7 +9,8 @@ taxonomy:
     tag:
         - Mastodon
         - Nginx
-        - Unify-your-online-accounts
+    series:
+        - Unify Your Online Accounts
 toc:
   enabled: true
 ---

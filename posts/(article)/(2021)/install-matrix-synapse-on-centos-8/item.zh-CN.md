@@ -10,6 +10,8 @@ taxonomy:
         - CentOS8
         - Matrix
         - Synapse
+    series:
+        - Unify Your Online Accounts
 keywords:
   - 搭建 Matrix 服务器
   - Matrix 聊天

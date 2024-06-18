@@ -5,7 +5,7 @@ author: 'dallaslu'
 
 taxonomy:
     category:
-        - Im
+        - IM
     tag:
         - Pidgin
         - Twitter
