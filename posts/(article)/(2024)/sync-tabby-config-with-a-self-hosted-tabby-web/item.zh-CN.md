@@ -22,7 +22,7 @@ toc:
   enabled: true
 ---
 
-Tabby 作为一个跨平台的 多功能 SSH 终端，在其 Web 版中提供了配置同步的功能。本人介绍用 podman 搭建 Tabby Web 及使用 Tabby 内建的配置同步功能。
+Tabby 作为一个跨平台的 多功能 SSH 终端，在其 Web 版中提供了配置同步的功能。本文介绍用 podman 搭建 Tabby Web 及使用 Tabby 内建的配置同步功能。
 
 ===
 

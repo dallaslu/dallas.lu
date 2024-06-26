@@ -23,7 +23,7 @@ nostr:
   note: note199rcrl3qd9q7ry2ynr847zmdk4xcjjv2wust5l2s5r4jz523h7fswngs7k
 ---
 
-在 OpenWRT 23 中，默认使用的防火墙是 fw4；nftables 对应的的是 nftset。本人介绍使用 dnsmasq-full/nftset/nftables 为 shadowsocks redir 创建基于 gfwlist 的规则。
+在 OpenWRT 23 中，默认使用的防火墙是 fw4；nftables 对应的的是 nftset。本文介绍使用 dnsmasq-full/nftset/nftables 为 shadowsocks redir 创建基于 gfwlist 的规则。
 
 ===
 
