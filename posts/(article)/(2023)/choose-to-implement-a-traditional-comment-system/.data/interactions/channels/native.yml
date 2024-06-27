@@ -17,3 +17,21 @@
     encrypted: OTE0YjIxOWRhNWNjMDliYjk4ZTdjMWNiMTRhMDRiMjRjZThhZWNkOGNjYjRiMGE1OTgxMGJhYTg0Y2NiOWZkMzY0OTRlZmZhYzFkMDUx
     algorithm: aes-256-gcm
     iv: de312f398f2da82fc30e7f16
+- type: reply
+  channel: native
+  id: b93b73806a8d8d2a1c614f68e6bf688bb8751141
+  author:
+    name: Bob
+    email:
+      value:
+        encrypted: MzVhMGJmNDljMTkzZDAzYTllM2Y5M2U0ODVkZWY3
+        algorithm: aes-256-gcm
+        iv: 3dfd567b55fade28293a5119
+      hash:
+        md5: 4b9bb80620f03eb3719e0a061c14283d
+  published: 2024-06-27T16:44:50.684Z
+  content: Hello there, this is a test comment.
+  ip:
+    encrypted: ZmJmMzMzNzA5ZjE5ZDU3NzRkYzE0Yjc4
+    algorithm: aes-256-gcm
+    iv: 11b75e0aa1a0698ab789e4b8
