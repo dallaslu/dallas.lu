@@ -53,5 +53,4 @@ private:
     smtp:
       host: "postal.1bps.io"
       port: 25
-      secure: true
       user: "ld/dallaslu"
