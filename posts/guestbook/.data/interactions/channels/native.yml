@@ -785,50 +785,10 @@
     iv: 5196e8af8e5da8dcd0c8ded4
 - type: reply
   channel: native
-  id: 90dfbf6185d1ba98e441308949614c6a312c63b5
-  author:
-    name: Dallas Lu
-    url: https://dallas.lu
-    email:
-      value:
-        encrypted: MDQyMGY3N2M5ZTI5MTBmYjc0MGQyZg==
-        algorithm: aes-256-gcm
-        iv: 79cb71430812ca2aede899f6
-      hash:
-        md5: 8770854a9222b6bf1ee195220793bcf1
-  published: 2024-06-27T17:01:59.231Z
-  content: Mail Test
-  ip:
-    encrypted: ZGFlYWVlYjE5ZjViNzc5ZDcyZTA1YzQ0
-    algorithm: aes-256-gcm
-    iv: 44aaa10b5d4a5785d6bb7885
-- type: reply
-  channel: native
-  id: 111f6e700683d5272fdb871a9abf480a44c51ce7
-  author:
-    name: Dallas Lu
-    url: https://dallas.lu
-    email:
-      value:
-        encrypted: Y2E0MmM4NDFmNGExYjNiZDBkYTdmMQ==
-        algorithm: aes-256-gcm
-        iv: 703f0f3710f165ecf820c3f7
-        version: "1"
-      hash:
-        md5: 8770854a9222b6bf1ee195220793bcf1
-  published: 2024-06-27T18:59:26.881Z
-  content: Reply Test
-  ip:
-    encrypted: NGRkOGJiMWFjNjhkNDg0YzY3OWZlZWRjYzg5NDZlODBmZDA4ZjlhZjVmYjA4NTZiM2IwNzFkZWQ3MjM4YjIxYWEzMTFiYjU4OGNlOQ==
-    algorithm: aes-256-gcm
-    iv: 13f1c9f012cb703c426ad11a
-    version: "1"
-  target: 90dfbf6185d1ba98e441308949614c6a312c63b5
-- type: reply
-  channel: native
   id: f0437db42e5d4be1d9b00a4ebdf9c7732a88c382
   author:
     name: Dallas Lu
+    user: dallaslu
     url: https://dallas.lu
     email:
       value:
@@ -846,47 +806,3 @@
     iv: 791884531c34a79946138b69
     version: "1"
   target: f5198a83ec94cbba0ea85d6e9c0b9368481d7077
-- type: reply
-  channel: native
-  id: 1edc7a3847ef489b97dabbae1d4b9d768c961ebd
-  author:
-    name: Dallas Lu
-    url: https://dallas.lu
-    email:
-      value:
-        encrypted: M2EwMmFiYmRjZWQ2YjY1ZDRlNTk2YQ==
-        algorithm: aes-256-gcm
-        iv: 07593ad028fa56f4b86d5772
-        version: "1"
-      hash:
-        md5: 8770854a9222b6bf1ee195220793bcf1
-  published: 2024-06-28T05:37:33.187Z
-  content: Test again
-  ip:
-    encrypted: YjNiNjUzOTU2Njc1NjQ4N2I2NWJhNmVlODc4NWM4
-    algorithm: aes-256-gcm
-    iv: 07a78852809fd1596843f3e2
-    version: "1"
-  target: 111f6e700683d5272fdb871a9abf480a44c51ce7
-- type: reply
-  channel: native
-  id: a5ba9db145f93d6c8f595c3e56f24917bede5c3a
-  author:
-    name: Dallas Lu
-    url: https://dallas.lu
-    email:
-      value:
-        encrypted: YTA3M2Q2MzFkOGI0ODIzNDgwZWUzMQ==
-        algorithm: aes-256-gcm
-        iv: 01d0b264f2fc64eafdd97647
-        version: "1"
-      hash:
-        md5: 8770854a9222b6bf1ee195220793bcf1
-  published: 2024-06-28T05:48:18.578Z
-  content: Test one more time
-  ip:
-    encrypted: NjI2ZDBiMTUwODIxMzMyOTU2MTNiOTNkY2Q1MWU5
-    algorithm: aes-256-gcm
-    iv: 9c0bc2a89a7dcf54e625dc57
-    version: "1"
-  target: 1edc7a3847ef489b97dabbae1d4b9d768c961ebd
