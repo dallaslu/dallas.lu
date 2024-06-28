@@ -35,6 +35,8 @@ data:
     - name: Leeiio Chaos Made
       url: https://leeiio.me/
       description: The world is golden. 關注前端，後台，電影，音樂，攝影，設計。我是個興趣廣泛滴人。
+    - name: 非理勿试（Never Try It Yourself）
+      url: https://www.ntiy.com
 menu:
   footer: true
 ---
