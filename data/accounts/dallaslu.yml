@@ -7,3 +7,9 @@ email:
     md5: 8770854a9222b6bf1ee195220793bcf1
 orcid: https://orcid.org/0009-0004-6959-1301
 url: https://dallas.lu
+
+credentials:
+  password:
+    salt: hE5x/87hHp/ravk3eYUB6w==
+    hash: 
+      sha256: 7d35e4cfa0a6645e9bc5e5608c7b8c6e86b71df01e2f0aecebb9b2bbda4a78ab
