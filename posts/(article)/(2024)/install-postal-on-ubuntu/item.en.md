@@ -24,6 +24,8 @@ nostr:
 
 Cloudflare's email routing feature is quite useful. Additionally, I have been using SendGrid for sending emails and have been on the lookout for alternatives. Self-hosted email options include Mail-in-a-box, Docker-mailserver, MailCow, among others. However, sometimes I don't need an inbox, so I decided to try Postal as a replacement for SendGrid. This article documents the installation and usage of Postal.
 
+===
+
 ## Preparation
 
 ### A Domain Name

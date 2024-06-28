@@ -24,6 +24,8 @@ nostr:
 
 Cloudflare 的邮件路由功能很好用。作为补充，我一直使用 SendGrid 来发信，也一直在寻找替代品。自托管邮件有 Mail-in-a-box，Docker-mailserver，MailCow 等等选择。不过，有时我并不需要收件箱，因此我决定尝试 Postal 作为 SendGrid 的替代方案。本文记录 Postal 的安装与使用。
 
+===
+
 ## 准备
 
 ### 一个域名
