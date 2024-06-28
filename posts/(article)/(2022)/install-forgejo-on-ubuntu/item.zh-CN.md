@@ -12,6 +12,8 @@ taxonomy:
         - Ubuntu
         - Forgejo
         - Gitea
+        - Nginx
+        - Self-hosted
 keywords:
   - 自建 Git 托管
   - 搭建 Gitea

@@ -10,6 +10,7 @@ taxonomy:
     tag:
         - CentOS8
         - Mastodon
+        - Self-hosted
 keywords:
   - 手动安装 Mastodon
   - Mastodon 非 Docker

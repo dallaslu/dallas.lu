@@ -10,6 +10,7 @@ taxonomy:
         - SSH
         - Tabby
         - Podman
+        - Self-hosted
 keywords:
   - Tabby Sync
   - Tabby 多端同步

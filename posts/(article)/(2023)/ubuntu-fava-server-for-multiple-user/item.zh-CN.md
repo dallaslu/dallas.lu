@@ -11,6 +11,7 @@ taxonomy:
     - Nginx
     - Beancount
     - Bookkeeping
+    - Self-hosted
 keywords:
   - Fava 搭建
   - 多账本 Fava 搭建

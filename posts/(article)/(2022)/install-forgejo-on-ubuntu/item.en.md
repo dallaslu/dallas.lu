@@ -13,6 +13,7 @@ taxonomy:
         - Forgejo
         - Gitea
         - Nginx
+        - Self-hosted
 keywords:
   - self-hosted Git
   - Install Gitea

@@ -1,5 +1,5 @@
 ---
-title: Sync Tabby Config with a Self-Built Tabby Web
+title: Sync Tabby Config with a Self-hosted Tabby Web
 date: '2024-02-21 02:21'
 author: 'dallaslu'
 license: WTFPL
@@ -10,6 +10,7 @@ taxonomy:
         - SSH
         - Tabby
         - Podman
+        - Self-hosted
 keywords:
   - Tabby Sync
   - Tabby Web

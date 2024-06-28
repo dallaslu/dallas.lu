@@ -10,6 +10,7 @@ taxonomy:
         - CentOS8
         - Matrix
         - Synapse
+        - Self-hosted
     series:
         - Unify Your Online Accounts
 keywords:

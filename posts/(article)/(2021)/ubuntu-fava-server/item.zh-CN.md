@@ -10,6 +10,7 @@ taxonomy:
     - Nginx
     - Beancount
     - Bookkeeping
+    - Self-hosted
 keywords:
   - 搭建 Fava
 toc:
