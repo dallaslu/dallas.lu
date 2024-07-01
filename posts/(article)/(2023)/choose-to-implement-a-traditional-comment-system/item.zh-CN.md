@@ -108,7 +108,7 @@ keywords:
 
 [^quit-disqus-2013]: Dallas Lu. [《Disqus 插件版中的两个问题》](https://dallas.lu/disqus-plug-in-version-two-questions/). 2013
 [^nostr-nip-23]: [NIP-23 Long-form Content](https://github.com/nostr-protocol/nips/blob/master/23.md)
-[^note:lan-bi-tou]: 「好记性不如烂笔头」是Google Reader 时代小有关注度的一个博客，话题集中在 Ubuntu 的使用等方面，使用 WordPress 搭建，链接已不可考。
+[^note:lan-bi-tou]: 「好记性不如烂笔头」（www.lirui.name）是Google Reader 时代小有关注度的一个博客，话题集中在 Ubuntu 的使用等方面，使用 WordPress 搭建。
 [^note:shou-si-403]: 使用大陆的 HTTP 检查工具得到了 403 的状态码 <https://tool.chinaz.com/pagestatus/?url=https%3A%2F%2Fshou.si>
 [^note:ulyc-github-issues]: Ulyc 目前采用了第三方评论系统 Cusdis。在 Github 上仍有旧文的 Issue，如[2021年，用更现代的方法使用PGP（上）](https://github.com/UlyC/UlyC.github.io/issues/3)，最新评论停留在 2022年3月。而目前网站文章页面的最早评论出现在 2023年1月。
 [^jandan-close-comment]: [如何评论煎蛋网关闭评论](https://www.zhihu.com/question/332681487). 知乎
