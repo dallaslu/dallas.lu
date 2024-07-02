@@ -64,7 +64,7 @@ ufw allow 25/tcp
 telnet <YOUR_VPS_IP> 25
 ```
 
-很幸运，我常用的 [DMIT](https://www.dmit.io/aff.php?aff=6587) 和 ServerHub 独立主机均没有 25 端口的限制，其中 DMIT 不限制 25 端口应该有[涛叔](https://taoshu.in)的功劳[^dmit-25]。
+很幸运，我所用的 ServerHub 独立主机没有 25 端口的限制。与此同时，我使用的 [DMIT](https://www.dmit.io/aff.php?aff=6587) 并不允许 IPv4 的 25 端口出站流量。但允许 25 端口的入站流量，这一点可能应该有[涛叔](https://taoshu.in)的功劳[^dmit-25]。
 
 ## 安装 Postal
 

@@ -64,7 +64,7 @@ Connect to your local port 25 from an external server:
 telnet <YOUR_VPS_IP> 25
 ```
 
-Fortunately, my usual [DMIT](https://www.dmit.io/aff.php?aff=6587) and ServerHub dedicated servers do not have port 25 restrictions. DMIT's lack of restrictions on port 25 is likely thanks to [Tao Shu](https://taoshu.in)[^dmit-25].
+Luckily, the ServerHub Dedicated Hosting I'm using doesn't have a port 25 restriction. At the same time, the [DMIT](https://www.dmit.io/aff.php?aff=6587) I'm using doesn't allow IPv4 outbound traffic on port 25. But it allows inbound traffic on port 25, which should probably be credited to [Tao Shu](https://taoshu.in) [^dmit-25].
 
 ## Install Postal
 
