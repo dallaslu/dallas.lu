@@ -51,6 +51,6 @@ private:
       hash:
         md5: 8770854a9222b6bf1ee195220793bcf1
     smtp:
-      host: "postal.1bps.io"
+      host: "smtp.postal.1bps.io"
       port: 25
       user: "ld/dallaslu"
