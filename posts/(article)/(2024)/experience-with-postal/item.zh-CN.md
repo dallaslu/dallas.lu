@@ -61,7 +61,7 @@ PTR 记录与 TLS 无直接关联，但通过 helo_hostname 产生了微妙的�
 
 不过，在一些特殊情况，当你的 Postal 有多个备用 IP ，或者 IP 池时，其他 IP 可能只做发信的出口使用，未必会提供 Web 服务或者收信服务。默认的 smtp_hostname 就不能与一些仅出站的 IP 的 PTR 记录保持一致了。
 
-不幸的是，目前的 `helo_hostname` 配置的实现上有些问题，并无效果。所以我目前的方案是，先修改配置文件中 `smtp_hostname`，为 `helo.example.com`，重启 SMTP 服务（`docker restart postal-smtp-1`），再修改`smtp_hostname` 为 `smtp.example.com`，再重启 Web 服务（`postal-web-1`）。这样在 helo.example.com 创建多条 A 记录，指向每一个出站 IP，以顺利通过 PTC 检查。
+不幸的是，目前的 `helo_hostname` 配置的实现上有些问题，并无效果。所以我目前的方案是，先修改配置文件中 `smtp_hostname`，为 `helo.example.com`，重启 SMTP 服务（`docker restart postal-smtp-1`），再修改`smtp_hostname` 为 `smtp.example.com`，再重启 Web 服务（`postal-web-1`）。这样在 helo.example.com 创建多条 A 记录，指向每一个出站 IP，以顺利通过 PTR 检查。
 
 ## 证书的问题
 
