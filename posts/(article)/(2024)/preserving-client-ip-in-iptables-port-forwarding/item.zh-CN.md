@@ -12,6 +12,8 @@ taxonomy:
 keywords:
   - iptables端口转发
   - iptables转发客户端IP
+  - 转发原始IP
+  - 转发真实IP
 toc:
   enabled: true
 x.com:

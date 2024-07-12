@@ -12,6 +12,8 @@ taxonomy:
 keywords:
   - iptables port forwarding
   - iptables forwarding client ip
+  - forward real ip
+  - forward original ip
 toc:
   enabled: true
 x.com:
