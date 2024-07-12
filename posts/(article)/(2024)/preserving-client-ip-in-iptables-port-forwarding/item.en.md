@@ -1,6 +1,6 @@
 ---
 title: Retaining Client IP with iptables Port Forwarding on Public Networks
-date: '2023-07-12 07:12'
+date: '2024-07-12 07:12'
 published: true
 license: CC-NC-SA-4.0
 taxonomy:
