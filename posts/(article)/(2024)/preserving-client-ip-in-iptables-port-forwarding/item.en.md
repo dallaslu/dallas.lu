@@ -12,6 +12,12 @@ taxonomy:
 keywords:
   - iptables port forwarding
   - iptables forwarding client ip
+toc:
+  enabled: true
+x.com:
+  status: 
+nostr:
+  note: 
 ---
 
 Previously, I used an idle IP to set up port forwarding to hide my Forgejo server's IP, which worked excellently. However, when I recently set up my email service, I discovered that using iptables for port forwarding over the public network does not allow the application to correctly obtain the client's IP. This was not an issue for informal external applications. However, since my email service uses Greylist to filter spam, the sender's IP is an important parameter. Therefore, I need to obtain the actual client IP.

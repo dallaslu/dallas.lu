@@ -12,6 +12,12 @@ taxonomy:
 keywords:
   - iptables端口转发
   - iptables转发客户端IP
+toc:
+  enabled: true
+x.com:
+  status: 
+nostr:
+  note: 
 ---
 
 此前，我曾经使用一个闲置的 IP，做了端口转发，以隐藏自己的 Forgejo 服务器 IP。这种方式简直太棒了。直到我最近搭建了自己邮箱服务，发现使用 iptables 经由公网做的端口转发，在应用端并不能正确获得客户端 IP。在非正式的对外应用中，这一点并无影响。邮箱服务中使用 Greylist 来抵御垃圾邮件，发信者的 IP 是一个重要的参数。因此我需要获得真正的客户端 IP。
