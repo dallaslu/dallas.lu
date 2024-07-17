@@ -163,7 +163,7 @@ ip -f inet6 neigh add proxy 1:2:3:4:a:100::1 dev vmbr0
 ip -f inet6 neigh add proxy 1:2:3:4:a:100::100 dev vmbr0
 ```
 
-This can be viewed with `ip -f heigh show proxy`. If the network is down, try flushing the ndp cache: `ip -6 neigh flush all`.
+This can be viewed with `ip -6 neigh show proxy`. If the network is down, try flushing the ndp cache: `ip -6 neigh flush all`.
 
 ### NDPPD
 

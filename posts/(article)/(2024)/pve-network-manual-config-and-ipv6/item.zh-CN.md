@@ -163,7 +163,7 @@ ip -f inet6 neigh add proxy 1:2:3:4:a:100::1 dev vmbr0
 ip -f inet6 neigh add proxy 1:2:3:4:a:100::100 dev vmbr0
 ```
 
-可通过 `ip -f heigh show proxy` 查看。如网络不通，可尝试刷新 ndp 缓存：`ip -6 neigh flush all`。
+可通过 `ip -6 neigh show proxy` 查看。如网络不通，可尝试刷新 ndp 缓存：`ip -6 neigh flush all`。
 
 ### NDPPD
 
