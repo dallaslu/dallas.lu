@@ -210,6 +210,17 @@ flowchart LR
     b -.->|1.1.1.1->3.3.3.3| C
 ```
 
+#### Keep alive
+
+```bash
+crontab -e
+```
+
+```crontab
+*/1 * * * * ping -c 60 10.0.0.2
+```
+
+
 ## Conclusion
 
 Using iptables port forwarding and GRE tunnels, you can easily hide the real IP address while still obtaining the actual client IP. This process does not require installing additional software and is applicable to various applications without needing further adaptation. It's an excellent solution for using an idle VPS as a front-end server, fully utilizing a VPS with a good connection to provide multiple IP entry points for your application, making it faster and more secure.
