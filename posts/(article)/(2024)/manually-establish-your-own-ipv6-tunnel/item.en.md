@@ -42,7 +42,7 @@ IPv4-only server as client, hereafter referred to as Client.
 
 * IPv4: `22.22.22.22`
 
-The plan is to create a subnet, configure an IP `2024:2:16:2:1::2` for the Client, and add an `IP 2024:2:16:2::1` for the Server as a gateway to the subnet.
+The plan is to create a subnet, configure an IP `2024:2:16:2:1::2` for the Client, and add an IP `2024:2:16:2::1` for the Server as a gateway to the subnet.
 
 In fact, this is the minimum configuration to enable IPv6 tunneling servers, requiring only three available IPv6 addresses on the Server[^xiaodu].
 
