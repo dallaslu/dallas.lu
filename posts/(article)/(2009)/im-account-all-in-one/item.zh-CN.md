@@ -11,6 +11,7 @@ taxonomy:
         - Gtalk
         - Msn
         - QQ
+        - Email
     series:
         - Unify Your Online Accounts
 
