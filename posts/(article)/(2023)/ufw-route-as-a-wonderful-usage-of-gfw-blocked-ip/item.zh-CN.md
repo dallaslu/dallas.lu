@@ -2,7 +2,7 @@
 title: 被墙IP的妙用：UFW 转发
 date: '2023-05-28 05:28'
 published: true
-license: CC-NC-SA-4.0
+license: WTFPL
 taxonomy:
   category:
     - Internet

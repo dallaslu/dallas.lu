@@ -10,7 +10,7 @@ taxonomy:
         - PVE
         - IPv6
         - NDPPD
-license: CC-NC-SA-4.0
+license: CC-BY-NC-SA-4.0
 keywords:
   - PVE 虚拟机 IPv6 上网
   - PVE IPv6 支持

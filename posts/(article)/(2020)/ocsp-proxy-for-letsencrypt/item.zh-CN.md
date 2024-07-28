@@ -2,7 +2,7 @@
 title: 解决 Let's Encrypt 的 OCSP 超时问题
 date: '2020-11-27 12:18'
 author: 'dallaslu'
-license: CC-NC-SA-4.0
+license: WTFPL
 taxonomy:
     category:
         - Internet

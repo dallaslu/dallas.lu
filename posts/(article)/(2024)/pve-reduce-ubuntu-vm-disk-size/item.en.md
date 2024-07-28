@@ -9,7 +9,7 @@ taxonomy:
     tag:
         - PVE
         - Ubuntu
-license: CC-NC-SA-4.0
+license: CC-BY-NC-SA-4.0
 keywords:
   - PVE shrink VM disk
   - PVE reduce VM disk
