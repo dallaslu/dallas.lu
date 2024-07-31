@@ -19,3 +19,25 @@
     algorithm: aes-256-gcm
     iv: 3872cc0a281b8c496d75e4c8
     version: "1"
+- type: reply
+  channel: native
+  id: aedf0724febd80ef44997801a7ae56967afa55e5
+  author:
+    name: Dallas Lu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: MDU5OTAyNTEzMjVkZDA0ZjUxYmYxZQ==
+        algorithm: aes-256-gcm
+        iv: abd1406908b659e4c16d465f
+        version: "1"
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2024-07-31T14:54:22.877Z
+  content: 哈哈，老当益壮啊，生命在于折腾
+  ip:
+    encrypted: NzhkNmY1NDUzNzIxY2FmMGEzYTQ1MDNhOTY3MzIz
+    algorithm: aes-256-gcm
+    iv: de388dab25d2dc02212eeb06
+    version: "1"
+  target: ae642fe3c96e6bd92c55e0e82521f1add63208f3
