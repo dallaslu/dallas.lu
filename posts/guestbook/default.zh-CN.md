@@ -5,8 +5,7 @@ visible: true
 comment:
   enable: true
   reply: true
-discuss:
-    reverse: true
+  reverse: true
 ---
 
 欢迎留言。
