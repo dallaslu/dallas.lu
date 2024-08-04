@@ -5,6 +5,6 @@ visible: true
 comment:
   enable: true
   reply: true
-  reverse: true
+  reverse: false
 ---
 Welcome to leave a message.
