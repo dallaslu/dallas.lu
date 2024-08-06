@@ -35,3 +35,25 @@
     encrypted: ZmJmMzMzNzA5ZjE5ZDU3NzRkYzE0Yjc4
     algorithm: aes-256-gcm
     iv: 11b75e0aa1a0698ab789e4b8
+- type: reply
+  channel: native
+  id: ddd695409416f54b95b51bd726f848f9bb3bbe0a
+  author:
+    name: Xuan
+    url: http://codeinchinese.com/
+    email:
+      value:
+        encrypted: MWMyOGZkOTc4OWNlYTM4ODllNDQ3NWIxYjQ0OTg5NjkxNTA1MzY3ZGYyYmRhMmI4ODk4NzBmYjc=
+        algorithm: aes-256-gcm
+        iv: 39e6123356c9cd44b43aa9d7
+        version: "1"
+      hash:
+        md5: ddd4bf630b5039b2ac4bc864df6d8786
+  published: 2024-08-06T03:01:55.193Z
+  content: 感觉我这个设计有点像自动关联的
+    Webmention，即不需发布者手动告知被评论方：https://github.com/wa008/zhblog/issues/1
+  ip:
+    encrypted: MTMyZmI4MjVmNmJhNDY5ZTVlZDc3YjVk
+    algorithm: aes-256-gcm
+    iv: 1a05ac3865e4b576137c2aee
+    version: "1"
