@@ -78,7 +78,7 @@
 
     \r
 
-    Nostr 也有相似的作用，是从个 Relay 发现外部相关内容。 或许某天，应该有一套评论系统，将这些“通知被评论方”的各种方式的实现，整合到一起。"
+    Nostr 也有相似的作用，是从各 Relay 发现外部相关内容。 或许某天，应该有一套评论系统，将这些“通知被评论方”的各种方式的实现，整合到一起。"
   ip:
     encrypted: MzMxYjAwYjNkNjA1OGU0NjcyOTI2NTg4ZjhlODhj
     algorithm: aes-256-gcm
