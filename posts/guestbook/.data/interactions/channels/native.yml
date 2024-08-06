@@ -826,3 +826,25 @@
     algorithm: aes-256-gcm
     iv: ecc85e328e0b7f777d8e279f
     version: "1"
+- type: reply
+  channel: native
+  id: 7994c4b3d1d09b0b3c9bdffc91eab9f564e9f127
+  author:
+    name: Dallas Lu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: ZGViNTgzM2ExOGFmNTU5YTZiMmQyNg==
+        algorithm: aes-256-gcm
+        iv: 440be2b5b8b90cc83c50b547
+        version: "1"
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2024-08-06T09:48:55.524Z
+  content: 您最近有成功通过的申请吗？
+  ip:
+    encrypted: OTBmNzM0YTQzOTMzM2Q3MTQ4ZDMzNzYwOTM4ZjQ0
+    algorithm: aes-256-gcm
+    iv: 7d972d67444ed19a6d9072a6
+    version: "1"
+  target: fb99a436205fc1cc979270ba0524a9b163c96a3c
