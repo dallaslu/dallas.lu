@@ -57,3 +57,31 @@
     algorithm: aes-256-gcm
     iv: 1a05ac3865e4b576137c2aee
     version: "1"
+- type: reply
+  channel: native
+  id: 8e5cd69c6e1902674d4cf0f8c25aea1761bbb403
+  author:
+    name: Dallas Lu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: M2ZlMzUxYmI1MGU3NjM2ZDEwZmQyZg==
+        algorithm: aes-256-gcm
+        iv: 6e3c8e03059c2c9ea4c82521
+        version: "1"
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2024-08-06T05:33:29.568Z
+  content: "Webmention
+    主要是想解决这种外部评论的发现的问题。如果每一个站点不亲自做，就需要委托他人做这件事。如果是聚合工具解决了这件事，那么就是这个聚合工具在内部处理了评论\
+    的发现的问题。 \r
+
+    \r
+
+    Nostr 也有相似的作用，是从个 Relay 发现外部相关内容。 或许某天，应该有一套评论系统，将这些“通知被评论方”的各种方式的实现，整合到一起。"
+  ip:
+    encrypted: MzMxYjAwYjNkNjA1OGU0NjcyOTI2NTg4ZjhlODhj
+    algorithm: aes-256-gcm
+    iv: e7da36ef0b3c3f08a53966c0
+    version: "1"
+  target: ddd695409416f54b95b51bd726f848f9bb3bbe0a
