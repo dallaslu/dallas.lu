@@ -57,7 +57,7 @@
     encrypted: OTUxYzA4MjA3NTk2MmVlNjM0NmVlMTRhZjM=
     algorithm: aes-256-gcm
     iv: d7b5bc8095a83d0901d0dc5e
-- type: reply
+- type: mention
   channel: native
   id: "558625"
   author:
@@ -69,7 +69,7 @@
     encrypted: ODZmNmZmNGNmNmJhZDczMzc3MWRlYmQyZDY=
     algorithm: aes-256-gcm
     iv: 9539ccd6128d828d27007c73
-- type: reply
+- type: mention
   channel: native
   id: "561320"
   author:
@@ -81,7 +81,7 @@
     encrypted: MWZjNDZkNDYxMzg2YjQwODM4NzcxOWU4NWI=
     algorithm: aes-256-gcm
     iv: a5f5d4abe2fe873b6ba2f0a0
-- type: reply
+- type: mention
   channel: native
   id: "573757"
   author:
