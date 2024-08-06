@@ -49,7 +49,9 @@ add_action('do_feed_rss2', 'fb_disable_feed', 1);
 add_action('do_feed_atom', 'fb_disable_feed', 1);
 ```
 
-## [移除评论框下“可用标签和属性”提示](https://dallas.lu/remove-the-available-tags-and-attributes-prompt-under-the-comment-box/)
+## 移除评论框下“可用标签和属性”提示
+
+<https://dallas.lu/remove-the-available-tags-and-attributes-prompt-under-the-comment-box/>
 
 ```php
 add_filter('comment_form_defaults',my_comment_form_defaults);
