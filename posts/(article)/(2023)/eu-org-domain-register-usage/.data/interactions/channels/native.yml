@@ -16,3 +16,25 @@
     encrypted: MzM1OTA1NGY2NmM4M2Q3MDdiZGMyZGE0
     algorithm: aes-256-gcm
     iv: b37e37d65824aceaf3caf39d
+- type: reply
+  channel: native
+  id: 1213443d4e7c0aefb1dfd31a5f52aaa3e74a56c0
+  author:
+    name: Dallas Lu
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: YzczOWE1Y2JhZGVlNWFmNzIxMjk1ZA==
+        algorithm: aes-256-gcm
+        iv: da4a8f7ed8810916360f26a3
+        version: "1"
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+  published: 2024-08-06T07:29:57.663Z
+  content: 快一年过去了。一年前，这篇文章发表前，我又申请了几个，到现在也还没有通过。估计快了，哈哈
+  ip:
+    encrypted: MDI0MGM4OWZkMGZkM2QzM2Q2MDI1OTllNWFlNWNk
+    algorithm: aes-256-gcm
+    iv: 25a583a6b383f1c81abebe1e
+    version: "1"
+  target: a0c0e161deca5772d540677e95e2ff3e4aa54f8b
