@@ -12,6 +12,7 @@ keywords:
     - EU.org域名
     - eu.org域名申请
     - nic.eu.org域名申请
+    - EU.org 要等多久
 published: true
 license: CC-BY-NC-SA-4.0
 toc:
@@ -45,11 +46,11 @@ taxonomy:
 
 EU.org 的登录账号（Handle[^note:eu-handle]）是根据联系人姓名缩写和编号自动生成的，类似 `DL1216-FREE` 这种。一个联系帐号也对应着一个 Contact。
 
-即使启用了隐私保护，仍可查询到一个 eu.org 域名的 Handle。如果你注册多个用途不同的域名，那么有心人可以通过对比 whois 信息，而意外地发现域名之间的关联。而使用同一个邮箱也可注册多个 Handle，所以，你可以在注册时就做好安排。当然，注册成功后再做变更也没问题， Handle 之间可以自由转移域名。
+即使启用了隐私保护，仍可查询到一个 eu.org 域名的 Handle。如果你注册多个用途不同的域名，那么有心人可以通过对比 whois 信息，而意外地发现域名之间的关联。而使用同一个邮箱也可注册多个 Handle，所以，你可以在注册时就做好安排。当然，注册成功后再做变更也没问题，Handle 之间可以自由转移域名。
 
 ## 注册域名
 
-登录后点击 New Domain 进入注册界面。
+登录后点击 `New Domain` 进入注册界面。
 
 ### 查询域名可用性
 
@@ -57,9 +58,9 @@ EU.org 的登录账号（Handle[^note:eu-handle]）是根据联系人姓名缩�
 
 ### Name Server
 
-EU.org 并不提供默认的 NS，这需要我们自行解决。尽管 Cloudflare 提供了免费的 NS，但其为保证 CDN 等服务开箱可用，只能添加已经成功注册的域名。所以我们选择可添加尚未注册的域名的 hostry.com 作为 NS。
+EU.org 并不提供默认的 NS，这需要我们自行解决。尽管 Cloudflare 提供了免费的 NS，但其为保证 CDN 等服务开箱可用，只能添加已经成功注册的域名。所以我们选择可添加尚未注册的域名的 [hostry.com](https://hostry.com) 作为 NS。
 
-在 hostry.com 注册登录后，进入 SERVICES > Free DNS 菜单，输入刚刚选好的域名，点 CREATE DNS，稍后再点击 CREATE。稍等片刻，状态可用后，回到 EU.org 的申请页面，填写 NS:
+在 hostry.com 注册登录后，进入 `SERVICES`>`Free DNS` 菜单，输入刚刚选好的域名，点 `CREATE DNS`，稍后再点击 `CREATE`。稍等片刻，状态可用后，回到 EU.org 的申请页面，填写 NS:
 
     ns1.hostry.com
     ns2.hostry.com
@@ -81,25 +82,26 @@ EU.org 并不提供默认的 NS，这需要我们自行解决。尽管 Cloudflar
 
 ## Cloudflare
 
-一旦注册成功，即可在 Cloudflare 添加站点，需要按的提示，在 EU.org 修改域名的 Name Server，然后等待 Cloudflare 验证。可立即申请 Cloudflare 的免费邮件转发服务，获得一个无限别名的域名邮箱。
+一旦注册成功，即可在 Cloudflare 添加站点，需要按页面的提示，在 EU.org 修改域名的 Name Server，然后等待 Cloudflare 验证。可立即申请 Cloudflare 的免费邮件转发服务，获得一个无限别名的域名邮箱。
 
 如果你打算使用这个域名做网站，不要忘记以下几个步骤：
 
 ### 开启 DNSSEC
 
-在 Cloudflare 控制面板中，进入此站点的 `DNS`>`设置`菜单，选择启用 DNSSEC，将 DS 值复制填写到 EU.org 的域名 DNSSEC 表单中保存。
+1. 访问 Cloudflare 控制面板，进入此站点的 `DNS`>`设置`菜单，选择启用 DNSSEC；
+2. 将 DS 值复制填写到 EU.org 的域名 DNSSEC 表单中保存。
 
 ### 开启 HSTS
 
-在 Cloudflare 控制面板中，进入此站点的 `SSL/TLS`>`边缘证书`菜单，启用始终使用 HTTPS；选择启用 HSTS，开启表单中所有开关，并选择最长期限标头为 12 个月，保存。添加 DNS 记录，可指向任何 IP，以保证首页能够访问即可。
-
-访问 <https://hstspreload.org>，填入域名，检查通过后，再次提交。数周之后方能生效。
+1. 访问 Cloudflare 控制面板，进入此站点的 `SSL/TLS`>`边缘证书`菜单，启用始终使用 HTTPS；选择启用 HSTS，开启表单中所有开关，并选择最长期限标头为 12 个月，保存；
+2. 添加 DNS 记录，可指向任何 IP，以保证首页能够访问即可；
+3. 访问 <https://hstspreload.org>，填入域名，检查通过后，再次提交。数周之后方能生效。
 
 ### 重定向跳转
 
 如果希望域名访问时跳转你已有网站，可在 Cloudflare 控制面板中，进入此站点的`规则`>`重定向规则`菜单，创建一条规则。
 
-注意， HSTS 要求访问 `http://XXXXXXXX.eu.org` 时，先跳转到 `https://XXXXXXXX.eu.org`，所以这里要选择自定义筛选表达式，字段选择 `SSL/HTTPS`，值为开启状态，以保证 http 的访问不会跳转到其他的域名。
+注意，HSTS 要求访问 `http://XXXXXXXX.eu.org` 时，先跳转到 `https://XXXXXXXX.eu.org`，所以这里要避免 http 的请求跳转到其他域名。选择自定义筛选表达式，字段选择 `SSL/HTTPS`，值为开启状态，以保证此规则仅对 https 生效。
 
 重定向规则选择类型为动态，表达式填写为：
 
