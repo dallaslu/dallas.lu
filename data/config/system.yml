@@ -41,6 +41,7 @@ public:
   git:
     repo: 'https://github.com/dallaslu/dallas.lu.git'
   postal:
+    enabled: true
     secret:
       hash:
         salt: 'cVEOProsVipJr0HbLAZfuw=='
