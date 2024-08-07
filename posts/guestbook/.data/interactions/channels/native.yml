@@ -914,3 +914,24 @@
     algorithm: aes-256-gcm
     iv: 2714eb17e0f9753c497eeda5
     version: "1"
+- type: reply
+  channel: native
+  id: 9953d5913156a7c56424a63ce6e2bdc721ef0cd7
+  author:
+    name: Mail Test
+    email:
+      value:
+        encrypted: NDEyNTE0Yzg2NDRjMjUyZjhiYjBhM2FkNGFhZTU2NzgxMjQ2MjE=
+        algorithm: aes-256-gcm
+        iv: f6258b2098c1194ae110d5ad
+        version: "1"
+      hash:
+        md5: 6e44afa1be17865eb68a7f7793bf1a93
+        sha256: 8342a8c07cd317354f93e760c7bcb5a6c459309843ba86fcdeb767beef33267d
+  published: 2024-08-07T09:29:29.828Z
+  content: Test email notification
+  ip:
+    encrypted: NGFiOWM5YjE1OGIyZmQ0MDQ3NmFmMDRkZWYwMzJh
+    algorithm: aes-256-gcm
+    iv: b8e3e3abb53aafd4a8c76dbd
+    version: "1"
