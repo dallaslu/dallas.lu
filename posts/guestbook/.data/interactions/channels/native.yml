@@ -832,6 +832,7 @@
   author:
     name: Dallas Lu
     url: https://dallas.lu
+    user: dallaslu
     email:
       value:
         encrypted: ZGViNTgzM2ExOGFmNTU5YTZiMmQyNg==
@@ -874,6 +875,7 @@
   id: ba76fdf14ec1114f7523a1386d9f1e10c1a71371
   author:
     name: Dallas Lu
+    user: dallaslu
     email:
       value:
         encrypted: ZjJjMDE2M2Q1ZjNjMWI3MjFiM2RiNw==
@@ -891,6 +893,7 @@
   id: d3b36be2e52ab7770da8f03caf4a47b6927960f7
   author:
     name: Dallas Lu
+    user: dallaslu
     email:
       value:
         encrypted: OWNjNGMzZDY0NjgyZjQ2YTc5ZjRjOQ==
