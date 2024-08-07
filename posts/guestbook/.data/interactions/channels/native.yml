@@ -892,3 +892,25 @@
     algorithm: aes-256-gcm
     iv: c71e52529951f26a4fc058fd
     version: "1"
+- type: reply
+  channel: native
+  id: 1456955bf18aab053f74c0f5c203ca1dc99206ab
+  author:
+    name: Test
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NTEzNzYwNTNlZTA0MmI5NGZhNGUzMmYxNzhiOA==
+        algorithm: aes-256-gcm
+        iv: 7a34a41ebe2f54008065a96c
+        version: "1"
+      hash:
+        md5: 774110d07a1d27c02ba5120b81cb4163
+        sha256: c143c027618ab2642893ab8e75d98fbc6cac85c91dd8b3629122ef8b65a64365
+  published: 2024-08-07T09:28:39.389Z
+  content: Test new mail
+  ip:
+    encrypted: YzhkZGE5YmQ2YzI0ZDQ0ZTI5NWI5NjUxNDk2ZGVj
+    algorithm: aes-256-gcm
+    iv: 2714eb17e0f9753c497eeda5
+    version: "1"
