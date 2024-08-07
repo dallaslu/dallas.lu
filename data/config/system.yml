@@ -8,7 +8,7 @@ public:
   domains:
     primary: "dallas.lu"
   email:
-    sender: "noreply@dallas.lu"
+    sender: "interact@dallas.lu"
   plausible:
     enabled: true
     domain: "a.1bps.io"
@@ -40,6 +40,11 @@ public:
     X-XRDS-Location: https://login.launchpad.net/+id/DksAAfk/+xrds
   git:
     repo: 'https://github.com/dallaslu/dallas.lu.git'
+  postal:
+    secret:
+      hash:
+        salt: 'cVEOProsVipJr0HbLAZfuw=='
+        sha256: 2b4e427e486e24d0f8487e3184ce9251b944a6c2bb5709080f65208273b7aa17
 
 private:
   email:
