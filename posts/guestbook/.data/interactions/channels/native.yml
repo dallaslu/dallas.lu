@@ -886,3 +886,19 @@
   published: 2024-08-07T09:43:28.717Z
   content: Test email reply
   target: 9953d5913156a7c56424a63ce6e2bdc721ef0cd7
+- type: reply
+  channel: email
+  id: d3b36be2e52ab7770da8f03caf4a47b6927960f7
+  author:
+    name: Dallas Lu
+    email:
+      value:
+        encrypted: OWNjNGMzZDY0NjgyZjQ2YTc5ZjRjOQ==
+        algorithm: aes-256-gcm
+        iv: c29783872d7751e1e11622bf
+        version: "1"
+      hash:
+        md5: 8770854a9222b6bf1ee195220793bcf1
+        sha256: 0ac740f867d01353371baf0121d2705e4810a2cf1bb2401c620c27286b2005f3
+  published: 2024-08-07T09:51:31.853Z
+  content: Test of replying directly via email.
