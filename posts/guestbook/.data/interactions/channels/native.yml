@@ -920,3 +920,24 @@
     iv: d667bea4c4ccadef440ff6fa
     version: "1"
   target: 7994c4b3d1d09b0b3c9bdffc91eab9f564e9f127
+- type: reply
+  channel: native
+  id: 7eb741b2064ad142449d3518bc909d534871d32b
+  author:
+    name: Test
+    email:
+      value:
+        encrypted: MTUxZjY2MGViMGZjZmY2YTRlN2Y2N2VjZDNkOQ==
+        algorithm: aes-256-gcm
+        iv: ebb4b84c49e406dfdbbdf7df
+        version: "1"
+      hash:
+        md5: 774110d07a1d27c02ba5120b81cb4163
+        sha256: c143c027618ab2642893ab8e75d98fbc6cac85c91dd8b3629122ef8b65a64365
+  published: 2024-08-08T05:44:18.425Z
+  content: Test email notification
+  ip:
+    encrypted: NGE4ZDc5MDU4YTgxODIwYmQ5NmYxYjA0NWI1Ng==
+    algorithm: aes-256-gcm
+    iv: 239cddc2cc9de9f0540690ab
+    version: "1"
