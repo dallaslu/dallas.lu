@@ -905,3 +905,18 @@
         sha256: 0ac740f867d01353371baf0121d2705e4810a2cf1bb2401c620c27286b2005f3
   published: 2024-08-07T09:51:31.853Z
   content: Test of replying directly via email.
+- type: reply
+  channel: native
+  id: 0f75b3c0971a0dd81b6cc6bbf5b84445d69d15a1
+  author:
+    name: sea
+  published: 2024-08-08T00:39:07.052Z
+  content: "按照你的文章，成功提交申请了，但没有了下文。\r
+
+    我看它的邮件列表也没有了……"
+  ip:
+    encrypted: ZDFjMzkzY2I3N2Q3NTlkZWQwZDMxOTViMjcyNmVl
+    algorithm: aes-256-gcm
+    iv: d667bea4c4ccadef440ff6fa
+    version: "1"
+  target: 7994c4b3d1d09b0b3c9bdffc91eab9f564e9f127
