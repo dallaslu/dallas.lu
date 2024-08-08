@@ -1,5 +1,5 @@
 ---
-title: Current Progress and Prospects of the Website Comment System
+title: Current Progress and Outlook of the Website Comment System
 published: true
 date: '2024-08-08 08:08'
 license: CC-BY-NC-SA-4.0
@@ -69,7 +69,7 @@ Since even email can be left blank, the name becomes even less important. Howeve
 
 A comment typically has only two sensitive fields: IP and Email. My article content is based on markdown files, making it very easy to open-source. However, sensitive information in local comments needs to be encrypted and decrypted with a key when used.
 
-## Prospects
+## Outlook
 
 ### Improvements
 
