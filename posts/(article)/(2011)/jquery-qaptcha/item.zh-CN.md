@@ -7,7 +7,7 @@ taxonomy:
     category:
         - Internet
     tag:
-        - Jquery
+        - jQuery
 
 ---
 最近用的欧诺VPS管理面板和caboo的免费VPN发布程序中都见到了这个插件。感觉蛮新潮，恰巧都是在 asp 语言编写的网站上看到，于是就以为是相关社区开发的小控件，从移动设备上借鉴到WEB上的滑动解锁，倒也很有意思。
