@@ -78,25 +78,6 @@
     iv: 3e22f8a8f41d2954edf36abb
 - type: reply
   channel: native
-  id: "9"
-  author:
-    name: 78:22
-    url: http://dawntear.blog.163.com
-    email:
-      value:
-        encrypted: M2FhNzE5YWVlN2UxOGQzZjBjNjk0ZTcw
-        algorithm: aes-256-gcm
-        iv: 50950666b7b77913c6c48749
-      hash:
-        md5: ed6147e6c1f321c676b17017a7249409
-  published: 2008-08-24 15:11:00
-  content: 寻找
-  ip:
-    encrypted: YTRmNjFhNDZjNTY4ZmY5YjljYjgxZWY2MDk=
-    algorithm: aes-256-gcm
-    iv: e65fb1b913ebace1f8b6d0be
-- type: reply
-  channel: native
   id: "10"
   author:
     name: 弯弯
@@ -850,45 +831,6 @@
     version: "1"
   target: fb99a436205fc1cc979270ba0524a9b163c96a3c
 - type: reply
-  channel: native
-  id: 9953d5913156a7c56424a63ce6e2bdc721ef0cd7
-  author:
-    name: Mail Test
-    email:
-      value:
-        encrypted: NDEyNTE0Yzg2NDRjMjUyZjhiYjBhM2FkNGFhZTU2NzgxMjQ2MjE=
-        algorithm: aes-256-gcm
-        iv: f6258b2098c1194ae110d5ad
-        version: "1"
-      hash:
-        md5: 6e44afa1be17865eb68a7f7793bf1a93
-        sha256: 8342a8c07cd317354f93e760c7bcb5a6c459309843ba86fcdeb767beef33267d
-  published: 2024-08-07T09:29:29.828Z
-  content: Test email notification
-  ip:
-    encrypted: NGFiOWM5YjE1OGIyZmQ0MDQ3NmFmMDRkZWYwMzJh
-    algorithm: aes-256-gcm
-    iv: b8e3e3abb53aafd4a8c76dbd
-    version: "1"
-- type: reply
-  channel: email
-  id: ba76fdf14ec1114f7523a1386d9f1e10c1a71371
-  author:
-    name: Dallas Lu
-    user: dallaslu
-    email:
-      value:
-        encrypted: ZjJjMDE2M2Q1ZjNjMWI3MjFiM2RiNw==
-        algorithm: aes-256-gcm
-        iv: b3e7db3680298c658c7c9dc1
-        version: "1"
-      hash:
-        md5: 8770854a9222b6bf1ee195220793bcf1
-        sha256: 0ac740f867d01353371baf0121d2705e4810a2cf1bb2401c620c27286b2005f3
-  published: 2024-08-07T09:43:28.717Z
-  content: Test email reply
-  target: 9953d5913156a7c56424a63ce6e2bdc721ef0cd7
-- type: reply
   channel: email
   id: d3b36be2e52ab7770da8f03caf4a47b6927960f7
   author:
@@ -920,36 +862,3 @@
     iv: d667bea4c4ccadef440ff6fa
     version: "1"
   target: 7994c4b3d1d09b0b3c9bdffc91eab9f564e9f127
-- type: reply
-  channel: native
-  id: 7eb741b2064ad142449d3518bc909d534871d32b
-  author:
-    name: Test
-    email:
-      value:
-        encrypted: MTUxZjY2MGViMGZjZmY2YTRlN2Y2N2VjZDNkOQ==
-        algorithm: aes-256-gcm
-        iv: ebb4b84c49e406dfdbbdf7df
-        version: "1"
-      hash:
-        md5: 774110d07a1d27c02ba5120b81cb4163
-        sha256: c143c027618ab2642893ab8e75d98fbc6cac85c91dd8b3629122ef8b65a64365
-  published: 2024-08-08T05:44:18.425Z
-  content: Test email notification
-  ip:
-    encrypted: NGE4ZDc5MDU4YTgxODIwYmQ5NmYxYjA0NWI1Ng==
-    algorithm: aes-256-gcm
-    iv: 239cddc2cc9de9f0540690ab
-    version: "1"
-- type: reply
-  channel: native
-  id: df13d70796152d002b1ee7dc1630ce18acc7fde7
-  author:
-    name: Test
-  published: 2024-08-08T05:45:15.846Z
-  content: Test without email
-  ip:
-    encrypted: ZThjMWMzM2YxNWY2MDVkYmI1YmU1NDY3NzNlZA==
-    algorithm: aes-256-gcm
-    iv: 35960f63188fc22a70059bc2
-    version: "1"
