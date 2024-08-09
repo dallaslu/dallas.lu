@@ -46,6 +46,9 @@ public:
       hash:
         salt: 'cVEOProsVipJr0HbLAZfuw=='
         sha256: 2b4e427e486e24d0f8487e3184ce9251b944a6c2bb5709080f65208273b7aa17
+  lnurlp:
+    identifier: dallaslu@getalby.com
+    page: https://getalby.com/p/dallaslu
 
 private:
   email:
