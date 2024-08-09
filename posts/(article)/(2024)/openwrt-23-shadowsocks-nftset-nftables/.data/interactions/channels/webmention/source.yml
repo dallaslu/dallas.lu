@@ -1,0 +1,21 @@
+- id: a17cbd3c327b2a99476102c1dac1dff5e5e40a0446674ddc20e222f80a69c081
+  published: 2024-05-07T08:31:00Z
+  channel: webmention
+  webmention:
+    source: https://blog.niekun.net/archives/dnsmasq-nftset-nftables-1.html
+    target: https://dallas.lu/en/openwrt-23-shadowsocks-nftset-nftables/
+    post:
+      type: entry
+      author:
+        name: Marco Nie
+        url: https://blog.niekun.net
+      url: https://blog.niekun.net/archives/dnsmasq-nftset-nftables-1.html
+      published: 2024-05-07T08:31:00Z
+      mention-of: http://localhost:5173/article-example-1/
+      wm-property: mention-of
+  url: https://blog.niekun.net/archives/dnsmasq-nftset-nftables-1.html
+  type: mention
+  author:
+    name: Marco Nie
+    url: https://blog.niekun.net
+    verified: true
