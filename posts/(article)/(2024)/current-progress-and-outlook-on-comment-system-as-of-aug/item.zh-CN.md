@@ -19,6 +19,10 @@ keywords:
   - Webmention
 toc:
   enabled: true
+x.com:
+  status: https://x.com/dallaslu/status/1821817827780690345
+nostr:
+  note: note1cv5ryz0t06qta207asfujfr6ew99vvf6lz758x22j5xk2sttj8zsy6tz63
 ---
 
 一年多前，我研究了一下当时评论系统的现状，最后给网站选择了传统的评论系统。截至目前，有了一些新的进展，和新的想法。

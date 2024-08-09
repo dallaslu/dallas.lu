@@ -19,6 +19,10 @@ keywords:
   - Webmention
 toc:
   enabled: true
+x.com:
+  status: https://x.com/dallaslu/status/1821816952727490678
+nostr:
+  note: note1xgph22n4n0mgl68pc3vqeq2julhwaxh7lmdgctmjjzqrn0xgmsysljgwtr
 ---
 
 More than a year ago, I researched the status of comment systems at the time and ultimately chose a traditional comment system for the website. To date, there have been some new developments and new ideas.
