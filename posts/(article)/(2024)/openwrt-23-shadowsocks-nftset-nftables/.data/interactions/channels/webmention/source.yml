@@ -15,6 +15,7 @@
       wm-property: mention-of
   url: https://blog.niekun.net/archives/dnsmasq-nftset-nftables-1.html
   type: mention
+  title: 通过 dnsmasq nftset 和 nftables 对域名流量的控制
   author:
     name: Marco Nie
     url: https://blog.niekun.net
