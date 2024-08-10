@@ -1,0 +1,12 @@
+- type: reply
+  channel: native
+  id: f345a6245d86f19f51dd8c18328b0b1aa8e1188c
+  author:
+    name: Labrador
+  published: 2024-08-10T18:50:26.025Z
+  content: Test to see if I have a dog's head next to my name.
+  ip:
+    encrypted: NzZmODU2OGNjMzc5NGEzMWQyYmNjZWQyZGU0ZTdkNTZjNGNlN2Y1NjM5OTM5ZDlmMjE3NjU4Yjg=
+    algorithm: aes-256-gcm
+    iv: 936017a47c87a46d2198f571
+    version: "1"
