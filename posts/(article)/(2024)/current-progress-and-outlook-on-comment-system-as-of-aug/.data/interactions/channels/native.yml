@@ -23,3 +23,16 @@
     algorithm: aes-256-gcm
     iv: e3fd767aab8a88e9987f4641
     version: "1"
+- type: reply
+  channel: native
+  id: 83b8f34a9c5c22d6647c551f73cca0392dc02175
+  author:
+    name: ""
+  published: 2024-08-10T19:30:39.370Z
+  content: It's cool if you can comment anonymously.
+  target: f487ccf9d02009fa8fedb52722cb52d337995371
+  ip:
+    encrypted: ZjExMmUyYzRjOTM1YTI2NjE4ODVhNzM4MDBjYTUwOTJhY2QwM2I5YjE3M2Y2MTYyNDBhYmQwNTI=
+    algorithm: aes-256-gcm
+    iv: 74076f974dc049ba240871fd
+    version: "1"
