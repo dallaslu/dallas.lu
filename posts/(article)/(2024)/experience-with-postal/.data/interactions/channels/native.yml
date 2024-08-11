@@ -18,3 +18,16 @@
     algorithm: aes-256-gcm
     iv: e5642e6468d4fdb5d1287834
     version: "1"
+- type: reply
+  channel: native
+  id: 1f398cd00413b0db4efaaf618d7f33e0fb4f4cc7
+  author:
+    name: 哈哈
+  published: 2024-08-11T17:34:32.940Z
+  content: 从入门到放弃系列……
+  target: 9c120c4b731139e61154ea3e2f4347214acea82f
+  ip:
+    encrypted: MDVmMzc1MjFhZWVmMGU0MzBmYzZmZmQxZTM1ZjljMTAxMWU5MmE5Zjg1YzJiZjYwMmM1OGE4ZDY=
+    algorithm: aes-256-gcm
+    iv: 91032cdcf17975be54d2f2a7
+    version: "1"
