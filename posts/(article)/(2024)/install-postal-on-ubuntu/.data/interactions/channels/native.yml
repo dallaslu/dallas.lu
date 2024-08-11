@@ -19,3 +19,21 @@
     algorithm: aes-256-gcm
     iv: e808116822a47bc9234ac1ca
     version: "1"
+- type: reply
+  channel: email
+  id: 458553AA-65E5-49BA-B8A9-99015E6ED3D1
+  author:
+    name: Dallas Lu
+    verified: true
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NzU0YjVlOGYxNzE3NjRhMjY3ZDNmZQ==
+        algorithm: aes-256-gcm
+        iv: 3e4fce8194116dd27a300e47
+        version: "1"
+      hash:
+        sha256: 0ac740f867d01353371baf0121d2705e4810a2cf1bb2401c620c27286b2005f3
+  published: 2024-08-11T17:09:38.712Z
+  content: It won't work.
+  target: 6e73d2d406da853d24654892af73886d21b2c75d
