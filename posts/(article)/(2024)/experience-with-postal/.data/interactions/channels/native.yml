@@ -1,0 +1,20 @@
+- type: reply
+  channel: native
+  id: 9c120c4b731139e61154ea3e2f4347214acea82f
+  author:
+    name: Foe
+    email:
+      value:
+        encrypted: MmNmZDI1OWIyNDY1NDA5MjE5MWU0Mzg4NTFiMmVlYjA5NWFkZWMwZA==
+        algorithm: aes-256-gcm
+        iv: c2f8ac78451bd81614acdc62
+        version: "1"
+      hash:
+        sha256: db098af8868cde02bb67bc5ca78ce10558f4b9f674546f06de6957b25fe14ab8
+  published: 2024-08-11T17:31:14.228Z
+  content: Thank you for the article that made me opt out of self-hosting.
+  ip:
+    encrypted: NzgyMzdiZWZjM2VjMGRhOGVlMTUxY2I4ZjE3YWI5NWQwMzNkMjVjN2E2NGM2NjM1OGEyYzM5ODk=
+    algorithm: aes-256-gcm
+    iv: e5642e6468d4fdb5d1287834
+    version: "1"
