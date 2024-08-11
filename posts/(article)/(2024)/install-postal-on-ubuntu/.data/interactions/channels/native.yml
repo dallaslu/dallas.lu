@@ -37,3 +37,16 @@
   published: 2024-08-11T17:09:38.712Z
   content: It won't work.
   target: 6e73d2d406da853d24654892af73886d21b2c75d
+- type: reply
+  channel: native
+  id: 2489bfb82712a5b58c7ec68e57495755a193f949
+  author:
+    name: DMIT.io
+  published: 2024-08-11T17:24:14.737Z
+  content: It doesn't sound very feasible.
+  target: 6e73d2d406da853d24654892af73886d21b2c75d
+  ip:
+    encrypted: MDFjNjU2NzAyYTk4OWYyMTU5MDVmNTdjOGVlYjM1ODYxYmFmZTJhMzc5YjkyMTQ0ZTdiZWUxYWU=
+    algorithm: aes-256-gcm
+    iv: 56cf395ae8a8f049fdb6741e
+    version: "1"
