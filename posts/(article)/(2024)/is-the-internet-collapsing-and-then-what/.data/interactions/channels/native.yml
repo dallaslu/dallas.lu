@@ -120,3 +120,16 @@
   published: 2024-08-13T07:41:18.759Z
   content: 仿佛歌里唱的：今天啦，全球化呀，明天就自己过，啦啦啦
   target: b69ae24014782758f9bd664fcffe630c911dad26
+- type: reply
+  channel: native
+  id: b34feb187608a6ef4ab4e4a4e5941fb5ef0b6eb1
+  author:
+    name: ""
+  published: 2024-08-13T08:41:53.331Z
+  content: 听上去，就像在说一个虚拟机进程。在存储负载有限时，也会有垃圾回收，会判断引用；或是清理缓存，用的是
+    LFU。如果一个内容足够优秀，不会发生零引用，有够新的最近访问，是不会丢失的。丢失也许是临时的，也许是永久的。如果永久丢失了，说明它大概率配不上存储成本；如果它很有价值，那么这个进程活该。
+  ip:
+    encrypted: ODZlZmMwNzYwOTJiNjAyNzlkNjY2MWU5NjllOGE5MGYyNGExOTMyNzEyYzUxN2ExYmMzZWI0ZWE1OQ==
+    algorithm: aes-256-gcm
+    iv: 8ea158370d1977259d65aed7
+    version: "1"
