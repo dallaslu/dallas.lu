@@ -26,7 +26,7 @@ I have been using Postal as a replacement for SendGrid for some time now. It can
 
 ===
 
-## Issues with Port 25
+## Issues with Port 25 for SMTP Client
 
 When a server sends an email, it first checks the domain part of the email address, queries the MX records, finds the mail server for that email, and delivers the message. In the default process, it needs to connect to port 25. If a server is restricted from connecting to port 25 of other servers, it cannot easily send emails. Many VPS providers restrict outbound traffic to port 25 for this reason.
 
@@ -50,7 +50,7 @@ They share the domain postal.example.com. This means you cannot use Cloudflare's
 
 Fortunately, Postal supports this configuration. We can edit the configuration file /opt/postal/config/postal.yml, set smtp_hostname to smtp.example.com, and configure the DNS A record and corresponding IP PTR record.
 
-## PTR Records
+## PTR Records of Postal Server
 
 Many VPS providers offer an online interface to modify PTR records, while some require submitting a ticket. Generally, it's recommended to keep the hostname and PTR record consistent. During SMTP server negotiation of STARTTLS, the hostname declared in the banner will be verified against the PTR record. If helo_hostname is not configured in Postal, it will use the value of smtp_hostname as the hostname.
 

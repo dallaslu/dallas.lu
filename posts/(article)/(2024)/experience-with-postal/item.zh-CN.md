@@ -26,7 +26,7 @@ nostr:
 
 ===
 
-## 25 端口的问题
+## SMTP 客户端的 25 端口问题
 
 当服务器向外发送邮件，首先是检查邮箱地址中的域名部分，查询 MX 记录，找到该邮箱的邮件服务器并投递信件。那么在投递时，按默认流程需要连接其 25 端口。如果一台服务器被限制连接其他服务器的 25 端口，那么它就不能轻易地发送邮件。基于这样的原理，很多 VPS 厂商就禁止目标端口 25 的出站流量。
 
@@ -51,7 +51,7 @@ iptables -t nat -A PREROUTING -p tcp --match multiport --dports 587,2525 -j REDI
 
 所幸，Postal 本身支持这个配置。我们可以编辑配置文件 `/opt/postal/config/postal.yml`，设置 `smtp_hostname` 为 `smtp.example.com`。并设置好 DNS 的 A 记录解析，和对应 IP 的 PTR 记录。
 
-## PTR 记录
+## Postal Server 的 PTR 记录
 
 很多 VPS 商提供了在线修改 PTR 记录的入口，只需在页面上操作即可。也有一些 VPS 商需要提工单处理。一般来说，建议主机名与 PTR 保持一致。在 SMTP 服务器协商 STARTTLS 时，会在 banner 中声明自己的 hostname，对方会拿这个 hostname 去验证 PTR 记录是否相符。比如在 Postal 中，如果没有配置 `helo_hostname` 则会使用 `smtp_hostname` 的值作为此处的 hostname。
 

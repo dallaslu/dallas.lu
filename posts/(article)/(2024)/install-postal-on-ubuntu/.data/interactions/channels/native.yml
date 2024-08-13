@@ -1,0 +1,52 @@
+- type: reply
+  channel: native
+  id: 6e73d2d406da853d24654892af73886d21b2c75d
+  author:
+    name: Foe
+    email:
+      value:
+        encrypted: ZDdhZGQyODhlMDlkZjliMDliOTM2NmQ2NDIwMTY1YzkwYjIxMjY4NQ==
+        algorithm: aes-256-gcm
+        iv: 789138b54bb183966c52e68d
+        version: "1"
+      hash:
+        sha256: db098af8868cde02bb67bc5ca78ce10558f4b9f674546f06de6957b25fe14ab8
+  published: 2024-08-11T16:26:29.823Z
+  content: Is it possible to enable port 25 outbound traffic by sending a service
+    ticket in dmit?
+  ip:
+    encrypted: YTVjYThlNzE2ZjBlMThkYTU0ZTMxMTQ4NjViYWZjMDJkNjNmYmZlMTE0OTU3YzY2ODM5NTQ5NGE=
+    algorithm: aes-256-gcm
+    iv: e808116822a47bc9234ac1ca
+    version: "1"
+- type: reply
+  channel: email
+  id: 458553AA-65E5-49BA-B8A9-99015E6ED3D1
+  author:
+    name: Dallas Lu
+    verified: true
+    url: https://dallas.lu
+    email:
+      value:
+        encrypted: NzU0YjVlOGYxNzE3NjRhMjY3ZDNmZQ==
+        algorithm: aes-256-gcm
+        iv: 3e4fce8194116dd27a300e47
+        version: "1"
+      hash:
+        sha256: 0ac740f867d01353371baf0121d2705e4810a2cf1bb2401c620c27286b2005f3
+  published: 2024-08-11T17:09:38.712Z
+  content: It won't work.
+  target: 6e73d2d406da853d24654892af73886d21b2c75d
+- type: reply
+  channel: native
+  id: 2489bfb82712a5b58c7ec68e57495755a193f949
+  author:
+    name: DMIT.io
+  published: 2024-08-11T17:24:14.737Z
+  content: It doesn't sound very feasible.
+  target: 6e73d2d406da853d24654892af73886d21b2c75d
+  ip:
+    encrypted: MDFjNjU2NzAyYTk4OWYyMTU5MDVmNTdjOGVlYjM1ODYxYmFmZTJhMzc5YjkyMTQ0ZTdiZWUxYWU=
+    algorithm: aes-256-gcm
+    iv: 56cf395ae8a8f049fdb6741e
+    version: "1"
