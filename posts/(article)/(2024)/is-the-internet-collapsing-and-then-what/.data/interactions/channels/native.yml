@@ -103,3 +103,20 @@
     algorithm: aes-256-gcm
     iv: d60727c50a1f52e62ccf1894
     version: "1"
+- type: reply
+  channel: email
+  id: 6cdd67d9-25f2-42b1-bb0a-b895014dd1d0
+  author:
+    name: Dallas Lu
+    verified: true
+    email:
+      value:
+        encrypted: YWY3ZjFkN2NmZGVhNGZmYjA2M2EyZA==
+        algorithm: aes-256-gcm
+        iv: 5ff98c3ebbef656d5745ce7a
+        version: "1"
+      hash:
+        sha256: 0ac740f867d01353371baf0121d2705e4810a2cf1bb2401c620c27286b2005f3
+  published: 2024-08-13T07:41:18.759Z
+  content: 仿佛歌里唱的：今天啦，全球化呀，明天就自己过，啦啦啦
+  target: b69ae24014782758f9bd664fcffe630c911dad26
