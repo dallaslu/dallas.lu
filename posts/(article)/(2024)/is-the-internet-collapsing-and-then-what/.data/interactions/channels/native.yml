@@ -82,3 +82,24 @@
     algorithm: aes-256-gcm
     iv: 0390db2ea7a6cf16f70fbfd9
   target: 0bb57add9b2daa3938faacbb06a6ecbdbf3889fc
+- type: reply
+  channel: native
+  id: b69ae24014782758f9bd664fcffe630c911dad26
+  author:
+    name: Darmau
+    url: https://darmau.co/zh
+    email:
+      value:
+        encrypted: OGViZWU1Zjc3MGYzOTY5MGY0NmQxZTc0ZTY2YQ==
+        algorithm: aes-256-gcm
+        iv: aef7661fd9aa4c91881e6838
+        version: "1"
+      hash:
+        sha256: 1bb5a3802f2d3a2b577d5653bd212439157a9ad128f9832529e3ae65216428b9
+  published: 2024-08-13T06:35:50.889Z
+  content: 互联网只是一个缩影。我的一个感觉，中国整个“文明”，正在经历孤岛化。孤岛化的表现就是技术退步、不再与其他文明交流、演化出了一群只适合孤岛环境的奇形怪状的生物。但目前想法还很零碎，未来我会扩展成一篇长文讲讲。
+  ip:
+    encrypted: MDIwNjYxMmU3NDEwODQxMDdkZjNlYmJkYWI0NWIzNGE2ZmJlOWIwNzllMjI1Mzc1NGE3YmU4YzAzNDUxOGY3ZWVhMjEwMGZiY2U1NQ==
+    algorithm: aes-256-gcm
+    iv: d60727c50a1f52e62ccf1894
+    version: "1"
