@@ -21,7 +21,7 @@ taxonomy:
 
 ## 跳转链接问题
 
-重点在于使用VPS的同学很多人都用的是 nginx。在nginx 配置好证书之后，访问路径是 https://tuite.com，通过代理 oauth 方式登陆时，地址栏链接却会跳转到 http://tuite.com:443。问过 @[bang590](https://twitter.com/bang590) ，貌似这个问题只有我遇到。莫非是 nginx 下独有的问题？
+重点在于使用VPS的同学很多人都用的是 nginx。在nginx 配置好证书之后，访问路径是 https://tuite.com，通过代理 oauth 方式登陆时，地址栏链接却会跳转到 `http://tuite.com:443`。问过 @[bang590](https://twitter.com/bang590) ，貌似这个问题只有我遇到。莫非是 nginx 下独有的问题？
 
 ## 临时解决方案
 
