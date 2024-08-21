@@ -1,0 +1,12 @@
+- target: https://github.com/cokebar/gfwlist2dnsmasq
+  status: unsupported
+  updated: 2024-08-21T16:17:46.363Z
+- target: https://www.right.com.cn/FORUM/thread-8313005-1-1.html
+  status: unsupported
+  updated: 2024-08-21T16:17:48.243Z
+- target: https://access.redhat.com/documentation/zh-cn/red_hat_enterprise_linux/8/html/securing_networks/using-sets-in-nftables-commands_getting-started-with-nftables
+  status: unsupported
+  updated: 2024-08-21T16:17:52.100Z
+- target: https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/security_guide/sec-using_sets_in_nftables_commands
+  status: unsupported
+  updated: 2024-08-21T16:17:47.510Z

@@ -1,0 +1,10 @@
+- id: 092a906d1b559c85223d69e0b262f4f13e71bb5c9298b4bcf595479e7f4031eb
+  channel: webmention
+  webmention:
+    source: https://dallas.lu/note/1723692569268/
+    status: ok
+  url: https://dallas.lu/note/1723692569268/
+  created: 2024-08-21T16:17:46.920Z
+  updated: 2024-08-21T16:17:47.136Z
+  published: 2024-08-21T16:17:47.136Z
+  type: mention

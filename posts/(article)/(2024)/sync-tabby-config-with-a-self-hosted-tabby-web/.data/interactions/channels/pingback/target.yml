@@ -1,0 +1,9 @@
+- targetURI: https://github.com/Eugeny/tabby-web
+  status: unsupported
+  updated: 2024-08-21T16:17:46.964Z
+- targetURI: https://github.com/settings/applications/new
+  status: unsupported
+  updated: 2024-08-21T16:17:47.365Z
+- targetURI: https://registry.npmjs.org/tabby-web-container/
+  status: unsupported
+  updated: 2024-08-21T16:17:46.947Z

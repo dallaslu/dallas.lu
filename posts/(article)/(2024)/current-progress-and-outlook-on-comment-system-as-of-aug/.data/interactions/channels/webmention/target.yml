@@ -1,0 +1,18 @@
+- target: https://webmention.io
+  status: error
+  message: '404: {"error":"not_found","error_description":"account pingback not found"}'
+  updated: 2024-08-21T16:17:45.834Z
+- target: https://jason-memo.dev/posts/webmention/
+  source: https://dallas.lu/current-progress-and-outlook-on-comment-system-as-of-aug/
+  location: https://webmention.io/jason-memo.dev/webmention/qhKIKjewfDh04ITMd_bi
+  status: created
+  updated: 2024-08-21T16:17:45.917Z
+- target: https://www.mailersend.com/blog/post-comments-with-email-replies
+  status: unsupported
+  updated: 2024-08-21T16:17:52.815Z
+- target: https://v2ex.com/t/1062883
+  status: unsupported
+  updated: 2024-08-21T16:17:45.888Z
+- target: https://darmau.co/en/article/this-site-has-evolved-to-third-generation
+  status: unsupported
+  updated: 2024-08-21T16:17:50.763Z

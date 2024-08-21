@@ -1,0 +1,10 @@
+- id: 1d4a90f628af1508daf507a91d1073535a24c6464ec296dbe484c980d0d7432a
+  channel: webmention
+  webmention:
+    source: https://dallas.lu/is-the-internet-collapsing-and-then-what/
+    status: ok
+  url: https://dallas.lu/is-the-internet-collapsing-and-then-what/
+  created: 2024-08-21T16:17:47.694Z
+  updated: 2024-08-21T16:17:47.893Z
+  published: 2024-08-21T16:17:47.893Z
+  type: mention
