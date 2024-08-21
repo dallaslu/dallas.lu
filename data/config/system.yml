@@ -27,7 +27,7 @@ public:
     personal: true
   mention:
     send:
-      since: "2024-01-01"
+      since: "2024-08-01"
   pingback:
     enabled: true
   webmention:
