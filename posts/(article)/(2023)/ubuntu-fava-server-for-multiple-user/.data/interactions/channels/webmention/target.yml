@@ -1,0 +1,4 @@
+- target: https://dallas.lu/ubuntu-fava-server
+  status: error
+  message: '404: {"message":"Specified target URL not found"}'
+  updated: 2024-08-21T16:37:08.094Z

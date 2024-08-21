@@ -1,0 +1,10 @@
+- id: 7a4ca9b6bcc4cdfbcf5020ebfada9f3ff9671f15f404a0c45c0277ccd646c84a
+  channel: webmention
+  webmention:
+    source: https://dallas.lu/choose-to-implement-a-traditional-comment-system/
+    status: ok
+  url: https://dallas.lu/choose-to-implement-a-traditional-comment-system/
+  created: 2024-08-21T16:37:08.787Z
+  updated: 2024-08-21T16:37:09.191Z
+  published: 2024-08-21T16:37:09.191Z
+  type: mention

@@ -1,0 +1,10 @@
+- id: a44c1add23b28c2a46b676c84dbe4598f3c856cd386a3dd6e9cabc46ad45f621
+  channel: webmention
+  webmention:
+    source: https://dallas.lu/beancount-periodic-plugin-for-amortization-and-depreciation/
+    status: ok
+  url: https://dallas.lu/beancount-periodic-plugin-for-amortization-and-depreciation/
+  created: 2024-08-21T16:37:07.860Z
+  updated: 2024-08-21T16:37:10.205Z
+  published: 2024-08-21T16:37:10.205Z
+  type: mention

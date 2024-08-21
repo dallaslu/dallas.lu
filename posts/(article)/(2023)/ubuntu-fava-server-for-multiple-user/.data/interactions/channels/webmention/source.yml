@@ -1,0 +1,10 @@
+- id: c1c4eedda6f594a942d0511f952ff2cc76e6533e085995220d746a5c04559f30
+  channel: webmention
+  webmention:
+    source: https://dallas.lu/a-family-financial-mechanism-similar-to-a-business/
+    status: ok
+  url: https://dallas.lu/a-family-financial-mechanism-similar-to-a-business/
+  created: 2024-08-21T16:37:09.645Z
+  updated: 2024-08-21T16:37:10.103Z
+  published: 2024-08-21T16:37:10.103Z
+  type: mention

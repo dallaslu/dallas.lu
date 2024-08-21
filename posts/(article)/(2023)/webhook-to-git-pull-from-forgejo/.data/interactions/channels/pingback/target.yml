@@ -1,0 +1,9 @@
+- targetURI: https://github.com/adnanh/webhook
+  status: unsupported
+  updated: 2024-08-21T16:37:09.350Z
+- targetURI: https://github.com/adnanh/webhook/blob/master/docs/Hook-Examples.md#incoming-gitea-webhook
+  status: unsupported
+  updated: 2024-08-21T16:37:09.326Z
+- targetURI: https://github.com/adnanh/webhook/issues/280
+  status: unsupported
+  updated: 2024-08-21T16:37:09.306Z

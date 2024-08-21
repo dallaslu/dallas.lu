@@ -1,0 +1,10 @@
+- id: cc5a12d21ef1d8440030b5dedf9c54c836119ebd35a03728d3cb76dc732d35b3
+  channel: webmention
+  webmention:
+    source: https://dallas.lu/why-do-miit-fuck-apps/
+    status: ok
+  url: https://dallas.lu/why-do-miit-fuck-apps/
+  created: 2024-08-21T16:37:08.767Z
+  updated: 2024-08-21T16:37:09.141Z
+  published: 2024-08-21T16:37:09.141Z
+  type: mention
