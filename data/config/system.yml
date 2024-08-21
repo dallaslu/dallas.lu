@@ -25,14 +25,13 @@ public:
     default: CC-BY-NC-SA-4.0
   brand:
     personal: true
+  mention:
+    send:
+      since: "2024-01-01"
   pingback:
     enabled: true
-    send:
-      since: "2024-08-01"
   webmention:
     enabled: true
-    send:
-      since: "2024-08-01"
     callback:
       secret:
         hash:
