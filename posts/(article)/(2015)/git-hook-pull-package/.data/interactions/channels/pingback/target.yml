@@ -1,0 +1,15 @@
+- targetURI: https://gitlab.com/kpobococ/gitlab-webhook
+  status: unsupported
+  updated: 2024-08-21T17:06:17.484Z
+- targetURI: https://youhost/gitlab-webhook/gitlab-webhook-push.php
+  status: unsupported
+  updated: 2024-08-21T17:06:16.675Z
+- targetURI: https://gist.github.com/dallaslu/8bcd16294e1b0e380a3e
+  status: unsupported
+  updated: 2024-08-21T17:06:17.019Z
+- targetURI: https://gist.github.com/dallaslu/34f7010194dc7edc821d
+  status: unsupported
+  updated: 2024-08-21T17:06:16.803Z
+- targetURI: https://gist.github.com/dallaslu/0a7669719fb52fca0c98
+  status: unsupported
+  updated: 2024-08-21T17:06:16.971Z
