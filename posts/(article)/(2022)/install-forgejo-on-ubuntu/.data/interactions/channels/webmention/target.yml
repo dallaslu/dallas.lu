@@ -1,0 +1,6 @@
+- target: https://codeberg.org/forgejo/forgejo/src/branch/forgejo/custom/conf/app.example.ini
+  status: unsupported
+  updated: 2024-08-21T17:02:30.806Z
+- target: https://forgejo.org/download/
+  status: unsupported
+  updated: 2024-08-21T17:02:27.835Z
