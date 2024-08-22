@@ -2,9 +2,6 @@
 title: WP默认评论之非完美 AJAX
 date: '2009-06-01 23:16'
 author: 'dallaslu'
-comment:
-  enable: true
-  reply: true
 taxonomy:
     category:
         - WordPress
