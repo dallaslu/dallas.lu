@@ -49,6 +49,7 @@
 
     ==> rlys.nl/V5IdjB <=="
   lang: zh-CN
+  status: 'spam'
   ip:
     encrypted: NmJiOWEwMDIyNDEyMzQ5YzMzNTQ2NDU2ZTA=
     algorithm: aes-256-gcm
@@ -57,6 +58,7 @@
 - type: reply
   channel: native
   id: d58c0f25470a5debb299bc2a2a8d6517b73bb796
+  status: 'spam'
   author:
     name: DanielFar
     email:
