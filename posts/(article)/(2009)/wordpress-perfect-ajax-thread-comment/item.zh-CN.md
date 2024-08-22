@@ -4,7 +4,7 @@ date: '2009-06-04 20:27'
 author: 'dallaslu'
 comment:
   enable: true
-  reply: false
+  reply: true
 taxonomy:
     category:
         - WordPress
