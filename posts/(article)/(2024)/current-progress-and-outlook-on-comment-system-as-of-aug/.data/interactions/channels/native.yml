@@ -59,3 +59,25 @@
     algorithm: aes-256-gcm
     iv: 94488890ecdc92f881f42142
     version: "1"
+- type: reply
+  channel: native
+  id: 486be0336b7cf8240fcc002be3d99665ec112edf
+  author:
+    name: BennyPhomb
+    email:
+      value:
+        encrypted: NTUyOThmODBjMzdhMTVkOWRlZDk1ZDdkMGJjZjc5MzIxNTdiZDljYzNmYTI1NA==
+        algorithm: aes-256-gcm
+        iv: bc23f2469f366f98e8ea50ea
+        version: "1"
+      hash:
+        sha256: 6ab4c7804be61526503d50a1c70af8f1de0fe5f69f96ea93683c12931839ea96
+  published: 2024-08-22T15:34:09.485Z
+  content: "<a href=\"https://siski-138.ru/\">досуг иркутск</a>\r\n"
+  lang: en
+  ip:
+    encrypted: N2NiZWVmZWZjMWJmNjJjYTRmMGY4YWQyYmI=
+    algorithm: aes-256-gcm
+    iv: 955220438538a155a9d74189
+    version: "1"
+  status: auditing
