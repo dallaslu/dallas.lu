@@ -3,8 +3,8 @@ title: WordPress 完美 AJAX 嵌套评论
 date: '2009-06-04 20:27'
 author: 'dallaslu'
 comment:
-  enable: true
-  reply: true
+  enabled: true
+  reply: false
 taxonomy:
     category:
         - WordPress
