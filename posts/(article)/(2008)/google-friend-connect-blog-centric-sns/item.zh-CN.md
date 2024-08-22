@@ -3,7 +3,7 @@ title: 谷歌友情链接：以博客为中心的SNS
 date: '2008-12-06 21:16'
 author: 'dallaslu'
 comment:
-    enable: true
+    enabled: true
     reply: false
 taxonomy:
     category:

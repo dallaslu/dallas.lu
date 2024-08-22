@@ -3,7 +3,7 @@ title: 留言
 date: '2008-06-24 23:39'
 visible: true
 comment:
-  enable: true
+  enabled: true
   reply: true
   reverse: false
 ---
