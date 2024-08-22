@@ -39,6 +39,8 @@
 - type: reply
   channel: native
   id: a46ebfe84113e6fa8cd64078dc409eff76815a22
+  spam: true
+  status: rejected
   author:
     name: RobertNuank
     email:
