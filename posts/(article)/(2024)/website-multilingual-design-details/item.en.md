@@ -18,6 +18,7 @@ keywords:
   - i18n
 toc:
   enabled: true
+hackernews: https://news.ycombinator.com/item?id=41331782
 ---
 
 When I was using WordPress, I was wondering what kind of way to implement a multilingual website. WordPress itself has great support for multilingual UI, but building a multilingual website with WordPress is a bit difficult. I switched to Grav and learned a great way to do it. When I started writing my own programs, I was determined to implement a solution that worked well and made sense. This article discusses some of the design details involved.
