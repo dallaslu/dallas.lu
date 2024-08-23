@@ -131,7 +131,7 @@
     algorithm: aes-256-gcm
     iv: 25ae99e2eeca97b5d252d6da
     version: "1"
-  status: auditing
+  status: rejected
 - type: reply
   channel: native
   id: 7ea6e89cbb7c825f325582772822b426f5baba69
@@ -338,4 +338,4 @@
     algorithm: aes-256-gcm
     iv: e83b6ba98146b19ab789309f
     version: "1"
-  status: auditing
+  status: rejected
