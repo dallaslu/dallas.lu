@@ -99,7 +99,7 @@ Disallow: /en/
 
 ### Anchor links
 
-I've even handled anchor links. Because by default, the heading plugin for Markdown in general, assigns the id of this section heading in the Chinese version as `锚点链接`{lang=zh-CN}. If Chinese users share a link with an anchor without a language path, then English users will not be able to locate the section. Theoretically, adding attribute support to Markdown and specifying the id with `{#id=anchor-link}` in all languages would work. It's probably over-engineered and doesn't happen at all ......
+I've even handled anchor links. Because by default, the heading plugin for Markdown in general, assigns the id of this section heading in the Chinese version as `锚点链接`{lang=zh-CN}. If Chinese users share a link with an anchor without a language path, then English users will not be able to locate the section. Theoretically, adding attribute support to Markdown and specifying the id with `{#anchor-link}` in all languages would work. It's probably over-engineered and doesn't happen at all ......
 
 ### Comment system languages
 
