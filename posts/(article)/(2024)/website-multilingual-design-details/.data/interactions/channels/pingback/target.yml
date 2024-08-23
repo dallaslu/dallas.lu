@@ -1,0 +1,49 @@
+- targetURI: https://www.piglei.com
+  status: unsupported
+  updated: 2024-08-23T18:32:23.082Z
+- targetURI: https://www.piglei.com/articles/everyone-can-write-eng-blog/
+  status: unsupported
+  updated: 2024-08-23T18:32:23.079Z
+- targetURI: https://immersivetranslate.com/
+  status: unsupported
+  updated: 2024-08-23T18:32:25.226Z
+- targetURI: https://wordpress.org/plugins/qtranslate-x/
+  status: unsupported
+  updated: 2024-08-23T18:32:22.856Z
+- targetURI: https://wpml.org
+  status: error
+  message: "404: <html>\r
+
+    <head><title>404 Not Found</title></head>\r
+
+    <body>\r
+
+    <center><h1>404 Not Found</h1></center>\r
+
+    <hr><center>nginx/1.26.1</center>\r
+
+    </body>\r
+
+    </html>\r\n"
+  updated: 2024-08-23T18:32:23.132Z
+- targetURI: https://getgrav.org
+  status: unsupported
+  updated: 2024-08-23T18:32:23.956Z
+- targetURI: https://developers.google.com/search/docs/specialty/international/
+  status: unsupported
+  updated: 2024-08-23T18:32:24.423Z
+- targetURI: https://x.com/dallaslu/status/1785720867571601637
+  status: unsupported
+  updated: 2024-08-23T18:32:22.832Z
+- targetURI: https://www.cnbeta.com.tw/articles/tech/1431972.htm
+  status: unsupported
+  updated: 2024-08-23T18:32:24.972Z
+- targetURI: https://mp.weixin.qq.com/s/afg3zHPpEyRzSfOR1Aeh3w
+  status: unsupported
+  updated: 2024-08-23T18:32:24.433Z
+- targetURI: https://darmau.co/zh/article/we-are-witnessing-isolation-of-chinese-civilization
+  status: unsupported
+  updated: 2024-08-23T18:32:27.819Z
+- targetURI: https://darmau.co/en/article/we-are-witnessing-isolation-of-chinese-civilization
+  status: unsupported
+  updated: 2024-08-23T18:32:29.607Z
