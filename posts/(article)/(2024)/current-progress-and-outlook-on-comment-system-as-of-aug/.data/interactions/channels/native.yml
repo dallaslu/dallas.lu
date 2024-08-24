@@ -39,7 +39,8 @@
 - type: reply
   channel: native
   id: a46ebfe84113e6fa8cd64078dc409eff76815a22
-  spam: true
+  spam:
+    marked: true
   status: rejected
   author:
     name: RobertNuank
@@ -124,4 +125,4 @@
     algorithm: aes-256-gcm
     iv: da8e3a106ee58872cfb6a746
     version: "1"
-  status: auditing
+  status: rejected
