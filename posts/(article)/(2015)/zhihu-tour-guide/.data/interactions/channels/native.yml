@@ -339,3 +339,30 @@
     iv: e83b6ba98146b19ab789309f
     version: "1"
   status: rejected
+- type: reply
+  channel: native
+  id: 8ae5b3a1a4eed6b12da6dc51fc8eca9add22d33d
+  author:
+    name: JamesaPery
+    email:
+      value:
+        encrypted: MWQ3ZjU4ZTkzZjUzZTQ0YmY0MTc3YTI5M2I4NzRhZjZkZDBiMmM4MDgw
+        algorithm: aes-256-gcm
+        iv: 07b2ecd1e3f8992a2e492415
+        version: "1"
+      hash:
+        sha256: 1dec25569e6865ba928255036cad4eacbcc19f33e1a6893438155d11a1241dec
+  published: 2024-08-24T07:49:38.675Z
+  content: " Дальноме?р — прибор для измерения длин линий без непосредственного
+    откладывания мер длины вдоль линии.<>] Дальномер производит бесконтактное
+    дистанционное измерение расстояния до объекта.<>] Используется в геодезии,
+    для наводки на резкость в фотографии, в военном деле - <a
+    href=https://kola-nature.org/opticheskiy-nivelir-osnovy-i-primenenie.html>о\
+    птический нивелир.</a>"
+  lang: zh-CN
+  ip:
+    encrypted: NWI4MzQ1NTU2NWYxMjQ1NTdhMTFhMmQ4
+    algorithm: aes-256-gcm
+    iv: b402b54963b4985148559c02
+    version: "1"
+  status: auditing
