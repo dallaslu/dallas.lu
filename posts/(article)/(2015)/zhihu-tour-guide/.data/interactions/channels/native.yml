@@ -366,3 +366,32 @@
     iv: b402b54963b4985148559c02
     version: "1"
   status: auditing
+- type: reply
+  channel: native
+  id: ca3a30c05d8967bcf6970b60062819b5024b3657
+  author:
+    name: Mut
+    email:
+      value:
+        encrypted: OTZhNjY1ODY0MjBiMTUyYjE2NmQ0NjJkYzBhZWJiMmYyZWZhNzQ3ZWQy
+        algorithm: aes-256-gcm
+        iv: 908699141fc18f87541cd738
+        version: "1"
+      hash:
+        sha256: abef05c40f7c51e0146cb67cad88bb2b44de4bf2493abfee6c8945f980c62e7c
+  published: 2024-08-24T11:48:09.410Z
+  content: "Hello. \r
+
+    \ \r
+
+    This post was created with XRumer 23 StrongAI. \r
+
+    \ \r
+
+    Good luck :)"
+  lang: zh-CN
+  ip:
+    encrypted: MWJjYTllODkyNGExMWE1NDhhMWU3ZTVlYjY=
+    algorithm: aes-256-gcm
+    iv: 4fdaf32c82d19bc5251a419f
+    version: "1"
