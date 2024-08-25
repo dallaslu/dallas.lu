@@ -30,8 +30,10 @@ public:
       since: "2015-01-01"
   pingback:
     enabled: true
+    accept: true
   webmention:
     enabled: true
+    accept: true
     callback:
       secret:
         hash:
