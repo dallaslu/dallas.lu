@@ -845,3 +845,22 @@
     iv: d667bea4c4ccadef440ff6fa
     version: "1"
   target: 7994c4b3d1d09b0b3c9bdffc91eab9f564e9f127
+- type: reply
+  channel: native
+  id: 1e4c02a399072c7affb28d75dfd1e2a790ae3d08
+  author:
+    name: ""
+    url: https://bbs.53fz.xyz
+    lang: zh-CN
+  published: 2024-08-25T12:03:18.876Z
+  content: 魔力寶貝外掛https://bbs.53fz.xyz
+  lang: zh-CN
+  ip:
+    encrypted: OTdiOTIyMjRmMTdmNzAwNjI1MTAwM2ViMDE=
+    algorithm: aes-256-gcm
+    iv: 4b14ddfec89f152d331eec52
+    version: "1"
+  spam:
+    score: 5.08
+    marked: true
+  status: rejected
