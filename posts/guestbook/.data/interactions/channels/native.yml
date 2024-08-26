@@ -1043,6 +1043,9 @@
     против честных людей и уничтожающая организации, которые работают в
     интересах повышения материального благосостояния тысяч граждан России."
   lang: en
+  spam:
+    score: 10
+  status: rejected
   ip:
     encrypted: OGNjODIzZTJiZWU5MzdjYTQwNGRjYTRjZjU=
     algorithm: aes-256-gcm
