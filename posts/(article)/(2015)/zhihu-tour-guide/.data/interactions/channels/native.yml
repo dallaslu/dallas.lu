@@ -465,3 +465,30 @@
     score: 4.54
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 941aab01df99a70fafc29db5cb728266b15cbe89
+  author:
+    name: Climanah
+    email:
+      value:
+        encrypted: MGMyNGVjN2ViNjdiYzY5YjQzNDY5ODhhNTNlMzhiZmYxYTZjOTg=
+        algorithm: aes-256-gcm
+        iv: 7390e3ab6404d2dc4ed53227
+        version: "1"
+      hash:
+        sha256: 3d375dd3f1e91b148695c146f9b7420595da6c28b1ed6d55b3e25bc63d5f58d8
+  published: 2024-08-26T18:56:48.509Z
+  content: Самое <a
+    href=https://betnbet.by/bonus/vozvrat-betera-100-percent-summa-stavki-pri-nulevoi-nichei-juventus-como>порно
+    мужики</a> только у нас, переходите по ссылке и смотрите
+  lang: zh-CN
+  ip:
+    encrypted: ZjUxZmUzZWVmNmI4NWUzNDcyZWNhMTE0N2I3ZQ==
+    algorithm: aes-256-gcm
+    iv: beaaa77ba51825a2c07c5592
+    version: "1"
+  spam:
+    score: 5.8
+    marked: true
+  status: rejected
