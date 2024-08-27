@@ -34,7 +34,7 @@ There has been a long-standing conflict between the browser and the certificate 
 
 ## EV & UI Design
 
-In today's 1920 wide display resolution, the width left for the browser address bar is at least 1200 pixels. In the Firefox interface, there is a blank space before and after the address bar; on the left side is the privacy icon, on the right side is the reading mode and plug-in shortcut icon. It's reasonable to say that there's such a long company name as "宝鸡有一群怀揣着梦想的少年相信在牛大叔的带领下会创造生命的奇迹网络科技有限公司", but can't even "PayPal Inc." or "Apple Inc."?
+In today's 1920 wide display resolution, the width left for the browser address bar is at least 1200 pixels. In the Firefox interface, there is a blank space before and after the address bar; on the left side is the privacy icon, on the right side is the reading mode and plug-in shortcut icon. It's reasonable to say that there's such a long company name as "<span>宝鸡有一群怀揣着梦想的少年相信在牛大叔的带领下会创造生命的奇迹网络科技有限公司</span>{lang=zh-CN}", but can't even "PayPal Inc." or "Apple Inc."?
 
 Of course, browsers don't always run with maximized windows. How does Firefox deal with address bars? They hide part of the URL. So why can't corporate information get the same treatment? I've seen some people who almost never enter the URL manually. They are always searching for keywords in search engines and clicking links to enter the website. For these people, both of confusing URLs and complex buttons are useless. Just hide them, which can save a large amount of screen space.
 
