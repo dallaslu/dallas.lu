@@ -22,6 +22,7 @@ x.com:
   status: https://x.com/dallaslu/status/1779570633246183673
 nostr:
   note: note1xgph22n4n0mgl68pc3vqeq2julhwaxh7lmdgctmjjzqrn0xgmsysljgwtr
+hackernews: https://news.ycombinator.com/item?id=41369134
 ---
 
 X user plantegg, while testing MySQL connection issues, used IP 127.1, which piqued the interest of some netizens. When I first learned of this, I also doubted the legitimacy of my computer networking course. Thus, I've compiled some obscure knowledge akin to the "four ways to write the character 'hui'." Dear readers, remember! These facts are worth remembering. They'll come in handy when you work as a network administrator and need to write rules. (Earnest face)
