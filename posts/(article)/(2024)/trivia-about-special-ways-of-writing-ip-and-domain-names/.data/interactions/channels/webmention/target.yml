@@ -1,36 +1,36 @@
 - target: http://tesla.com.
   status: unsupported
-  updated: 2024-08-21T16:18:56.067Z
+  updated: 2024-08-28T18:18:04.611Z
 - target: http://google.com.
   status: unsupported
-  updated: 2024-08-21T16:17:46.966Z
+  updated: 2024-08-28T18:16:58.828Z
 - target: http://microsoft.com.
   status: unsupported
-  updated: 2024-08-21T16:17:45.666Z
+  updated: 2024-08-28T18:16:56.565Z
 - target: http://x.com.
   status: unsupported
-  updated: 2024-08-21T16:17:45.607Z
+  updated: 2024-08-28T18:16:53.268Z
 - target: http://amazon.com.
   status: unsupported
-  updated: 2024-08-21T16:17:45.900Z
+  updated: 2024-08-28T18:16:53.671Z
 - target: http://baidu.com.
   status: unsupported
-  updated: 2024-08-21T16:17:44.180Z
+  updated: 2024-08-28T18:16:58.592Z
 - target: http://openai.com.
   status: unsupported
-  updated: 2024-08-21T16:17:45.789Z
+  updated: 2024-08-28T18:16:53.646Z
 - target: http://to.
   status: unsupported
-  updated: 2024-08-21T16:17:43.778Z
+  updated: 2024-08-28T18:16:53.018Z
 - target: http://ai.
   status: unsupported
-  updated: 2024-08-21T16:17:43.779Z
+  updated: 2024-08-28T18:16:53.019Z
 - target: https://раураӏ.com/
   status: unsupported
-  updated: 2024-08-21T16:17:45.605Z
+  updated: 2024-08-28T18:16:53.291Z
 - target: https://x.com/plantegg/status/1773162126254952769
   status: unsupported
-  updated: 2024-08-21T16:17:45.655Z
+  updated: 2024-08-28T18:16:53.415Z
 - target: https://blog.cloudflare.com/dns-resolver-1-1-1-1
   status: unsupported
-  updated: 2024-08-21T16:17:47.866Z
+  updated: 2024-08-28T18:17:02.633Z
