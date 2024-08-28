@@ -15,7 +15,7 @@ Fantasy whining, strange skills, focusing on software development, Internet, sof
 
 Dallas is the name of a place in the United States, and was chosen as an English name because of its resonance.
 
-Born in 1989, the night before the political turmoil. Majored in software engineering and received a bachelor's degree. Now I am an IT professional living in Santa Rosa.
+Born in 1989, the night before the political turmoil. Majored in software engineering. Now I am an IT professional living in Santa Rosa.
 
 ### Email / Hangouts / iMessage / Jabble(XMPP) / Delta Chat / Mastodon / Nostr
 

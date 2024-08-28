@@ -14,7 +14,7 @@ process:
 
 ## 作者
 
-Dallas 是美國地名，因諧音選作英文名。 1989年那場政治風波前夜出生，托當代教育制度的福，主修軟體工程，獲學士學位。現在是一名IT從業人員。 
+Dallas 是美國地名，因諧音選作英文名。 1989年那場政治風波前夜出生，托當代教育制度的福，主修軟體工程。現在是一名IT從業人員。 
 
 ### Email / Hangouts / iMessage / Jabble(XMPP) / Delta Chat / Mastodon / Nostr
 
