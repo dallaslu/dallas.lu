@@ -196,3 +196,31 @@
     score: 6.48
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: db703f4052c6247f705025662b3274afa3a9c654
+  author:
+    name: PatrickIntex
+    lang: en
+    email:
+      value:
+        encrypted: Nzg2M2I4ZTViNmZjMDg2ZGE3MTQ2ZWJjYTllMTYzYWM5ZmIzN2JiNGRh
+        algorithm: aes-256-gcm
+        iv: d828140301be27b509ce0f42
+        version: "1"
+      hash:
+        sha256: 670ee5788d34adbedc5df3715aa65a5b2738936ed4357641af468140bffdb99e
+  published: 2024-08-29T23:54:21.548Z
+  content: "#3僱用一名殺手 名刺客
+    -  您可以在我們的網站上下令謀殺您不喜歡的人。我們的殺手可以開槍、刺傷人，甚至模擬街頭搶劫。如何毒害一個人而不留痕跡？下令綁架。命令毆打一個人。 \r
+
+    #3https://chinese-hitman-assassin.com/"
+  lang: zh-CN
+  ip:
+    encrypted: MDk3NTcyZDU5ODQ4NWRjMzk3OWE1NzNk
+    algorithm: aes-256-gcm
+    iv: 19be312d935c94656c422d01
+    version: "1"
+  spam:
+    score: 3.62
+  status: auditing
