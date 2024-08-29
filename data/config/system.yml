@@ -41,6 +41,8 @@ public:
   seo:
     indexnow:
       enabled: true
+  websub:
+    enabled: true
   openid:
     server: https://login.launchpad.net/+openid
     delegate: https://login.launchpad.net/+id/DksAAfk
