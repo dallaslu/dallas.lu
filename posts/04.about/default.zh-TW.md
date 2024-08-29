@@ -36,10 +36,10 @@ i&#64;&#100;a&#108;la&#115;.lu
 
 此证书由[亞洲誠信](https://www.trustasia.com/)赞助。
 
-| Serial Number | [`00C133FBA062DBD42888AA003286DB8913`](https://dallas.lu/0x1034A834_public.pem) |
+| Serial Number | [`0C:24:34:23:D1:78:D6:04:F1:B6:BF:96:AF:A9:73:7D`](https://dallas.lu/0x09C97580_public.pem) |
 | --- | --- |
-| SHA256 Fingerprint | `F8:FB:5D:8F:5E:C6:0C:32:26:1F:3C:01:2A:36:09:8C:9D:A1:39:1B:2E:1A:11:55:CA:CF:1B:4C:09:1E:1F:D9` |
-| SHA1 Fingerprint | `5C:34:ED:03:EE:C1:BF:3F:02:40:B6:45:73:C4:18:09:10:34:A8:34` |
+| SHA256 Fingerprint | `4C:42:78:71:B6:1E:69:08:04:E2:62:9E:12:11:8E:1F:10:48:46:D4:EA:A1:79:1D:5F:2E:1B:CE:27:38:95:7D` |
+| SHA1 Fingerprint | `F1:86:54:35:47:70:68:BA:45:3F:A9:1E:E6:F7:9F:F1:09:C9:75:80` |
 | 過期時間 | 2024年09月20日 |
 
 ## 伺服器搬遷歷史
