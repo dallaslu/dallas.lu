@@ -17,6 +17,7 @@ x.com:
   status: https://x.com/dallaslu/status/1777387021612503279
 nostr:
   note: note1030mew6qq8089jjygadxtljv3ulkyk8a9nx8e7geqdyjpx626kyqwntmk3
+hackernews: https://news.ycombinator.com/item?id=41390424
 ---
 
 It's 2024, and forums and other alternatives for mass communication still don't work well. Everyone is complaining about the inefficiency of WeChat groups and putting up with Telegram's tens of thousands of unreads (or marveling at its smooth one-click reads); wanting to escape from fragmented social networks, but also lamenting the decline of blogs and personal websites and their fragmentation; bashing Q&A platforms for being spammy, and content-sharing platforms for being un-nutritious. In short, it's all getting worse. There's often a nostalgia argument that harkens back to the vibe among the elite cliques of seed users in the early days of the product.
