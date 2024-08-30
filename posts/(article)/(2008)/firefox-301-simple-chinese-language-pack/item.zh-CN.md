@@ -1,2 +1,3 @@
 ---
 deleted: true
+---
