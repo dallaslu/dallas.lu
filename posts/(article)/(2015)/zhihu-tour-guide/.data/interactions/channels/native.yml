@@ -224,3 +224,35 @@
   spam:
     score: 3.62
   status: auditing
+- type: reply
+  channel: native
+  id: 91554cbae93f965513b0a1a76b9d4c4797081c2f
+  author:
+    name: JamesOrity
+    lang: en
+    email:
+      value:
+        encrypted: YjdlNzE2MTQ1MjJkYWE0MzAxNjg2YTEwNzc2YWUyMzhlODdkYjM3OWU4MDk1ZGU2ODc1MA==
+        algorithm: aes-256-gcm
+        iv: fe80dc03e518a4a51fd31c56
+        version: "1"
+      hash:
+        sha256: 7279c237e455a712fbad8dfb6049970c8206b5f2a795aa190d0562340b153e71
+  published: 2024-08-30T00:17:25.016Z
+  content: "Mega Darknet - это революционная платформа, где secrecy и
+    конфиденциальность become the foundation вашего цифрового опыта. Название
+    \"Mega Darknet\" ассоциируется с limitless possibilities и mystery. Это не
+    просто веб-сайт; это portal в uncharted world of the internet, где
+    traditional restrictions теряют свою силу. \r
+
+    <a href=https://megadark.link/>ссылка на mega market</a>"
+  lang: zh-CN
+  ip:
+    encrypted: NGNhM2ExN2VlZTVlYjFhMmFlM2M=
+    algorithm: aes-256-gcm
+    iv: ed0f08d13d8447470bd4d240
+    version: "1"
+  spam:
+    score: 5.78
+    marked: true
+  status: auditing
