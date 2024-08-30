@@ -256,3 +256,31 @@
     score: 5.78
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: dab46e58d8de10ddeeb245b28b66aacc845bfc3d
+  author:
+    name: Moneepoog
+    lang: en
+    email:
+      value:
+        encrypted: ZDdjMDcxZjc0YmQ4MmIxMjY3YWU0YzkxM2QwMjhhMGUxMDliNTg0Nw==
+        algorithm: aes-256-gcm
+        iv: 1d1062849cfe26a21caacd8d
+        version: "1"
+      hash:
+        sha256: 2a63235e5701b08e6bcb6af0f3e431504343cd78f6b490066ad196087d06d4f2
+  published: 2024-08-30T02:16:32.008Z
+  content: Информация об официальном входе в казино ПИНКО - регистрация, вход и
+    игра в лучшие азартные игры <a href=https://pinco-casino-wqy7.top/>на сайте
+    казино пинко</a>.
+  lang: zh-CN
+  ip:
+    encrypted: M2U5YjZiMDkwM2RjODIyZDQyYzFlYw==
+    algorithm: aes-256-gcm
+    iv: e26c0591ec3aec28fdff0eb9
+    version: "1"
+  spam:
+    score: 6.3
+    marked: true
+  status: rejected
