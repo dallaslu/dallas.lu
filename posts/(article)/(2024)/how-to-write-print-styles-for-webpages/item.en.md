@@ -65,6 +65,7 @@ article{
 
     @media print {
         --article-bg-color: #fff;
+        print-color-adjust: exact; /* force bg color if need */
         font-size: 12pt;
     }
 }
@@ -103,6 +104,14 @@ Hyperlinks generally have a default color, but in black and white printing, the 
 ```
 
 Similarly, `abbr` can be specified to display its `title` attribute.
+
+```css
+@media print{
+    abbr[title]:after {
+    content: ' (' attr(title) ')';
+    }
+}
+```
  
 ## Other media content
 
@@ -157,6 +166,11 @@ Page breaks can also be inserted when printing web pages, just like text layout 
     pre,
     blockquote {
         page-break-inside: avoid;
+    }
+
+    p {
+        widows: 4;
+        orphans: 3;
     }
 }
 ```

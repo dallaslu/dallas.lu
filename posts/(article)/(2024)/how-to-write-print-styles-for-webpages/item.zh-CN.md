@@ -65,6 +65,7 @@ article{
 
     @media print {
         --article-bg-color: #fff;
+        print-color-adjust: exact; /* force bg color if need */
         font-size: 12pt;
     }
 }
@@ -103,6 +104,14 @@ article{
 ```
 
 同理，还可为 `abbr` 指定显示其 `title` 属性。
+
+```css
+@media print{
+    abbr[title]:after {
+    content: ' (' attr(title) ')';
+    }
+}
+```
  
 ## 其他媒体内容
 
@@ -157,6 +166,11 @@ article{
     pre,
     blockquote {
         page-break-inside: avoid;
+    }
+
+    p {
+        widows: 4;
+        orphans: 3;
     }
 }
 ```
