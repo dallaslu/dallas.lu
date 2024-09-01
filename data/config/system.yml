@@ -42,7 +42,7 @@ public:
     indexnow:
       enabled: true
   websub:
-    enabled: true
+    enabled: false
   openid:
     server: https://login.launchpad.net/+openid
     delegate: https://login.launchpad.net/+id/DksAAfk
