@@ -87,7 +87,6 @@ For example, headers and footers, sidebars, action buttons, etc. in the page lay
         display: block;
     }
 }
-
 ```
 
 ## Hyperlink
