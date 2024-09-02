@@ -166,6 +166,7 @@ article{
     pre,
     blockquote {
         page-break-inside: avoid;
+        box-decoration-break: clone;
     }
 
     p {

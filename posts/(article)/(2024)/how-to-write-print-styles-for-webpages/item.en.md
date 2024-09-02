@@ -166,6 +166,7 @@ Page breaks can also be inserted when printing web pages, just like text layout 
     pre,
     blockquote {
         page-break-inside: avoid;
+        box-decoration-break: clone;
     }
 
     p {
