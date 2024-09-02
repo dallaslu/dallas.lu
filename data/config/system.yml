@@ -45,7 +45,6 @@ public:
     enabled: true
     endpoint:
       - https://pubsubhubbub.appspot.com/
-      - https://dallaslu.superfeedr.com/
   openid:
     server: https://login.launchpad.net/+openid
     delegate: https://login.launchpad.net/+id/DksAAfk
