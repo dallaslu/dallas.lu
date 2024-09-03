@@ -15,7 +15,7 @@ keywords:
   - 三体第一季
   - 网飞三体
   - 三体影评
-image: s01.webp
+featured: s01.webp
 review:
   item:
      type: Movie

@@ -9,7 +9,7 @@ taxonomy:
     tag:
         - Regexp
         - Mahjong
-image: mahjong.jpg
+featured: mahjong.jpg
 keywords:
   - 正则表达式
   - 麻将和牌

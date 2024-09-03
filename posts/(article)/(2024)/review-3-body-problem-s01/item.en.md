@@ -15,7 +15,7 @@ keywords:
   - 3-Body-Problem Season 1
   - Netflix 3 Bodiy Problem
   - Three Bodies Review
-image: s01.webp
+featured: s01.webp
 review:
   item:
      type: Movie

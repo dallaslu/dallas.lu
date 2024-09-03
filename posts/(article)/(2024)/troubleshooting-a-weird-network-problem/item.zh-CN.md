@@ -15,7 +15,7 @@ keywords:
   - telnet rst
 toc:
   enabled: true
-image: featured.webp
+featured: featured.webp
 x.com:
   status: https://x.com/dallaslu/status/1770674485869568367
 nostr:
