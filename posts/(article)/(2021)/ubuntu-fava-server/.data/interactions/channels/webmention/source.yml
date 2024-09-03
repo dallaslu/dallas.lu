@@ -1,0 +1,10 @@
+- id: e304eabc3ac3125e56e9025e2ed6d22446a15cd71e0bbeb616ed66bb268d7ff0
+  channel: webmention
+  webmention:
+    source: https://dallas.lu/ubuntu-fava-server-for-multiple-user/
+    status: ok
+  url: https://dallas.lu/ubuntu-fava-server-for-multiple-user/
+  created: 2024-09-03T16:07:17.391Z
+  updated: 2024-09-03T16:07:21.946Z
+  published: 2024-09-03T16:07:21.946Z
+  type: mention
