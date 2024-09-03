@@ -14,6 +14,13 @@ taxonomy:
         - Fava
 keywords:
   - 家庭账本怎么记
+  - Beancount 家庭账本
+  - Beancount 家庭财务
+  - Beancount 教程
+  - 记账工具
+  - 复式记账
+  - 家庭财务
+  - 财务管理
 toc:
   enabled: true
 x.com:
