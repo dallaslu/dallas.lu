@@ -16,7 +16,7 @@ taxonomy:
 
 ===
 
-!!!! __2022-12-26__ 可尝试更简单稳定的方案，如 Tabby 中自带的 Cloud Sync，或插件 Settings Sync。
+!!! __2022-12-26__ 可尝试更简单稳定的方案，如 Tabby 中自带的 [Cloud Sync](/sync-tabby-config-with-a-self-hosted-tabby-web/)，或插件 Settings Sync。
 
 Windows 中，Tabby 的配置文件是 `%USERPROFILE%\AppData\Roaming\tabby\config.yaml`（配置文件的位置可通过 Tabby 的`Settings`&gt;`Config File`&gt;`Show config file` 来获取 ），同目录下还有很多其他的程序文件、文件夹，我们当然只希望单独同步 `config.yaml` 这一个文件。而 Nextcloud 只支持同步文件夹。所以我们可以创建一个文件链接，让真实的 `config.yaml` 与另外一个专用文件夹中的 `config.yaml` 对应起来，以方便同步。鉴于 Windows 不能创建跨盘符的文件链接，为了更直观，我们选择使用 Nextcloud 的单独指定文件夹的同步功能。
 

@@ -158,9 +158,9 @@ systemctl reload nginx
 
 ## vCards 打包脚本改造
 
-!!!! __2022-04-13__ vCards 已经支持输出 Radicale 格式的数据文件。在 vCards 目录中执行 `npm run-script radicale`，然后再链接 `radicale` 目录到 `/home/radicale/collections/collection-root/cn` 即可。
+!!! __2022-04-13__ vCards 已经支持输出 Radicale 格式的数据文件。在 vCards 目录中执行 `npm run-script radicale`，然后再链接 `radicale` 目录到 `/home/radicale/collections/collection-root/cn` 即可。
 
-!!!! __2022-04-12__ vCards 版本更新，以下代码不再具参考性。
+!!! __2022-04-12__ vCards 版本更新，以下代码不再具参考性。
 
 ```bash
 sudo su -l radicale -s /bin/bash
@@ -274,4 +274,4 @@ npm run-script build-radicale
 
 注意：路径 `/home/radicale/collections/collection-root/cn` 中最后一级目录 `cn` 与订阅导入所需要的用户名一致，必须为英文，否则在某些客户端（如 iOS） 中将无法同步。
 
-!!!! __2022-01-11__ 可尝试使用由 1bps 提供的公开订阅服务：`vards.1bps.cn` (使用方法参考上方「订阅导入」，以 `vcards.1bps.cn`替换`radicale.example.com`)
+!!! __2022-01-11__ 可尝试使用由 1bps 提供的公开订阅服务：`vards.1bps.cn` (使用方法参考上方「订阅导入」，以 `vcards.1bps.cn`替换`radicale.example.com`)

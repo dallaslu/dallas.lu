@@ -25,7 +25,7 @@ toc:
 
 ===
 
-!!! 如果你仅需单用户，可参考更简单的方案：[用 Ubuntu 搭建可公网访问的 Fava 服务器](https://dallas.lu/ubuntu-fava-server/)
+!!! INFO 如果你仅需单用户，可参考更简单的方案：[用 Ubuntu 搭建可公网访问的 Fava 服务器](https://dallas.lu/ubuntu-fava-server/)
 
 ## 安装
 ### 安装依赖
