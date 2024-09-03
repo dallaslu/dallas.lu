@@ -8,11 +8,3 @@
   updated: 2024-08-21T16:37:10.103Z
   published: 2024-08-21T16:37:10.103Z
   type: mention
-- id: e4e7b219f08e839c8de344c3068bcc411bda41ee2dd92755570eb3c869cdced3
-  channel: webmention
-  webmention:
-    source: http://localhost:5173/note/1723642847610/
-    status: pending
-  url: http://localhost:5173/note/1723642847610/
-  created: 2024-09-03T16:08:43.051Z
-  updated: 2024-09-03T16:08:43.051Z
