@@ -5,5 +5,5 @@
 - target: https://dallas.lu/ubuntu-fava-server/
   source: https://dallas.lu/ubuntu-fava-server-for-multiple-user/
   location: https://dallas.lu/api/v1/webmention/status/e304eabc3ac3125e56e9025e2ed6d22446a15cd71e0bbeb616ed66bb268d7ff0
-  status: created
-  updated: 2024-09-03T16:07:17.405Z
+  status: unsupported
+  updated: 2024-09-03T17:03:41.466Z
