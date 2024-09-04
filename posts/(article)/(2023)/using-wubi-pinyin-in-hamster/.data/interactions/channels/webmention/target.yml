@@ -1,15 +1,18 @@
 - target: https://github.com/rime/rime-pinyin-simp
   status: unsupported
-  updated: 2024-08-21T16:37:09.172Z
+  updated: 2024-09-04T04:27:04.518Z
 - target: https://github.com/rime/rime-wubi
   status: unsupported
-  updated: 2024-08-21T16:37:09.106Z
+  updated: 2024-09-04T04:27:04.519Z
 - target: https://github.com/dallaslu/rime-wubi-pinyin
   status: unsupported
-  updated: 2024-08-21T16:37:08.988Z
+  updated: 2024-09-04T04:27:04.517Z
 - target: https://github.com/imfuxiao/Hamster
   status: unsupported
-  updated: 2024-08-21T16:37:09.004Z
+  updated: 2024-09-04T04:27:04.517Z
 - target: https://apps.apple.com/cn/app/id6446617683
   status: unsupported
-  updated: 2024-08-21T16:37:11.314Z
+  updated: 2024-09-04T04:26:11.731Z
+- target: https://github.com/KyleBing/rime-wubi86-jidian
+  status: unsupported
+  updated: 2024-09-04T04:27:04.516Z
