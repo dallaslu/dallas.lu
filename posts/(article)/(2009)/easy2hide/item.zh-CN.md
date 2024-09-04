@@ -1,8 +1,11 @@
 ---
 title: Easy to Hide
 date: '2009-06-11 18:00'
+modified: '2024-04-18 19:03'
 author: 'dallaslu'
-
+comment:
+  enabled: true
+  reply: false
 taxonomy:
     category:
         - WordPress
