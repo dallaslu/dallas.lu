@@ -20,6 +20,8 @@ keywords:
 
 ===
 
+!!! __2024-09-04__ 建议尝试更新活跃的 [rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian)。
+
 ## 五笔方案
 
 五笔拼音输入方案（wubi_pinyin）基于于五笔86（wubi86）和袖珍简化字拼音（pinyin_simp）两个方案。
