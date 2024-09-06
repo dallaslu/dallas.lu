@@ -62,3 +62,30 @@
     score: 5.28
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 773964aaf516d8338343c647acfc582bd428a0ce
+  author:
+    name: Carsonpoile
+    lang: en
+    email:
+      value:
+        encrypted: YjM2MTk1YjQ0MzM1OTNkOWZmNzg1ZDk5ZGI3MDljZDQ1YzU4NjU5Y2YwYjAyZg==
+        algorithm: aes-256-gcm
+        iv: 27917ef2e9553a1b4680776c
+        version: "1"
+      hash:
+        sha256: 213d98fc122c8449e23754c9bdff747a502cad8f9f537bf236c4bd3cc292ff14
+  published: 2024-09-06T10:13:31.706Z
+  content: "<a href=\"https://1xbetin.com/login-1xbet/\">How to recover password
+    1xbet</a>\r\n"
+  lang: en
+  ip:
+    encrypted: NjIwNGIzOWI5ODE3MDI2ODJiM2NiNDMwMTI=
+    algorithm: aes-256-gcm
+    iv: 4c09f2f5589a0c4d31f05320
+    version: "1"
+  spam:
+    score: 4.86
+    marked: true
+  status: auditing
