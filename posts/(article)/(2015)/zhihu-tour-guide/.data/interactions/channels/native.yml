@@ -109,3 +109,31 @@
     score: 6.31
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 52e47d0ff2604760787dfdf702c2f648c7eaf438
+  author:
+    name: Goseebymn
+    lang: en
+    email:
+      value:
+        encrypted: YTljOTk1NGZjNWM1MzQ4NWZmZDY0Zjk0ODJlMjI0NjYwOWFkZWJjNDc1
+        algorithm: aes-256-gcm
+        iv: 37be0631cb61df690432a5ca
+        version: "1"
+      hash:
+        sha256: bc7dcde47e21c3fa7c1aead815d3a98eee36cbd4b325c2baf07c37b3c2c25fb2
+  published: 2024-09-08T00:02:22.217Z
+  content: Онлайн-казино [url=https://1win-bf4.xyz/]1вин[/url] - популярный
+    игровой портал с широким выбором азартных игр и возможностью выигрывать
+    реальные деньги в увлекательных слотах и настольных играх.
+  lang: zh-CN
+  ip:
+    encrypted: ZmY2MDliMjZiYWI4NmJlMGYyNjQ3YjE0Y2U=
+    algorithm: aes-256-gcm
+    iv: 24e3fe636863d0966758e99d
+    version: "1"
+  spam:
+    score: 4.99
+    marked: true
+  status: auditing
