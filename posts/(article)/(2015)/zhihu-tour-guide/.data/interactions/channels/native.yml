@@ -353,3 +353,31 @@
     score: 4.11
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 4b83cd69f879dd475b6d7571ccf0b25679876e2b
+  author:
+    name: LieseDIZ
+    lang: en
+    email:
+      value:
+        encrypted: OWQzZGZiNTEyNGZlYzM4NmZlYzdlZjQ3YTRiODYyZWU5MWQ3YTIwNg==
+        algorithm: aes-256-gcm
+        iv: 698733a6f00b928cd558d6d6
+        version: "1"
+      hash:
+        sha256: cd2265f02cad1e6d082bf79d71c323306ca28c152f9e508748eee15b24cc8b38
+  published: 2024-09-09T08:45:25.016Z
+  content: На сайте представлена информация о зеркале официального сайта
+    букмекерской конторы [url=https://1xbet-ross.site/]1xbet[/url], позволяющем
+    обходить блокировки и продолжать участие в ставках.
+  lang: zh-CN
+  ip:
+    encrypted: YzI3NjYxZjI1MzlhMGNhNzI0NTZiZDZl
+    algorithm: aes-256-gcm
+    iv: 5bee3ed6fec7f3c8edac2eee
+    version: "1"
+  spam:
+    score: 5.09
+    marked: true
+  status: auditing
