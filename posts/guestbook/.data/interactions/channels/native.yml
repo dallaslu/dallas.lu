@@ -879,3 +879,40 @@
   spam:
     score: 3.4
   status: auditing
+- type: reply
+  channel: native
+  id: ff55e920342e984500ae587d099ab95705108c76
+  author:
+    name: Aluminium recycling analysis
+    lang: en
+    email:
+      value:
+        encrypted: Zjk5OGNhNzkyODcwODliN2YzMTBmOWI4Yjk3MzdjYTgxMTdmMTdkMjhiNTczYg==
+        algorithm: aes-256-gcm
+        iv: 96fe14e92cdee8b8b0c0fffb
+        version: "1"
+      hash:
+        sha256: 79bc592d1375858388f06676e36c3a7fad1536b26081b1c09ff5d7122b2cbe73
+  published: 2024-09-09T16:35:43.831Z
+  content: "Hola, new friend! I'm thrilled to meet a potential friend. \r
+
+    \ \r
+
+    Dear site owner, I must say, your website is a true gem in terms of design
+    and content. It's evident that you value your audience's experience. I'm
+    reaching out to share a battery recycling opportunity that aligns with your
+    commitment to eco-friendliness   <a href=http://akum.tel/>Earn from
+    recycling batteries</a> \r
+
+    \ \r
+
+    Take it easy, and may your spirit be lifted by the embrace of kindness"
+  lang: en
+  ip:
+    encrypted: NGUyNWJlODUzNzI0OTIxNjYxNWZlN2M3ZjYwMQ==
+    algorithm: aes-256-gcm
+    iv: caa4f9dce2e3980d57b5b1dc
+    version: "1"
+  spam:
+    score: 3.19
+  status: auditing
