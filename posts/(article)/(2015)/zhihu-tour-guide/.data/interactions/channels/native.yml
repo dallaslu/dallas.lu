@@ -425,3 +425,32 @@
     algorithm: aes-256-gcm
     iv: 26b2dc524cacd48a068ccc9d
     version: "1"
+- type: reply
+  channel: native
+  id: c04b11ced0a12bd45d57e969ad9ec4975101276d
+  author:
+    name: Josephrit
+    lang: en
+    email:
+      value:
+        encrypted: M2ZlODk5NDc1OTExZjFiYjNiZjkxZDc3NGI4NDVkNDExZjYwNGY5NjUzYTM2ODAwMjJmZDg4YWJkZA==
+        algorithm: aes-256-gcm
+        iv: bf674a7cbd37ec7da7abcff0
+        version: "1"
+      hash:
+        sha256: bd3990734f21b7597fb723806bbcacfb202fa9d0cb087eceb24fa21529f6a8e7
+  published: 2024-09-10T11:07:53.974Z
+  content: Каменные столешницы - это не просто модный тренд в дизайне кухонь, но и
+    практичное решение, способное прослужить долгие годы. Они придают интерьеру
+    особый шарм, презентабельность и аристократичность
+    [url=https://colorprofi.ru/iskusstvo-kachestvennyh-izdelij-iz-iskusstvennogo-kamnya/]https://colorprofi.ru/iskusstvo-kachestvennyh-izdelij-iz-iskusstvennogo-kamnya/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: Njk3YWRiZTcwNjQwOTlmMzg0OGI2YzAwZDg2Nw==
+    algorithm: aes-256-gcm
+    iv: 50de85b7496c99084ce92685
+    version: "1"
+  spam:
+    score: 8.84
+    marked: true
+  status: rejected
