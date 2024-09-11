@@ -335,3 +335,31 @@
     algorithm: aes-256-gcm
     iv: 979992d29242e984264c81af
     version: "1"
+- type: reply
+  channel: native
+  id: a63fe062d6a8e5db15a8ad299dfe4618e6719438
+  author:
+    name: JamesLox
+    lang: en
+    email:
+      value:
+        encrypted: ZWFlODE2YWU0NjQ1NDU0N2M0NTRjYTU0OTg2N2FlODFjNDIxYzc3ZTRmOTAwNDM5
+        algorithm: aes-256-gcm
+        iv: 79b1d2b38f9cefcb27b7af9a
+        version: "1"
+      hash:
+        sha256: cf8dc9d46a55542f6b7f1bb936fb7b61a52623a950ef7f02d03beb044f424618
+  published: 2024-09-11T18:30:04.610Z
+  content: Обменные пункты, производящие обмен валют Tether TRC20 (USDT) на
+    Монобанк UAH по привлекательным курсам
+    [url=https://www.freeboard.com.ua/forum/viewtopic.php?pid=983656#p983656]https://www.freeboard.com.ua/forum/viewtopic.php?pid=983656#p983656[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZjRmYjA0MTZiZTM4ZDRiZTY2Y2UwYjNkMTUwNQ==
+    algorithm: aes-256-gcm
+    iv: 7f482ac9c177bd864d7f592c
+    version: "1"
+  spam:
+    score: 6.19
+    marked: true
+  status: rejected
