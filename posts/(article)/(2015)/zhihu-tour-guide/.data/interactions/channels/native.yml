@@ -497,3 +497,40 @@
     score: 5.27
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 90a7c4eac911d9a4aa2cfaead3bc00c5b2708779
+  author:
+    name: Aluminium scrap quality assurance
+    lang: en
+    email:
+      value:
+        encrypted: NDJmMjg3NjE3MWFjMTI2NWQ3NTZiZjZmYjg5M2NkNGEzYzZkYmNmOWNjZWU3Yw==
+        algorithm: aes-256-gcm
+        iv: 6d7ff210caad97a31e70566f
+        version: "1"
+      hash:
+        sha256: 8766e63ee9a93388fa9c021dc7cff70670ea9796f52bfd90cc0546a8f60114dd
+  published: 2024-09-12T17:43:45.302Z
+  content: "Ahoj, pal! I'm excited to see what the future has in store for us. \r
+
+    \ \r
+
+    Hi there! Your website's user-friendly interface is commendable. Given your
+    emphasis on environmental awareness, we think our battery recycling program
+    would be of interest to you and your readers   <a href=http://akum.tel/>Cash
+    for vehicle batteries</a> \r
+
+    \ \r
+
+    See you down the line"
+  lang: zh-CN
+  ip:
+    encrypted: MGRjNzRiMDZjMTY3MDM1MGYwMzRhMTg5MzBjYQ==
+    algorithm: aes-256-gcm
+    iv: 8bf4fab180f95d67df4bab28
+    version: "1"
+  spam:
+    score: 5.75
+    marked: true
+  status: auditing
