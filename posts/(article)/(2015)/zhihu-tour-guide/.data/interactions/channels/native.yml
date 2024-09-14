@@ -683,3 +683,33 @@
     score: 4.97
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 80a874ddf3982f59510425487e9175f35c0de804
+  author:
+    name: DanielVef
+    lang: en
+    email:
+      value:
+        encrypted: YjlhMjAyOTY0YzliMDc5NDAwMTBlMjMyNTBjN2UwNjg3OWZjZjhkMGM2MTZmZGFk
+        algorithm: aes-256-gcm
+        iv: ed8d0dcb308c5e9b1a624524
+        version: "1"
+      hash:
+        sha256: 1960b28758a1e42e7aa5f9a43ce5f7712caa91794eb0cc77b44f962db0a099d5
+  published: 2024-09-14T17:32:14.351Z
+  content: "Играйте в лучшие казино, ТОП-10 список: честные и надежные, на
+    реальные деньги, быстрые выплаты и выводы, минималные ставки, лицензия и
+    проверенные, мобильные, популярные и новые, бонусы и фрисписны, слоты и
+    автоматы [url=https://t.me/s/cazinotopnews]рейтинг лучших онлайн казино для
+    игры на деньги и бонусами[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: NTNlNGZmMWE1NjNkNDI3OWUzNThhYTY4M2QyNQ==
+    algorithm: aes-256-gcm
+    iv: 08d975f6d8727e9bbcf01c08
+    version: "1"
+  spam:
+    score: 4.84
+    marked: true
+  status: auditing
