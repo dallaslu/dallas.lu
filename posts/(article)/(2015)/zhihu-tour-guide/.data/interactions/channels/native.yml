@@ -1003,3 +1003,32 @@
     score: 6.91
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f42454fda36af22685557d19a532f4b509cfe275
+  author:
+    name: Davidfaf
+    lang: en
+    email:
+      value:
+        encrypted: OTg4MTQ3MzQyOWQwY2M3NDBjZjZjMzgwNzNiMmFkYjQwZTUxN2ZiZGYxMTIyYjUzNWZjYWZjMjNlMjg1
+        algorithm: aes-256-gcm
+        iv: 98aac008858afc704f97cd6e
+        version: "1"
+      hash:
+        sha256: 983a6f7a7574df5dd4ae44bd7c93eea12493bd12f7e17a7e03061f4cc1118bd2
+  published: 2024-09-16T19:23:00.550Z
+  content: Внедорожник BYD Leopard — лучший вариант для комфортного преодоления
+    любых препятствий. Благодаря задней и передней блокировкам дифференциала он
+    обладает великолепной проходимостью [url=http://progressive-cars.ru/]li l9
+    цена[/url]
+  lang: zh-CN
+  ip:
+    encrypted: M2VkM2NlZDNmMzJkZjk1ZDNiYTkwZDIyMjlkZA==
+    algorithm: aes-256-gcm
+    iv: e3d1631b8d793693f20e4e21
+    version: "1"
+  spam:
+    score: 7.89
+    marked: true
+  status: rejected
