@@ -934,3 +934,31 @@
     score: 7.87
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f8b48b74832e1b67c46b3fa8b6444fc6c4af0d2c
+  author:
+    name: BrianPenia
+    lang: en
+    email:
+      value:
+        encrypted: ZjhiZjYyNDMzM2IyZDg3ZDMxYzYxMjMyZDY4Nzc3NDdlODM4ZTQzNmQ4Y2FjYw==
+        algorithm: aes-256-gcm
+        iv: bdb05612edcb0b6976a470f0
+        version: "1"
+      hash:
+        sha256: 11ae55d6c2a17840ab7c2d7139076d144775be6775a25459965be8c69bb8cf73
+  published: 2024-09-16T15:36:53.747Z
+  content: Школа парных танцев D-Fox во Владивостоке предлагает уникальную
+    возможность погрузиться в мир хастла – захватывающего и энергичного танца,
+    который завоевывает сердца танцоров по всему миру http://dfox-vl.ru/
+  lang: zh-CN
+  ip:
+    encrypted: OTcwMzQ1ZjM3NDBlYWQ5MmI3NzY0MzdkODExOQ==
+    algorithm: aes-256-gcm
+    iv: 676390cc5d88f5a11a2c3095
+    version: "1"
+  spam:
+    score: 7.76
+    marked: true
+  status: rejected
