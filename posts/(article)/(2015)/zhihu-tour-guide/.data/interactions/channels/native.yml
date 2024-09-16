@@ -905,3 +905,32 @@
     score: 6.8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c93fa1fb09bbcae1f1f52b756044c0567d6e763c
+  author:
+    name: ThomasTiz
+    lang: en
+    email:
+      value:
+        encrypted: Zjk1MWMxNmUwMTYzNTQ3OTExZDVhZTM3OWFmYjhlMTVlZjcyNTQ4YWViMTUwMGQyNTA4Mw==
+        algorithm: aes-256-gcm
+        iv: 550b5a54d799d411e229a125
+        version: "1"
+      hash:
+        sha256: 7fa28450ba5c6467b9aefc01107b555b697f660aeb3e37f46c43f0c0bd1743a2
+  published: 2024-09-16T05:48:28.287Z
+  content: Отказное (информационное) письмо подтверждает, что товар не нуждается в
+    прохождении обязательной сертификации до продажи. Мы подготовили для вас
+    ответы на самые популярные вопросы — о цене, требованиях, сроках отказного
+    письма, и где его купить https://dzen.ru/a/ZuQlWcS6C3ZUtygf
+  lang: zh-CN
+  ip:
+    encrypted: MmE2ZmVhYzhkMjRlMDA0NjQ4NjY5NWExOTFmNQ==
+    algorithm: aes-256-gcm
+    iv: dca006162e40c362ff47a79e
+    version: "1"
+  spam:
+    score: 7.87
+    marked: true
+  status: rejected
