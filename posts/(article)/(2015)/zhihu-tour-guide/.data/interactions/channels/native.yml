@@ -1032,3 +1032,31 @@
     score: 7.89
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0924ca2bb6dc5982857bdaf5dbd7881d845d1a5e
+  author:
+    name: LieseDIZ
+    lang: en
+    email:
+      value:
+        encrypted: YzVkMzYwOTU3ZDRjYTJkYzU4ZDhhNWVjYWViNjBiYTY4NjJmODZmNg==
+        algorithm: aes-256-gcm
+        iv: 1089770701c8655d8d4a5579
+        version: "1"
+      hash:
+        sha256: 75e1c286cc39501949e7e02b1d4ab1604c3d487bae6e8b642276cf1d72aee53a
+  published: 2024-09-17T01:09:53.449Z
+  content: Ищете доступ к официальным зеркалам
+    [url=https://1xbet-zl.xyz/]1xbet[/url]? На сайте вы найдете актуальные
+    ссылки на зеркала 1xbet для быстрого и удобного доступа к ставкам и играм.
+  lang: zh-CN
+  ip:
+    encrypted: OWU4MWI5MjE4Y2U1MmFjNjc5ODcwNDMy
+    algorithm: aes-256-gcm
+    iv: 9cd96a4b4b416b44cf20701c
+    version: "1"
+  spam:
+    score: 5.06
+    marked: true
+  status: auditing
