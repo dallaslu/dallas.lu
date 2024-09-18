@@ -1189,3 +1189,33 @@
     score: 6.51
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 16edd5771185abe83c0d08c2d145b70abd172a02
+  author:
+    name: Allanutevy
+    lang: en
+    email:
+      value:
+        encrypted: YzdiOTdmMTA5MGI5OWNlZWNhZGFmZGJmNzMyNGZmMzA3Mzk0NWJiMzI0MDA0N2M4Njk4NGU5MjJiZQ==
+        algorithm: aes-256-gcm
+        iv: 1bb7024b93f9af296a811d9a
+        version: "1"
+      hash:
+        sha256: 76520a8cdb425a7c0f95d429d828d3f349034319c16ed17033cc78d6b7a2cbc0
+  published: 2024-09-18T13:47:18.931Z
+  content: Организация вправе внедрить требования ISO 9001, применив их в своей
+    системе менеджмента качества, но при этом получение сертификата не является
+    обязательным. Решение о прохождении сертификации и получении сертификата
+    соответствия является добровольным решением компании
+    [url=https://www.behance.net/avelana/info]https://www.behance.net/avelana/info[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZTJiZGQwZjkwNDlmZDFiZjkyYzc0MjVh
+    algorithm: aes-256-gcm
+    iv: e8c07f772bb81f91d24a6eaf
+    version: "1"
+  spam:
+    score: 5.17
+    marked: true
+  status: auditing
