@@ -1159,3 +1159,33 @@
     score: 4.87
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: e19787a4a8c950be938af186c50c886479e6b2c8
+  author:
+    name: Charlescaw
+    lang: en
+    email:
+      value:
+        encrypted: ZjU0ODgzMTVlNjUwY2JlYjRhYTczMGIxMmIzNDFkMzk5YzNiYTFmMmRiNTAyOWE1M2IwNjFkMWQ0Zg==
+        algorithm: aes-256-gcm
+        iv: 198d9b63434192fb21e7b43f
+        version: "1"
+      hash:
+        sha256: 8ec18875609c3b50b6493ed098dbd0040940af14a5715afcd1c7cea13a150c42
+  published: 2024-09-18T05:28:09.902Z
+  content: Сегодня технологии достигли нового уровня, и искусственный интеллект
+    становится неотъемлемой частью нашей повседневной жизни. Системы обработки
+    информации способны понимать и генерировать текст, взаимодействуя с
+    пользователями на интуитивном уровне
+    [url=https://iuecwalocal81288.com/content/ai-%D0%B8-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0-%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6%D0%B5%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%B8-%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8]https://iuecwalocal81288.com/content/ai-%D0%B8-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0-%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6%D0%B5%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%B8-%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MWUwZDA0NzcwYjE4NjY4OWI1ZGUwYTUzNTlkMg==
+    algorithm: aes-256-gcm
+    iv: 89b2eae2a08d5ccfe604c87c
+    version: "1"
+  spam:
+    score: 6.51
+    marked: true
+  status: rejected
