@@ -46,3 +46,31 @@
     score: 7.8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c0901303d57eff468f109e1012d2460d7873c59c
+  author:
+    name: Edwardglive
+    lang: en
+    email:
+      value:
+        encrypted: YjBhYmU1MTJmOTBlNzFkNDAwNTVmODQzNzcyYWNjOTU0MWU0ODI2Mjc2OTRkM2E2
+        algorithm: aes-256-gcm
+        iv: 85e4b58af7e375ae00193879
+        version: "1"
+      hash:
+        sha256: 3f71691bf1230b6d014887e2fd59e83198f69c091454e69406afc585961b4a22
+  published: 2024-09-19T05:29:10.779Z
+  content: Выбирая игровые автоматы с выводом средств на карту, игроки могут
+    попробовать слоты с высоким процентом возврата и большими максимальными
+    выигрышами [url=https://onlinesloti.ru]Слоты на реальные деньги[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZTlkODMzMjkyN2Q1NDY1ZWVjYTQ0YTJjZjkwZg==
+    algorithm: aes-256-gcm
+    iv: 4d396a8b78842d981eaa2d5b
+    version: "1"
+  spam:
+    score: 7.91
+    marked: true
+  status: rejected
