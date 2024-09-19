@@ -74,3 +74,34 @@
     score: 7.91
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 14ffc7f7b5936b8069c09fac4f8a282e2fd76109
+  author:
+    name: DonaldNow
+    lang: en
+    email:
+      value:
+        encrypted: OGM3NGFlMDI0MjgxYzNlZTIxNTdiMDg3NzdjZGQ3OGJlMjAxZWMzMGNmNTU4ZTkw
+        algorithm: aes-256-gcm
+        iv: 360c298c4ee30c2874db3efc
+        version: "1"
+      hash:
+        sha256: 6f5f7f58d24082f51f993ba1209af53e0e94403cb2efdd0a34ccee32a9050446
+  published: 2024-09-19T08:54:04.611Z
+  content: Переподготовка медицинских работников со средним профессиональным
+    образованием – медицинское обучение необходимое для обеспечения
+    качественного оказания медицинских услуг населению и возможность для
+    медицинских работников
+    [url=https://www.edu-med-nmo.ru/proff_perepodgotovka_farmacia_288]аккредитация
+    массаж[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NTFjZGRhYmI5YjE1ODc3OWU4MjViOGNj
+    algorithm: aes-256-gcm
+    iv: d337a657732c5d35b614755d
+    version: "1"
+  spam:
+    score: 6.7
+    marked: true
+  status: rejected
