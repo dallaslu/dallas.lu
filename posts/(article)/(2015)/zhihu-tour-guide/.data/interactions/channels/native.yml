@@ -183,3 +183,34 @@
     score: 7.37
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 785634640c8662bae303d834e2bafad912021b0a
+  author:
+    name: Cartersnurb
+    lang: en
+    email:
+      value:
+        encrypted: MWM0MGMzMDUwMGUwZGE4ZjExNjdjOWQ3YzNlYWU4NzVjMTZjYzBhNmE3ZjJlMzI4YjY2OTkwY2I=
+        algorithm: aes-256-gcm
+        iv: cef35e2428062adf655a6d59
+        version: "1"
+      hash:
+        sha256: d226e889854858852b1e5e61b13fc26dbb32354a31e4c1a61c03d5a36cec98f9
+  published: 2024-09-19T17:12:10.754Z
+  content: Одним из ключевых аспектов сертификации является постоянное улучшение.
+    В рамках процедуры организации должны внедрять процессы, направленные на
+    непрерывное совершенствование системы управления качества. Это включает в
+    себя регулярные внутренние аудиты, анализ производства и внедрение
+    корректирующих действий
+    [url=https://zakon-273-fz.blogspot.com]https://zakon-273-fz.blogspot.com[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NjY4ZWMwYzViOTI5YjRiYWZiOTNiMWFkMWQ4NQ==
+    algorithm: aes-256-gcm
+    iv: e85b44764861f8e83a0a967d
+    version: "1"
+  spam:
+    score: 5.07
+    marked: true
+  status: auditing
