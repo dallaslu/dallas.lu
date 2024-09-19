@@ -154,3 +154,32 @@
     algorithm: aes-256-gcm
     iv: 4c0206da120213485dcc681d
     version: "1"
+- type: reply
+  channel: native
+  id: 0133b8686e598a2296f378c7cf72c540f4658349
+  author:
+    name: Robbyjak
+    lang: en
+    email:
+      value:
+        encrypted: ZTlkOWFmZDQyNzVmMThlNjk3NjQzMmY2MDNkN2E4YTczMjk4MmFmNzIwODdkYTUwNDNhYzA4YTc=
+        algorithm: aes-256-gcm
+        iv: f54cededd7c0ea4ca84d4a53
+        version: "1"
+      hash:
+        sha256: c62f51eabd6b592ae1655f7b514e464fffbe3bfef674da0b0d4d8c07d0a52be7
+  published: 2024-09-19T16:08:09.196Z
+  content: В настоящее время все больше и больше компаний ведет бизнес через
+    Интернет. Быстрое обращение с заказами, обратная связь с клиентами, прямой
+    контакт – все это является ключевыми моментами в успешном бизнесе
+    [url=https://www.press-release.ru/branches/internet/what-to-do-if-telegram-not-sending-sms/]https://www.press-release.ru/branches/internet/what-to-do-if-telegram-not-sending-sms/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: OTM1Nzg0MzY4YmZhNDVlMjZhNGMzMWI1
+    algorithm: aes-256-gcm
+    iv: d34ee3145efb89cb88b14ed3
+    version: "1"
+  spam:
+    score: 7.37
+    marked: true
+  status: rejected
