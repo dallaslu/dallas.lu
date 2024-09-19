@@ -17,3 +17,32 @@
     encrypted: NjcwNzg3NjZiZmU1ODc1MjJiNDRmYTdhM2M=
     algorithm: aes-256-gcm
     iv: 66c56f3716a4e7eaeb09dbd7
+- type: reply
+  channel: native
+  id: 7863b9be820a92b49c4e36923184ce70b4041938
+  author:
+    name: Josephgal
+    lang: en
+    email:
+      value:
+        encrypted: YjliYTU2Njc0YzVjYTRiZmI2ZDBmZDY4NDg0NTNkNTI4ZTNkNDc2ODA3YzAyMGU2YzcxMWI3MmQ0N2M5
+        algorithm: aes-256-gcm
+        iv: 54df102512d6e78a308cc70a
+        version: "1"
+      hash:
+        sha256: 909ebc504a4a75a22947db6c2550632c63d493c9772692618ef1037656422520
+  published: 2024-09-19T03:45:19.511Z
+  content: Сейчас узнаете о 10 лучших онлайн-казино в рейтинге игр на реальные
+    деньги репутации и других параметров в новом списке 2024 года. Лучшие
+    (Online casino) на реальные деньги [url=https://yu-k.ru]Лучшие казино 2024
+    года[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YWEwNzE4NzM1NjBhNjRkOTVlZDQ0MDcz
+    algorithm: aes-256-gcm
+    iv: 35f1a72842c1265e8cad7e1a
+    version: "1"
+  spam:
+    score: 7.8
+    marked: true
+  status: rejected
