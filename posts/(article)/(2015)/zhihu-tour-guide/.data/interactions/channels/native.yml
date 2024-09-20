@@ -245,3 +245,32 @@
     score: 4.97
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 3cb85321eb7f476bc2bcac59f843a2770f139501
+  author:
+    name: Ronaldmar
+    lang: en
+    email:
+      value:
+        encrypted: YTJlMzRiNzM1Y2E4ZWViMTY0NTg5MGJlNmU5NmQwMTNlNTFjMDZmNzE3YTA0YTgxMzMyYjdlMzVlMw==
+        algorithm: aes-256-gcm
+        iv: a13fae16503c78e79dd5b3a7
+        version: "1"
+      hash:
+        sha256: fa0922ff2602609f54e976fb3a957774c17225e064dc1126f943cb63eb408031
+  published: 2024-09-20T06:42:34.252Z
+  content: В мире онлайн-гемблинга существует множество казино, но Vodka Casino
+    выделяется среди остальных. Этот официальный сайт предлагает широкий выбор
+    игр, привлекательные бонусы и надежную репутацию
+    [url=https://bayatthelake.com/]водка 24 бет[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MjY1N2E2ZDE5ZjgxN2QwZGIwZWM2M2ZlM2MwZA==
+    algorithm: aes-256-gcm
+    iv: a9d8cebe5c5422e7d2bd1571
+    version: "1"
+  spam:
+    score: 4.88
+    marked: true
+  status: auditing
