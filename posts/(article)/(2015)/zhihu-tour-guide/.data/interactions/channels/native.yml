@@ -302,3 +302,31 @@
     score: 8.05
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 61afda71b5fd3747996dc4d4a0e71f48b367bcde
+  author:
+    name: RobertSaw
+    lang: en
+    email:
+      value:
+        encrypted: MzE1M2ZlOTI5OWM3ZGJmZTFiMTA4OTBhZThhODFkOGIzYjUwNjk0MmNlZTk3ZTIxYzFiZmRl
+        algorithm: aes-256-gcm
+        iv: d886ff1507ab8afd738df7a8
+        version: "1"
+      hash:
+        sha256: 6633377c2a3ed5966630fee764225de1aed014b3c1387b34044adfa803a261aa
+  published: 2024-09-20T12:11:18.264Z
+  content: Высочайшее качество продукции пищевого оборудования является одним из
+    приоритетных направлений развития нашей компании и одним из главных ее
+    преимуществ [url=http://ya-pack.ru/]пищевое оборудование[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MTA1ZTRmM2MyMjU5ZWI2ZmVhYjNmNjY2
+    algorithm: aes-256-gcm
+    iv: 4bbe750ab83c37f63bbd223d
+    version: "1"
+  spam:
+    score: 7.88
+    marked: true
+  status: rejected
