@@ -214,3 +214,34 @@
     score: 5.07
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 881494594eccb6fe199f2cfade94e2f572afcd3b
+  author:
+    name: JorgeRedly
+    lang: en
+    email:
+      value:
+        encrypted: ZThkOGJlZmViOTc0ZTc3YWM5N2JiNTI0MWZjODQ4MGJkMmM4NzM2MDA3Y2NkYjk5N2Y=
+        algorithm: aes-256-gcm
+        iv: cd057271ef0391381500c58a
+        version: "1"
+      hash:
+        sha256: 50e6cd9ef1244f72b263c146cca2f9d5b3eaaaaa2fad532a4a9ee011616b99d7
+  published: 2024-09-20T06:08:26.839Z
+  content: В эпоху цифровой коммерции Авито занимает лидирующие позиции среди
+    площадок для продажи товаров и услуг в русскоязычном сегменте интернета.
+    Ежемесячная аудитория сервиса превышает 60 миллионов пользователей, что
+    делает присутствие на платформе критически важным для успешной реализации
+    продукции и услуг
+    [url=https://vkurier.by/235635]https://vkurier.by/235635[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NTljYjY4ZmUxNDcxYmI0NjFjY2ZkYjgx
+    algorithm: aes-256-gcm
+    iv: 0f298a40b71e6c2e30f94e0b
+    version: "1"
+  spam:
+    score: 4.97
+    marked: true
+  status: auditing
