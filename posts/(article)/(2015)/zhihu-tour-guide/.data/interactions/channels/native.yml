@@ -41,3 +41,31 @@
     version: "1"
   spam:
     marked: true
+- type: reply
+  channel: native
+  id: fba84bb2a24b77e63ef9ee785029bac2725fadbf
+  author:
+    name: DarrenStind
+    lang: en
+    email:
+      value:
+        encrypted: ZDJhNTVhNjNhNDIwNTBiNTllNzRmNmMxZTBiZGY0OTFmMjJlNDM0ZjRkOGE2MmNiMjBiNjhkMjk2NTVmNmM=
+        algorithm: aes-256-gcm
+        iv: 14187ae6c62021a697345295
+        version: "1"
+      hash:
+        sha256: 8fc7084f5a4ebd470017da5824b6eb3d8458259e79c9f552ac364f44cf77d95e
+  published: 2024-09-20T15:37:19.415Z
+  content: Горизонтальные упаковочные автоматы для упаковки продуктов во флоу-пак,
+    имеющие надежную конструкцию и уникальное программное обеспечение
+    [url=http://oborudpromo.ru/]поставка пищевой промышленности[/url]
+  lang: zh-CN
+  ip:
+    encrypted: OTg2N2VkMjM5YjViYzkxODExYjJiYTBlODU0MA==
+    algorithm: aes-256-gcm
+    iv: b3fad82bc469e179038eea60
+    version: "1"
+  spam:
+    score: 7.96
+    marked: true
+  status: rejected
