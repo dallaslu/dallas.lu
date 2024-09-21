@@ -98,3 +98,32 @@
     score: 7.82
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: bcc4cdc4ff1ed8b6af0484f42e742cf088579b6e
+  author:
+    name: CharlesRix
+    lang: en
+    email:
+      value:
+        encrypted: M2UzMDJjNzYxNGY2ZWVkMTUwYmYyZTk1ZWZiMTI2ODQxOGQ1Y2FkNw==
+        algorithm: aes-256-gcm
+        iv: c5a9e96e45b706dc3b327c34
+        version: "1"
+      hash:
+        sha256: f26861d191231ee3520c61b2c5fcdcab80241018105434b96d9c9dd0c9c019f2
+  published: 2024-09-21T08:26:09.256Z
+  content: Квартиры-студии, предложенные иностранным покупателям на Северном
+    Кипре, часто путают с односпальными апартаментами. Однако эти объекты
+    отличаются друг от друга по метражу, наличию или отсутствию отдельной
+    комнаты [url=https://www.newton-apartment.ru/]кипр виллы[/url]
+  lang: zh-CN
+  ip:
+    encrypted: OWNjNGE3YzZkYjFiYmVjM2I4NDA3NzRhNDc2Zg==
+    algorithm: aes-256-gcm
+    iv: af16b0ed0fb50932a01b5a9b
+    version: "1"
+  spam:
+    score: 6.41
+    marked: true
+  status: rejected
