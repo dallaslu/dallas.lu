@@ -290,3 +290,33 @@
   spam:
     score: 3.04
   status: auditing
+- type: reply
+  channel: native
+  id: 1268a16135a2aab6108ee7958b808d63f2468a82
+  author:
+    name: Matthewnek
+    lang: en
+    email:
+      value:
+        encrypted: MTA5Y2U1M2M3OGU2ZDI0ZjVmZTBlMDg1NzQ0YjI0NmY1NWQxNjJmZGM5ZjBhNGE4Y2YzOA==
+        algorithm: aes-256-gcm
+        iv: 11d199db12aeae9159eb4c32
+        version: "1"
+      hash:
+        sha256: 53b287e3cd734029d547a10b7eaf338e1e35a4273e1cd1babaa357ddaf5bde3e
+  published: 2024-09-21T10:14:33.957Z
+  content: Откройте для себя лучшие дома на продажу на Кипре с широким выбором
+    вариантов, которые подойдут вашему образу жизни и бюджету. От современных
+    вилл до традиционных объектов недвижимости, найдите дом своей мечты среди
+    красивых и разнообразных ландшафтов Кипра
+    [url=https://overview-estate.ru/]купить квартиру на кипре на берегу[/url]
+  lang: zh-CN
+  ip:
+    encrypted: N2VkZjg4MmMzZjA3YWE1ZGI2YmU1Y2Nk
+    algorithm: aes-256-gcm
+    iv: 3f2d35d703e1c77e562bd2f6
+    version: "1"
+  spam:
+    score: 7.81
+    marked: true
+  status: rejected
