@@ -320,3 +320,31 @@
     score: 7.81
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 20a63afa295f017498d214108e7fe11dd5608103
+  author:
+    name: BasilmiC
+    lang: en
+    email:
+      value:
+        encrypted: MTk3NjU2MDk5MzhhYWE5MjZiYmM3ZGIyNmI4OTM3NDQzZThhYjEzNjI2MzZiYzM0MTQ=
+        algorithm: aes-256-gcm
+        iv: f29e9e899bc70717dbf661ee
+        version: "1"
+      hash:
+        sha256: 189a41ef29af887e88cc188b9c77596d315460a872792608cd5907786c7307ed
+  published: 2024-09-21T19:29:51.377Z
+  content: Как недорогие дома на Северном Кипре, так и роскошные виллы общей
+    площадью от 400 квадратных метров обустраиваются плавательными бассейнами
+    [url=https://f-h-cy.ru/]купить дом на кипре[/url]
+  lang: zh-CN
+  ip:
+    encrypted: N2UyMjdiNGVjY2JlMDJlOTcwOWEzZGE2YWNjNw==
+    algorithm: aes-256-gcm
+    iv: 74b8902f343540f5ae46a983
+    version: "1"
+  spam:
+    score: 7.9
+    marked: true
+  status: rejected
