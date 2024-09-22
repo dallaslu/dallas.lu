@@ -348,3 +348,31 @@
     score: 7.9
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9735990c022f36c9d4b3900e4e9641076b8115c8
+  author:
+    name: RubenRew
+    lang: en
+    email:
+      value:
+        encrypted: ZjlhYzdjODViOGY4OWVhOWFlN2UzNTVlZGQzZGEwYTI5NzFlNDlmZGY1MjJhM2VjNTAyZg==
+        algorithm: aes-256-gcm
+        iv: 90a4fa4e3f6be103de94e3e8
+        version: "1"
+      hash:
+        sha256: 3bb65288af97ebe59dd28972ac0a1e571bad9662fe2ba665411b3e0ccc4f8077
+  published: 2024-09-22T09:30:37.327Z
+  content: "Краткосрочная и долгосрочная аренда недвижимости на Кипре: цены,
+    планировки, фотографии и расположение на карте
+    [url=https://pride-land.ru/]кипр новостройки[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: YWU2Yzk4ZmNmNTRiNmY0OGE4NTBjZjlk
+    algorithm: aes-256-gcm
+    iv: 87d25f83228d7874c96edf8f
+    version: "1"
+  spam:
+    score: 8
+    marked: true
+  status: rejected
