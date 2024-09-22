@@ -376,3 +376,32 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 052f156b3981f5c990ee4e5e1f7b160008abe588
+  author:
+    name: Josephrop
+    lang: en
+    email:
+      value:
+        encrypted: ZDRkMzRmZDFjNjU0ZjU5MTg5NzkzNTdmOThjMmQyZmU2ZTUxOTJkZWRmNjY=
+        algorithm: aes-256-gcm
+        iv: 205039fa62fc0b0df3d39527
+        version: "1"
+      hash:
+        sha256: 92000afd0cad06bf221f70b13d8a6eadc9efa9de9f1bb3f582fb8047e097a9ab
+  published: 2024-09-22T09:54:29.929Z
+  content: Казино было открыто в 2017 году. Это лицензированная площадка,
+    функционирующая на основании действующей лицензии Кюрасао. Дизайн
+    официального сайта минималистичен. На стартовой странице находятся все
+    нужные раздел [url=https://uschinaseries.org/]Вавада[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NTc5ZWU2ZTlhZWJlM2NkY2IwMmE0YTgzZjEyOA==
+    algorithm: aes-256-gcm
+    iv: 9c2121657c72b48386240af6
+    version: "1"
+  spam:
+    score: 4.95
+    marked: true
+  status: auditing
