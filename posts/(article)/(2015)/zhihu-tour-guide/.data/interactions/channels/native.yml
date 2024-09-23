@@ -655,3 +655,32 @@
   spam:
     score: 3.01
   status: auditing
+- type: reply
+  channel: native
+  id: 22525b17df5551919fe65c6388afa669d8c576df
+  author:
+    name: Stuartacunc
+    lang: en
+    email:
+      value:
+        encrypted: MWZmZjMxMDI4ZDBlNmJkM2MyZjgyMDkxOGI2NmFjOWU3OTFjMjhiNDhmMTE2M2M1ZWU=
+        algorithm: aes-256-gcm
+        iv: d6fcfe5ab15b32835707de63
+        version: "1"
+      hash:
+        sha256: 94d40aae288b9164652025e31a3459b816c701c51474b913bf485047070cf3ca
+  published: 2024-09-23T08:17:17.299Z
+  content: Покупка виртуального номера конкретно для привязки к Телеграмм-каналу
+    имеет несколько достоинств, к числу которых относится
+    [url=https://monwall.ru/kak-bystro-zaregistrirovat-akkaunt-v-telegram-s-pomoschyu-virtualnogo-nomera/]купить
+    виртуальный номер телеграм[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MWQ2ZjQ0MmQwODBiMzI5MGM3OWIyYTk5YjliZg==
+    algorithm: aes-256-gcm
+    iv: 9f30ee1c5179af94bafd491e
+    version: "1"
+  spam:
+    score: 8.67
+    marked: true
+  status: rejected
