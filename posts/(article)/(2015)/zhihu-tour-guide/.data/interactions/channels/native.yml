@@ -772,3 +772,32 @@
     score: 5.22
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: dea4157deb3fa334854068f9283e66e3d11f479e
+  author:
+    name: Anthonyswafe
+    lang: en
+    email:
+      value:
+        encrypted: NGQxM2JlZGU1ZjU5OTA1Zjk4MzJmYTY4MzUxMjllYjAyMzA5YTA4MmZkNGM5Mw==
+        algorithm: aes-256-gcm
+        iv: f1ffeb994443b06e2cceeffe
+        version: "1"
+      hash:
+        sha256: 7cc83a819316e35ec806d970bc6fefdb43ec70a05c82f6174dbeee1e1f19f9f0
+  published: 2024-09-24T15:50:36.539Z
+  content: Pretty little village of the Gard, it is located 20 minutes from
+    Avignon or Orange - Saint Laurent des Arbres is a typical village of the
+    Gard Rhodanien in Provence.
+    [url=https://www.intensedebate.com/users/36831072]https://www.intensedebate.com/users/36831072[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NWNhZTI0MTU4ZmMwNWVhNzdkNWVlNDhi
+    algorithm: aes-256-gcm
+    iv: e1469af6ba8affd6e7b70696
+    version: "1"
+  spam:
+    score: 5.57
+    marked: true
+  status: auditing
