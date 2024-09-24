@@ -801,3 +801,32 @@
     score: 5.57
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 2a4f95118e64b0857c97d7d5cf32b2f87ccde2b7
+  author:
+    name: Oliverduh
+    lang: en
+    email:
+      value:
+        encrypted: OGMxMjJmYWY4MzQyNjQwMThhNzI2YzVhNzQ0OWE3MjQ2OTQyOGE0ZmQ1NThmN2ZkOGY=
+        algorithm: aes-256-gcm
+        iv: b3c38fd2721e488c3c34422f
+        version: "1"
+      hash:
+        sha256: 9e979acf9d67785ca868335ae820ff4cf180585a12c77a7c6aeae5a5023f1a28
+  published: 2024-09-24T20:21:19.531Z
+  content: If you are looking for an alternative way to set up a new messaging
+    app, WhatsApp, Signal, Line, Telegram or any other service that uses a
+    mobile phone number
+    [url=https://gost-snip.su/blog/preimushhestva-ispolzovaniya-socialnyx-setej-v-biznese/]https://gost-snip.su/blog/preimushhestva-ispolzovaniya-socialnyx-setej-v-biznese/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MzY3YTdmNGY0NzQ1NmQxMDA1ODQwN2Iy
+    algorithm: aes-256-gcm
+    iv: 41c010e8e9b9596e354d8834
+    version: "1"
+  spam:
+    score: 6.02
+    marked: true
+  status: rejected
