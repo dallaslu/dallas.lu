@@ -744,3 +744,31 @@
     score: 6.12
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 302a673eb267268f2f1a77d3b1b8bf6a92a8da37
+  author:
+    name: Michaelasymn
+    lang: en
+    email:
+      value:
+        encrypted: OWY3ZWVmZmU4NzEwMjk1NGRjNTY2MjcxYTJmYjllY2NhZTMwZTgyMWEwMzVmMmY3NGQzNDhjYjNkOQ==
+        algorithm: aes-256-gcm
+        iv: 7e848eacc06f6a2acd21442e
+        version: "1"
+      hash:
+        sha256: 722e3990f05ad9256f6aada5e1da1bc1072d970d3e4af3dc6df84c80c9fb489d
+  published: 2024-09-24T06:41:37.709Z
+  content: Pin Up – это официальная платформа для ставок на спорт, которая
+    получила лицензию в 2021 году и уже завоевала доверие среди бетторов в
+    Казахстане [url=https://pin-up-kz.online/]pin-up-kz.online[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZDQzMjAzYjIxOTk2NTIzNzQ2YWE3ZGQ0OGIyZA==
+    algorithm: aes-256-gcm
+    iv: f763391d3da7b47a0f5107c0
+    version: "1"
+  spam:
+    score: 5.22
+    marked: true
+  status: auditing
