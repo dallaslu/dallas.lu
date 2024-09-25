@@ -858,3 +858,31 @@
     score: 5.73
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 0f58196ef2d5867e6015f02830cdf9d7315f279e
+  author:
+    name: RobertSaw
+    lang: en
+    email:
+      value:
+        encrypted: N2JmMWE0ZmFmYTc1Mjc2MTJiNjc2NTNlODk4ZGYxNGJkMTY5NzFiNjkwZDNjYQ==
+        algorithm: aes-256-gcm
+        iv: 76e61b02022e29dd8d8ed766
+        version: "1"
+      hash:
+        sha256: bffd2e9580f39d0ee97c86fe6451d04a3dfcf99d058deac59e787255a364ed54
+  published: 2024-09-25T11:16:13.734Z
+  content: Новая нейросеть Яндекса YandexGPT 2 уже в приложении Яндекс. YandexGPT
+    помогает придумывать идеи, тексты на разные темы и многое другое
+    [url=https://trychatgpt.ru/]https://trychatgpt.ru/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MzkzYzM5MDU3ODQwZDYzNTk1ZWU4ZDIx
+    algorithm: aes-256-gcm
+    iv: 9e1ea67539d0b5afd120a8d8
+    version: "1"
+  spam:
+    score: 8.3
+    marked: true
+  status: rejected
