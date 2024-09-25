@@ -908,3 +908,31 @@
     algorithm: aes-256-gcm
     iv: 9ebf1594cc5610202a604603
     version: "1"
+- type: reply
+  channel: native
+  id: 0001513c5e7f4bbfd077e2ad03df10df249cffd8
+  author:
+    name: BennySluct
+    lang: en
+    email:
+      value:
+        encrypted: ZGM0YTI3MTI3ZGFlZDc4MzdhNTZkOGU5ODJiMDEyYzZmZGE5ZjYwYTNi
+        algorithm: aes-256-gcm
+        iv: 2fdbbed81550c05980abd22b
+        version: "1"
+      hash:
+        sha256: 8bbf491dfd7f268350a675d1ae91c46d05deb4f1b73952e0338e2f7e18149643
+  published: 2024-09-25T13:53:36.799Z
+  content: "Полный топ-Казино сайтов: нажмите здесь, чтобы получить бесплатный
+    доступ к списку лучших Казино сайтов мира [url=https://sykaaacas.ru/]sykaaa
+    зеркало[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: NDFmMDY0MTYwMjUyMWFmMTQ5M2Q4OTYw
+    algorithm: aes-256-gcm
+    iv: fda4a545aca9d2b3e7629138
+    version: "1"
+  spam:
+    score: 8.04
+    marked: true
+  status: rejected
