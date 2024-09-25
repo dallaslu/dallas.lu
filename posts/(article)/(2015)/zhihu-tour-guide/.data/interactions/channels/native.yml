@@ -965,3 +965,31 @@
     score: 8.06
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: bd5c4a22d8b5f6449c3f8d2dd643aca1cc447b05
+  author:
+    name: BennySluct
+    lang: en
+    email:
+      value:
+        encrypted: MmY0MDhjMDIwOTlkNDM5ZTU0ZDcxMDk5YTNjYmQ0NDg1ZGM0OTYzZjdkMDU=
+        algorithm: aes-256-gcm
+        iv: ff200b9f6b91a6de0e4a490e
+        version: "1"
+      hash:
+        sha256: 173a33e8d22f37fc885b2f35745b5f0d7ac00c5796e7cd4f4db43621d4c45da5
+  published: 2024-09-25T20:50:09.351Z
+  content: Сократите свои расходы на лизинг грузового и коммерческого транспорта,
+    автобусов и легковых автомобилей [url=https://car-yaroslavl.ru/]лизинг
+    грузового автотранспорта[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YWE3ZmM3ZWQwOTU3YmNjZDdmNWZiN2M3
+    algorithm: aes-256-gcm
+    iv: 3a18d79ab7d525750488991d
+    version: "1"
+  spam:
+    score: 8.06
+    marked: true
+  status: rejected
