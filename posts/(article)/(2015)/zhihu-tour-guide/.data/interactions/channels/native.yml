@@ -1148,3 +1148,32 @@
     score: 9.04
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0d8a7fa76b41e8bf553917fe99ad7f2611b24987
+  author:
+    name: MichealHek
+    lang: en
+    email:
+      value:
+        encrypted: OWM1YTBiODZjZTVjYTdkZGQ4YWNmNzI1YjQ2ZDViNTE1ZTBlNTZhZjBjNWE1YzQxYjYwN2IzMzU0Yg==
+        algorithm: aes-256-gcm
+        iv: 11a4e06236c9705058c39088
+        version: "1"
+      hash:
+        sha256: b5237f5d11333c74ed5e78bbbb4fa7e798f24d5c2d85098a36f652ca15870146
+  published: 2024-09-26T12:20:41.816Z
+  content: 1xSlots isn’t just appealing with its range of games. Here, you’re
+    embraced in 45 languages and the convenience of transactions, accommodating
+    both traditional payment method [url=https://1xslots-ru.ru/]1xslots
+    casino[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MmQ3OTNmY2I3MDBmNWQ1NTQ0YTYzNTQz
+    algorithm: aes-256-gcm
+    iv: 2f072c71e7713fa8b32de070
+    version: "1"
+  spam:
+    score: 7.9
+    marked: true
+  status: rejected
