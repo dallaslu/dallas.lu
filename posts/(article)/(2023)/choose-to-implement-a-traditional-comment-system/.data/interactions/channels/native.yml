@@ -160,3 +160,29 @@
     version: "1"
   spam:
     score: 0.54
+- type: reply
+  channel: native
+  id: 704eae971c069d796043f526390c238250aa6f76
+  author:
+    lang: en
+    url: 特定数据库
+    email:
+      value:
+        encrypted: OGEyMmE4MTRkYmI2Mzg3ZTk5ODU3Y2FhMWY1M2M0NDNlNTcwZjhlODdjNzFkZGI3YWNkN2ZmODQ4OWE3
+        algorithm: aes-256-gcm
+        iv: ad00514b668b4f422f79bc1e
+        version: "1"
+      hash:
+        sha256: 9b323d3c964a671cfb0b3b00344d4167c02d515b238f47d5cf18bccd815b34be
+  published: 2024-09-26T05:43:55.472Z
+  content: 2024 年全部更新 Telegram 中的号码列表 使用特定数据库将您的业务提高到新水平！您可以通过Bhai Data
+    List轻松与您的目标客户建立联系。我们更新的数据库包含准确的 Telegram
+    号码，这将使您的营销活动更加有效。与潜在客户建立联系并增加销售额。现在就访问我们的网站，为您的企业抓住最好的机会！
+  lang: zh-CN
+  ip:
+    encrypted: NjBiMDAzNTU4ZmY2ODc2OWNhZjUyNjA0
+    algorithm: aes-256-gcm
+    iv: 70e1e4bf6d87eebda799902d
+    version: "1"
+  spam:
+    score: 1.53
