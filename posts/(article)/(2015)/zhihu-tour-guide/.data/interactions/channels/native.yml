@@ -1206,3 +1206,31 @@
     score: 5.48
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 64a5ca18c2ddb21f001f78b45ea3a0f6b9e5098c
+  author:
+    name: ThomasDit
+    lang: en
+    email:
+      value:
+        encrypted: MTc4ZWFmZDY3NjdjYmQ2ZjgyNzE1NjM0NTExNjU0MDA0YWY1NmUxYTM4MGFiZTRmNWVlMzU3MDE4OTlkYzBhNGExZjI=
+        algorithm: aes-256-gcm
+        iv: 10dbb246c19ece4eaa611cce
+        version: "1"
+      hash:
+        sha256: fef95dacb7f98c71f733d6ca30388109014b3493975e79f527e8d04b7095174a
+  published: 2024-09-26T15:29:12.117Z
+  content: После обучения в автошколе и оформления медсправки, вы можете сдавать
+    экзамен в любом отделении Госавтоинспекции — не только по месту регистрации
+    [url=http://avtoshkola-saransk.ru]автошкола категория е[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MGQ5YWRjYjBkYjA3OGMxOTEzNWEwMjk0
+    algorithm: aes-256-gcm
+    iv: 32e42008517df64a5d106bc9
+    version: "1"
+  spam:
+    score: 8.05
+    marked: true
+  status: rejected
