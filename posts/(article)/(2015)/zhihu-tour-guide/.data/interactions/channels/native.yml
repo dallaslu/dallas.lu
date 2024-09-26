@@ -1234,3 +1234,31 @@
     score: 8.05
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 4774734576ca085497c8d8b0f87da60605b62d96
+  author:
+    name: JamesPoups
+    lang: en
+    email:
+      value:
+        encrypted: Y2VjM2JiYzBiNDJmNmVhYzRjNmViZDAyODRkNzgwNWQwMmE2OTdlMjU1NmE1ZjdjNjRlZDJjYWM2MGYx
+        algorithm: aes-256-gcm
+        iv: f4607b4a1d37a16e17031593
+        version: "1"
+      hash:
+        sha256: 690ac5eed79f32520e61f236ce68695bdb7ae1cfe33f112a7bf56dfc3f6e0f33
+  published: 2024-09-26T16:06:38.833Z
+  content: Процесс учебы в автошколах состоит из лекций и вождения. Стоимость
+    обучения в автошколе варьируется от 20 до 25 тыс рублей
+    [url=http://dosaaf-mk.ru/]автошкола в[/url]
+  lang: zh-CN
+  ip:
+    encrypted: N2Q1ZjY4OTQ3ZDE5MDUwMjBjOTRhNDM0NDQ2ZQ==
+    algorithm: aes-256-gcm
+    iv: 466cc133746bb6b6ce22f19b
+    version: "1"
+  spam:
+    score: 8.04
+    marked: true
+  status: rejected
