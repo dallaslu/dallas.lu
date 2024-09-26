@@ -993,3 +993,158 @@
     score: 8.06
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 12bd73e11959457a5db89636f7f79426f0bd5aae
+  author:
+    name: Jeremytax
+    lang: en
+    email:
+      value:
+        encrypted: YzExNGJhZDRhOWE1NjJkZGM1ZjY3OGQxMmE5ZDc2ZmY5OGI1MjQ=
+        algorithm: aes-256-gcm
+        iv: 435ab8f8f016f3f0e6ffe26d
+        version: "1"
+      hash:
+        sha256: 38aa1ccde317d762682b73fb524e711f0ee5dc3d8e4ca0495ebe83b3e024f1e7
+  published: 2024-09-26T09:02:15.047Z
+  content: " \r
+
+    \  The Balanset-1A is an essential portable device for dynamic balancing and
+    vibration analysis, tailored for different industrial rotors like crushers,
+    fans, and turbines.   \r
+
+    \ \r
+
+    [url=https://www.amazon.es/Balanset-1A-Dual-Channel-Vibration-Balancing-Ana\
+    lysis/dp/B0DCT5CCKT][img]https://vibromera.eu/wp-content/uploads/2021/11/%D\
+    0%91%D0%B0%D0%BB%D0%BA%D0%BE%D0%BC%D0%9A%D0%B8%D1%82-scaled-600x400.jpg.web\
+    p[/img][/url] \r
+
+    \ \r
+
+    \ \r
+
+    [url=https://www.amazon.es/Balanset-1A-Dual-Channel-Vibration-Balancing-Ana\
+    lysis/dp/B0DCT5CCKT]Order on Amazon[/url] \r
+
+    \ \r
+
+    \ \r
+
+    [b]Vibrometer Mode:[/b] \r
+
+    \ \r
+
+    \  Tachometer: Accurately tracks rotational speed (RPM) for effective
+    analysis.   \r
+
+    \ \r
+
+    \  Phase: Measures the phase angle of vibration signals for precise
+    assessment.   \r
+
+    \ \r
+
+    \  1x Vibration: Measures and analyzes the primary frequency component in
+    vibration.   \r
+
+    \ \r
+
+    \  FFT Spectrum: Offers a detailed frequency spectrum view of vibration
+    signals for in-depth analysis.   \r
+
+    \ \r
+
+    \  Overall Vibration: Ensures accurate monitoring of total vibration levels
+    for maintenance purposes.   \r
+
+    \ \r
+
+    [b]Balancing Mode:[/b] \r
+
+    \ \r
+
+    \  Single-Plane Balancing: Balances rotors in one plane to reduce vibrations
+    efficiently.   \r
+
+    \ \r
+
+    \  Two-Plane Balancing: Provides complete dynamic balancing by working in
+    two planes.   \r
+
+    \ \r
+
+    \  Polar Diagram: Displays imbalance on a polar diagram to guide precise
+    correction.   \r
+
+    \ \r
+
+    \  Last Session Recovery: Provides the convenience of continuing where you
+    left off in balancing.   \r
+
+    \ \r
+
+    \  Tolerance Calculator (ISO 1940): Calculates permissible imbalance
+    according to ISO 1940 standards.   \r
+
+    \ \r
+
+    [b]Advantages of Balanset-1A:[/b] \r
+
+    \ \r
+
+    \  High Efficiency and Quality: Ensures top-tier efficiency and quality in
+    diagnostic and balancing operations.   \r
+
+    \ \r
+
+    \  Ease of Use: Simple to operate, the Balanset-1A is accessible to users
+    with varying experience levels.   \r
+
+    \ \r
+
+    \  Customer-Centric Adaptation: The device can be customized to meet
+    specific customer needs, allowing it to tackle diverse balancing and
+    alignment tasks.   \r
+
+    \ \r
+
+    \  Affordable Price: This device is affordably priced, making it accessible
+    to a wide range of companies.   \r
+
+    \ \r
+
+    \  High Repeatability: The Balanset-1A guarantees repeatable and accurate
+    results, thanks to its advanced features.   \r
+
+    \ \r
+
+    [b]Conclusion:[/b] \r
+
+    \ \r
+
+    [url=https://www.amazon.es/Balanset-1A-Dual-Channel-Vibration-Balancing-Ana\
+    lysis/dp/B0DCT5CCKT]Order on Amazon[/url] \r
+
+    \ \r
+
+    \ \r
+
+    \ \r
+
+    \  Balanset-1A provides an efficient and economical approach to balancing
+    and vibration analysis, ensuring better equipment performance and
+    safety.   \r
+
+    \ "
+  lang: zh-CN
+  ip:
+    encrypted: ZDNkYzU0NzgwNzk1YjNiNjBhMzk1NTZiYjc2ODFj
+    algorithm: aes-256-gcm
+    iv: 2d9aa31116e32836629f2070
+    version: "1"
+  spam:
+    score: 9.04
+    marked: true
+  status: rejected
