@@ -97,3 +97,31 @@
     score: 4.98
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 7245badc5b357916fe5a10030a61362102e7f9b6
+  author:
+    name: Bryceamuro
+    lang: en
+    email:
+      value:
+        encrypted: YjcyNzQ1YTAwZDdjNDVmN2RhZWZhNmE1NjcxMGUxNTk1OTUzMGNlMWE0ZGU2MDA2YTcyNmI1OTkxYTM4NmNlNjkw
+        algorithm: aes-256-gcm
+        iv: 890ea16336704a6253f19cf9
+        version: "1"
+      hash:
+        sha256: 3b5e2c2575f9235d0c002daa7d75cecf433ed8fe708d1a7fda53ff5935d28dcc
+  published: 2024-09-27T07:31:25.840Z
+  content: Стоимость oбучения на водительские права в Москве, СПБ и других
+    городах. Стань водителем за 3 месяца
+    [url=http://avtoshkola-saransk.ru]сколько учатся в автошколе[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZTU3MDVkZDA4MWFiNGJkMDYyN2YzNzVh
+    algorithm: aes-256-gcm
+    iv: 603de45ad2c0790bff4be88e
+    version: "1"
+  spam:
+    score: 8.15
+    marked: true
+  status: rejected
