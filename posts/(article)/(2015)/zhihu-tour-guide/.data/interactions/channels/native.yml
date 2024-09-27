@@ -41,3 +41,59 @@
     version: "1"
   spam:
     marked: true
+- type: reply
+  channel: native
+  id: 20b6aa47060666132cb1254a30203ad6741fe715
+  author:
+    name: Venusdus
+    lang: en
+    email:
+      value:
+        encrypted: Mzk2MzNhYTBjMTM1ZjE2Mjg3MjJkOTMzZjMyYTc2YTFlYjBlYmZkNQ==
+        algorithm: aes-256-gcm
+        iv: bb56cb15af936af263f5024e
+        version: "1"
+      hash:
+        sha256: 70fd575d70f1950a761b7c5c70b3c3c1dab40344c25b490e7bc6b77edf77c243
+  published: 2024-09-27T02:25:52.582Z
+  content: Найдите актуальное [url=https://1wsyi.me/]зеркало 1win на сегодня[/url]
+    и получите доступ к популярному сайту для ставок на спорт и казино без
+    блокировок.
+  lang: zh-CN
+  ip:
+    encrypted: NjdiMzFlNjQzMzU1ZDQ3NjYzYThjNQ==
+    algorithm: aes-256-gcm
+    iv: e54aea262ac46cbf7af81d6a
+    version: "1"
+  spam:
+    score: 4.99
+    marked: true
+  status: auditing
+- type: reply
+  channel: native
+  id: 97604529a8026f0b3741554aa2c99a29d2ffcd4b
+  author:
+    name: YurenVub
+    lang: en
+    email:
+      value:
+        encrypted: ZTY2M2ZjOGJiNDM2MGRhODIwN2NlZjk2MWZjMWFiYWNlOWY1NTQ4NA==
+        algorithm: aes-256-gcm
+        iv: e1adfa37372cf87157bcdb9f
+        version: "1"
+      hash:
+        sha256: 31ae0c990d90c0cb43d24b71a0b857c4f1480afaac7dcbdbab3a2514a0063127
+  published: 2024-09-27T02:25:52.999Z
+  content: На сегодняшний день актуальное [url=https://1win-be4.xyz/]зеркало сайта
+    1win[/url] для удобного доступа к популярным игровым и ставочным разделам
+    без блокировок и перебоев в работе.
+  lang: zh-CN
+  ip:
+    encrypted: OTgwNDlmY2M0ZjE3Y2ZhZTc5YTc2YTgxM2U=
+    algorithm: aes-256-gcm
+    iv: 2f32db4c62ebdafecf795a45
+    version: "1"
+  spam:
+    score: 4.98
+    marked: true
+  status: auditing
