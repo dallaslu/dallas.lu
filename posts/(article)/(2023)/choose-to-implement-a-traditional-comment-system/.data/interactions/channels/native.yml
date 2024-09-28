@@ -324,3 +324,28 @@
     version: "1"
   spam:
     score: 0.57
+- type: reply
+  channel: native
+  id: 04aa2542a2bdaa4b286d257de55229876b5121cc
+  author:
+    name: 传真号码列表
+    lang: en
+    url: https://www.latestdatabase.com/zh-CN/fax-lists
+    email:
+      value:
+        encrypted: ZTYxZjkzZjBkOWIwYzU4NzBmMDdiOGY2MWJiMTQ3ZjE4NDc4OTg2MmY4OWJkYWU1YzNiZjEy
+        algorithm: aes-256-gcm
+        iv: 9a6323d7a76ad85f7e0a7aea
+        version: "1"
+      hash:
+        sha256: 35b77fe7fc0f4cf602904a2f397e927b665c50376f7b587c526f71905e8ab249
+  published: 2024-09-28T06:10:27.606Z
+  content: 数字传真机提供更快的速度、更好的质量和更高的安全性，是各种规模企业的宝贵资产。无论您发送的是敏感的医疗记录还是法律文件，传真机都是一种安全可靠的信息传输方式。
+  lang: zh-CN
+  ip:
+    encrypted: ODk2YzZhYjA3ZGM0YWI0OTFiN2MyZjg3NmM0ZWZk
+    algorithm: aes-256-gcm
+    iv: 275c7e9ffcbaf8456e6eb404
+    version: "1"
+  spam:
+    score: 0.5
