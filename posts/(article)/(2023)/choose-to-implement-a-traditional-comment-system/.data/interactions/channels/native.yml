@@ -349,3 +349,29 @@
     version: "1"
   spam:
     score: 0.5
+- type: reply
+  channel: native
+  id: dc132ba25aaf7d3802897c035fba8e207d675e12
+  author:
+    name: Telegram 数据
+    lang: en
+    url: https://wsdatab.com/telegram-data
+    email:
+      value:
+        encrypted: MzEwODQ1ZmY2YjI2Y2RlNzVhMDQwMjQxNTA2NTcwOTgxZmU3ZmU1MGZmNDY=
+        algorithm: aes-256-gcm
+        iv: b192da78e3189833c5517864
+        version: "1"
+      hash:
+        sha256: f08a4016e2479e035930f1859a8bbb0291e53d1f1824f976f9f2b7f1c8cdc839
+  published: 2024-09-28T06:22:03.499Z
+  content: "今年早些时候，Telegram 推出了 Telegram
+    Business，允许账户访问营业时间、位置、快速回复、自动消息、自定义起始页和聊天机器人支持等功能。\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: MjYwNTcyYjkzNmI0OWFhZmMyZDRhNjkwMWE5MA==
+    algorithm: aes-256-gcm
+    iv: fdc820b2af52de9e2455ce77
+    version: "1"
+  spam:
+    score: 1.25
