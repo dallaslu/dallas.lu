@@ -241,3 +241,35 @@
     version: "1"
   spam:
     score: 0.65
+- type: reply
+  channel: native
+  id: c2d412e6bc4cde1cc6134c41a32c77b4a72735ef
+  author:
+    name: WhatsApp数据
+    lang: en
+    url: https://zh-cn.dbtodata.com/whatsapp-data
+    email:
+      value:
+        encrypted: Yjk4NmQzNzUyYjgyYmZmMTk4NTliZTU2MzliMzgzZmIwNDNiOWRjMGMxYjljOQ==
+        algorithm: aes-256-gcm
+        iv: fe02c9302a78e03908394d24
+        version: "1"
+      hash:
+        sha256: 7ea9399d31eff2c8ef325ae6781cdfc14412bd65eac8a16bf068af9d19161f0d
+  published: 2024-09-28T04:51:34.880Z
+  content: 你好，我们非常欢迎 您可以带走贵公司的产品。 你好，你好吗？ 希望数据库用户欢迎 您可以带走贵公司的产品。 许多国家已经领先，他们说得很好。
+    特别是whats app数据工作得很好。 我们提供良好的客户服务。
+    WhatsApp数据是指WhatsApp消息平台用户生成和存储的信息，其中包括消息、媒体文件、联系人和其他与使用相关的数据。
+    作为全球最受欢迎的消息应用程序之一，WhatsApp每天处理大量数据。 WhatsApp允许用户将他们的聊天记录备份到云服务，可以在更换设备时恢复。
+    但是，这种备份不是端到端加密的，引发了隐私担忧。 WhatsApp使用端到端加密来保护用户消息的内容，确保只有发送者和收件人才能阅读它们。
+    用户之间共享的照片、视频、语音笔记和文档都存储在设备上，也可以备份。
+    WhatsApp数据在通信中起着至关重要的作用，但用户应该注意他们的数据是如何存储和共享的。但是，元数据并未加密，WhatsApp
+    会出于营销和分析目的与其母公司 Meta 共享某些信息。非常感谢。
+  lang: zh-CN
+  ip:
+    encrypted: NjM3MjgyY2M4MjZiNTczMjczZWUwOGVhN2E=
+    algorithm: aes-256-gcm
+    iv: c74324471a4738da1bb293e9
+    version: "1"
+  spam:
+    score: 0.92
