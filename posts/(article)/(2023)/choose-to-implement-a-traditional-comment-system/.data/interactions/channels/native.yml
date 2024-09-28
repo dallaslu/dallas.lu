@@ -163,3 +163,29 @@
     version: "1"
   spam:
     score: 0.53
+- type: reply
+  channel: native
+  id: f644dbc8e0c07b25b4da6d931adb540189413bb0
+  author:
+    name: Telegram数据
+    lang: en
+    url: https://zh-cn.dbtodata.com/telegram-data
+    email:
+      value:
+        encrypted: Y2Q4NTM3ODliZTU0ODYyMGNmNjE3OWQ1MWJiYmI2NDRjYmZmYjBkNGZkZTJkZmEyMzA=
+        algorithm: aes-256-gcm
+        iv: 8e300b645ff498473435f9d9
+        version: "1"
+      hash:
+        sha256: 51933d0a3b9d10fed1e6eeebc6a0357c1c61c4eae56c38e61fc8976c73d1c3cf
+  published: 2024-09-28T03:44:59.949Z
+  content: 你好吗？希望数据库用户受到欢迎。 Telegram
+    有一些消息传递软件不提供的附加选项。因此，如果您正在考虑开展广告活动，那么该软件可能是您和您的企业的最佳选择我们提供良好的客户服务 谢谢
+  lang: zh-CN
+  ip:
+    encrypted: YzdjZDcxOTdjNWJiOTkwNTlhNGNhMDViNjUzMTUx
+    algorithm: aes-256-gcm
+    iv: f5c65964883a07ce12159d6b
+    version: "1"
+  spam:
+    score: 0.77
