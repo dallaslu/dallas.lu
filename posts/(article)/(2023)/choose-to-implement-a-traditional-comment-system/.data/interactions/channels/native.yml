@@ -508,3 +508,30 @@
     version: "1"
   spam:
     score: 0.92
+- type: reply
+  channel: native
+  id: 5f5f4c606fcf3d67813d4ec7d924ba58bed4d627
+  author:
+    name: WhatsApp数据
+    lang: en
+    url: https://zh-cn.dbtodata.com/whatsapp-data
+    email:
+      value:
+        encrypted: NTM5MDk1NjA3OTFlMjhjNjMzMDNiM2M1MGEzNzdiYjVhZjdiMTg4YTYyNDgxNA==
+        algorithm: aes-256-gcm
+        iv: 5cca17ea3028476d1cbdd4c1
+        version: "1"
+      hash:
+        sha256: 7ea9399d31eff2c8ef325ae6781cdfc14412bd65eac8a16bf068af9d19161f0d
+  published: 2024-09-28T10:10:45.752Z
+  content: 您好，我希望数据库用户非常欢迎。您可以使用我们公司的产品。许多国家已经领先，他们说得很好。特别是 WhatsApp
+    数据工作得很好。我们提供良好的客户服务。WhatsApp 收集有关用户联系人列表的信息，这使得平台能够根据他们的电话号码帮助人们联系。WhatsApp
+    收集有关用户联系人列表的信息，这使得平台能够根据他们的电话号码帮助人们联系。非常感谢。
+  lang: zh-CN
+  ip:
+    encrypted: M2NkMmY2MWIzZDVjM2MzOTRmZTJmNzgxYzIyOTc3
+    algorithm: aes-256-gcm
+    iv: 00e09daab7e8f1d94be56fea
+    version: "1"
+  spam:
+    score: 0.85
