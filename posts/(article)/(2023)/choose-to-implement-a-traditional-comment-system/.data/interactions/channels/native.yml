@@ -273,3 +273,28 @@
     version: "1"
   spam:
     score: 0.92
+- type: reply
+  channel: native
+  id: 3a997032b6047a66c1f10c47324353d14bc2c0a3
+  author:
+    name: 技术创新
+    lang: en
+    url: https://zh-cn.bcellphonelist.com/shop
+    email:
+      value:
+        encrypted: YjJkZmQ0ODYyNjE2ZDJiMDFmZTlhOTU5ZDM1YmE4NzE3NDM0NzkxZWJjZDY0NjZmMGEyYg==
+        algorithm: aes-256-gcm
+        iv: d940254500a1de0bdc2d9fc5
+        version: "1"
+      hash:
+        sha256: 40358d62abe9e86327c07e5d08ca33554977294e44c1a980458b45a9555d45ab
+  published: 2024-09-28T04:57:29.747Z
+  content: 为新闻博客选择评论系统方面的真知灼见！选择正确的平台对于提高参与度和有效管理用户反馈至关重要。我很欣赏您对需要考虑的功能（如审核和垃圾邮件控制）的细分。这肯定会帮助博主为他们的社区做出明智的决定！
+  lang: zh-CN
+  ip:
+    encrypted: YzgyOWNhYjFjMjRkMDYzNTVjNDQzNjI3
+    algorithm: aes-256-gcm
+    iv: b30a9df6ba10a71d40d4b296
+    version: "1"
+  spam:
+    score: 0.5
