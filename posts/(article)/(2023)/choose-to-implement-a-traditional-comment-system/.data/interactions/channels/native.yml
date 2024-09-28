@@ -189,3 +189,55 @@
     version: "1"
   spam:
     score: 0.77
+- type: reply
+  channel: native
+  id: 2c674c0e3de2f7779dfa79e5688c0bcc43658cd4
+  author:
+    name: 特定資料庫
+    lang: en
+    url: 特定数据库
+    email:
+      value:
+        encrypted: MmYyOWUwNDJkYjhkYzc4NWM1YzA2N2VhZjI0NzEzYTU5NjRhZjEwZGU0Mzk5OGQyZmY0NjlmYmM4OTBi
+        algorithm: aes-256-gcm
+        iv: 3b32f30fd541db5c6a9c2914
+        version: "1"
+      hash:
+        sha256: 9b323d3c964a671cfb0b3b00344d4167c02d515b238f47d5cf18bccd815b34be
+  published: 2024-09-28T04:32:35.347Z
+  content: 我非常喜欢您对 Press
+    博客评论系统的分析！选择正确的平台来促进读者参与非常重要。您对每个选项的优缺点的分析非常有帮助。我很好奇您最终选择了哪个系统以及原因。感谢您分享如此宝贵的见解——这对任何希望增强博客互动的人来说都是很大的帮助！
+  lang: zh-CN
+  ip:
+    encrypted: MDAzY2ExMmRhODhmNDY4OWQ1YmM2ZmEy
+    algorithm: aes-256-gcm
+    iv: e9c9ab637aa92e451eca0196
+    version: "1"
+  spam:
+    score: 0.65
+- type: reply
+  channel: native
+  id: 3813a1dfc5f1c5c20354f927503c81104d590783
+  author:
+    name: 特定数据库
+    lang: en
+    url: 特定数据库
+    email:
+      value:
+        encrypted: ZThmZGE2MDMxZjhjMzFmNTAyZGVlMTZkYTU3MTI3MzFiNWFhZmEyNjhlMzJmYjljMmVlOGFmYjQ5ZWZl
+        algorithm: aes-256-gcm
+        iv: cfc6305b9ba8994f5f850a16
+        version: "1"
+      hash:
+        sha256: 9b323d3c964a671cfb0b3b00344d4167c02d515b238f47d5cf18bccd815b34be
+  published: 2024-09-28T04:32:52.779Z
+  content: 我非常喜欢您对 Press
+    博客评论系统的分析！选择正确的平台来促进读者参与非常重要。您对每个选项的优缺点的分析非常有帮助。我很好奇您最终选择了哪个系统以及原因。感谢您分享如此宝贵的见解——这对任何希望增强博客互动的人来说都是很大的帮助！
+  lang: zh-CN
+  ip:
+    encrypted: ZjliYmUxMzIwYWEwZTFlOWE5ZDMwMzky
+    algorithm: aes-256-gcm
+    iv: af4f04387393c3dcce430579
+    version: "1"
+  spam:
+    score: 0.65
