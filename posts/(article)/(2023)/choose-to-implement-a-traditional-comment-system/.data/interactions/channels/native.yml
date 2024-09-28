@@ -137,3 +137,29 @@
   spam:
     score: 2.5
   status: auditing
+- type: reply
+  channel: native
+  id: afa754e1dc33d18ad9146c8fb1c20008072db386
+  author:
+    name: 邮箱数据
+    lang: en
+    url: https://zh-cn.dbtodata.com/email-data
+    email:
+      value:
+        encrypted: NWQ0YWM5NWQ1MTliYzQ3YTc3ZDY3NzYwYWFkMWNkYjU1ZTA0ZWYyMGY4M2Q1ZDZiM2E=
+        algorithm: aes-256-gcm
+        iv: 676f7bec0e7c34a1042dae1e
+        version: "1"
+      hash:
+        sha256: 1db992b55d31161c6486a9521e10cd897df1ab2fd042d29946c726c70e993fbe
+  published: 2024-09-28T03:38:46.326Z
+  content: 我最近通过电子邮件购买了产品，我必须说，我对我的体验非常满意。产品准时到达，包装完好，质量超出了我的预期。当我对产品有疑问时，客户服务也很及时且乐于助人。
+    谢谢
+  lang: zh-CN
+  ip:
+    encrypted: OWMxYTQwZmRiOGYxM2I3MWFjNGE1NmZhNGUwOTli
+    algorithm: aes-256-gcm
+    iv: 18d4036cb465137344fac7e8
+    version: "1"
+  spam:
+    score: 0.53
