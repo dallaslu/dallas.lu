@@ -535,3 +535,28 @@
     version: "1"
   spam:
     score: 0.85
+- type: reply
+  channel: native
+  id: 40d655a4e76e9b9431e8ce0bd35466bd165f4ada
+  author:
+    name: 電話號碼
+    lang: en
+    url: https://zh-tw.bcellphonelist.com/shop
+    email:
+      value:
+        encrypted: NWI3ZTc4MTg4MzNiODVjZGI5OWE4OWFlYzRiMTIyMGIwZmI4OTE=
+        algorithm: aes-256-gcm
+        iv: 716fff29c657e0b9b01cc1a0
+        version: "1"
+      hash:
+        sha256: 2a69dc56585542e37e3e1a7ae366d326915f85f8a58c21d8e61db40877cf3cc9
+  published: 2024-09-28T10:34:16.428Z
+  content: 在選擇新聞部落格的評論系統時，功能與易用性至關重要。Disqus提供強大的社交媒體整合，便於用戶快速留言，增加互動性。另一方面，WordPress自帶的評論系統則簡單實用，適合新手。重要的是，選擇一個能有效防止垃圾留言，並促進有意義討論的系統，這樣才能提升讀者的參與感與回訪率。
+  lang: zh-CN
+  ip:
+    encrypted: YzY1MGM2NjY1ZWE3MjlmMjkyZjZkYmQ4NzY2Ng==
+    algorithm: aes-256-gcm
+    iv: de0b3616a4fb20ce2ee0f03b
+    version: "1"
+  spam:
+    score: 0.76
