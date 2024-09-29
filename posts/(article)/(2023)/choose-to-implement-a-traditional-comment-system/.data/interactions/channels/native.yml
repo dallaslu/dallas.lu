@@ -560,3 +560,28 @@
     version: "1"
   spam:
     score: 0.76
+- type: reply
+  channel: native
+  id: f7faafc3a28bd45939ffdf2d52849c15dcd43e9f
+  author:
+    name: WhatsApp 号码
+    lang: en
+    url: https://wsdatab.com/whatsapp-number
+    email:
+      value:
+        encrypted: NWU5MzEyYWU0YTU2MDBhNDI3ZDYzNGMzMzRmZTBmNThlOWU1MTYzMWRkYTA=
+        algorithm: aes-256-gcm
+        iv: a797c07df453b06ba4653adc
+        version: "1"
+      hash:
+        sha256: bc3cebc923e5839ef0746371cb83e8369935b529ef2b660c0708319d69e3836b
+  published: 2024-09-29T03:18:42.355Z
+  content: 创建企业资料，显示基本信息，例如您的企业名称、网站、电子邮件、地址和营业时间。它可以轻松访问客户的重要详细信息，帮助您建立业务
+  lang: zh-CN
+  ip:
+    encrypted: MzNlOWUwMWM0MmU5ZmNkNGQzMjA3NDdiNGQwOA==
+    algorithm: aes-256-gcm
+    iv: d12fe85cb3d5feb0ae861a65
+    version: "1"
+  spam:
+    score: 0.5
