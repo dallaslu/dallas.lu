@@ -218,3 +218,35 @@
     score: 4.76
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: b7b26efd0d2d205c8aa9011e3798d080011425bc
+  author:
+    name: DanielSit
+    lang: en
+    email:
+      value:
+        encrypted: ZDA2MzY0YjJjZDEwM2MwYzEzODkwNGE0YzA4ODkwMDA2MDU5YWNjOA==
+        algorithm: aes-256-gcm
+        iv: 39a58ee15609cdc281c502ba
+        version: "1"
+      hash:
+        sha256: cf84d90233c977c061f92510c8e3749e681e030937ed7ed986f6d3a4df3f0201
+  published: 2024-09-30T19:32:20.855Z
+  content: "Крым — это место, где можно удивиться невероятные культурные объекты.
+    \r
+
+    \ \r
+
+    <a href=\"https://crimeagood.ru/\">Оцените весь шарм и красоту удивительного
+    Крыма.</a>"
+  lang: zh-CN
+  ip:
+    encrypted: YWQxYjI0NzUxNzE0ZWU3ZTdjNDg5OTQ0ZDE=
+    algorithm: aes-256-gcm
+    iv: 2e1bc35d2c91c62d4ac1dded
+    version: "1"
+  spam:
+    score: 9.19
+    marked: true
+  status: rejected
