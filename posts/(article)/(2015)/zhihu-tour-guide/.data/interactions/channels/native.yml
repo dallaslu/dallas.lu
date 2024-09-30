@@ -179,3 +179,42 @@
     score: 5.36
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 11d89ef0a91f8823d49e2a3c852a3acfb63616f6
+  author:
+    name: Robertvow
+    lang: en
+    email:
+      value:
+        encrypted: Y2JhMDQ4NWNmNDUyY2U3YTQ1ZmFjNDg2YTFjYmNlN2Q5M2JjY2IxMDEy
+        algorithm: aes-256-gcm
+        iv: 5e96e976ad396be0e51c98f9
+        version: "1"
+      hash:
+        sha256: cc535d262c96c705ae839f088de1907a2c0b6930bbddb5531f7750500d2974a5
+  published: 2024-09-30T10:59:11.780Z
+  content: " \r
+
+    Hi everyone, I recently heard about a new platform thatвЂ™s going to open
+    soon, possibly called AFDAS (America's First Digital Asset Society). Has
+    anyone else heard anything? Please share the link if you have it. \r
+
+    \ \r
+
+    \ \r
+
+    \ \r
+
+    Platform link request AFDAS, [url=https://statistic2024.com]New platform
+    launch AFDAS[/url], Asset society AFDAS"
+  lang: zh-CN
+  ip:
+    encrypted: MGQ4MDc5N2YwMTliYWFhZDJhMmNlN2E3ZTk0OTEw
+    algorithm: aes-256-gcm
+    iv: 478b4525ca552af49a45cedb
+    version: "1"
+  spam:
+    score: 4.76
+    marked: true
+  status: auditing
