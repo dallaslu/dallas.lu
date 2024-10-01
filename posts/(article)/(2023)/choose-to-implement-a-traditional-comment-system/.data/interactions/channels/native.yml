@@ -727,3 +727,30 @@
     version: "1"
   spam:
     score: 0.56
+- type: reply
+  channel: native
+  id: f7c2bc31a5c9887ca30ead181223c31b024d4a5c
+  author:
+    name: 號碼庫
+    lang: en
+    url: https://zh-tw.dbtodata.com/phone-number-library
+    email:
+      value:
+        encrypted: MDRlNDQ1NzhjZmEyOTYzMTEzZWVkY2VkYTRmZjBiODU4YmFhMDA1MzNmNDllOTEz
+        algorithm: aes-256-gcm
+        iv: 5531e232f030ef2e30535b74
+        version: "1"
+      hash:
+        sha256: 96b130e466e158dd5d25fd0b166b0a060d8a20ac7829ce5debaa5014df146bbd
+  published: 2024-10-01T10:00:08.798Z
+  content: "我對數位庫非常滿意。其用戶友好的介面使其能夠無縫整合到專案中，從而減少錯誤並節省時間。因此，您可以輕鬆地使用這些商品。\r
+
+    謝謝。"
+  lang: zh-CN
+  ip:
+    encrypted: MjgwM2I2ZWMwNmFhZDk4MzAwYjAxMTNm
+    algorithm: aes-256-gcm
+    iv: aaec4c5e5a6dfba2181937ec
+    version: "1"
+  spam:
+    score: 0.56
