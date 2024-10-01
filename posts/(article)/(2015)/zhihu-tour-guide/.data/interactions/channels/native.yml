@@ -306,3 +306,55 @@
     score: 5.05
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 545341009778ce1b01e832d2521d29993c59a796
+  author:
+    name: Kevinobext
+    lang: en
+    email:
+      value:
+        encrypted: NGFjMzQwZDQ3ZDgyNWQzMjUyOGY2MzZjZWNmZGU0NGQ=
+        algorithm: aes-256-gcm
+        iv: cb9d1c684b4808422b95b15c
+        version: "1"
+      hash:
+        sha256: 7a61de12781ad137ba11d430512ea5128860e92d4691d17b9afd4fa9577f6359
+  published: 2024-10-01T10:35:59.017Z
+  content: "With Storyteller by Mootion, you can create amazing videos just by
+    entering your text. It's that simple! ������➡️������ \r
+
+    \ \r
+
+    Write Your Text: Simply provide the content you want to be transformed into
+    a video. \r
+
+    Smart Automation: Storyteller takes care of the rest. It generates visually
+    appealing images, adds voice narration, and includes subtitles to make your
+    message clear and engaging. \r
+
+    Save Time and Effort: Forget about complicated video editing processes. With
+    this tool, you get shareable videos ready in just minutes. \r
+
+    Perfect for content creators, marketers, entrepreneurs, or anyone who wants
+    to bring their stories to life without technical skills. Your video, your
+    voice, and your ideas—now more accessible than ever! \r
+
+    \ \r
+
+    Start today and see how easy it is to create visually engaging content with
+    Storyteller by Mootion. ✨ \r
+
+    \ \r
+
+    https://storyteller.mootion.com/referral?code=k7WDm7sRCJS"
+  lang: zh-CN
+  ip:
+    encrypted: NDc3NWU0M2Y5YmQyZGZkMWYwOTA0MGM1
+    algorithm: aes-256-gcm
+    iv: c53859fda6bec0a2b21d24ff
+    version: "1"
+  spam:
+    score: 4.69
+    marked: true
+  status: auditing
