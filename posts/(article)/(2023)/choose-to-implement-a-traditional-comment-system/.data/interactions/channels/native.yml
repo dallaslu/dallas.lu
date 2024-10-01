@@ -699,3 +699,31 @@
     version: "1"
   spam:
     score: 0.5
+- type: reply
+  channel: native
+  id: 03a63a95a1c3deecaedc6ce2c1722eedd6abde08
+  author:
+    name: 廣告資料庫
+    lang: en
+    url: https://zh-tw.dbtodata.com/advertising-database
+    email:
+      value:
+        encrypted: YTBiNjllOTE5MWRkMDZhMTI0OTQ2MmUwMWQ1MzQwYTg2MWU4N2Q1MzAxYjM=
+        algorithm: aes-256-gcm
+        iv: bb3b032f44c0d4af548a1667
+        version: "1"
+      hash:
+        sha256: f5f9c7aeee8cf496898a07c35575682743c521b079bf1a24976c797327847009
+  published: 2024-10-01T09:42:28.953Z
+  content: "你好，今天怎麼樣？恭喜資料庫用戶。我希望能夠更輕鬆地定位特定受眾群體，並改善廣告定位並優化廣告活動效果。我們的產品因其能量容量而受到廣泛讚\
+    賞。\r
+
+    謝謝"
+  lang: zh-CN
+  ip:
+    encrypted: MGVmZGVjYzU5NzIxNjBkYTUwZDU1OGEwNDg1ZWZl
+    algorithm: aes-256-gcm
+    iv: c5fc14b8f01af8906d26366c
+    version: "1"
+  spam:
+    score: 0.56
