@@ -779,3 +779,30 @@
     version: "1"
   spam:
     score: 0.53
+- type: reply
+  channel: native
+  id: 7ae90df4c516d96fee576b86b9de534e0f4d7d70
+  author:
+    name: 美國電話數據
+    lang: en
+    url: https://zh-tw.bcellphonelist.com/america-cell-phone-number-list
+    email:
+      value:
+        encrypted: NDg1YTdjMGQ0NWEwZGIxNTI5NDdjYmE3YjNmNmQ3YTUxOTRhNDAyZDZm
+        algorithm: aes-256-gcm
+        iv: 5b9e31eded8c59bdef003d9d
+        version: "1"
+      hash:
+        sha256: 3eaffcd72b0c041f00467d79fd6d3ab5a250957aa22e1993e0666f04c0ee7a6e
+  published: 2024-10-01T10:32:51.122Z
+  content: "通过 CDN 将评论功能集成到 Hexo 听起来像是一种创新方法！使用 CDN
+    可以提高加载速度并改善用户体验，这对于吸引访客至关重要。探索与 Hexo 无缝协作的最佳评论系统会很棒。您是否找到了任何特定的 CDN
+    选项，可以真正增强功能而无需复杂化设置？\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: YmQyYjczMmVhMzMzZjdlOWY5ZjBmNTBhNTBkOQ==
+    algorithm: aes-256-gcm
+    iv: 69d00898f400e206b00a2a6b
+    version: "1"
+  spam:
+    score: 0.95
