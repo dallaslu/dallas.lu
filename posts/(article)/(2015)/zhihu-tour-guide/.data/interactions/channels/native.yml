@@ -75,3 +75,32 @@
     score: 6.29
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: bfd1ab01b87a2a0dd77f185e23d92ff8cd4e6c39
+  author:
+    name: Shelbyswite
+    lang: en
+    email:
+      value:
+        encrypted: YzE4MmQ4YTVmYTY0MDVmYmNlNDJhZThh
+        algorithm: aes-256-gcm
+        iv: 4c360a1f704c88f649161f9a
+        version: "1"
+      hash:
+        sha256: faf51c5222c0fd317f9558ad4981b964a62d1c21914479c783186ee84655187c
+  published: 2024-10-03T18:30:55.948Z
+  content: R7 Casino зеркало является надежным способом получения доступа к
+    любимому казино даже в случае блокировки основного сайта. Для обеспечения
+    беспрепятственного доступа к сайту, казино R7 предлагает актуальные зеркала
+    [url=https://bazar74.ru/]р7 казино официальный[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZGMxNjY5MWZlZTFiNTJjY2FkZjRlOTVjN2Q0MA==
+    algorithm: aes-256-gcm
+    iv: 176945070c47209fa957b5a5
+    version: "1"
+  spam:
+    score: 7.75
+    marked: true
+  status: rejected
