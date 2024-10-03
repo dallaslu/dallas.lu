@@ -17,3 +17,33 @@
     encrypted: NjcwNzg3NjZiZmU1ODc1MjJiNDRmYTdhM2M=
     algorithm: aes-256-gcm
     iv: 66c56f3716a4e7eaeb09dbd7
+- type: reply
+  channel: native
+  id: 64e1384425c7ab1b1bc4c1b4e0ea7e982745a53c
+  author:
+    name: Brucesaf
+    lang: en
+    email:
+      value:
+        encrypted: ZDZhNjQzMjYzZjQ3MjdmNTk5ZDNkMDVm
+        algorithm: aes-256-gcm
+        iv: c99f580a6162aaf264ef4f03
+        version: "1"
+      hash:
+        sha256: 46e4dfd04f5eb0d677b2c3b503110db104b7e91c80ecc40366849e32b35d6bb9
+  published: 2024-10-03T10:37:27.471Z
+  content: Букмекерский клуб Mostbet одним из последних пришел на рынок России.
+    Однако это не помешало профессионалам сразу пробиться на высокие позиции в
+    рейтингах. Оператор добивается этого за счет честных условий в ставках на
+    спорт и в игровых аппаратах, а также через большое количество бездепозитных
+    бонусов [url=https://mostbetcasino-ru.com/]mostbet зеркало[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YzJhM2IyMTBmMjU3NTMwMWFjYTMxNTgzYjM0ZA==
+    algorithm: aes-256-gcm
+    iv: dbc3afa937c58dea724f20b8
+    version: "1"
+  spam:
+    score: 4.81
+    marked: true
+  status: auditing
