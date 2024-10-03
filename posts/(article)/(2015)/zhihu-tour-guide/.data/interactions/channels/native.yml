@@ -104,3 +104,33 @@
     score: 7.75
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ae3b00b030ec3e0a146c3923c9a916302f321cce
+  author:
+    name: Walterrit
+    lang: en
+    email:
+      value:
+        encrypted: MTJiNzExNTUxNjFlM2Q2N2ZhMGQ5ZWZh
+        algorithm: aes-256-gcm
+        iv: 89832ddd7e3cf931cfff8b2a
+        version: "1"
+      hash:
+        sha256: d1b399d66f44fb98fd4ca01b1190006705a51e6824d592534dd1e9a22f2bccb5
+  published: 2024-10-03T20:24:28.603Z
+  content: Обмены электронных валют мгновенны. Время перевода криптовалют зависит
+    от скорости подтверждений сети, обычно занимает 5-30 минут после отправки. В
+    случае загруженности сети блокчейн, данное время может увеличится
+    [url=https://kolba.com.ua/index.php?topic=143362.new#new]Обменник
+    криптовалют в Киеве[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NmQyYzlmNzM1MTI5Y2M3MTYwNjg1ZmI5YTJkOQ==
+    algorithm: aes-256-gcm
+    iv: f67760a272b0a3f664b2ab39
+    version: "1"
+  spam:
+    score: 5.09
+    marked: true
+  status: auditing
