@@ -415,3 +415,33 @@
     score: 5.67
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: f83ecd89fc40f8e0f034a6c3941a2824ab0628ea
+  author:
+    name: JoshuaErope
+    lang: en
+    email:
+      value:
+        encrypted: YTdiOTE2YzA5YTI0MmJlZDg3NTI1YTI4ZWY=
+        algorithm: aes-256-gcm
+        iv: e5368d922cb3d56c8c091fbb
+        version: "1"
+      hash:
+        sha256: 0f39733a7b75cc2ed5b9da0a640ac56a10a99b6cf16595c7d7abf5dc7eac6067
+  published: 2024-10-04T22:28:49.643Z
+  content: Противопожарные подушки предназначены для уплотнения и изоляции
+    кабельных проходок, создания огнепреградительного пояса с целью
+    предотвращения
+    [url=https://samaraonline24.ru/interesnoe/view/setka-mane-primenenie-v-stroitelstve]сетка
+    манье[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NWUwZjA2YzNmMGEwM2ZhN2VlNzVkZDg5OGUxNQ==
+    algorithm: aes-256-gcm
+    iv: a8798773983e6014c7542627
+    version: "1"
+  spam:
+    score: 8.53
+    marked: true
+  status: rejected
