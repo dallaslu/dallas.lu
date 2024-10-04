@@ -358,3 +358,31 @@
     score: 8.12
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 30b9bfd82d95a949a8c62c76ab8f8047983045b0
+  author:
+    name: VictorKen
+    lang: en
+    email:
+      value:
+        encrypted: MGRkZDExMmM2NWVjYjRiYTZiNThkOWJk
+        algorithm: aes-256-gcm
+        iv: 3cd0d6d20a656055ac360e7a
+        version: "1"
+      hash:
+        sha256: c2da2ef718d8c6b431214f0c36fc259089db50f008b0b0f7c5b5a03764009bd5
+  published: 2024-10-04T20:07:10.621Z
+  content: After opening, it will find a working mirror in a few seconds and
+    provide you with full access to the Mostbet online casino and bookmaker
+    [url=http://forum.yartsevo.ru/index.php?topic=7080.new#new]http://forum.yartsevo.ru/index.php?topic=7080.new#new[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YTQwOGVkZDY0MzFjNWYwYmNjZTY1M2Y4YzljNA==
+    algorithm: aes-256-gcm
+    iv: f7e196f544ea5bd16c6fe03a
+    version: "1"
+  spam:
+    score: 6.82
+    marked: true
+  status: rejected
