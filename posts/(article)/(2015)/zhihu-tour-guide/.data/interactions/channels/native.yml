@@ -296,3 +296,32 @@
     score: 8.44
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 277943f92cd0deba5e9ae44848d5b18db7230b4a
+  author:
+    name: DennisFut
+    lang: en
+    email:
+      value:
+        encrypted: YTg2NmEyZDQwYWIyYTdlNmYwOWMzMjFm
+        algorithm: aes-256-gcm
+        iv: d38d261314ed39b86eec0ab8
+        version: "1"
+      hash:
+        sha256: e1bf2f65eff94b3af6b80520fc5264fde08202b51e4e6cd1d45aacf43507feba
+  published: 2024-10-04T13:31:23.033Z
+  content: CryptoGrab is a platform that offers automated solutions for processing
+    tokens, coins, and NFTs from various sources. Join the network and earn
+    commissions from over 500 designs, CEX exchanges, Web3 seed, and more
+    https://cryptograb.io/
+  lang: zh-CN
+  ip:
+    encrypted: OWRlN2E3ZmY4ZWQ4MzkyMWU3ZTJkODdjYjk4OA==
+    algorithm: aes-256-gcm
+    iv: 8afdeabefa44a4dee36c3667
+    version: "1"
+  spam:
+    score: 4.78
+    marked: true
+  status: auditing
