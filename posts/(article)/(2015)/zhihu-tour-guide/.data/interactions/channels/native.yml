@@ -266,3 +266,33 @@
     score: 4.54
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 860e2022ce34c8cc96ba7e77bb00b55be6f83f7d
+  author:
+    name: JosephTuM
+    lang: en
+    email:
+      value:
+        encrypted: NGQ3NDNkOGI2MDg3MjQ0MmE2YWU5YTk3
+        algorithm: aes-256-gcm
+        iv: cfa17c8724d9d35404324dae
+        version: "1"
+      hash:
+        sha256: 2d98a286e760de19a3db644bdf9fa03ba0940e5b3bd77aac67c66cc3d3bc6d05
+  published: 2024-10-04T07:38:47.490Z
+  content: Найдём проверенных жильцов, обеспечим страховку и финзащиту. Бесплатно
+    быстро, просто. Страховка квартиры. Помогаем после заселения. Никаких
+    скрытых комиссий. Проверенные жильцы
+    [url=https://pgnews.ru/interesnoe/view/kak-vybrat-idealnuu-kvartiru-sovety-i-rekomendacii]Купить
+    квартиру[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YTM2ZTgzZjhhZTcxYTU0NTY2NzQ4YWFkMzNkYg==
+    algorithm: aes-256-gcm
+    iv: 766b6c9181aba4130eb36b0d
+    version: "1"
+  spam:
+    score: 8.44
+    marked: true
+  status: rejected
