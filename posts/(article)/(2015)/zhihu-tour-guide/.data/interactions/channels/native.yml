@@ -386,3 +386,32 @@
     score: 6.82
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 967f6068a254a4b1dd8381a51657f8964dea9d2c
+  author:
+    name: MichalGEs
+    lang: en
+    email:
+      value:
+        encrypted: N2QzZDVkN2U2OWU1Nzg3YWNjODE2YzY0OWI=
+        algorithm: aes-256-gcm
+        iv: f93436e30d64458a67ddd4ce
+        version: "1"
+      hash:
+        sha256: 1e5295bde144f0912e331745ae47b1682b65e0b7f8429683812d103c85c16dc4
+  published: 2024-10-04T20:53:19.286Z
+  content: Поэтому вопрос о том, как сделать виртуальную сим карту на айфоне или
+    любом другом смартфоне, здесь не стоит в принципе
+    [url=https://vb.by/econom/kaleidoskop/odnorazovye-nomera-dlya-sms-na-vygodnyh-usloviyah.html]купить
+    номер временный[/url]
+  lang: zh-CN
+  ip:
+    encrypted: M2JiNjE4MzMxYjFmZDQ2M2ZkY2IwODA4NzY2MQ==
+    algorithm: aes-256-gcm
+    iv: f91c1af0b81cd255133be314
+    version: "1"
+  spam:
+    score: 5.67
+    marked: true
+  status: auditing
