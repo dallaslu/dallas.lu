@@ -325,3 +325,36 @@
     score: 4.78
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 3077e0839204cf435922dc303f8d3a95701c3408
+  author:
+    name: Albertrex
+    lang: en
+    email:
+      value:
+        encrypted: ZjY2YjRjOTdmZWY3MTEzZjAzYjg5ZmI0MTI0M2M0MmYyZGIzODE4M2JlOWI0ZGUyZWI0MTk4OTMwNw==
+        algorithm: aes-256-gcm
+        iv: 7ddc8d1635adb40106a945b9
+        version: "1"
+      hash:
+        sha256: f37d26197d319c99bfe29cc9dcad420bef9ac51d9ea2a30c8b3732c14bc4935a
+  published: 2024-10-04T19:54:32.632Z
+  content: "Замена переднего и заднего
+    [URL=https://myhyundaicreta.ru/replacement-front-and-rear-bumper-hyundai-cr\
+    eta/]бампера на Hyundai Creta[/URL] – это практичная процедура для
+    поддержания автомобиля в отличном состоянии. \r
+
+    Новый бампер не только улучшает дизайн, но и обеспечивает дополнительную
+    безопасность. Процесс замены бампера требует профессиональных навыков, чтобы
+    гарантировать его долговечность."
+  lang: zh-CN
+  ip:
+    encrypted: ZTkxZGRmYWNjNjkzZTFkYTMwMTVhNmZiOGRhMA==
+    algorithm: aes-256-gcm
+    iv: 3c0a753c1294429a741ec5dd
+    version: "1"
+  spam:
+    score: 8.12
+    marked: true
+  status: rejected
