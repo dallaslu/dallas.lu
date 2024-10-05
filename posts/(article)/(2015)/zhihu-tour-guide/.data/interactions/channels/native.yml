@@ -577,3 +577,32 @@
     score: 6.04
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 04bffb35dc15780ea877eefeae128979ad60a9fc
+  author:
+    name: Lesleyexpow
+    lang: en
+    email:
+      value:
+        encrypted: OTRiYjFkNDQzNTdjMWFjNjZlMzc5YTk2YWQ=
+        algorithm: aes-256-gcm
+        iv: ac09f7197964a7e1fad30eda
+        version: "1"
+      hash:
+        sha256: 256cba9aa75aa85779401d8b4224965ef916b0eaf8e15d06874f688e4652aec1
+  published: 2024-10-05T16:44:56.533Z
+  content: Доска объявлений — это место, где люди могут размещать информацию о
+    продаже товаров или услуг, поиске работы или жилья, а также о других
+    предложениях. Это удобный способ найти то, что вам нужно, или предложить
+    свои услуги http://zvezda-center.ru/
+  lang: zh-CN
+  ip:
+    encrypted: Mjk2YjFjODc1NmZhOTBkNmYyNzNmNWY2MTA1Ng==
+    algorithm: aes-256-gcm
+    iv: 615f79792653960a66cc1c9d
+    version: "1"
+  spam:
+    score: 7.79
+    marked: true
+  status: rejected
