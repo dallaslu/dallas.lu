@@ -635,3 +635,31 @@
     score: 8.9
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 6104ae92fac2748c5d1755501040607a30211e23
+  author:
+    name: JoshuaMax
+    lang: en
+    email:
+      value:
+        encrypted: ZjU4Y2E0MmMyYzJmOTUzOTYxYzUzNjZjMmI=
+        algorithm: aes-256-gcm
+        iv: 994e6058a9f8d680a424e613
+        version: "1"
+      hash:
+        sha256: d4e6e78b826c222bdee70af3df34bc4fbb2ce4b478f20bdf1ee1e40e7a44370e
+  published: 2024-10-05T19:21:52.192Z
+  content: Эти платформы созданы для инвесторов, стремящихся инвестировать с
+    высокой доходностью и развиваться в сфере инвестиций
+    [url=https://lovewiki.faith/wiki/User:JewellPinkerton]https://lovewiki.faith/wiki/User:JewellPinkerton[/url]
+  lang: zh-CN
+  ip:
+    encrypted: OTQzMjE2M2JiMTQwMzEyMjIzYmJmMjAyYTY4MQ==
+    algorithm: aes-256-gcm
+    iv: d794307cfdd1ade7845019da
+    version: "1"
+  spam:
+    score: 5.86
+    marked: true
+  status: auditing
