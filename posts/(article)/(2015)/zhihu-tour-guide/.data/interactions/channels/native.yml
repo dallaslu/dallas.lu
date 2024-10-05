@@ -445,3 +445,33 @@
     score: 8.53
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3015113d7e361002c82970a2d1597ec902669f9e
+  author:
+    name: Gregoryusery
+    lang: en
+    email:
+      value:
+        encrypted: NTkyYTk2OGJlYmQxM2IzNjZmZjkzZDZjYjk=
+        algorithm: aes-256-gcm
+        iv: 614b5bfd8a38542abcc17c65
+        version: "1"
+      hash:
+        sha256: 05e496772f3605030e921a52608f23689a6b01b903e20759bb15af26658d8832
+  published: 2024-10-05T08:15:16.558Z
+  content: Виртуальный номер позволяет сохранить конфиденциальность и избавиться
+    от рекламного спама. Многие онлайн-сервисы и интернет-магазины предлагают
+    бонусы и
+    [url=https://www.compuhome.ru/zachem-nuzhny-vremennye-sim-karty.html]купить
+    временный номер[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NWRhNDcwYmYzYmRkYTgyMDgxMGI1YjRhNmQ3NA==
+    algorithm: aes-256-gcm
+    iv: 5e8aa39f5969767d80c75c97
+    version: "1"
+  spam:
+    score: 6.84
+    marked: true
+  status: rejected
