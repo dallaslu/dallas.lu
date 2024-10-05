@@ -606,3 +606,32 @@
     score: 7.79
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5200dbe6e3846d0e9506d9a404717000d33e2bbf
+  author:
+    name: JeffreyThime
+    lang: en
+    email:
+      value:
+        encrypted: OGI2N2FkOTJmODkyMzJmMDIxMDBmMmE3MWI=
+        algorithm: aes-256-gcm
+        iv: 13dd63c6734cc0d72f1bc5cf
+        version: "1"
+      hash:
+        sha256: 869c70f1ce07704ddb7a0bc3515c210d4bbd323f1bfd1300326192e22e15ab63
+  published: 2024-10-05T18:30:38.715Z
+  content: "Доклады от экспертов Авито Авто на темы: аналитических трендов
+    отрасли, самые важные релизы продуктов платформы, репутации на Авито
+    [url=https://www.kakprosto.ru/kak-981033-kak-pereborot-strah-pered-vozhdeni\
+    em-avtomobilya-i-legko-sdat-ekzamen-po-vozhdeniyu]Автожурнал avito[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: OTNiYmJlNDVlNTU3ZTQ0MzU2NWU4YzY5Yzg5ZA==
+    algorithm: aes-256-gcm
+    iv: c152c0a75d272a8b567c1300
+    version: "1"
+  spam:
+    score: 8.9
+    marked: true
+  status: rejected
