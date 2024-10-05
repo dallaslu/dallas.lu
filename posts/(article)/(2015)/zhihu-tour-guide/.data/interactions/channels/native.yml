@@ -548,3 +548,32 @@
   spam:
     score: 3.01
   status: auditing
+- type: reply
+  channel: native
+  id: 4bfe9fcb4d7c49f8e27624a0bd905910695637ca
+  author:
+    name: Dennisgurce
+    lang: en
+    email:
+      value:
+        encrypted: MjlkYzgxODVlOTljZTVkNzI5ZTQzODk0ZWI=
+        algorithm: aes-256-gcm
+        iv: b96f7d7446214011bf0233ef
+        version: "1"
+      hash:
+        sha256: 70767c6ffee946adef162a9f45de2c1a66487fdb3c874232e2ba9f64597fb079
+  published: 2024-10-05T15:55:41.446Z
+  content: Услуги адвоката по 228 статье УК РФ в Москве - защита по делам о
+    приобретении, хранении, сбыте, обжалование приговоров, юридические
+    консультации
+    [url=https://advokat-po-ugolovnym-delam-moskva.blogspot.com/p/advokat-po-228.html]https://advokat-po-ugolovnym-delam-moskva.blogspot.com/p/advokat-po-228.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MmUxNGFiOGQ3MTg2NzEwN2ExNDc4MTBiZDU5Nw==
+    algorithm: aes-256-gcm
+    iv: 88c135610d8a63d30c27f77a
+    version: "1"
+  spam:
+    score: 6.04
+    marked: true
+  status: rejected
