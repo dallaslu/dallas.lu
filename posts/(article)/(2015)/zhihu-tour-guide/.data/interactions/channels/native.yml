@@ -753,3 +753,31 @@
     score: 8.38
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3e9e77c39ddeb468044062e7a4c58207d116a16b
+  author:
+    name: CharlesGow
+    lang: en
+    email:
+      value:
+        encrypted: MTMxZWY4N2Q3NzA4ZWIzYTM1NmQ2NjkyM2U=
+        algorithm: aes-256-gcm
+        iv: 81b04f52b0acfbeade6ca57f
+        version: "1"
+      hash:
+        sha256: eb3bc8e4cab389fda9d636287dadbe1070be26bd8bc28a257e9e3e8e22a08d28
+  published: 2024-10-06T17:05:16.188Z
+  content: Купить шины jcb 3cx на погрузчик очень просто, необходимо позвонить по
+    номеру. Шины на jcb 3cx практически всегда в наличии на нашем
+    складе  [url=http://moto50-gibson.ru]резина для катков в москве[/url]
+  lang: zh-CN
+  ip:
+    encrypted: Y2Y2YjliYjk1YWM0NzI5NWYxMjAyYjVjZmVmNA==
+    algorithm: aes-256-gcm
+    iv: 8d1ef9539376d0f3d0d9e94a
+    version: "1"
+  spam:
+    score: 7.95
+    marked: true
+  status: rejected
