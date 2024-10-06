@@ -696,3 +696,33 @@
     score: 5.39
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 6e2248b326993fd72573e2c4e065f0a00334a899
+  author:
+    name: Stevenaxiop
+    lang: en
+    email:
+      value:
+        encrypted: MmI3NzIyNmQ1OTM4MmMxZjJkOGJjODJhNGY=
+        algorithm: aes-256-gcm
+        iv: 8f3e078c0e8f4ba3b6c80005
+        version: "1"
+      hash:
+        sha256: e568dceda160012e5e03b67cfa08fb9e25da5792bb1b9d5d7c9c3ad4b5f69a2d
+  published: 2024-10-06T00:02:01.818Z
+  content: Открытая база более 1000 контактов инвестиционных фондов, клубов
+    инвесторов, бизнес-ангелов, акселераторов, технопарков, особых экономических
+    зон, пилотных проектов, госпрограмм для поддержки малого бизнеса
+    [url=https://pitauran.com/index.php?title=Tech-development.ru_28808pz]поиск
+    инвесторов для бизнеса в россии[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NTkzMjE4M2RhZjFmNDM0ZjExYzYxMGY5ZDY4ZA==
+    algorithm: aes-256-gcm
+    iv: 304fd1ec8169bd7b16a4e707
+    version: "1"
+  spam:
+    score: 5.16
+    marked: true
+  status: auditing
