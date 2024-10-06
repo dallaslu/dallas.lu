@@ -726,3 +726,30 @@
     score: 5.16
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 186714b5ec0eb909d2e726d408880a9434b1df33
+  author:
+    name: Matthewsum
+    lang: en
+    email:
+      value:
+        encrypted: Y2FlMjc2NzYzZmQzNDcyNjJhODI0YzU3ODg=
+        algorithm: aes-256-gcm
+        iv: 5bb23e90f23231d386ee7ac3
+        version: "1"
+      hash:
+        sha256: ba38023a6a7887b7186e14217df670ad5966ccb4cf8203b30e2f7532147298a1
+  published: 2024-10-06T09:08:43.554Z
+  content: Купить аккаунт авито с отзывами с пройденной проверкой по паспорту с
+    верификацией https://dzen.ru/a/ZwF6PYaB52tIch1v
+  lang: zh-CN
+  ip:
+    encrypted: NGViYjQzMDBjZjg1MWRiNzg1MWI5MzRhOGVjYw==
+    algorithm: aes-256-gcm
+    iv: 16ea300250c4855e2ea7af41
+    version: "1"
+  spam:
+    score: 8.38
+    marked: true
+  status: rejected
