@@ -781,3 +781,29 @@
     score: 7.95
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 96cd1815d0c3b2d52e9f0a8c5dd5e40d11b2b900
+  author:
+    name: KRAKEN_Ссылка_daura
+    lang: en
+    email:
+      value:
+        encrypted: YjhhMjM0MGNlNTNlZTI4NzI4ZTFjN2M3ODIyNGY3NWVkMWVmOWJmZjRjZjE4OGRlNTY0OTli
+        algorithm: aes-256-gcm
+        iv: 1248be829384f8b7211b8ca6
+        version: "1"
+      hash:
+        sha256: c504912cc311cae2a787cd29ab8307168437c71d4523163dadecb012f4e9ff11
+  published: 2024-10-07T02:29:22.829Z
+  content: KRAKEN - ссылка, зеркало, сайт, <a href=https://krn1.at>кракен ссылка</a>
+  lang: zh-CN
+  ip:
+    encrypted: MDExNmRjY2ZlYzViNGRiZmExYzcyYWY3NjA=
+    algorithm: aes-256-gcm
+    iv: 5f792333e6540feb89b34918
+    version: "1"
+  spam:
+    score: 6.65
+    marked: true
+  status: rejected
