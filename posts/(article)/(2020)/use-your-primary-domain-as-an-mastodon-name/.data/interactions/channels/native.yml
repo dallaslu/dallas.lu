@@ -38,3 +38,20 @@
     algorithm: aes-256-gcm
     iv: 69c84414ab9b349dde04a1b4
   target: 618742
+- type: reply
+  channel: native
+  id: 03d2045deb4d02e48898fda4c7c49d9a214f68fc
+  author:
+    name: Chika
+    lang: zh-CN
+  published: 2024-10-07T01:07:38.987Z
+  content: 可以请教一下，按照最后的 nginx 写法，安卓客户端登录似乎有些问题，只能以local_domain 登录您那边有这种情况吗？查看
+    nginx 日志，似乎返回308重定向后客户端会判断为错误，不会发起连接。
+  lang: zh-CN
+  ip:
+    encrypted: NGQyNjg3MzA3NjZkOTNjN2E5ZTJkMjNjZWExYg==
+    algorithm: aes-256-gcm
+    iv: 743bd3105a0763081d2c35cd
+    version: "1"
+  spam:
+    score: 1.13
