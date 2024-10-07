@@ -835,3 +835,31 @@
     score: 7.92
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 565eb1fc7fb23011d91678a4750c764ce120c618
+  author:
+    name: Robertclodo
+    lang: en
+    email:
+      value:
+        encrypted: MmQyNjY5OGE1NmRiZmQ1MmU4OTZlOTQzNzI=
+        algorithm: aes-256-gcm
+        iv: b60c0f7019365a744fba6df4
+        version: "1"
+      hash:
+        sha256: dfb6d8a387deff04572c57c0d9896f6aabfd895592b5e595238b35d12fc84feb
+  published: 2024-10-07T18:20:52.394Z
+  content: Мебельная фабрика предлагает изготовление корпусных, встроенных
+    шкафов-купе на заказ по индивидуальным размерам
+    [url=http://naturetour.ru/communication/forum/messages/forum3/message22495/4216-nado-kupit-shkaf_kupe?result=new#message22495]http://naturetour.ru/communication/forum/messages/forum3/message22495/4216-nado-kupit-shkaf_kupe?result=new#message22495[/url]
+  lang: zh-CN
+  ip:
+    encrypted: Yjk3MGMxZGVkMGJjYjhjZTY5Y2UyMjkxNjhkMg==
+    algorithm: aes-256-gcm
+    iv: 00c9bfc0fb9bcaab126031f2
+    version: "1"
+  spam:
+    score: 9.54
+    marked: true
+  status: rejected
