@@ -845,3 +845,38 @@
     iv: d667bea4c4ccadef440ff6fa
     version: "1"
   target: 7994c4b3d1d09b0b3c9bdffc91eab9f564e9f127
+- type: reply
+  channel: native
+  id: c63a72843db9664111127040077da2789fb251b4
+  author:
+    name: Digital health data
+    lang: en
+    email:
+      value:
+        encrypted: OTM2YTA2ZmNlNzkyMTc2N2NhZWQ2NzZiMGRjMGUxNzZlZGVhMmNjYjcxMWQxY2E5ZTNlZg==
+        algorithm: aes-256-gcm
+        iv: 7f9884fba8f9be3fdcaefaea
+        version: "1"
+      hash:
+        sha256: a9f3338bc401e3947ca92227fca147bb074b5f9ee2c0e55c6177f15f226015b9
+  published: 2024-10-07T10:09:37.331Z
+  content: "Greetings, my trusted companion. How are you doing these days? \r
+
+    \ \r
+
+    Believe it or not, I found a site that mirrors the quality of your
+    project  <a href=http://clinik-spravka.info/>Telemedical doctor palliative
+    care consultation services</a> \r
+
+    \ \r
+
+    Take care, and may joy follow you"
+  lang: en
+  ip:
+    encrypted: MmIwNzY0Y2JlZjYxNDQ4YzIzOTM3MDczYzEzYQ==
+    algorithm: aes-256-gcm
+    iv: e5646c19c549edc08ceb7e2e
+    version: "1"
+  spam:
+    score: 3.43
+  status: auditing
