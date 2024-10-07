@@ -807,3 +807,31 @@
     score: 6.65
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f8cd9f942090f72ed66a5e0b4ae70f681d22669a
+  author:
+    name: RichardGup
+    lang: en
+    email:
+      value:
+        encrypted: NzIwODg1YmI0NWI0ZmY2MTk5ZDljYzFmN2U=
+        algorithm: aes-256-gcm
+        iv: 8278fb576836c404c6f21081
+        version: "1"
+      hash:
+        sha256: b626b0cd3d8b32ba9af0f612b4d620f86ba38e43ca6528360469317e01837518
+  published: 2024-10-07T06:46:24.616Z
+  content: Грузовые шины КАМАЗ вездеход являются одним из самых востребованных
+    видов шин для грузовых автомобилей. Грязевые шины для внедорожников. Все
+    размеры [url=http://specshina-jcb.ru]купить грузовые шины в москве[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZDVhN2I5N2Y5ZmU4YjBiYjE3ZDRkMGNjYTAxYw==
+    algorithm: aes-256-gcm
+    iv: d557a1b1387dcb877a731539
+    version: "1"
+  spam:
+    score: 7.92
+    marked: true
+  status: rejected
