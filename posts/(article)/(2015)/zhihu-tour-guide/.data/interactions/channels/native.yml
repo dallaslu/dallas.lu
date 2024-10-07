@@ -885,3 +885,25 @@
     algorithm: aes-256-gcm
     iv: 19775ae35444cc5605a0de8d
     version: "1"
+- type: reply
+  channel: native
+  id: 1c63ccd3e3c3fcdd3aefe43d823c94bd17a87aeb
+  author:
+    name: RonaldBuh
+    lang: en
+    email:
+      value:
+        encrypted: YTI0NmZjNzNlZDQ0Zjk5ODQ0ZWI4NmM5MmM=
+        algorithm: aes-256-gcm
+        iv: 96d5f3c709f4e7a9fd844dcd
+        version: "1"
+      hash:
+        sha256: 0f9d03f9056a305feb64d70e4c2fadc97ccc6c8c7b6a1fccb52344cfb8a8942d
+  published: 2024-10-07T20:37:43.001Z
+  content: https://taplink.cc/targetboss
+  lang: zh-CN
+  ip:
+    encrypted: NzBlYzc2N2NiNzI5Mjk5MzZmYzJiNTk4MGJkYw==
+    algorithm: aes-256-gcm
+    iv: 98d97ee0dde49973651c3526
+    version: "1"
