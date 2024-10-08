@@ -963,3 +963,31 @@
     score: 5.09
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 9fb305862aae69726a48ac65ca257f4c9a5ab812
+  author:
+    name: WilliamEmaky
+    lang: en
+    email:
+      value:
+        encrypted: ZjA5OWE3NGFlNmZkMTk0ZjA1ODdjZTRkYWQ=
+        algorithm: aes-256-gcm
+        iv: 09e9db99b122ab59304d2922
+        version: "1"
+      hash:
+        sha256: 27665693a97a786a212e64761001c820b275442ade0acba118a6064ec8b36e0a
+  published: 2024-10-08T19:05:04.427Z
+  content: Доставка воздушных шаров с гелием по цене от 115 рублей за гелиевый
+    шарик. Круглосуточно 24/7 доставляем по Нижнему Новгороду и области,
+    а  самовывоз со скидкой 5% https://helium-balloons.ru
+  lang: zh-CN
+  ip:
+    encrypted: Zjg0MDE1YWFmYmJlOTAyMGQwYzU5ZDRhMDNkZQ==
+    algorithm: aes-256-gcm
+    iv: 5ae28fe17c10d01a6b17cdee
+    version: "1"
+  spam:
+    score: 7.91
+    marked: true
+  status: rejected
