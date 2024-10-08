@@ -991,3 +991,32 @@
     score: 7.91
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 6d5b0e5e5f5bac92a9dc82835c7ad0b2ebc6fb66
+  author:
+    name: BruceQuorb
+    lang: en
+    email:
+      value:
+        encrypted: MGVmMzFhNjRkMmQ1YmZkNmI2ZWI1YzIwYzA=
+        algorithm: aes-256-gcm
+        iv: b9aff017e7ec17db9e284e22
+        version: "1"
+      hash:
+        sha256: ba6c7ac929b97a073eaff8acda1d551c0a8c087d23636b0bc651ee681aa5dd07
+  published: 2024-10-08T22:30:53.662Z
+  content: "Шкафы распашные - в наличии 1099 моделей с фото, размерами и подробным
+    описанием от производителя: популярные новинки и лидеры продаж. Все размеры
+    в каталоге. Гарантия качества и профессиональная установка
+    [url=https://xn----7sbba7acpe0gsb.xn--p1ai]шкаф заказ[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: ODQ2YWE0MDlmZTNiNTZkMDU1MmYzNWNkNDI0Nw==
+    algorithm: aes-256-gcm
+    iv: f6a2c039d574bbeaacbf5f19
+    version: "1"
+  spam:
+    score: 4.98
+    marked: true
+  status: auditing
