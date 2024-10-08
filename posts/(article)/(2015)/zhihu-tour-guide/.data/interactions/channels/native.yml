@@ -907,3 +907,31 @@
     algorithm: aes-256-gcm
     iv: 98d97ee0dde49973651c3526
     version: "1"
+- type: reply
+  channel: native
+  id: acb1fa28dcbb259ca8f6f1bd56dc4f13b9fdb78a
+  author:
+    name: Edwardcop
+    lang: en
+    email:
+      value:
+        encrypted: Y2VjZjYyYTIxYWEyOWIwN2FlMzZiNDBkNjQ=
+        algorithm: aes-256-gcm
+        iv: 237a97dbf99f220f3451528c
+        version: "1"
+      hash:
+        sha256: 1d3fd87a36cd13703a89ffd2ca5938b103917856d88c7138774cca0a00cc91f6
+  published: 2024-10-08T11:12:14.396Z
+  content: Воздушные гелиевые шары от 120 рублей за 1 шарик. Срочная доставка от 1
+    часа. Круглосуточная доставка по Нижнему Новгороду. Более 4000 наборов в
+    каталоге на сайте https://balloons-with-delivery.ru
+  lang: zh-CN
+  ip:
+    encrypted: OGQxZjc4ZDE1NDQzNzI5N2NmNjYwMzNmMTJiMw==
+    algorithm: aes-256-gcm
+    iv: af651a6d9abc78242ac6d422
+    version: "1"
+  spam:
+    score: 8.01
+    marked: true
+  status: rejected
