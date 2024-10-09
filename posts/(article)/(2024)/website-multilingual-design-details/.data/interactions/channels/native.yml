@@ -30,7 +30,7 @@
     verified: true
     name: Dallas Lu
     user: dallaslu
-    lang: 达拉斯・卢] 网站多语言的设计细节 [zh-CN
+    lang: zh-CN
     email:
       value:
         encrypted: MDc3OTAzMTdlZDYyMjFlZTkwZTJlMQ==
@@ -41,5 +41,5 @@
         sha256: 0ac740f867d01353371baf0121d2705e4810a2cf1bb2401c620c27286b2005f3
   published: 2024-09-26T17:50:17.063Z
   content: 我也有些同感。不知是字重大了，还是间距小了，或者字体的风格需要换一换。看上去有点花，满眼都是字
-  lang: 达拉斯・卢] 网站多语言的设计细节 [zh-CN
+  lang: zh-CN
   target: 93ae20bdc00a0cd73ca1bc053b9da5770352a65d
