@@ -55,3 +55,27 @@
     version: "1"
   spam:
     score: 1.13
+- type: reply
+  channel: email
+  id: ec463ca7-8531-479c-9b26-3c5622372b38
+  author:
+    verified: true
+    name: Dallas Lu
+    lang: 达拉斯・卢] 使用你的主域名作为 Mastodon 实例名 [zh-CN
+    email:
+      value:
+        encrypted: ODE4NzUzNDI1OTI3NjQ3ODFkMDIwYg==
+        algorithm: aes-256-gcm
+        iv: c2a0974377665154b542a6b5
+        version: "1"
+      hash:
+        sha256: 0ac740f867d01353371baf0121d2705e4810a2cf1bb2401c620c27286b2005f3
+  published: 2024-10-09T03:08:48.683Z
+  content: |-
+    我已经不再使用自建 Mastodon 了。当时的确存在这种情况，部分客户端只能以 
+    `local_domain` 登录。看来，这么多年了，那些客户端还没有修正对 308 
+    的处理。试试把 Mastodon 实例的 nginx.conf 中的 @proxy 配置复制过来，改一改吧
+  lang: 达拉斯・卢] 使用你的主域名作为 Mastodon 实例名 [zh-CN
+  target: 03d2045deb4d02e48898fda4c7c49d9a214f68fc
+  spam:
+    score: 0.22
