@@ -845,3 +845,30 @@
     iv: d667bea4c4ccadef440ff6fa
     version: "1"
   target: 7994c4b3d1d09b0b3c9bdffc91eab9f564e9f127
+- type: reply
+  channel: native
+  id: ec86ee214144ccb8d6899c2bec432dbd9d9560a8
+  author:
+    name: KRAKEN_Ссылка_daura
+    lang: en
+    email:
+      value:
+        encrypted: ZGQxZjcxOGRjZjc4OGMwY2VmOTdlNDRiNzdjYjhjOWExMGJhZTFkMzJlMTJhOWE5N2RiMTcw
+        algorithm: aes-256-gcm
+        iv: e7e5f624c357bed4d2cc8e48
+        version: "1"
+      hash:
+        sha256: c504912cc311cae2a787cd29ab8307168437c71d4523163dadecb012f4e9ff11
+  published: 2024-10-09T04:31:24.468Z
+  content: KRAKEN - ссылка, зеркало, сайт, <a href=https://krn20.cc>кракен зеркало
+    официальный</a>
+  lang: en
+  ip:
+    encrypted: MDE5NmZmZjlhZjlkODA1MWZiNWQ5YTBiNDc=
+    algorithm: aes-256-gcm
+    iv: 2d7fe9524938b99253a49b0c
+    version: "1"
+  spam:
+    score: 5.39
+    marked: true
+  status: auditing
