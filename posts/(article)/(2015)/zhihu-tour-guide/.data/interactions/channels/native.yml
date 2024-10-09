@@ -94,3 +94,31 @@
     score: 6.52
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ed33bd27ebb27ec4063cb6391f5b0085d9650228
+  author:
+    name: LeonardHaure
+    lang: en
+    email:
+      value:
+        encrypted: ZDRlYjY2OWE3NjcxMWYxMzEwYTA3YTE5MzQ=
+        algorithm: aes-256-gcm
+        iv: ed78663baed2c96058cd4dff
+        version: "1"
+      hash:
+        sha256: d291f9c2cdaf803b8b800f89953b674d4e4156c128401b12e4052512301f251c
+  published: 2024-10-09T19:42:54.889Z
+  content: Воздушные шары разных видов с доставкой в Нижнем Новгороде! Более 13
+    лет опыта! Гарантируем свежесть всех товаров! Привезем 100% вовремя
+    https://helium-balloons.ru
+  lang: zh-CN
+  ip:
+    encrypted: NzliNDBhOGNiODhiYzI3MjViMWNjOGU1M2UyOQ==
+    algorithm: aes-256-gcm
+    iv: 2af3e44301ac89c65d7740ac
+    version: "1"
+  spam:
+    score: 7.98
+    marked: true
+  status: rejected
