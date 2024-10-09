@@ -39,3 +39,31 @@
     algorithm: aes-256-gcm
     iv: 19775ae35444cc5605a0de8d
     version: "1"
+- type: reply
+  channel: native
+  id: 3d4be531dddb278630e5afefd6f2c7628819c108
+  author:
+    name: RandyAdell
+    lang: en
+    email:
+      value:
+        encrypted: ZmQ0MzBhOGQ5NjhmNDM4YjAyYjRlY2VhNGE=
+        algorithm: aes-256-gcm
+        iv: 466e043815403041e0890b8c
+        version: "1"
+      hash:
+        sha256: 48d1603932cafe44a345715a4ca1461b9f371019624ffdc24ae6cec180c2907d
+  published: 2024-10-09T07:49:58.044Z
+  content: Мы осуществляем продажу надувных гелиевых шаров недорого с доставкой в
+    Нижнем Новгороде. Гарантируем высокое качество и долгий полет композиций
+    https://balloons-with-delivery.ru
+  lang: zh-CN
+  ip:
+    encrypted: MTliZWZkMjQ1ZTZhZWZiNmVjMDhjMmExMDNlOQ==
+    algorithm: aes-256-gcm
+    iv: 0c1db041de670b288e4306f7
+    version: "1"
+  spam:
+    score: 8.06
+    marked: true
+  status: rejected
