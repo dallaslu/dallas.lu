@@ -270,3 +270,25 @@
     score: 5.84
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 89f4ae72f0750a40138fa9ab7eba0ac2e44badcc
+  author:
+    name: MichaelGaw
+    lang: en
+    email:
+      value:
+        encrypted: MWZjMGZiN2FkOTZmYjk5Y2Y0MWFmMmUxZWU=
+        algorithm: aes-256-gcm
+        iv: f137b3c29a649617b9e25939
+        version: "1"
+      hash:
+        sha256: 7e6bc3d408a0d4f48c158c28958643c7fe22653ca41f4cd377e7b937c66e387f
+  published: 2024-10-10T21:19:29.387Z
+  content: https://nta-pfo.ru/news/economy/2024/news_686610/
+  lang: zh-CN
+  ip:
+    encrypted: MjRiOTNjMWQ1MjRlNzBhYWMyNjgwZmY2MGMxNQ==
+    algorithm: aes-256-gcm
+    iv: 3e89b3ea7161e19ab7ce6c6d
+    version: "1"
