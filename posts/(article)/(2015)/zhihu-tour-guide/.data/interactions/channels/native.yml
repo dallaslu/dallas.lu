@@ -150,3 +150,31 @@
     score: 5.9
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: a6156cee0cebc729f74b6a07b8145567c337b4dc
+  author:
+    name: Ignaciolor
+    lang: en
+    email:
+      value:
+        encrypted: ZjcwOTA5ZDMzYzFmZDlmYTA2ZjcxYzFlMTk=
+        algorithm: aes-256-gcm
+        iv: 26649eb37ddd9daef627a623
+        version: "1"
+      hash:
+        sha256: 23a50f7cedad840ff4460772e158dec37ace5cf323c3b8c5d728f50a8170fad7
+  published: 2024-10-10T07:32:12.943Z
+  content: Интернет магазин подарков предлагает надуть гелевые шары или несколько
+    воздушных шариков хорошего качества с понравившимися надписями
+    https://balloons-with-delivery.ru
+  lang: zh-CN
+  ip:
+    encrypted: MjIwNDI2ZjAyYmE4YTM0OTgyMTk0NzgwYTA1MQ==
+    algorithm: aes-256-gcm
+    iv: 14f4de828df913e3c6829c32
+    version: "1"
+  spam:
+    score: 8.09
+    marked: true
+  status: rejected
