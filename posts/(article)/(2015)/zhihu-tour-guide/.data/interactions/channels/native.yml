@@ -242,3 +242,31 @@
     score: 5.89
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 9f31ea826d9d78d56ee10bcb2291da10c53e0e89
+  author:
+    name: Michealidest
+    lang: en
+    email:
+      value:
+        encrypted: NTE2ZDA5MzRlZGQzMzUwODBkZmZkYzFjMjg=
+        algorithm: aes-256-gcm
+        iv: 12b4407527ca284b3004a789
+        version: "1"
+      hash:
+        sha256: 721e3a56e85f96f1a54b833c8fffc1bf52f6c7863d4f21176cafd911ce1f6470
+  published: 2024-10-10T19:13:28.024Z
+  content: Tracking the most recent global innovation trends, the GII finds that
+    innovation investment slowed in 2023, in marked contrast to previous years
+    [url=https://sbtranspo.com/?URL=https://vaughancannabis.store/]https://sbtranspo.com/?URL=https://vaughancannabis.store/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YzQxMmE5ZWUzYTQwNDY2MWFjYzI3NDNmNzRiOA==
+    algorithm: aes-256-gcm
+    iv: 096daab7b3d9b5c9516aed26
+    version: "1"
+  spam:
+    score: 5.84
+    marked: true
+  status: auditing
