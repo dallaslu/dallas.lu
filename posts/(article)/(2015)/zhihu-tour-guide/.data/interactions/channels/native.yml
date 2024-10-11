@@ -292,3 +292,33 @@
     algorithm: aes-256-gcm
     iv: 3e89b3ea7161e19ab7ce6c6d
     version: "1"
+- type: reply
+  channel: native
+  id: 2d8f6c8fdaebc7a95eb008712a7634684c1c2a0b
+  author:
+    name: Louismeege
+    lang: en
+    email:
+      value:
+        encrypted: MTEzYzdhMDAzZDRmMjAxMWI0ZDk3OTQ5ZTA=
+        algorithm: aes-256-gcm
+        iv: b9adaccfa0793e690f8362fd
+        version: "1"
+      hash:
+        sha256: 6af710e257b13cd8e086957a81a845ab61118cd023ca6b41c0043f3abb8b739a
+  published: 2024-10-11T12:29:05.131Z
+  content: Чтобы вывести деньги с биржи Вам необходимо воспользоваться p2p
+    переводами. После нажатия на кнопку "Продать USDT" в течении 15 минут,
+    ожидайте поступление денег на карту
+    [url=http://oun.bestforums.org/viewtopic.php?f=2&t=2397]обмен usdt на
+    наличные киев[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YjE5OWIyYzExMDZhNWU2ZmE4NTViZDRlY2VkYg==
+    algorithm: aes-256-gcm
+    iv: 974b1813829ba263b523bccc
+    version: "1"
+  spam:
+    score: 5.15
+    marked: true
+  status: auditing
