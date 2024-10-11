@@ -379,3 +379,32 @@
     score: 5.34
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 070d4cd88bfe95aaf4989880c91cbe9de0fd972f
+  author:
+    name: RaymondFab
+    lang: en
+    email:
+      value:
+        encrypted: OTg0ZWRhYzJhMzhiNDgyNGQxMDE2MTQwNzg=
+        algorithm: aes-256-gcm
+        iv: 591c19fd5781b9276a094113
+        version: "1"
+      hash:
+        sha256: 73ccefa7630135a6994fac1c16d4939e33a2d466d165e343732fd2f143d87b18
+  published: 2024-10-11T21:45:54.447Z
+  content: Canvas Cannabis brings the best in legal, recreational cannabis
+    dispensaries to Toronto offering a wide range of cannabis flower, edibles,
+    vaporizers
+    [url=http://www.alekcin.ru/go?https://www.mississaugacannabis.store/]http://www.alekcin.ru/go?https://www.mississaugacannabis.store/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: N2QxNDBiYWQwOGM5ZTNiZTFlOGJkY2UyNjU3ZQ==
+    algorithm: aes-256-gcm
+    iv: 7d043e55a0f989c54426b974
+    version: "1"
+  spam:
+    score: 7.39
+    marked: true
+  status: rejected
