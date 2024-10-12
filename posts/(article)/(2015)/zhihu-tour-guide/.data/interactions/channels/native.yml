@@ -492,3 +492,31 @@
     score: 5.05
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 1c4dc3dce8cc343850cfeb4a8346bbf866e5f06c
+  author:
+    name: Jefferyzex
+    lang: en
+    email:
+      value:
+        encrypted: ZGIyYjJkZDkzODNhYjRlOTZhYmFmOTdhMjM=
+        algorithm: aes-256-gcm
+        iv: cb5d57f79357e836a580ce84
+        version: "1"
+      hash:
+        sha256: a73c48fb3f0ce6ea7c83ad39695a79a1c57080d48c0e227df273a28f58ddc513
+  published: 2024-10-12T13:49:49.921Z
+  content: Очистка кровли от снега, уборка наледи и сосулек с крыши дома и других
+    видов зданий. Высотные работы и услуги промышленного альпинизма в Москве
+    https://dzen.ru/a/ZwZBBx-k5WAsdmk3
+  lang: zh-CN
+  ip:
+    encrypted: YzdiNDk4OWRkYjNhOGM1ZWI0MjBjOTE5NzQ3Yg==
+    algorithm: aes-256-gcm
+    iv: aa0556622735b8dc8f89de0d
+    version: "1"
+  spam:
+    score: 8.07
+    marked: true
+  status: rejected
