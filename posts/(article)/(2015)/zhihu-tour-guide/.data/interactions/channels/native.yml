@@ -671,3 +671,32 @@
     score: 6.35
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b21be2ac03e8090a0e513c98863be903a7c695e1
+  author:
+    name: RussellNup
+    lang: en
+    email:
+      value:
+        encrypted: MzY2YTMxZDZhZGE0NGZjM2MwZmIyNzE4ZmU=
+        algorithm: aes-256-gcm
+        iv: c5d13a8c078b1e2a395cfef7
+        version: "1"
+      hash:
+        sha256: 28012cd6139a7320174ca3c7c9e86cc48395d4e5035ae3737ce0dd7a746d1d9c
+  published: 2024-10-12T22:17:54.762Z
+  content: "Несвоевременная очистка кровли от снега и наледи приводит к накоплению
+    большого количества снежных осадков. Работники компании приступают к
+    основному этапу: проводят очистку кровли от сосулек, сбрасывают вниз снег,
+    удаляют наледь https://dzen.ru/a/ZwZBBx-k5WAsdmk3"
+  lang: zh-CN
+  ip:
+    encrypted: MDA0MWNiZDdhNjcyOWQ3MTYxOTA2YTg3ZTFmMw==
+    algorithm: aes-256-gcm
+    iv: eedb205222b71a169ce15137
+    version: "1"
+  spam:
+    score: 7.89
+    marked: true
+  status: rejected
