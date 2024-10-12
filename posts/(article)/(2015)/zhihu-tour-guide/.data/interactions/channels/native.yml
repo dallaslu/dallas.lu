@@ -577,3 +577,35 @@
     score: 5.01
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: ea12b76783856b7d14084f3d70113d785bcd485d
+  author:
+    name: GeraldBef
+    lang: en
+    email:
+      value:
+        encrypted: ZTNlODQ4MDMzZTVkYjg4MGI4OWFmNWQyMmE5NGE3MzM3OGVjZGQ5YjdmYjQ5MmNhYmEyNjI0OGFjYzMxOTllMTdh
+        algorithm: aes-256-gcm
+        iv: 8dec10a68722cfdf96f0653d
+        version: "1"
+      hash:
+        sha256: 714d934a3d41b463877aff7d6994e589c2c999236db37d692346c8791cdd9765
+  published: 2024-10-12T16:40:45.109Z
+  content: "В мире Kraken data protection и anonymity are a priority. Эта
+    онлайн-площадка guarantees convenient access к разнообразным сервисам,
+    которые обеспечивают maximum privacy. Здесь правила обычного интернета do
+    not apply, что позволяет вам свободно взаимодействовать интернет-услугами.
+    \r
+
+    <a href=https://krnktoweb.org/>darknet kraken</a>"
+  lang: zh-CN
+  ip:
+    encrypted: ZThhNWRkZThiODU1Nzc2NjBkZjk2Mg==
+    algorithm: aes-256-gcm
+    iv: 9902659bbf037ef0b03c4fa0
+    version: "1"
+  spam:
+    score: 5.82
+    marked: true
+  status: auditing
