@@ -756,3 +756,32 @@
     score: 6.18
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0f6c69b22530407e6a6b669a588b640b3f947ae8
+  author:
+    name: RubenLes
+    lang: en
+    email:
+      value:
+        encrypted: NTdmZTZhYjViODk3ZjUyOTA5ZjcyZGM2Zjk=
+        algorithm: aes-256-gcm
+        iv: 9c919250787970471fcb5b93
+        version: "1"
+      hash:
+        sha256: a52fe8ffaf25e82a13c476aeea2cf40a4f1939ec8d3e1c98b2c0ef033b5c3c28
+  published: 2024-10-13T12:48:43.135Z
+  content: One Plant North Oshawa is home to the biggest selection of Cannabis at
+    the best prices in Oshawa. Shop Cannabis, Flower, Edibles, Beverages, Bongs,
+    Grinders
+    [url=https://www.offbikes.com/?wptouch_switch=desktop&redirect=https://bramptoncannabis.store/]https://www.offbikes.com/?wptouch_switch=desktop&redirect=https://bramptoncannabis.store/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YTM5NjQzYzAwYmEzY2FmMjY2ZTQ2Zjgx
+    algorithm: aes-256-gcm
+    iv: e564011f8f3a0430e2ed27c7
+    version: "1"
+  spam:
+    score: 6.1
+    marked: true
+  status: rejected
