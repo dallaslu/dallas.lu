@@ -700,3 +700,31 @@
     score: 7.89
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e2c10ef9e0025786deb806a7825e30a54db0e97a
+  author:
+    name: Earnestevone
+    lang: en
+    email:
+      value:
+        encrypted: ZTU4N2YxMGEyNmEzNmI5ZGJhMmZkZTg1Zjg=
+        algorithm: aes-256-gcm
+        iv: cae2234d3de3366c7728dba3
+        version: "1"
+      hash:
+        sha256: 28012cd6139a7320174ca3c7c9e86cc48395d4e5035ae3737ce0dd7a746d1d9c
+  published: 2024-10-13T10:19:51.791Z
+  content: Виртуальный турецкий номер — удобная и выгодная альтернатива сим-карте
+    страны. Чтобы купить его, не нужно ехать в Турцию и даже предоставлять
+    документы [url=https://www.0412.ua/list/495010]турецкий номер телефона[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NTk0NWM0OGY3ZDAyMmVkM2JkNDk3YzUxODk0MQ==
+    algorithm: aes-256-gcm
+    iv: f43dca47421fd4401897e12e
+    version: "1"
+  spam:
+    score: 5.05
+    marked: true
+  status: auditing
