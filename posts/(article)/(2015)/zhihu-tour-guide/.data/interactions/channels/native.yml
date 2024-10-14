@@ -1050,3 +1050,32 @@
     score: 6.51
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0a4ea6eae04c6a3f986b68d83de3f0f8cdc38c31
+  author:
+    name: Andrewvon
+    lang: en
+    email:
+      value:
+        encrypted: OTM5MDMyODdjZmJjNjJiNWE3ZDcyMzcxZDA=
+        algorithm: aes-256-gcm
+        iv: 4f12c2779d9515f2dad76aaa
+        version: "1"
+      hash:
+        sha256: dcb9baf5ffe491a0b076c4370c81dc368f766c389cb021ae16e963684b3f6ec6
+  published: 2024-10-14T23:00:49.563Z
+  content: Наша виртуальная телефонная система, ориентированная на Турцию,
+    позволяет вам перенаправлять входящие звонки конкретным агентам службы
+    поддержки клиентов
+    [url=https://cherepovets3d.ru/Novosti/virtualniy-tureckiy-nomer-obespechivaet-udobstvo]https://cherepovets3d.ru/Novosti/virtualniy-tureckiy-nomer-obespechivaet-udobstvo[/url]
+  lang: zh-CN
+  ip:
+    encrypted: Yzk5ZjE3ZGI2Njc0MGI3N2Q4MTM0NTI2MTNkMg==
+    algorithm: aes-256-gcm
+    iv: 17fb98eb50b1826ba5fb7e0e
+    version: "1"
+  spam:
+    score: 9.05
+    marked: true
+  status: rejected
