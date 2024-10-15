@@ -1,11 +1,12 @@
 {
   "status": 200,
-  "updated": "2024-09-09T16:27:41.235Z",
+  "updated": "2024-10-15T16:20:45.206Z",
   "body": {
     "host": "dallas.lu",
     "urlList": [
-      "https://dallas.lu/note/1725473684069/",
-      "https://dallas.lu/zh-CN/note/1725473684069/"
+      "https://dallas.lu/domain-successfully-removed-from-surbl-blacklist/",
+      "https://dallas.lu/en/domain-successfully-removed-from-surbl-blacklist/",
+      "https://dallas.lu/zh-CN/domain-successfully-removed-from-surbl-blacklist/"
     ]
   },
   "response": ""
