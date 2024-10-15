@@ -1162,3 +1162,31 @@
     score: 6
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 91c850fa5d4fbad9e5de3f8acd8a5bec3b5371af
+  author:
+    name: AngelBoumb
+    lang: en
+    email:
+      value:
+        encrypted: NDg5OTgwNmVlODAyOTFhOTA5MzYzNjM2ODQ=
+        algorithm: aes-256-gcm
+        iv: faf2a6e89a7bbb1ac2d8ec6c
+        version: "1"
+      hash:
+        sha256: e68de33526e6d0e41d22731336cbb3b64e4b80a73c2f9606a2c925749298acf6
+  published: 2024-10-15T12:50:23.739Z
+  content: Крупнейший трейдер продажи металлопроката. 24/7. Скидка на опт.
+    Доставка за 2 часа [url=http://samarmatura.ru/]арматура купить в московской
+    области[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZDAzM2I2MmE3YzEwZjAyZmQxZjMwZjM4M2JlNg==
+    algorithm: aes-256-gcm
+    iv: deb2938a822354f955bfbd48
+    version: "1"
+  spam:
+    score: 8.11
+    marked: true
+  status: rejected
