@@ -1105,3 +1105,31 @@
     score: 6.64
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 1d02c4227c8e274953cd0ea566f6f80405ed886c
+  author:
+    name: Michaeltrife
+    lang: en
+    email:
+      value:
+        encrypted: ZDFhMTdhM2E5NzdkYzUyY2Y1N2IzN2RkOGE=
+        algorithm: aes-256-gcm
+        iv: 35c2ab714c9da2d1645d4934
+        version: "1"
+      hash:
+        sha256: ab337a3bd00fbf98095f09ee298d04356fb70c806988a13998bae0652a9d1d55
+  published: 2024-10-15T12:08:46.685Z
+  content: Металлопрокат чёрный, цветной, нержавеющий и оцинкованный.
+    Производство, работа с заводами производителями. Поставка от 1 штуки
+    [url=http://lsp-metall.ru/]купить прокат стальной[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NDY5NDk1MDFjY2I0NjMwNzFlZTBiNDM4ZTNlZg==
+    algorithm: aes-256-gcm
+    iv: 9dbbbbafd8907993ab52b212
+    version: "1"
+  spam:
+    score: 7.96
+    marked: true
+  status: rejected
