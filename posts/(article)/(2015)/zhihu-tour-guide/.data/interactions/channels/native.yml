@@ -17,3 +17,34 @@
     encrypted: NjcwNzg3NjZiZmU1ODc1MjJiNDRmYTdhM2M=
     algorithm: aes-256-gcm
     iv: 66c56f3716a4e7eaeb09dbd7
+- type: reply
+  channel: native
+  id: 5b40800ec057cb147b89ceb8fb49f7a8dc554e75
+  author:
+    name: Roberttaick
+    lang: en
+    email:
+      value:
+        encrypted: OGI2NTkxMGYwNTE3MjI2MTIwNzBiM2Q1MTE=
+        algorithm: aes-256-gcm
+        iv: a15a066021471fdf85a65d95
+        version: "1"
+      hash:
+        sha256: d23b9d9ad44a0ab7bfbb3bc6eb246afd39fb5fe524e6cd7c1e1b417219937bf5
+  published: 2024-10-15T21:24:31.326Z
+  content: В современном мире интернет-торговли платформа Авито стала одним из
+    самых популярных мест для покупки и продажи различных товаров и услуг.
+    Каждый день миллионы пользователей взаимодействуют друг с другом,
+    обмениваются сообщениями, предлагают свои товары и, конечно же, успешно
+    завершают сделки
+    [url=https://borovljany.by/informacija/kak-virtualnye-nomera-oblegchayut-biznes.html]https://borovljany.by/informacija/kak-virtualnye-nomera-oblegchayut-biznes.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZWM0MWEzZTRmMGMwNjQwYzZkMzMyYzRkYTY5OA==
+    algorithm: aes-256-gcm
+    iv: 47783264aca6210d35f41895
+    version: "1"
+  spam:
+    score: 5.57
+    marked: true
+  status: auditing
