@@ -1,7 +1,7 @@
 ---
 title: The Domain of Mail successfully removed from SURBL blacklist
 published: true
-date: '2024-10-14 10:14'
+date: '2024-10-15 10:15'
 license: CC-BY-NC-SA-4.0
 category:
   - Internet
