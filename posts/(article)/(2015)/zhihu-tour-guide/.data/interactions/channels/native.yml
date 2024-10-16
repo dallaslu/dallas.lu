@@ -155,3 +155,33 @@
     score: 8.57
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: bd990f58cf4c80191348b80449811a172db73bf4
+  author:
+    name: MajliSon
+    lang: en
+    email:
+      value:
+        encrypted: NTQwOGM0YTY0YTRmODY5OGNiNGFjN2YyODYyODFhMGVkOGJmMTNiYQ==
+        algorithm: aes-256-gcm
+        iv: b6410641ad63ac0d9283785b
+        version: "1"
+      hash:
+        sha256: 0da172f66ab950c70bd198530e0c9a64537a317aeb253158c6837b5aaefe8949
+  published: 2024-10-16T03:37:43.578Z
+  content: Статья расскажет о значении
+    [url=https://bankovskaya-garantiya-moskva997.ru/]банковской гарантии[/url]
+    как обязательства банка перед заказчиком выполнить финансовые обязательства
+    по договору, выделяя ключевые элементы этого важного финансового
+    инструмента.
+  lang: zh-CN
+  ip:
+    encrypted: MzYyMTA2ZGZmODFiZTYxMDlhZGUzYw==
+    algorithm: aes-256-gcm
+    iv: bf28221bedddeffc97912ccf
+    version: "1"
+  spam:
+    score: 8.13
+    marked: true
+  status: rejected
