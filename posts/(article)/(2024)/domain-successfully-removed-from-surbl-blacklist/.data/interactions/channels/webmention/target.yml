@@ -1,0 +1,15 @@
+- target: https://mailinabox.email/
+  status: unsupported
+  updated: 2024-10-16T09:22:30.326Z
+- target: https://mxtoolbox.com
+  status: unsupported
+  updated: 2024-10-16T09:21:58.653Z
+- target: https://surbl.org/surbl-analysis
+  status: unsupported
+  updated: 2024-10-16T09:21:58.651Z
+- target: https://dallas.lu/preserving-client-ip-in-iptables-port-forwarding/
+  status: unsupported
+  updated: 2024-10-16T09:21:58.652Z
+- target: https://www.postfix.org/postconf.5.html#mynetworks
+  status: unsupported
+  updated: 2024-10-16T09:21:58.652Z

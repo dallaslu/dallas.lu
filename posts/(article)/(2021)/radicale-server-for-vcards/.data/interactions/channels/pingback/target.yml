@@ -1,12 +1,15 @@
 - targetURI: https://github.com/metowolf/vCards
   status: unsupported
-  updated: 2024-09-03T17:01:25.657Z
+  updated: 2024-10-16T09:22:50.276Z
 - targetURI: https://github.com/Kozea/Radicale
   status: unsupported
-  updated: 2024-09-03T17:01:25.771Z
+  updated: 2024-10-16T09:22:54.211Z
 - targetURI: https://radicale.org/3.0.html#documentation/configuration
   status: unsupported
-  updated: 2024-09-03T17:01:25.183Z
+  updated: 2024-10-16T09:22:49.598Z
 - targetURI: https://radicale.example.com
   status: unsupported
-  updated: 2024-09-03T17:01:24.804Z
+  updated: 2024-10-16T09:22:45.642Z
+- targetURI: https://i-meto.com
+  status: unsupported
+  updated: 2024-10-16T09:22:54.171Z
