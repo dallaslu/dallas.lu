@@ -243,3 +243,33 @@
     score: 5.63
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 2893594a396fdf7921c5530f77e8acd685ab03f8
+  author:
+    name: Floyddremi
+    lang: en
+    email:
+      value:
+        encrypted: MTUyYzBmY2U3OTBkZGJiZTZiYzAwMDY3MDM=
+        algorithm: aes-256-gcm
+        iv: eb26c584ba413a6594c8aec5
+        version: "1"
+      hash:
+        sha256: 01a6071dc21cd516c8faf717ebfe97a130aab78047fa0a8eb5961f517c3618af
+  published: 2024-10-16T09:39:18.434Z
+  content: Виртуальный номер представляет собой телефонный номер, который работает
+    через интернет, а не через традиционные телефонные сети. Этот номер можно
+    использовать для приема и отправки звонков и сообщений, как обычный телефон,
+    но с множеством дополнительных преимуществ
+    [url=https://dobrenok.com/economy/virtualnye-nomera-instrument-dlya-rasshireniya-biznesa-uvelicheniya-effektivnosti-kommunikaczij-i-povysheniya-klientskoj-udovletvorennosti.html]https://dobrenok.com/economy/virtualnye-nomera-instrument-dlya-rasshireniya-biznesa-uvelicheniya-effektivnosti-kommunikaczij-i-povysheniya-klientskoj-udovletvorennosti.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YTIwY2RhMzc3MDNmNzNhNjlmYTE0ZTYwNDI0Nw==
+    algorithm: aes-256-gcm
+    iv: b90dd0c9864596caa759d72b
+    version: "1"
+  spam:
+    score: 6.19
+    marked: true
+  status: rejected
