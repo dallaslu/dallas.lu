@@ -274,4 +274,4 @@ npm run-script build-radicale
 
 注意：路径 `/home/radicale/collections/collection-root/cn` 中最后一级目录 `cn` 与订阅导入所需要的用户名一致，必须为英文，否则在某些客户端（如 iOS） 中将无法同步。
 
-!!! __2022-01-11__ 可尝试使用由 1bps 提供的公开订阅服务：`vards.1bps.cn` (使用方法参考上方「订阅导入」，以 `vcards.1bps.cn`替换`radicale.example.com`)
+!!! __2022-01-11__ 可尝试使用由 vCards 的作者 [metowolf](https://i-meto.com) 提供的公开订阅服务：`vcards.metowolf.com` (使用方法参考上方「订阅导入」，以 `vcards.metowolf.com`替换`radicale.example.com`)
