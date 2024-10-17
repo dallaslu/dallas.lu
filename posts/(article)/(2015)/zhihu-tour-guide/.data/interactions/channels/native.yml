@@ -566,3 +566,32 @@
     score: 5.02
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 29768faf6b335c214eb6209a680cc8823ad00950
+  author:
+    name: PerryZoola
+    lang: en
+    email:
+      value:
+        encrypted: ZGQ3Zjc4MjIwOWQzMmY0ZjA2MzU1ODdmNjc=
+        algorithm: aes-256-gcm
+        iv: 7e20915eed7ffaa67af8691f
+        version: "1"
+      hash:
+        sha256: 96735812bfc37b03ea1a5a11fe80373c3305c19d73ce1a28c71d63f26323c62d
+  published: 2024-10-17T20:07:15.654Z
+  content: Dankbros is one of Canada's most reputable online marijuana
+    dispensaries. We guarantee that you'll receive the best strains,
+    concentrates, and accessories
+    [url=https://www.openherd.com/adredirect.aspx?adtype=sitead&itemid=9595&returnurl=https://www.dankbros.net/]https://www.openherd.com/adredirect.aspx?adtype=sitead&itemid=9595&returnurl=https://www.dankbros.net/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YjhiODY1NjRiNzRjZjE1ZTY4M2RkMWIxZWQyNQ==
+    algorithm: aes-256-gcm
+    iv: fe172f10793e4669b1e889aa
+    version: "1"
+  spam:
+    score: 6.21
+    marked: true
+  status: rejected
