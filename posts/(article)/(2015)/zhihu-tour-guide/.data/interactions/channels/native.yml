@@ -480,3 +480,32 @@
     score: 4.95
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: a8116ce8c8e0a119adaaf52e88c34542c6144cc0
+  author:
+    name: Mariorok
+    lang: en
+    email:
+      value:
+        encrypted: NTc4NDQ4NjNmNDBmODExMGVkYmFlODVkNDk=
+        algorithm: aes-256-gcm
+        iv: 6f81cc399dbe5a6e89a9e2e8
+        version: "1"
+      hash:
+        sha256: 080c5558b24f8e45fb454f243c35b487b199a2a12db76dade3fb23b0e6c83daf
+  published: 2024-10-17T11:03:26.365Z
+  content: Когда нужно создать что-то надежное, важны не только материалы, но и их
+    правильный выбор. Это касается как масштабных проектов, так и небольших
+    объектов
+    [url=http://xn--48-6kcd0fg.xn--p1ai/forums.php?m=posts&q=23831&n=last#bottom]http://xn--48-6kcd0fg.xn--p1ai/forums.php?m=posts&q=23831&n=last#bottom[/url]
+  lang: zh-CN
+  ip:
+    encrypted: Y2QxY2U2ZGMyMmE0YmJjNzAxYWZmMTM4OTRlZQ==
+    algorithm: aes-256-gcm
+    iv: ee0e5084bdbbd56a59d2f196
+    version: "1"
+  spam:
+    score: 5.96
+    marked: true
+  status: auditing
