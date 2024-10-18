@@ -64,6 +64,12 @@ npm run radicale
 ln -s /home/radicale/vCards/radicale /home/radicale/collections/collection-root/cn
 ```
 
+运行 `crontab -e`，添加一个定时任务，以使得数据自动保持最新。鉴于项目更新频率，可设置为每周更新一次：
+
+```crontab
+0 5 * * 1 cd /home/radicale/vCards && git pull && npm run radicale
+```
+
 ## Radicale
 
 [Radicale](https://github.com/Kozea/Radicale) 是一个开源的 CalDav 和 CardDav 服务器软件，基于 Python 编写。
@@ -212,7 +218,7 @@ server {
 
 ## 使用{id=usage}
 
-访问 https://vcards.example.com，如果一切正常，会看到 Radicale 的登录页面，用户名 `cn` 密码任意填写，即可登录并查看到 vCards 提供的联系人信息。
+访问 `https://vcards.example.com`，如果一切正常，会看到 Radicale 的登录页面，用户名 `cn` 密码任意填写，即可登录并查看到 vCards 提供的联系人信息。
 
 订阅相关参数：
 
@@ -234,3 +240,5 @@ server {
 ## 结语
 
 本方案中 Radicale 对于订阅用户来说，是只读的。如果你有需要临时加入一些号码，建议在本地另建一个与主联系人的有相同主号码的联系人，iOS 会自动将 vCards 中的黄页联系人和本地联系人自动合并显示。
+
+订阅同步的方式，可能会消耗相当的服务器流量，如果你有资源，可以搭建公开的同步服务并分享给他人使用；如果你在白嫖他们提供的服务，建议设置为最慢的同步频率，以节省你的电量、流量，以及英雄们的服务器带宽和流量。
