@@ -9,10 +9,13 @@
   updated: 2024-10-18T04:58:14.597Z
 - target: https://radicale.example.com
   status: unsupported
-  updated: 2024-10-18T04:56:47.883Z
+  updated: 2024-10-18T05:10:45.276Z
 - target: https://i-meto.com
   status: unsupported
-  updated: 2024-10-18T04:57:23.510Z
+  updated: 2024-10-18T05:11:05.920Z
 - target: https://dallas.lu/build-vcards-carddav-service-with-radicale-on-ubuntu-22-04/
   status: unsupported
   updated: 2024-10-18T04:57:23.510Z
+- target: https://dallas.lu/build-vcards-carddav-service-with-radicale-on-ubuntu-24-04/
+  status: unsupported
+  updated: 2024-10-18T05:11:06.131Z

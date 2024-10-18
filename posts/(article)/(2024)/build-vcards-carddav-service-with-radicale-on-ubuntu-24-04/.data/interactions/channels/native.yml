@@ -1,0 +1,6 @@
+- id: 4b4d1d2b42b6b0a072316d7c091d2eb2f9af63a221461b59273ce52741e63a2e
+  channel: native
+  url: https://dallas.lu/radicale-server-for-vcards/
+  published: 2024-10-18T05:11:06.643Z
+  type: mention
+  title: 为 vCards 搭建 Radicale CardDav 服务器
