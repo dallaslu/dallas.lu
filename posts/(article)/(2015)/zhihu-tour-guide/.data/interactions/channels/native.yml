@@ -842,3 +842,36 @@
     score: 5.01
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: ddbbe31b67365f018bc973eb74544e3cedb5f9b2
+  author:
+    name: RobertNal
+    lang: en
+    email:
+      value:
+        encrypted: NGFmYmM0MWQwYTUwODBmOTIwMGFjNWViN2Y=
+        algorithm: aes-256-gcm
+        iv: c1795592e12bf177f3db93f8
+        version: "1"
+      hash:
+        sha256: baba9864a89132acb81fd7b08a57020fe1ae8a5de1fd3e73473e7e7c31f7326f
+  published: 2024-10-18T23:14:09.841Z
+  content: Заказывая окно и установку в одной компании, Вы можете сэкономить время
+    и силы на контроль работы разных подрядчиков. Комплексный подход к услуге
+    обеспечивает более точный монтаж конструкции с учетом всех особенностей
+    системы остекления. Наши мастера не только аккуратно установят окна, но и
+    проследят за качеством работы фурнитуры. Как производители, мы контролируем
+    поставки сырья и следим за качеством продукта на всех этапах, предлагая
+    впечатляющую гарантию на профили — 25 лет [url=https://vaokno.ru/]заказ окна
+    пластиковые[/url]
+  lang: zh-CN
+  ip:
+    encrypted: M2IxOWFhZjM4ODdkNWIzN2Y5OWExZTI2YmZhMg==
+    algorithm: aes-256-gcm
+    iv: 927a55c90926996a23d9965c
+    version: "1"
+  spam:
+    score: 7.63
+    marked: true
+  status: rejected
