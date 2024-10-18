@@ -20,3 +20,22 @@
     algorithm: aes-256-gcm
     iv: ec8ad141dc91dc045921f4fd
     version: "1"
+- type: reply
+  channel: email
+  id: BB2A0363-A3CD-4557-8673-D5D3C5FF5845
+  author:
+    verified: true
+    name: Dallas Lu
+    lang: en
+    email:
+      value:
+        encrypted: NTc3Y2ZiZGZmNzJlZTU0NTI5ZDZiZQ==
+        algorithm: aes-256-gcm
+        iv: 66a037f9aa711c8164dbea52
+        version: "1"
+      hash:
+        sha256: 0ac740f867d01353371baf0121d2705e4810a2cf1bb2401c620c27286b2005f3
+  published: 2024-10-18T14:30:14.261Z
+  content: 这个插件我用过的，用的是 WebDav 的同步方式，经过 Nextcloud 来同步，不太好用，经常提示不能同步。看来是我当时选错了同步方式啊！
+  lang: en
+  target: a3c1b5a0b05d33fd375e13e50435dbccbc97bceb
