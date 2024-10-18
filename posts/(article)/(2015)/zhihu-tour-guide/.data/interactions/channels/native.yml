@@ -725,3 +725,33 @@
     score: 6.28
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 700aba42b04b650f2f72a4010fdea1bc9c393ea3
+  author:
+    name: Adrianguisk
+    lang: en
+    email:
+      value:
+        encrypted: MjQ0NzFkNmNiMTRlNzVmNjM3OTY2YTJlOTM=
+        algorithm: aes-256-gcm
+        iv: d543e1e578836ce4ce7469fa
+        version: "1"
+      hash:
+        sha256: 7f1552287dafc265b868ea6289ffcb136effa0d8d0f088a84ea6e8ecd3fd6c12
+  published: 2024-10-18T13:12:26.211Z
+  content: Мы продаем устройства для систем водоснабжения, отопления, канализации
+    и мебель под сантехнику. Поможем создать пространство с комфортными для
+    жизни условиями [url=https://www.ozon.ru/product/759805103]Смеситель для
+    раковины на кухню и ванную / кран для умывальника Grohe Bauflow 23751000
+    Хром[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YmEwZTM1MzRiMmM1ODE2MWJlYTVmYTcyNjA0Ng==
+    algorithm: aes-256-gcm
+    iv: f1f24a52a72c54ea33eb5d65
+    version: "1"
+  spam:
+    score: 7.97
+    marked: true
+  status: rejected
