@@ -1,12 +1,11 @@
 {
   "status": 200,
-  "updated": "2024-10-15T16:20:45.206Z",
+  "updated": "2024-10-18T04:52:02.258Z",
   "body": {
     "host": "dallas.lu",
     "urlList": [
-      "https://dallas.lu/domain-successfully-removed-from-surbl-blacklist/",
-      "https://dallas.lu/en/domain-successfully-removed-from-surbl-blacklist/",
-      "https://dallas.lu/zh-CN/domain-successfully-removed-from-surbl-blacklist/"
+      "https://dallas.lu/build-vcards-carddav-service-with-radicale-on-ubuntu-24-04/",
+      "https://dallas.lu/zh-CN/build-vcards-carddav-service-with-radicale-on-ubuntu-24-04/"
     ]
   },
   "response": ""
