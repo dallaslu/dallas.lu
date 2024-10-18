@@ -231,7 +231,7 @@ server {
 * iOS: 「设置」--「通讯录」--「账户」--「添加账户」-- 「其他」--「添加 CardDAV 账户」。因为 iOS 的 Bug，并不能随时修改描述，建议将 描述 填写为「中国黄页」。
 * Mac：「通讯录」--「设置」--「账户」--「其他通讯录账户」
 * ThunderBird
-  - 旧版：需要安装 TbSync 及 Provider for CalDav & CardDav 扩展。「工具」--「Synchronization Settings(TbSync)」--「Account actions」--「alDav & CardDav」-- 「Manual Configuration
+  - 旧版：需要安装 TbSync 及 Provider for CalDav & CardDav 扩展。「工具」--「Synchronization Settings(TbSync)」--「Account actions」--「CalDav & CardDav」-- 「Manual Configuration
   - 新版：等待官方支持
 * Android：需要安装 DAVx5。「+」--「使用 URL 和用户名登录」
 
