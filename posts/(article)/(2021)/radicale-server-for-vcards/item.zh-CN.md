@@ -22,7 +22,7 @@ vCards 是一个黄页开源项目，整理了一批常用的企业联系人，�
 
 ===
 
-!!! __2024-10-17__ 本文内容已过时，请访问最新教程：[使用 Radicale 在 Ubuntu 24.04 中搭建 vCards CardDav 服务](https://dallas.lu/build-vcards-carddav-service-with-radicale-on-ubuntu-22-04/)
+!!! WARNING __2024-10-17__ 本文内容已过时，请访问最新教程：[使用 Radicale 在 Ubuntu 24.04 中搭建 vCards CardDav 服务](https://dallas.lu/build-vcards-carddav-service-with-radicale-on-ubuntu-22-04/)
 
 ## vCards
 
