@@ -13,14 +13,10 @@
       hash:
         sha256: bd1b0a53b23a2be80e5d580c9c4e124f0bf744b5a0597d4147de77527b511c30
   published: 2024-10-18T14:07:20.477Z
-  content: https://github.com/niceit/tabby-cloud-sync-settings,这个插件托管在gist上面太好用了兄弟
+  content: <https://github.com/niceit/tabby-cloud-sync-settings>,这个插件托管在gist上面太好用了兄弟
   lang: en
   ip:
     encrypted: ZWMwYTBlM2M5MWFkNDU3NzlhZjM4ZGJmY2E=
     algorithm: aes-256-gcm
     iv: ec8ad141dc91dc045921f4fd
     version: "1"
-  spam:
-    score: 7.5
-    marked: true
-  status: rejected
