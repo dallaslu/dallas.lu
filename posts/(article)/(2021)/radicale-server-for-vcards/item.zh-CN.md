@@ -13,6 +13,7 @@ keywords:
   - vCards 同步
   - 企业联系人
   - 公共通讯录
+  - 中国黄页
   - 自建 Radicale
 toc:
   enabled: true
@@ -20,6 +21,8 @@ toc:
 vCards 是一个黄页开源项目，整理了一批常用的企业联系人，并精心设定了头像；可以导入到手机、电脑中，优化来电和信息界面的使用体验。但该项目仅提供 vcf 文件下载，要求使用者手动导入；如果后续有变动，仍需重复手动导入操作。本文探讨使用 Radicale 搭建 CardDav 服务，以实现方便在各个设备上订阅导入，以及让黄页联系人自动保持最新的目标。
 
 ===
+
+!!! __2024-10-17__ 本文内容已过时，请访问最新教程：[使用 Radicale 在 Ubuntu 24.04 中搭建 vCards CardDav 服务](https://dallas.lu/build-vcards-carddav-service-with-radicale-on-ubuntu-22-04/)
 
 ## vCards
 
