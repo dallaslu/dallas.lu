@@ -845,3 +845,30 @@
     iv: d667bea4c4ccadef440ff6fa
     version: "1"
   target: 7994c4b3d1d09b0b3c9bdffc91eab9f564e9f127
+- type: reply
+  channel: native
+  id: 95c999338ac7ce5b85fcd33a98f1269fe1f88447
+  author:
+    name: MichaelGef
+    lang: en
+    email:
+      value:
+        encrypted: OTA5YTc3ZjlhY2IwNDI1ZTY1YTViM2I4OTkwM2E2M2IwMDAwNTA0ZDk5NDIwNzRmN2Y=
+        algorithm: aes-256-gcm
+        iv: b333c1c64e3100b6d03715a6
+        version: "1"
+      hash:
+        sha256: 10c3984c48d653f00e209e917b82821d4b70c147f8b4ad5cc151bbded1f0d9b3
+  published: 2024-10-18T00:19:53.956Z
+  content: Opened up an intriguing read Р let me share this with you  <a
+    href=http://rt.rulet-18.com/>http://rt.rulet-18.com/</a>
+  lang: en
+  ip:
+    encrypted: MTQzYjVmNjMyYmNjYWJkYzNmNWJkMzFiMTc=
+    algorithm: aes-256-gcm
+    iv: c43d2d35b3abf7bc6dc7037c
+    version: "1"
+  spam:
+    score: 4.59
+    marked: true
+  status: auditing
