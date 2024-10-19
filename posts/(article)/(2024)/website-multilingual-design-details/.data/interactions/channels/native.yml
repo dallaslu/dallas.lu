@@ -43,3 +43,21 @@
   content: 我也有些同感。不知是字重大了，还是间距小了，或者字体的风格需要换一换。看上去有点花，满眼都是字
   lang: zh-CN
   target: 93ae20bdc00a0cd73ca1bc053b9da5770352a65d
+- type: reply
+  channel: native
+  id: 2ad15d79fda5cc4eb9c2e69d30d4a972935d4029
+  author:
+    name: ATurret
+    lang: zh-CN
+    url: https://aturret.space
+  published: 2024-10-19T16:16:06.016Z
+  content: 非常感谢分享。我的 wordpress 站点用的是 Polylang，就感觉还是比较笨重。第一次听说 Grav
+    ，看了一下它对多语言的原生支持很给力。不过2024年了在 CMS 领域另立一个山头，总觉得比较害怕后续无人维护生态崩溃……
+  lang: zh-CN
+  ip:
+    encrypted: NDIwNDhjODllM2Y5YjhjOGQyMDhlOGZkNTMwZDRhYWJkY2Zm
+    algorithm: aes-256-gcm
+    iv: 6e5739d73753dd55d9771d8b
+    version: "1"
+  spam:
+    score: 1.15
