@@ -962,3 +962,32 @@
     score: 6.17
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 72666aa3618e4bf94d1cb2f9b92e139184979ecd
+  author:
+    name: Richardperve
+    lang: en
+    email:
+      value:
+        encrypted: MmNlZDM5OWVmOWI3ZTVhMjI1OTYxMzczOWU=
+        algorithm: aes-256-gcm
+        iv: 3ea7eb16b77f07a0193d647b
+        version: "1"
+      hash:
+        sha256: 6f37d3dc3f8b58a73d06828ac67687cb167267f2f950bfbb1012ffcb660dc8e0
+  published: 2024-10-19T22:24:03.439Z
+  content: Разработка ПНООЛР — проект нормативов образования отходов и лимитов на
+    их размещение. Экологическая отчетность для предприятий в Москве и
+    Московской области
+    https://vc.ru/u/3791103-studiya-zr/1506729-pnoolr-chto-nuzhno-znat-pri-razrabotke-proekta-normativov-obrazovaniya-i-razmesheniya-othodov
+  lang: zh-CN
+  ip:
+    encrypted: ZmFiNGE2NzlhNGRiMGY4OTUwZjVhMThlNzczNg==
+    algorithm: aes-256-gcm
+    iv: c8f4c9ab9823b775cd556118
+    version: "1"
+  spam:
+    score: 8.89
+    marked: true
+  status: rejected
