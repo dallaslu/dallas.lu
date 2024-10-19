@@ -875,3 +875,32 @@
     score: 7.63
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c9998cd3f343bf2e984f9c8ffbe86efaa7919dbc
+  author:
+    name: Philiphooge
+    lang: en
+    email:
+      value:
+        encrypted: OGQzZTgyMWI1MDhmZTg0ZGJiY2ExN2Q4ODU=
+        algorithm: aes-256-gcm
+        iv: 90edec2a76cde621fadde49e
+        version: "1"
+      hash:
+        sha256: 4381ce0bbf4600c6e8e1cb56adeb3621d5cfb8a5fd4c1729f2c2e6dddde6e9da
+  published: 2024-10-19T11:27:59.465Z
+  content: Разработка проекта СЗЗ (санитарно защитная зона) для объектов
+    негативного воздействия в Москве и Московской области. Оценка источников
+    загрязнения на производстве, согласование проекта в Роспотребнадзоре
+    https://telegra.ph/15-ponyatnyh-otvetov-o-proekte-SZZ-sanitarno-zashchitnaya-zona-10-17
+  lang: zh-CN
+  ip:
+    encrypted: YjcyMzZlZWE2NjJiZmI5NzBlNDM5MzkyZTRiNg==
+    algorithm: aes-256-gcm
+    iv: dff46d0b498b237f1938fcbf
+    version: "1"
+  spam:
+    score: 5.4
+    marked: true
+  status: auditing
