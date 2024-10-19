@@ -933,3 +933,32 @@
     score: 5.94
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: ddcca892462b4e81f3892be8a1af4ec4df5b0d19
+  author:
+    name: AllenAduts
+    lang: en
+    email:
+      value:
+        encrypted: YTEwZmI4YjcxN2U2YTBmZmZkZjU5MTJlYTQ=
+        algorithm: aes-256-gcm
+        iv: af44aff5a47c858371956c88
+        version: "1"
+      hash:
+        sha256: 1c8262dd76a61feb27bf701f5202f9c56fce29acc5598bf8c9a7448e5a56fc8e
+  published: 2024-10-19T21:39:44.099Z
+  content: Your go-to Filipino technology forum for discussions on mobile
+    networks, internet, phones, media, computers, gaming, news, and a variety of
+    topics related to
+    [url=http://www.hotelisabellacatolica.com/wp-content/themes/StrictOne/go.php?https://www.phforums.co.za/]http://www.hotelisabellacatolica.com/wp-content/themes/StrictOne/go.php?https://www.phforums.co.za/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MzgwZTljMWY2ZmJjNWJkNTIzODhlN2ViZTM4MA==
+    algorithm: aes-256-gcm
+    iv: 6ebf423fca029b105ef842d5
+    version: "1"
+  spam:
+    score: 6.17
+    marked: true
+  status: rejected
