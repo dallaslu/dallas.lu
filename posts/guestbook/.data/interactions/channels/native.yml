@@ -898,3 +898,41 @@
     score: 5.38
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: f3936f3d9a71060d717fc9c357317377331c0761
+  author:
+    name: TamikoViste
+    lang: en
+    email:
+      value:
+        encrypted: NTIyMWY4ZWUxMzU1ZjJkYzc2ZDBjMzI4NzA5NzQxZmI0MDljYjhmZjY2NzJkNDUy
+        algorithm: aes-256-gcm
+        iv: 587bad826c57fe40310dd44e
+        version: "1"
+      hash:
+        sha256: c00fc60c5b4c882c98e5ebea4583fc1b34c64d618db9bb116b55602b68917f1d
+  published: 2024-10-21T14:37:20.803Z
+  content: " \r
+
+    \ \r
+
+    Salon numismatics \r
+
+    \ \r
+
+    Welcome to this wonderful shop numismatics. \r
+
+    \ \r
+
+    [url=https://coin-msk.ru/]советские рубли цена [/url]"
+  lang: en
+  ip:
+    encrypted: MWU0ZTViYWJhM2YwN2E1NzY4YjI2NTI4MDc=
+    algorithm: aes-256-gcm
+    iv: 8b2e6e1369a26dc9e97f53b9
+    version: "1"
+  spam:
+    score: 5.94
+    marked: true
+  status: auditing
