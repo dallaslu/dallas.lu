@@ -1045,3 +1045,34 @@
     score: 5.78
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 3b2109ebfe8368dc1a5b7045d48a48f9141f2231
+  author:
+    name: ElijahCok
+    lang: en
+    email:
+      value:
+        encrypted: MTEyMDU2MWUwZGU4ZTNlYzkyYTUyY2IyMzU=
+        algorithm: aes-256-gcm
+        iv: f8e39b8dafbee369c6048973
+        version: "1"
+      hash:
+        sha256: eecb86d8fc7a8e64268961611d035ed60ba7cebe475d1ad6b43aed160a28c568
+  published: 2024-10-21T22:01:58.684Z
+  content: There are many benefits to using a Taiwan virtual number to receive
+    text messages . First, it provides users with a temporary and secure phone
+    number without having to buy a new SIM card. Second, it is suitable for a
+    variety of scenarios, including social media registration, online shopping,
+    and two-factor authentication
+    [url=http://www.cd20.com.cn/20241017/06225074.html]http://www.cd20.com.cn/20241017/06225074.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MzlmODZmMTUyMjQ4MDg3YjdlMTg3NWEwZjlhNg==
+    algorithm: aes-256-gcm
+    iv: 1e9b4be81d41dc7604aa2c95
+    version: "1"
+  spam:
+    score: 5.18
+    marked: true
+  status: auditing
