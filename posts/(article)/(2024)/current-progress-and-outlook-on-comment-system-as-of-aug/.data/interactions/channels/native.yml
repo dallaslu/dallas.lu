@@ -106,3 +106,29 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7eda24c0b68bab49546d2ce8c7de680f922a6088
+  author:
+    name: AlvinJal
+    lang: en
+    email:
+      value:
+        encrypted: MDZiZjQ1ZmM4Y2JhOTQ5Y2ZiMTRiNjliYmFjMGM1MjNiMjFlY2EwNzBkMzcxMQ==
+        algorithm: aes-256-gcm
+        iv: 3f0cc08d5d6b552bf08288d9
+        version: "1"
+      hash:
+        sha256: 39e4df9edcb11296d9266fd3df180fe8a01997428df8898301ecfa24e8659298
+  published: 2024-10-22T20:08:44.238Z
+  content: "https://www.yellowbullet.com/members/roscarpodgoricacom.354353/\r\n"
+  lang: en
+  ip:
+    encrypted: ZmI4ZTFhZjUxOGNlZmFmZDllMGY5ZjQyYWU=
+    algorithm: aes-256-gcm
+    iv: a45f91e85b4f18595a17ed41
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
