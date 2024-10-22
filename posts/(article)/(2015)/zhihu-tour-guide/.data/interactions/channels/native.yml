@@ -1076,3 +1076,33 @@
     score: 5.18
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 075c934f3313932dda654780975656c14a6673e1
+  author:
+    name: Roberthat
+    lang: en
+    email:
+      value:
+        encrypted: Nzg3MmZjODM0NjRjN2Y1ZGZhNmE1MmI4MDQ5YQ==
+        algorithm: aes-256-gcm
+        iv: 99d241921aca9a9afcc74bba
+        version: "1"
+      hash:
+        sha256: aca07d36c61fc1c34e7276b1b11ad7414c7fb2a887b40257b5113f3afc268a59
+  published: 2024-10-22T18:35:57.385Z
+  content: Telegram virtual phone number is a virtual phone number designed for
+    registering Telegram accounts. Unlike physical SIM cards, virtual numbers
+    are generated online and users can use them without having to buy a new SIM
+    card
+    [url=http://www.mrgwsm.cn/20241017/54325907.html]http://www.mrgwsm.cn/20241017/54325907.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YzFkNGIyYjFmOTZkZDg0MzJhYTI2ZDUyZjA3Ng==
+    algorithm: aes-256-gcm
+    iv: d8165b4390b72a248d093909
+    version: "1"
+  spam:
+    score: 5.37
+    marked: true
+  status: auditing
