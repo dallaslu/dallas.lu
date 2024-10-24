@@ -1294,3 +1294,31 @@
     score: 8.8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8a1d760afa7634e3010d5f600b382308bad4c280
+  author:
+    name: ErnestCof
+    lang: en
+    email:
+      value:
+        encrypted: YzY2ZDBjYTNiYjAyZmI2MDBkMmY2ZGFjZmY4MTZiZDcyYg==
+        algorithm: aes-256-gcm
+        iv: 1daea8239e49dc442f6350fd
+        version: "1"
+      hash:
+        sha256: 4f5766d9ab21e150535383c278cd71bf57bfb648ee55d3bdcf285dadd71e3b89
+  published: 2024-10-24T14:56:26.218Z
+  content: Kraken — одна из ведущих криптобирж для безопасной и удобной торговли
+    криптовалютами. Регистрируйтесь и начинайте торговать уже сегодня
+    http://kra11.ca
+  lang: zh-CN
+  ip:
+    encrypted: Njg1Y2I1YTBhNjkwNDU5NjY4ZmIxN2EwZjNhYw==
+    algorithm: aes-256-gcm
+    iv: 47b5e6e8703901f49ef985da
+    version: "1"
+  spam:
+    score: 4.8
+    marked: true
+  status: auditing
