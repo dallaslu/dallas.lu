@@ -1229,3 +1229,68 @@
     score: 6.89
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c5f5e5b76f3a5ce8f9976674d7884b20becbd4a1
+  author:
+    name: Donaldcap
+    lang: en
+    email:
+      value:
+        encrypted: NDJlZjdiOTc1YzUxYWVjZTRkZDMxZDQ3ZjliYzI1MTA2MWZkNmVlYTc2NmNjZWY0MjkwMA==
+        algorithm: aes-256-gcm
+        iv: 407bc071684ab6fe605eeabf
+        version: "1"
+      hash:
+        sha256: d8f67a18880b96381535940f9c30799797f204bf2d11d0ebced364c42200197e
+  published: 2024-10-24T05:08:19.215Z
+  content: "Share your thoughts on any internet page, even those that do not
+    typically allow comments. \r
+
+    \ \r
+
+    https://SpeakDot.com/ allows users to leave comments on any webpage just by
+    entering a URL. You can join discussions on any internet page, even those
+    that do not typically allow comments. The comments left on SpeakDot.com are
+    not subject to censorship by third-party website administrators. \r
+
+    \ \r
+
+    In a time when many voices are silenced or moderated, we aim to provide a
+    neutral space where everyone can freely express their opinions. We hope you
+    find our service useful and take advantage of it to express your thoughts on
+    various topics. \r
+
+    \ \r
+
+    We would be grateful if you could consider sharing information about
+    https://SpeakDot.com/. Your support could help us reach a broader audience.
+    \r
+
+    \ \r
+
+    Best regards, \r
+
+    \ \r
+
+    \ \r
+
+    Ihor Burt \r
+
+    \ \r
+
+    feedback@speakdot.com \r
+
+    \ \r
+
+    https://speakdot.com/"
+  lang: zh-CN
+  ip:
+    encrypted: OThmM2E3YTlmNGM4ZDdlYjgzYzFmYWMxODA1OA==
+    algorithm: aes-256-gcm
+    iv: 4acbe7eee6d506794d29aa07
+    version: "1"
+  spam:
+    score: 8.8
+    marked: true
+  status: rejected
