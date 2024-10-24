@@ -1322,3 +1322,31 @@
     score: 4.8
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 0a1ee994f35f921a97c65bd1188e25592362e48b
+  author:
+    name: JefferyJaf
+    lang: en
+    email:
+      value:
+        encrypted: NTkzOTQ2ZTA3ZTIzZWQxNDkyN2Q1N2JkYTY3Nzc4MGQ2ZQ==
+        algorithm: aes-256-gcm
+        iv: 94cc1f155fcb3d0835e7728d
+        version: "1"
+      hash:
+        sha256: 6145f2e6d028b565956eaf85b21a41b33b7e6fb5fc32dd8dea23e81b9e0e085c
+  published: 2024-10-24T18:31:42.133Z
+  content: Грамотно организованный процесс подготовки сотрудников позволяет не
+    только повысить их квалификацию, но и открыть новые возможности для роста
+    [url=http://letmefix.lt/index.php?title=%20%D0%A1%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D1%8B%20%D0%B0%D0%B4%D0%B0%D0%BF%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BA%20%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%BC%20%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F%D0%BC%20%D0%BD%D0%B0%D0%B2%D1%8B%D0%BA%D0%BE%D0%B2]http://letmefix.lt/index.php?title=%20%D0%A1%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D1%8B%20%D0%B0%D0%B4%D0%B0%D0%BF%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BA%20%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%BC%20%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F%D0%BC%20%D0%BD%D0%B0%D0%B2%D1%8B%D0%BA%D0%BE%D0%B2[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MGYyYzU5M2Y2MTcwZTk5NTQzYzdhZTMwNmQ1NA==
+    algorithm: aes-256-gcm
+    iv: e3beb1fbfec1630594beb6e4
+    version: "1"
+  spam:
+    score: 7.05
+    marked: true
+  status: rejected
