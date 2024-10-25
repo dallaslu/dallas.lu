@@ -1378,3 +1378,31 @@
     score: 7.79
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ed5e739238bb5df35b5225db1f2a36cedbdadc29
+  author:
+    name: RichardBen
+    lang: en
+    email:
+      value:
+        encrypted: NTE3ZDg5M2NjYmZlMTVmMmQzZjgzZGY4YzEyYzEz
+        algorithm: aes-256-gcm
+        iv: 566edabcacb31a26de7c69cc
+        version: "1"
+      hash:
+        sha256: ffbaf5ae2cae8887569bfa611a8ba03c841b636bdbdbb12aef6633bd6b43fa3c
+  published: 2024-10-25T09:44:52.335Z
+  content: Данная студия предоставляет услуги по продвижению сайтов и
+    интернет-магазинов в Москве. Используется комплексный подход. Различные
+    доработки сайта http://prodvizhenie-saytov-moskva.ru
+  lang: zh-CN
+  ip:
+    encrypted: YjRmZjMyM2YyOGQwMjhjMzJhNzE4MTdiMGMzMQ==
+    algorithm: aes-256-gcm
+    iv: dacca8b41db05c775f0dbbe3
+    version: "1"
+  spam:
+    score: 8.09
+    marked: true
+  status: rejected
