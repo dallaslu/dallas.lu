@@ -1406,3 +1406,33 @@
     score: 8.09
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: dfee4200a7b7dd4296cfe580cff69197aa528259
+  author:
+    name: Josephlut
+    lang: en
+    email:
+      value:
+        encrypted: NmJiMjhlMzdlZTFkOTgwNTNkMTQxNTZiODRlYzM2
+        algorithm: aes-256-gcm
+        iv: 9db1c4e7213e1e4fd90b9de8
+        version: "1"
+      hash:
+        sha256: 91d19ecf1bbbcef51efc148864147367152d1d79108f8ef06b29c671046c7ddf
+  published: 2024-10-25T22:22:15.439Z
+  content: Территория строгих правил и высоких налогов — Западная Европа манит
+    iGaming-операторов, обещая богатство и успех. И не удивительно — на эту
+    часть света приходится почти половина объема всего мирового рынка
+    онлайн-гемблинга [url=https://mellstroy-stream-kick.ru/]мелстрой
+    казино[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MzVlYzA5MTA4ZjljMTdiYTU5MzVlY2FiNjA5YQ==
+    algorithm: aes-256-gcm
+    iv: a27bba6426d790d57259b00e
+    version: "1"
+  spam:
+    score: 7.95
+    marked: true
+  status: rejected
