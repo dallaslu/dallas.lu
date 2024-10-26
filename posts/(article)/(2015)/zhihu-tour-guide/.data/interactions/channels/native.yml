@@ -1598,3 +1598,31 @@
     score: 5.07
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: d58cde8d6b7cc3fed3c7711e8a3eae1341f01618
+  author:
+    name: JamesdaW
+    lang: en
+    email:
+      value:
+        encrypted: YWI5OTBhNGIyMGM1NWFkZjhhZmU4YjY2MjliOTAzMmZlZmNi
+        algorithm: aes-256-gcm
+        iv: b5d0e8c965bd4174cf53b60e
+        version: "1"
+      hash:
+        sha256: a6fbc96f503ce3d5c92be3851ab09f5eaca78deaf8f692b7bbba4ad50564777b
+  published: 2024-10-26T15:14:54.332Z
+  content: Фасовочно-упаковочное оборудование предназначено для порционной фасовки
+    различных сыпучих продуктов. К числу основных из них относится чай, крупы
+    [url=http://amplituda74.ru/]оборудование для пищевого производства б у[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZmUyOGYyOGZiYWVhNTg2ODIzYjY4MmExYzNmYQ==
+    algorithm: aes-256-gcm
+    iv: ea9819fdd83bafc0618a665c
+    version: "1"
+  spam:
+    score: 7.97
+    marked: true
+  status: rejected
