@@ -1462,3 +1462,31 @@
     score: 6.33
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 65797c9a2a99e4db0626fba9f8c10157aa5bb07d
+  author:
+    name: Curtisgaste
+    lang: en
+    email:
+      value:
+        encrypted: NWRiN2JmNzkzMmYyZjhjZDhmYzkzY2E4NDY0NDky
+        algorithm: aes-256-gcm
+        iv: 5074459633ae9497987e84fa
+        version: "1"
+      hash:
+        sha256: 521de33746fbd7ff8bf7954013fec094459fd5e0fa70cc542286ac373b6c5796
+  published: 2024-10-26T06:46:05.250Z
+  content: "В одном месте можно купить все необходимое оптом: упаковочное,
+    весовое, обвязочное оборудование, аксессуары для фасовки
+    [url=http://amplituda74.ru/]предприятия пищевого оборудования[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: ZjI4NjRkYWIzZjNkOWVmNzVjYjMwZmZkZDBjOQ==
+    algorithm: aes-256-gcm
+    iv: e417a66b0ad4beb77b870edd
+    version: "1"
+  spam:
+    score: 8.05
+    marked: true
+  status: rejected
