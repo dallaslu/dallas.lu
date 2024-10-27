@@ -1682,3 +1682,32 @@
     score: 5.28
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 181bd2b6a04ccbdb0b130b8a9f1e7b01556c710d
+  author:
+    name: Willievub
+    lang: en
+    email:
+      value:
+        encrypted: MGQ4ZGJkN2E0MGRjMzFmNDBkZmMxMDYwMGYyNGJi
+        algorithm: aes-256-gcm
+        iv: 97999c4069fff8aa395da371
+        version: "1"
+      hash:
+        sha256: 0f69090da087519a73d0488a473d56351b286638750df832bab07297713be164
+  published: 2024-10-27T11:13:05.394Z
+  content: Современные системы управления помогают контролировать каждый этап, от
+    первичной обработки до упаковки. Это не только снижает риск ошибок, но и
+    экономит ресурсы
+    [url=http://www.xn--2q1bn6iu5aczqbmguvs.com/bbs/board.php?bo_table=free&wr_id=230690]http://www.xn--2q1bn6iu5aczqbmguvs.com/bbs/board.php?bo_table=free&wr_id=230690[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MjhkOGQ1YzkwNWUyOGNlM2YwOWJmYTc4ZDU1Zg==
+    algorithm: aes-256-gcm
+    iv: bec007005efa32d4cb93a902
+    version: "1"
+  spam:
+    score: 6
+    marked: true
+  status: rejected
