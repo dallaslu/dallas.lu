@@ -1773,3 +1773,33 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: fc5bd6ea70be31ea63727c3a91fb4eacfb3a4133
+  author:
+    name: StephenAxore
+    lang: en
+    email:
+      value:
+        encrypted: MzA1NDljN2Y4N2RjNDVlODZkOGE2OTRmZmU2M2I3ZjYwYjg2
+        algorithm: aes-256-gcm
+        iv: aa1ed8af4d2321bbb9aee407
+        version: "1"
+      hash:
+        sha256: 4077c5f8044491ed2f2b193ff92eb8e620cc598145c3f6e57274f089f9a7ab01
+  published: 2024-10-27T20:33:32.045Z
+  content: Рынок предлагает широкий спектр решений, от простых ручных устройств до
+    сложных автоматизированных систем. Выбор подходящей техники может оказаться
+    непростой задачей, особенно учитывая разнообразие предложений и технологии,
+    доступные на сегодняшний день
+    [url=http://www.magazzinisonori.com/index.php/component/kunena/in-neque-arcu-vulputate-vitae/54650]http://www.magazzinisonori.com/index.php/component/kunena/in-neque-arcu-vulputate-vitae/54650[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NzQ1YzMwMzg5ZmI5OTNlN2VjODQ5ODI0M2IyZg==
+    algorithm: aes-256-gcm
+    iv: 1f9513b72d5b7d0bfb75d2e7
+    version: "1"
+  spam:
+    score: 5.78
+    marked: true
+  status: auditing
