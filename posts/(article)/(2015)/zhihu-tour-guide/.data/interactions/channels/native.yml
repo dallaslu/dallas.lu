@@ -1711,3 +1711,38 @@
     score: 6
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 647c243092813e4b0fdb309d38b6a13330d0457e
+  author:
+    name: Graffneyvibre
+    lang: en
+    email:
+      value:
+        encrypted: NDI5NTk3OTM3M2Y3NWU3MmZkZTdlNTdlNTU0YTdlNmVjMzU4MTM1OTY3
+        algorithm: aes-256-gcm
+        iv: 0efd6d5c7309dcbea68975ec
+        version: "1"
+      hash:
+        sha256: f06ed8259357464cf8f5a149767f8046dc3f2b5575f52b18693da05cc4166a81
+  published: 2024-10-27T17:30:30.650Z
+  content: "[url=https://medium.com/@gevorgyan1984/промокод-1win-при-пополнении-с\
+    чета-4a57d93c0cd6]Промокод 1win при пополнении счета[/url]\r
+
+    \ \r
+
+    \ \r
+
+    О ставках в реальном времени: \"Ставки в реальном времени в 1win – это то,
+    что нужно! Мгновенное обновление коэффициентов и быстрое оформление ставок.
+    Удобно и прибыльно!\""
+  lang: zh-CN
+  ip:
+    encrypted: OTA3ZmM4NDcxMDMyNDk3NjNmZTE4NmExMDc=
+    algorithm: aes-256-gcm
+    iv: fe52b16ebdc5c5db252ad1f6
+    version: "1"
+  spam:
+    score: 5.39
+    marked: true
+  status: auditing
