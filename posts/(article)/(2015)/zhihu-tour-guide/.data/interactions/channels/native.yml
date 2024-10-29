@@ -1859,3 +1859,31 @@
     score: 6.1
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e947d513eec41ffeb3659d5953f64468d65a7204
+  author:
+    name: ThomasCen
+    lang: en
+    email:
+      value:
+        encrypted: YWY4OWQ1ZjAyNzIzNTI2OTE2NGM3ZDZkZDNlMTU5MWM5M2Nm
+        algorithm: aes-256-gcm
+        iv: 72201bc74650e14adab25dd0
+        version: "1"
+      hash:
+        sha256: 67be3985940658eb65944c4abcf3057f20e323bfa4f1bf1b596cf8b0c84fb8cc
+  published: 2024-10-29T23:18:56.918Z
+  content: Игровой азартный клуб Gama casino работает по лицензии Кюрасао и
+    принимает денежные ставки у игроков из большинства стран мира
+    [url=https://ten-x.ru/]гама зеркало казино[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZjI2Yjg2MmY1NGNiODFiYmFlYWYwNWRlM2M2MQ==
+    algorithm: aes-256-gcm
+    iv: 5f01cfa3809c0066be5d473b
+    version: "1"
+  spam:
+    score: 7.88
+    marked: true
+  status: rejected
