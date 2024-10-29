@@ -1803,3 +1803,33 @@
     score: 5.78
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 88340d2836af2b81d9179dfb98b778848b8987c8
+  author:
+    name: StephenAxore
+    lang: en
+    email:
+      value:
+        encrypted: ODRmNTgzNTU2M2YzODg1N2MxZTExYWQ2ODczMTQyZmIxNjZh
+        algorithm: aes-256-gcm
+        iv: a8d1a6588892b5137d6feaba
+        version: "1"
+      hash:
+        sha256: 923d7efb071c85e8da177096139f92c4d78895fe6ac887af7e392eb94abe9760
+  published: 2024-10-29T00:44:58.514Z
+  content: Если разбирать термин с позиции экономики, то конкуренцией является
+    процесс взаимосвязи, взаимодействия и борьбы между предприятиями на рынке с
+    целью обеспечить себе лучшие возможности реализации товаров и услуг для
+    удовлетворения потребностей покупателей
+    [url=http://masyasha.ru/index.php?option=com_k2&view=itemlist&task=user&id=84130]http://masyasha.ru/index.php?option=com_k2&view=itemlist&task=user&id=84130[/url]
+  lang: zh-CN
+  ip:
+    encrypted: OThlMTAxNDQ5M2U3NmY1MDQ3N2I3NjRiZGM3NA==
+    algorithm: aes-256-gcm
+    iv: 132db45d76f5ef5a58f7cc2f
+    version: "1"
+  spam:
+    score: 7.13
+    marked: true
+  status: rejected
