@@ -2004,3 +2004,30 @@
   spam:
     score: 2.7
   status: auditing
+- type: reply
+  channel: native
+  id: 6b5f98e01b868c2dc47fc07fb5240fa2a5133dbd
+  author:
+    name: LloydInege
+    lang: en
+    email:
+      value:
+        encrypted: ZDIyZjNhOTkxYWE5MmFhMDc1NjllMzE4MTM4YWE3
+        algorithm: aes-256-gcm
+        iv: e76209d7ef8785a52b6ff891
+        version: "1"
+      hash:
+        sha256: 55c3322604b0ef1a718fac0f81742751e9b564d37eeba2b5d5440597af96a8bb
+  published: 2024-10-30T21:20:28.706Z
+  content: Обновление вашего жилья от начала до конца — ремонт под ключ -
+    https://expertremonta.kz/ уже 12 лет предоставляет услуги по ремонту квартир
+  lang: zh-CN
+  ip:
+    encrypted: N2VkOWVhNTk4MmY4MGZmY2FhNGM5MGU3MDc2OQ==
+    algorithm: aes-256-gcm
+    iv: eea1bb039c9a470bf7fd0b16
+    version: "1"
+  spam:
+    score: 5.04
+    marked: true
+  status: auditing
