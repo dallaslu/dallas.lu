@@ -1915,3 +1915,32 @@
     score: 7.57
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ac3ea9b0c13800a89dd727862b03367c2488f177
+  author:
+    name: RonaldMuh
+    lang: en
+    email:
+      value:
+        encrypted: ZGI2OGYxM2Q0NmQwNTI3NTM4Zjk5ZTFjNWJjZTdmYzEzNDBhNTFiZTg3NDk2YzJiODU5ZDQ2ZmU0ZGYyMDJjZGNiMjlkZDI1NjdkYg==
+        algorithm: aes-256-gcm
+        iv: 9b61f10e2028f6298fd17cc7
+        version: "1"
+      hash:
+        sha256: 20b0c6dff2f0eb7e24d87e9080f37aebe9970b0b903c04fcde12242f442aed21
+  published: 2024-10-30T09:51:12.060Z
+  content: "fruit cocktail \r
+
+    <a href=\"https://t.me/s/Fruit_Cocktail_igra\">как играть в fruit cocktail
+    на телефоне</a>"
+  lang: zh-CN
+  ip:
+    encrypted: N2Y4MjdiZGE3NmIwN2M3MDFmNDU4MGFkOTM0OA==
+    algorithm: aes-256-gcm
+    iv: c73865f4c0dbf2ca4351295a
+    version: "1"
+  spam:
+    score: 6.9
+    marked: true
+  status: rejected
