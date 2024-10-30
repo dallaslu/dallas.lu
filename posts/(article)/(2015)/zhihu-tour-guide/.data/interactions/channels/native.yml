@@ -1944,3 +1944,30 @@
     score: 6.9
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c2672cc012c1e3d5cc1b78b1f91141cb77f85ed2
+  author:
+    name: Briangow
+    lang: en
+    email:
+      value:
+        encrypted: NDBkZWM3MDJiYTI0ODBlY2RjNGNiNjY2YzQ4NmU3MTA5YWY0
+        algorithm: aes-256-gcm
+        iv: c4f3fb37c325187480b13f25
+        version: "1"
+      hash:
+        sha256: ea392ee384753c916026224f522f1729128a42372f4e84950373d38289e365e9
+  published: 2024-10-30T11:11:31.113Z
+  content: Вложитесь в прибыльный бизнес с минимальными рисками -
+    https://expertremonta.kz/franchise
+  lang: zh-CN
+  ip:
+    encrypted: ZTI5NzQxNDQwMTY1OTEzNmVjZGE2ZTEyNGZmNg==
+    algorithm: aes-256-gcm
+    iv: 21b560dc183b61e1bbe900f4
+    version: "1"
+  spam:
+    score: 5.65
+    marked: true
+  status: auditing
