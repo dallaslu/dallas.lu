@@ -2217,3 +2217,32 @@
     score: 4.84
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 6e92e312c55236f2f236dcc38cbbec9f535108a2
+  author:
+    name: Michaeldut
+    lang: en
+    email:
+      value:
+        encrypted: NjlmMDA0ZjFjODMwOWUwZTQyMjFjNmMwY2MzNGI0MWRjYTli
+        algorithm: aes-256-gcm
+        iv: 1d8c91fca16b203bb48bdbae
+        version: "1"
+      hash:
+        sha256: 8c8084d031d142b3540f48e5cf371ddd9c982d6183982f4dfe527a33233e33eb
+  published: 2024-10-31T22:31:43.992Z
+  content: Что важно знать о видах тестирования программ, сайтов и приложений,
+    чтобы пройти собеседование на позицию тестировщика или QA-инженера в
+    IT-компанию
+    https://vc.ru/u/3791103-studiya-zr/1427036-voprosy-pro-vidy-testirovaniya-na-sobesedovanii-v-qa-kak-k-nim-otnositsya
+  lang: zh-CN
+  ip:
+    encrypted: NTQxYmMxNTJiMmMzNzJhMWE1ZWI4NGRlNzUxMg==
+    algorithm: aes-256-gcm
+    iv: f16f3662fb53ede7ed657f05
+    version: "1"
+  spam:
+    score: 8.81
+    marked: true
+  status: rejected
