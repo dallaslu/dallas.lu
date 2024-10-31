@@ -2087,3 +2087,41 @@
     score: 5.08
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 4c241be2d90433cf1845022f0cdcb1fdbd18f7fa
+  author:
+    name: Bicrypto4Rex
+    lang: en
+    email:
+      value:
+        encrypted: MjAxMWJiNDk1OWJkMjUzMTU3YTRiM2VlNDQxODI4Yjk1Y2EwMTkwZWQ0
+        algorithm: aes-256-gcm
+        iv: d1744e0df727be27743cd9ab
+        version: "1"
+      hash:
+        sha256: 8562f4a238179faf4f0566d4261c1c76a779a4d9f84977c1bf833c8269851538
+  published: 2024-10-31T08:56:03.781Z
+  content: "Bicrypto v4.5.0 - Crypto Trading Platform, Exchanges, KYC, Charting
+    Library, Wallets, Binary Trading, News v4.5.0 \r
+
+    \ \r
+
+    Latest version Bicrypto + All Addons \r
+
+    Free updates \r
+
+    \ \r
+
+    [url=https://phoenix.lol/index.php?/files/file/241-bicrypto-crypto-trading-\
+    platform-binary-trading-investments-blog-news-more]Bicrypto v4.5.0[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: ZTNmN2MyMmQyODJhNzBmMmRhMDI5YWZlZDQwYQ==
+    algorithm: aes-256-gcm
+    iv: dde29dd7c7b809fcff2b08c1
+    version: "1"
+  spam:
+    score: 5.7
+    marked: true
+  status: auditing
