@@ -2151,3 +2151,31 @@
     score: 6.1
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 70ba41e2bea5798de58d95c280a2739a10d16934
+  author:
+    name: Charlessceby
+    lang: en
+    email:
+      value:
+        encrypted: MWY5MzNkYzJhNzdhN2FlZmQ3NmJmZjNlOTAyMGEwZDY2MTMz
+        algorithm: aes-256-gcm
+        iv: d91b1a4225422c5be0b6f746
+        version: "1"
+      hash:
+        sha256: 5a021b5f20a8c8317549cef74d171e36ae5dc86284d659894355ef22f0b2b575
+  published: 2024-10-31T11:53:06.054Z
+  content: "Профессия QA-инженера: задачи на разных этапах разработки, навыки и
+    необходимые знания для работы в сфере тестирования качества программного
+    продукта https://dzen.ru/a/ZvqB94uwl1C-1ivx?share_to=link"
+  lang: zh-CN
+  ip:
+    encrypted: NjYwYWE5ZGMyMWYxM2ZjZGE1YzM1MjAzMmMxMQ==
+    algorithm: aes-256-gcm
+    iv: 7c21b9ea82478d1d06a999e2
+    version: "1"
+  spam:
+    score: 8.23
+    marked: true
+  status: rejected
