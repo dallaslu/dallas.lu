@@ -2179,3 +2179,41 @@
     score: 8.23
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: d24d189b65e93f5c00bd148f639978d989c7f0c4
+  author:
+    name: Property Pro
+    lang: en
+    email:
+      value:
+        encrypted: NTVlM2Q3NzBlZDc2YjdmZjg4ZjE0MTlmZWVhNGEwMDQ0N2I3MTU5YjA4MWY3N2ZmMGQ0NzJlNzk=
+        algorithm: aes-256-gcm
+        iv: 9109a70a9d1305997ebf7b73
+        version: "1"
+      hash:
+        sha256: 211e0587eadfb511ce5dd5df84400d6c9debbb5139bbda8010e42d268f33a7ec
+  published: 2024-10-31T12:04:30.984Z
+  content: "Hello everyone! \r
+
+    I'm excited to share a new YouTube channel with you –
+    [url=https://www.youtube.com/@PropertyProInsights/videos]Property Pro[/url]!
+    We’re just getting started, and there’s so much exciting content ahead. If
+    you’re interested in real estate, market insights, and the latest projects,
+    this is the place for you! \r
+
+    Join us on this journey by subscribing, and don’t miss out on the valuable
+    information we’ll be sharing. Let’s explore the world of real estate
+    together – the best is yet to come! \r
+
+    Subscribe to Property Pro!"
+  lang: zh-CN
+  ip:
+    encrypted: ZmM0ZmNlZTlhY2UxNTA4MzA2YWIyMjE0ZmQwNw==
+    algorithm: aes-256-gcm
+    iv: 6f0ff7d37a6c0730d3a8b98e
+    version: "1"
+  spam:
+    score: 4.84
+    marked: true
+  status: auditing
