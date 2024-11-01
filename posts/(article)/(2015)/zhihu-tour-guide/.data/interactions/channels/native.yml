@@ -2274,3 +2274,31 @@
     score: 5.33
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 55e3cad2d565c0b13976e7b8f939727459b5e82c
+  author:
+    name: JoshuaWetty
+    lang: en
+    email:
+      value:
+        encrypted: OTA0MDY5MDA2MTk4ZjA5NmY5MTM2MWYwMmFmYTI5ZWZjMjYx
+        algorithm: aes-256-gcm
+        iv: f8d187ec8f12e4216c60587a
+        version: "1"
+      hash:
+        sha256: 8a0cfacb92d5653b16d5bd4896478392a17c29f1ca7523212a6cdd8c3ed2ba1b
+  published: 2024-11-01T14:28:00.950Z
+  content: Kraken гарантирует постоянный и стабильный доступ к своему ресурсу
+    через официальные ссылки. У вас под рукой всегда будет актуальная информация
+    по поводу ресурса https://kra12.ca
+  lang: zh-CN
+  ip:
+    encrypted: MjgxZmM0NDAwNmIwYTg3OWM2Y2ZlM2FiMDc1ZA==
+    algorithm: aes-256-gcm
+    iv: c75f99cec53423ed2c0d5b75
+    version: "1"
+  spam:
+    score: 4.77
+    marked: true
+  status: auditing
