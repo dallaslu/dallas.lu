@@ -2331,3 +2331,51 @@
     score: 7.53
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8d2b3b49b9d81d1ddf67a4ea2a85a9a69db112bc
+  author:
+    name: JasonCiple
+    lang: en
+    email:
+      value:
+        encrypted: YzNkMWU2NGFkZjQ5NDNiODQyNjI0NzVlM2UxMDAzZTUyYjUwNjI2YQ==
+        algorithm: aes-256-gcm
+        iv: 7724dc55f851baa65edb06b8
+        version: "1"
+      hash:
+        sha256: 53ffbf7675b4fe0eff3a597bcd1d5c3d6b6ab0a6b53630216036bafe889580cc
+  published: 2024-11-02T05:59:04.124Z
+  content: Der Book of Ra Automat-Slot, kreiert von Novomatic, ist zu einem festen
+    Stuck der deutschen Online- und Casino-Welt geworden. Hoch geschatzt fur das
+    mitrei?endes agyptisches Setting, nimmt er die Gamer in die faszinierende
+    Welt der Altertumsforschung mit einem furchtlosen Abenteurer, der in den
+    Tempeln des alten Agypten nach wertvollen wertvollen Artefakten sucht. Mit
+    einem einfachen Aufbau von 5 Reihen und 9 Gewinnlinien, ist das Slot Game
+    leicht zuganglich und daher sowohl fur alte Hasen als auch fur Anfanger
+    ansprechend - http://gapbridge.de/?p=331060 . Der Hauptanreiz liegt in der
+    Free-Spin-Funktion, die durch das Landen von drei oder mehr Book of
+    Ra-Symbolen ausgelost wird, welche sowohl als Wildcard- und Streu-Symbole
+    erscheinen. Wahrend dieser freien Runden wird ein nach dem Zufallsprinzip
+    bestimmtes Symbol verbreitert, wodurch die Aussichten auf Gewinne steigen.
+    Diese Option, gepaart mit einer durchschnittlichen Volatilitat, verleiht dem
+    Slot eine besondere Spannung, die Book of Ra zu einer Top-Auswahl fur
+    deutsche Gamer macht, die sowohl Abwechslung als auch den Reiz hoher
+    Auszahlungen erwarten. Der weltbekannte Status des Automaten in Deutschland
+    hat sogar eine Reihe von Fortsetzungen hervorgebracht, wie etwa Book of Ra
+    Deluxe, das Spiel, das verbesserte Grafiken und Spielablaufe liefert.
+    Trotzdem bleibt die Originalversion durch den klassischen Aufbau und
+    Retro-Charme sehr begehrt. Fur viele in Deutschland ist Book of Ra nicht nur
+    ein Slot-Spiel – es ist ein beliebter Oldtimer, der die Faszination und das
+    Abenteuergefuhl des Spielhallenzaubers abbildet und immer aufs Neue eine
+    treue Fangemeinde erfreut.
+  lang: zh-CN
+  ip:
+    encrypted: OWIyMDY5YWUyM2ZjMzE4ZDU2ZDUwYjY0OGRmNA==
+    algorithm: aes-256-gcm
+    iv: 20bb2f29d372109214d02110
+    version: "1"
+  spam:
+    score: 4.56
+    marked: true
+  status: auditing
