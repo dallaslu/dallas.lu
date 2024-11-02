@@ -2302,3 +2302,32 @@
     score: 4.77
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: f9a85125e617b00774d860b0aebb3881f50cc5f7
+  author:
+    name: DanielTorry
+    lang: en
+    email:
+      value:
+        encrypted: ZmYzM2RlYTcxOTM4ZWIwYzkxYTEwNDZmZjAwMTg0NjJmNjU1
+        algorithm: aes-256-gcm
+        iv: a364a54b4301ba441986f95f
+        version: "1"
+      hash:
+        sha256: 5daf8155669a4baa2a012d1f1d7f41e9807fc12505092957d5a1784d46474e85
+  published: 2024-11-02T00:18:05.801Z
+  content: Профессиональная служба эвакуации автомобилей, предоставляющая
+    круглосуточную помощь эвакуаторов в любой непредвиденной ситуации — будь то
+    поломка, авария или необходимость перевозки вашего авто
+    [url=https://exkavator.ru/main/news/inf_news/124741_novie_tarifi_na_evakuatsiyu_avtomobiley_v_moskve.html]https://exkavator.ru/main/news/inf_news/124741_novie_tarifi_na_evakuatsiyu_avtomobiley_v_moskve.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: Yzg2NjA0ZDRkZThhMjhhMDNlYmNjNDNjZTlmYQ==
+    algorithm: aes-256-gcm
+    iv: 0b933d8d66ea54d92691c0e1
+    version: "1"
+  spam:
+    score: 7.53
+    marked: true
+  status: rejected
