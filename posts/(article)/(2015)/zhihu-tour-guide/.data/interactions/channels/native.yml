@@ -2756,3 +2756,32 @@
     score: 7.09
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 22dc0e72d4806589ac05f269c6f206f8dc6f0877
+  author:
+    name: StevenFew
+    lang: en
+    email:
+      value:
+        encrypted: MjYxZjBhOGYyNGU4YzRlNjc0YWQ4ZmRiMTcyNDI2NjZjYzYy
+        algorithm: aes-256-gcm
+        iv: c3d25e517e57ee1cbf79a6cd
+        version: "1"
+      hash:
+        sha256: 1e9c4b7ab0040f88cc21cfa2c853a771e465e3befeaa757dd7757e6c035348c8
+  published: 2024-11-03T11:18:24.905Z
+  content: Технически это просто звонки через интернет. Достаточно давно некоторые
+    мессенджеры предлагали подобное. Но в большинстве случаемв там работали
+    только исходящие звонки
+    [url=https://info-tses.kz/internet/kogda-ispolzuetsya-virtualnyj-nomer-telefona-ssha]https://info-tses.kz/internet/kogda-ispolzuetsya-virtualnyj-nomer-telefona-ssha[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ODRmNDM0OGY3OTViMzk1MTc1YWVmMzkxNjZlMA==
+    algorithm: aes-256-gcm
+    iv: f89c6e758469cd5385a7ad26
+    version: "1"
+  spam:
+    score: 5.96
+    marked: true
+  status: auditing
