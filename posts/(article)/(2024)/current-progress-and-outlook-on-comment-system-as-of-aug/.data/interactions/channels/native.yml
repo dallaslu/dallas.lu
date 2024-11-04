@@ -132,3 +132,29 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 6272a7f39eef51282c7d382f842f537a5671f005
+  author:
+    name: Robertkab
+    lang: en
+    email:
+      value:
+        encrypted: MDg1ZDc2ZDBkMDRjMzg2NDE0NjZiNzlmM2NmNjQ5NWY0Y2NhMmRkMzJlYTNlODIxYWU=
+        algorithm: aes-256-gcm
+        iv: 87b6be340f60b383d4ad1c34
+        version: "1"
+      hash:
+        sha256: a8feb48170be312ac56eba50e7e03ba79bf8bab851e3ceaec95a65630f493050
+  published: 2024-11-04T12:21:42.133Z
+  content: "https://virtual-local-numbers.com/countries/21-mexico.html\r\n"
+  lang: en
+  ip:
+    encrypted: MjQ2MTg3M2U3MTc4YjA3ZmU5ZDIzMjg0MTQ=
+    algorithm: aes-256-gcm
+    iv: 8007193c634867ffb0140632
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
