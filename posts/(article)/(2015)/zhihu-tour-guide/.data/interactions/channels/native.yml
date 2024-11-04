@@ -2839,3 +2839,30 @@
     score: 5.92
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: c9ad83abc47730de7497df4eafda5f56337706d5
+  author:
+    name: DonaldNem
+    lang: en
+    email:
+      value:
+        encrypted: M2QxZDZkMDJmNmNmZjk4M2JmZjk4NDIwYmExMGI5YjRhYWQ4
+        algorithm: aes-256-gcm
+        iv: ff7027e86b95242d362babbd
+        version: "1"
+      hash:
+        sha256: 1878d3cff4680f6b503a69dac4cc9f67da56f075d32c097a3fee0f5b634359f1
+  published: 2024-11-04T17:18:29.684Z
+  content: Наша компания https://sveller2buy.ru/ профессионально занимается
+    поставкой сортового металлопроката оптом и в розницу
+  lang: zh-CN
+  ip:
+    encrypted: NWFhNWZkNjE0ZWQxMzJkZmFkM2MyZDU2MWRkNw==
+    algorithm: aes-256-gcm
+    iv: 4428533ee8815153130a379d
+    version: "1"
+  spam:
+    score: 8.09
+    marked: true
+  status: rejected
