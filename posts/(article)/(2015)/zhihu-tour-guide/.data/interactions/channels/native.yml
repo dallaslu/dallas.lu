@@ -2785,3 +2785,31 @@
     score: 5.96
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: d2e9676ca1222ab782c062434126b24f0ff7f92f
+  author:
+    name: DonaldNem
+    lang: en
+    email:
+      value:
+        encrypted: NTEzNTc3Mjk0Y2MyOWEzZDcyMzJiNTZmZWY5OGY3ZWNmNzhl
+        algorithm: aes-256-gcm
+        iv: 0277b2b2e5d51aca11404c45
+        version: "1"
+      hash:
+        sha256: 083f0a72a37fa4ea803849eae72a898b026c2e77cb33cf8401f27cd683ef824f
+  published: 2024-11-04T06:36:21.950Z
+  content: Виртуальный номер — это обычный номер телефона с такими дополнительными
+    преимуществами, как многоканальность и отсутствие географической привязки
+    [url=https://fraufluger.ru/technologies/virtualnyj-nomer-dlya-avito-vse-chto-vam-nuzhno-znat/]https://fraufluger.ru/technologies/virtualnyj-nomer-dlya-avito-vse-chto-vam-nuzhno-znat/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZWMxNGQ1NTcxOTMzNmJkZjkxYjRlODRiNTk3NA==
+    algorithm: aes-256-gcm
+    iv: 5ae6088689ab98b7d8ff8a12
+    version: "1"
+  spam:
+    score: 9.14
+    marked: true
+  status: rejected
