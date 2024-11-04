@@ -2866,3 +2866,32 @@
     score: 8.09
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 89cc184590e40163a35d106415d32902622db911
+  author:
+    name: Dennisgurce
+    lang: en
+    email:
+      value:
+        encrypted: NzlmZjM4NTU0ZDZlMjM4Y2FiZmViZjQ3MTJkNWFkNWUwYTBj
+        algorithm: aes-256-gcm
+        iv: 6d6204020cf2718589e68c0f
+        version: "1"
+      hash:
+        sha256: df94cc4bb79384dfa62cf71ef5a190039c613018b1c168804125e23cc0bd729b
+  published: 2024-11-04T21:12:56.030Z
+  content: Вам предлагают уникальный опыт на лучших Lineage 2 серверах с
+    интересными квестами и динамичной боевой системой. На наших линейдж 2
+    серверах всегда царит атмосфера приключений и дружелюбия
+    [url=https://2qr.ru/https://l2new.com]https://2qr.ru/https://l2new.com[/url]
+  lang: zh-CN
+  ip:
+    encrypted: Y2U1Njg4ZWQzMmEzZmQ2MWQwOTYyNDhhMDljYw==
+    algorithm: aes-256-gcm
+    iv: d4fa1f6a676ca241631e4c00
+    version: "1"
+  spam:
+    score: 6.8
+    marked: true
+  status: rejected
