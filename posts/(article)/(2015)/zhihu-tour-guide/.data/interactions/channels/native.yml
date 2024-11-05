@@ -3163,3 +3163,32 @@
     score: 6.16
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 51c8c34af5f4700c25e66edc71dfca8b5b7c8030
+  author:
+    name: Dennisgurce
+    lang: en
+    email:
+      value:
+        encrypted: N2EyMzQ5YWIwZTJlNDIyYTcyOWU4N2U2MzhiZTkxMmFlODgx
+        algorithm: aes-256-gcm
+        iv: 42893028f0ee11967d16e8da
+        version: "1"
+      hash:
+        sha256: 10b6ff82e92cbd817bc7cbeb2de255e569ff038244a85d6322b3eec65bccfd00
+  published: 2024-11-05T23:46:09.266Z
+  content: Труба стальная профильная – длинное пустотелое тело различного сечения,
+    произведенное из углеродистой или низколегированной стали, используемое в
+    качестве элемента металлоконструкции <a href="http://meffert-yar.ru/">труба
+    профильная в москве цена</a>
+  lang: zh-CN
+  ip:
+    encrypted: MjcyOTkwY2YwNGQxOTZiYTY0NDMzM2M4MzhmMQ==
+    algorithm: aes-256-gcm
+    iv: 0583c699147b61a31ae90558
+    version: "1"
+  spam:
+    score: 8.94
+    marked: true
+  status: rejected
