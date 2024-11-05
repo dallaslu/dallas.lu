@@ -2895,3 +2895,32 @@
     score: 6.8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9d0e59bf64ed677e9e19a74db97f36687e8f83da
+  author:
+    name: Michaeljap
+    lang: en
+    email:
+      value:
+        encrypted: NTg4YWFlNDZiZDc2YWIwOGRkZjc0MWUzYzVjNzRlMTQ3OGQ5
+        algorithm: aes-256-gcm
+        iv: 08799c7dce67107a89c3f6b7
+        version: "1"
+      hash:
+        sha256: 9375aecd7455e837ece5070a881d4dadfd9f7185caa97868ced47d29924cc904
+  published: 2024-11-05T00:55:38.716Z
+  content: Виртуальный номер телефона — это номер без SIM-карты. С Numero вы
+    можете получить виртуальные телефонные номера в более чем 80 странах
+    [url=https://regardnn.ru/ispolzovanie-virtualnogo-nomera-dlya-telegramma-prostoj-i-nadezhnyj-sposob-registracii]купить
+    виртуальный номер для Телеграмм[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YWVlYmQ1NDM2Y2QyZDdiZDVkY2ZlMTllZDhlOQ==
+    algorithm: aes-256-gcm
+    iv: 454b739e4d07d34a919e52f7
+    version: "1"
+  spam:
+    score: 8.66
+    marked: true
+  status: rejected
