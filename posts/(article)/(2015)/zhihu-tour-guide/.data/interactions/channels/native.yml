@@ -2924,3 +2924,32 @@
     score: 8.66
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a6c334f580d92e013e6ba717e16acab3109ea2bc
+  author:
+    name: Dennisvah
+    lang: en
+    email:
+      value:
+        encrypted: YmMzNTNlZmQ3ZjhjOTJmN2Y0NjhiMTY2NGI4MGE1MDJlZjBlMDY0M2M1MTI1YmMzYzlkNTc3YjJlMjY0OGVmOWU5NmI4MGQ4NjVhNzllMzkwY2FiMWE4NjY5MWJiYzEy
+        algorithm: aes-256-gcm
+        iv: 4b59969454ac7f38f75d46c4
+        version: "1"
+      hash:
+        sha256: d46089b88bfd4d2179dbbbf877aa927e41bb9a2edb3b68057af91edc39f590f0
+  published: 2024-11-05T07:22:56.333Z
+  content: "крейзи тайм \r
+
+    <a href=\"https://t.me/s/kreyzi_taym_igrat_na_dengi\">крейзи тайм на
+    деньги</a>"
+  lang: zh-CN
+  ip:
+    encrypted: NGVmYzdjOGIzMTQ0MjA5YmZjOWUxNTg4MGM=
+    algorithm: aes-256-gcm
+    iv: 5d508e3e5373e6314d21ca0c
+    version: "1"
+  spam:
+    score: 7.35
+    marked: true
+  status: rejected
