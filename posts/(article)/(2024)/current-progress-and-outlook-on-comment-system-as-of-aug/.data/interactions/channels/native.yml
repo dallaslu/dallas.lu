@@ -158,3 +158,29 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 25a0d35bb26b1a96cdfe699d5da7b73dde9f7840
+  author:
+    name: Robertkab
+    lang: en
+    email:
+      value:
+        encrypted: NzFhYTk0MDlhNjg0OGE1ZDcxZTJjYmVhY2JiNGM3MzEwMjY3MjhkZmIxMWFiYTFiYjM=
+        algorithm: aes-256-gcm
+        iv: 3c0b1b00b1adc7ade0e88e8f
+        version: "1"
+      hash:
+        sha256: a8feb48170be312ac56eba50e7e03ba79bf8bab851e3ceaec95a65630f493050
+  published: 2024-11-05T01:05:44.759Z
+  content: "https://virtual-local-numbers.com/countries/42-southafrica.html\r\n"
+  lang: en
+  ip:
+    encrypted: N2Y3YWUyN2I4MGZjZjc2Y2VmOTZkMDEzYzQ=
+    algorithm: aes-256-gcm
+    iv: 04e0ce3bc793878db1a15ff6
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
