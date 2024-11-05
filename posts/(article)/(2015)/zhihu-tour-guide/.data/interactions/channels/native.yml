@@ -3106,3 +3106,31 @@
   spam:
     score: 3.08
   status: auditing
+- type: reply
+  channel: native
+  id: 2e744c5cd52ffda1e98fd13dd98020bcf6347f71
+  author:
+    name: Dennisgurce
+    lang: en
+    email:
+      value:
+        encrypted: MjhhMGJjZTNhOGRiODRmZmMwOGVhZTQ3Mjg3MzdmNjdhZjdj
+        algorithm: aes-256-gcm
+        iv: 86f636310d8f02fad0f0b6b6
+        version: "1"
+      hash:
+        sha256: d172f7a9b9fdb98248bff92e2ae202ec5d3a55b6ed6b87d250816ac8283067c6
+  published: 2024-11-05T16:09:22.460Z
+  content: Купить металлическую профильную трубу в розницу. Стальные профильные
+    трубы по ГОСТ и ТУ, продажа профтрубы по низкой цене за метр с доставкой
+    [url=http://meffert-yar.ru/]профильная труба для забора цена[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NDRkOGM5NTE4ZjJkOWE2M2IxZTE3MjRlMzk4Mw==
+    algorithm: aes-256-gcm
+    iv: f1556f1c773349dcfb7fdf63
+    version: "1"
+  spam:
+    score: 7.98
+    marked: true
+  status: rejected
