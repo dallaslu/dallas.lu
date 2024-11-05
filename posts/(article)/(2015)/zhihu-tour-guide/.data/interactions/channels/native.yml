@@ -2953,3 +2953,33 @@
     score: 7.35
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0da7db534af06be28bdea77a6b211c110b21d544
+  author:
+    name: Eugenewouck
+    lang: en
+    email:
+      value:
+        encrypted: OTU0NTFkNThhN2NlMDI5ZGM3N2FkMTVjYjY5ZjVlNWMwYWU5
+        algorithm: aes-256-gcm
+        iv: 9963fde71268a5403dc595f1
+        version: "1"
+      hash:
+        sha256: cbae8791c8e05c73867d92027137a2b7bd2f0eb212099290874fcc33e4d61eb7
+  published: 2024-11-05T11:33:20.286Z
+  content: Аренда виртуальных телефонных номеров для 75 городов России и 38 стран
+    мира. Звонки онлайн на городские и мобильные (сотовые) номера, бесплатный
+    прием
+    [url=https://media-digital.ru/virtualniy-nomer-telefona-v-kazakhstane-zachem-on-nuzhen-i-kak-ispolzovat]Виртуальный
+    номер телефона в Казахстане[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZmU5ZDIyOWVlOGZhMzQ3YjlkNDEyNzkxMTg0YQ==
+    algorithm: aes-256-gcm
+    iv: 8ca3ca6c484808d6e9a56d09
+    version: "1"
+  spam:
+    score: 8.6
+    marked: true
+  status: rejected
