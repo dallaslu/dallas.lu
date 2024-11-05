@@ -936,3 +936,39 @@
     score: 5.94
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 8b6fe5b55bc82e7f217d00247e98f0ed8fe6e358
+  author:
+    name: AisaMusa
+    lang: en
+    email:
+      value:
+        encrypted: NjhiODhiOGQ3NjNkZTdmNmM5ZGUwOGUwMzQ4ODc1OTNlMjgwMjU=
+        algorithm: aes-256-gcm
+        iv: 7311b9d62e670b2622f96b0b
+        version: "1"
+      hash:
+        sha256: 22067d24f84ae6e7a05d0cef3ea741c855724de94fafd24528e770fa21d81aa7
+  published: 2024-11-05T09:49:23.438Z
+  content: "Hello! My name is Aisa. I am 9 years old. \r
+
+    I live in Lithuania. Please watch my video. \r
+
+    I made it myself. I hope you like it. \r
+
+    \ \r
+
+    KSHMR | Black Coffee | Beauz \r
+
+    \ \r
+
+    youtube.com/watch?v=7kdIld6uuGI"
+  lang: en
+  ip:
+    encrypted: ZmZmMGI2YzQwNmE0ZmQ4M2NhNzVhNDg4NTcwZA==
+    algorithm: aes-256-gcm
+    iv: b7ec2f7bb110f48853ffe512
+    version: "1"
+  spam:
+    score: 0.17
