@@ -3134,3 +3134,32 @@
     score: 7.98
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 70e7c1bccd82a27c7370b46f47993964f966889f
+  author:
+    name: JamesClofs
+    lang: en
+    email:
+      value:
+        encrypted: M2VkNjZiMzYxZDlmMTk1ZDJmNTA0YzE5ODM1ZWZhNTQ1ZjQ3
+        algorithm: aes-256-gcm
+        iv: e3a0788dd8f047326b9539d7
+        version: "1"
+      hash:
+        sha256: a64a6041bbd06cb6aaecbb6dfda82f5d492e7714c08f2b62b482477c3eed9c1f
+  published: 2024-11-05T21:49:45.477Z
+  content: 'Независимо от того, являетесь ли вы опытным пользователем или только
+    начинаете познавать блокчейн, MetaMask помогает вам подключиться к
+    децентрализованной сети: новому интернету <a
+    href="https://www.pgyer.com/apk/apk/io.metamask">metamask wallet apk</a>'
+  lang: zh-CN
+  ip:
+    encrypted: ZGZhODNmYzlhZmI2NDIzOWQ0MDUzM2VjOTY0OA==
+    algorithm: aes-256-gcm
+    iv: 8446ab8abc2e215d54a97c1c
+    version: "1"
+  spam:
+    score: 6.16
+    marked: true
+  status: rejected
