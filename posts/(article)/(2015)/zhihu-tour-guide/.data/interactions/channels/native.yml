@@ -3317,3 +3317,31 @@
     score: 9.02
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f064934b674914b66e6df4bf13e123f1fa196198
+  author:
+    name: RichardEcott
+    lang: en
+    email:
+      value:
+        encrypted: MGU1NjBlNWNkOGE0MWM5NmZlMmY3OWMyZWViYjdjZmFjNDk5
+        algorithm: aes-256-gcm
+        iv: 516cca322313797ad8eb254a
+        version: "1"
+      hash:
+        sha256: d03c4eb74e3ed6decfbf5fb7c270bf85c97f180f97c008e25f29b044b1f8d02b
+  published: 2024-11-06T19:02:48.867Z
+  content: Профильные трубы – категория металлопроката, которая включает в себя
+    изделия с сечением, отличным от круглого. Ассортимент профильных труб <a
+    href="http://ivmetall37.ru">поставщики профильной трубы москва</a>
+  lang: zh-CN
+  ip:
+    encrypted: Y2Q4NTJkZmQ5ZTE4MTU0NWE3YzJkZTM0ZDM1ZA==
+    algorithm: aes-256-gcm
+    iv: faf40c132ea1bdb2a98b9d67
+    version: "1"
+  spam:
+    score: 9
+    marked: true
+  status: rejected
