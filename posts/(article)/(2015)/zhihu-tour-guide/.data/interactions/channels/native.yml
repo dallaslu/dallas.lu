@@ -3233,3 +3233,31 @@
     score: 5.78
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: d45ebc96c411af86f783a34ca875d8c414b0a841
+  author:
+    name: JamesClofs
+    lang: en
+    email:
+      value:
+        encrypted: NmQzZTc4ZTNmMDRkYTMwYTgzODVjNGY3MjM3NDhlNWE1Y2Mx
+        algorithm: aes-256-gcm
+        iv: 7d5979e9902139b6fd700dfa
+        version: "1"
+      hash:
+        sha256: e171fb935c7606e002100d40a2127f29649535e4939aff902d287e5f5249013d
+  published: 2024-11-06T10:44:22.386Z
+  content: Надежный поставщик недорогой строительной арматуры. Качественная
+    арматурная сталь а500с по выгодной цене с доставкой <a
+    href="http://vodoley66.ru">железная арматура цена</a>
+  lang: zh-CN
+  ip:
+    encrypted: NDI4YzQ2NzBhMDE0MzI2M2M5Nzg0MDcwMTM5YQ==
+    algorithm: aes-256-gcm
+    iv: 1e707e1cef011be2560c8a8c
+    version: "1"
+  spam:
+    score: 9.09
+    marked: true
+  status: rejected
