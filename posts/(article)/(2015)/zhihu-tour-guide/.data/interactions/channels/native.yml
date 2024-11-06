@@ -3289,3 +3289,31 @@
     score: 9.08
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e5e1dc61033eb85c43b7458f77bbc887ca4fefdd
+  author:
+    name: AndrewCag
+    lang: en
+    email:
+      value:
+        encrypted: NmU4MDNmNjhmYTcxNzg2YTE1OWUyZDY0MzczMGRiMDM=
+        algorithm: aes-256-gcm
+        iv: b324c2f8a3a41455b6739515
+        version: "1"
+      hash:
+        sha256: 8a33138effba9bd7e57dbeccf8f625dde2f6b57c7d440230b3cf8099f1d5af67
+  published: 2024-11-06T17:58:26.812Z
+  content: Арматура — это металлический прут, используемый для армирования
+    железобетонных конструкций. Стержни арматуры изготавливаются из углеродистой
+    <a href="https://a4-tech.ru/">арматура цена за метр</a>
+  lang: zh-CN
+  ip:
+    encrypted: NTVkNDc2N2U3MzdhM2IxYjc5ZDE4NmEzN2E0Ng==
+    algorithm: aes-256-gcm
+    iv: a6a5ed3b8a8397b96cde2bee
+    version: "1"
+  spam:
+    score: 9.02
+    marked: true
+  status: rejected
