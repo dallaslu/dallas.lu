@@ -3374,3 +3374,31 @@
     score: 6.58
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 6d466f29c9a18c9dd81120d7ac5e5d93495c32c0
+  author:
+    name: StephenvoG
+    lang: en
+    email:
+      value:
+        encrypted: NzgwOTJhOTY3OWEwZGMzNzAwYjYxZDMyMDU0ZjU3MTk=
+        algorithm: aes-256-gcm
+        iv: 95b103a521403c49e8074d00
+        version: "1"
+      hash:
+        sha256: 8168f5945e87d75ee0e4a454f8d19b2427bd69bd58f9deb85f1776ffccdb6949
+  published: 2024-11-07T10:06:54.155Z
+  content: Онлайн магазин  игр. Купить лицензионные ключи для компьютерных игр,
+    ключи и аккаунты Steam, Origin, Uplay, Minecraft <a
+    href="https://www.c-inform.info/news/id/108255">аккаунт майнкрафт</a>
+  lang: zh-CN
+  ip:
+    encrypted: MWUyYTA1ODE3MTE5MjFhMDUxZmQ3ODhjNTNlMg==
+    algorithm: aes-256-gcm
+    iv: 3f82b45845f0e40074b19c1c
+    version: "1"
+  spam:
+    score: 6.37
+    marked: true
+  status: rejected
