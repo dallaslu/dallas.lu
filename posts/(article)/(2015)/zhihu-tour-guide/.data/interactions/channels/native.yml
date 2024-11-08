@@ -3515,3 +3515,32 @@
     score: 6.27
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5bbb283a580346fedc1413d760cfca82fbf45b8a
+  author:
+    name: RonaldMuh
+    lang: en
+    email:
+      value:
+        encrypted: NmRmMTA1YmQyZmQ5YWE2NzVkNDE3YmNiZDY4YTgzNjNmNzliMmNhOWZmY2JmYjUxNTZlZmU5ZTk2NWQyYWI0Mw==
+        algorithm: aes-256-gcm
+        iv: df5474ce62d0c2757a80e01c
+        version: "1"
+      hash:
+        sha256: 8a6d014b6a4451b4d31beba73b58c9b3e7df6700d85f20c552cc6beaa1653b65
+  published: 2024-11-08T21:51:59.167Z
+  content: "fruit cocktail \r
+
+    <a href=\"https://t.me/s/Fruit_Cocktail_igra\">как выиграть в fruit
+    cocktail</a>"
+  lang: zh-CN
+  ip:
+    encrypted: M2ZmZGQ1OTVmYTE3ZTUwODc5MTFmNWM1M2NjZg==
+    algorithm: aes-256-gcm
+    iv: 6b0d1f1f47d8fbabf4c1a4cc
+    version: "1"
+  spam:
+    score: 7.05
+    marked: true
+  status: rejected
