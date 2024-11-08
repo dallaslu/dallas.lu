@@ -3457,3 +3457,31 @@
     score: 5.83
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 787f4bd2a7ed756d481362e22d77d43d89005b8b
+  author:
+    name: Robertdum
+    lang: en
+    email:
+      value:
+        encrypted: NzAxM2MyZTQ4YjY4YWNlODhiMTc5MjcxYTBmOWJhN2I=
+        algorithm: aes-256-gcm
+        iv: 24e17c151bfcc074dda8dae9
+        version: "1"
+      hash:
+        sha256: 7db2b8e86284d185e5c89221f0c421c000b1cae8a9ec3fba766e95ca37cbd0f2
+  published: 2024-11-08T10:19:43.111Z
+  content: Бюстгальтеры с октрытой спиной с бесплатной доставкой в
+    интернет-магазине, актуальные цены, в наличии большой ассортимент моделей <a
+    href="https://ozon.onelink.me/SNMZ/oxzgbn99">Бюстгальтер пуш-ап</a>
+  lang: zh-CN
+  ip:
+    encrypted: NGRmYmZjOGUxYjhkNzk0YzFjOGQ4NTM0YmIyOA==
+    algorithm: aes-256-gcm
+    iv: 6607fdb5b4bbfb175be481b2
+    version: "1"
+  spam:
+    score: 6.28
+    marked: true
+  status: rejected
