@@ -3485,3 +3485,33 @@
     score: 6.28
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: cc862c4fa5ad6a01479b6bb834f8bb6fd1cbe22d
+  author:
+    name: WesleyFug
+    lang: en
+    email:
+      value:
+        encrypted: MGIzMmVlMzViYWI0ZTY5NjhlOWRmYWM5MDkyMjI3NzU=
+        algorithm: aes-256-gcm
+        iv: 536987ce298b98138d687ed8
+        version: "1"
+      hash:
+        sha256: c2497466f6cd136278145c2055bba199b5f4c0e89cd7d418fad0cdd52dd45db2
+  published: 2024-11-08T17:04:27.300Z
+  content: Преимущества покупки алкоголя в Ароматном Мире · широкий ассортимент
+    алкогольных и безалкогольных напитков высокого качества; · индивидуальная
+    система скидок <a
+    href="https://telegra.ph/Dostavka-alkogolya-Moskva-11-08">доставка алкоголя
+    на дом москва</a>
+  lang: zh-CN
+  ip:
+    encrypted: MGM3MGM5MWZkYWMxMTk3ZDUzYjQ2YzdmNjE2OA==
+    algorithm: aes-256-gcm
+    iv: dece81bef03d576ce1957ea3
+    version: "1"
+  spam:
+    score: 6.27
+    marked: true
+  status: rejected
