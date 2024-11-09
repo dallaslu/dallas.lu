@@ -3574,3 +3574,33 @@
     score: 6.43
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3676638e2779764208d6268b8a4d9383b51cfc6e
+  author:
+    name: Rodneyzom
+    lang: en
+    email:
+      value:
+        encrypted: MDJkOTMxMjkwM2JkOTA2MTA2NDQzYTM3ODU2MGUyOTQ=
+        algorithm: aes-256-gcm
+        iv: eb847450318361bc230ce5fa
+        version: "1"
+      hash:
+        sha256: 1e39f1bb6416306f5e303d50917c1ecb5661f1b86ae3aae9051047fce905acf0
+  published: 2024-11-09T00:25:18.475Z
+  content: Размытость симптоматики большинства заболеваний нервной системы требует
+    особого подхода к диагностике. Опытные специалисты центра неврологии
+    больницы Ассута в Израиле разрабатывают индивидуальные планы диагностических
+    мероприятий для пациентов <a
+    href="https://service-med.com/neurology/">https://service-med.com/neurology/</a>
+  lang: zh-CN
+  ip:
+    encrypted: NTA1MWI2MDkxZWUwZTlhZGI3MjJjYzAxYzQzZA==
+    algorithm: aes-256-gcm
+    iv: bfede3fb233f8148f39849e5
+    version: "1"
+  spam:
+    score: 6.26
+    marked: true
+  status: rejected
