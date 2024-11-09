@@ -3800,3 +3800,32 @@
     score: 5.6
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: a7628282e2066ba11822a9800d4ba2c7f86ceeaa
+  author:
+    name: Davidcuddy
+    lang: en
+    email:
+      value:
+        encrypted: Mjc0NGEyY2NjMDkwZWRlN2U2ODNjNGU2ZmJiZjE2MjA=
+        algorithm: aes-256-gcm
+        iv: 957ca14768d0266745790015
+        version: "1"
+      hash:
+        sha256: 917cfc7fd4ef055fd361766b18bf690cb32b2cb1ac9d14aef4466aad9e972a40
+  published: 2024-11-09T10:50:32.218Z
+  content: Бесплатные виртуальные номера страны Белоруссия с кодом +375 для приема
+    СМС, получения активации сервисов и аренды мобильного телефона <a
+    href="https://whereminsk.by/kak-vybrat-luchshij-servis-virtualnyh-nomerov-dlya-telegram-rukovodstvo-i-rekomendaczii">купить
+    украинский номер телефона</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzU3ZTQ1M2Q2NDBhNmZkYTMzNTZjNTdmNGNiMw==
+    algorithm: aes-256-gcm
+    iv: bd9fab21ea44f0cbc7e0fc8b
+    version: "1"
+  spam:
+    score: 6.78
+    marked: true
+  status: rejected
