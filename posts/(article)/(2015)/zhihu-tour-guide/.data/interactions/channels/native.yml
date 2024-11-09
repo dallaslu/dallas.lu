@@ -3829,3 +3829,33 @@
     score: 6.78
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 370a91adf16fb0e9b111b4915c7a48a33c2618e7
+  author:
+    name: StephenvoG
+    lang: en
+    email:
+      value:
+        encrypted: NmJkY2Q3ZTZmMjM4MjYzNWJjZWIwNTgwMzkyN2E4NDk=
+        algorithm: aes-256-gcm
+        iv: cae552afe134c5b3c122c355
+        version: "1"
+      hash:
+        sha256: c526f36c136bd5ab658711130cd67a38d827323b1b21e8b258c9019b10f4e6cf
+  published: 2024-11-09T12:52:04.733Z
+  content: Ни одно застолье невозможно представить себе без освежающих
+    безалкогольных напитков. Сейчас вам не придется тратить свое время и силы на
+    то, чтобы ездить в магазины и покупать соки, минеральную воду <a
+    href="https://telegra.ph/EHSKORT-MOSKVA--RED-ROOM-11-08">доставка алкоголя
+    москва текила вермут вино</a>
+  lang: zh-CN
+  ip:
+    encrypted: MDZjZGI4YmZiOWRlZTFmYjUxNmVhZWM1YjFjYQ==
+    algorithm: aes-256-gcm
+    iv: a91a6e63be0a7068326f33d7
+    version: "1"
+  spam:
+    score: 6.13
+    marked: true
+  status: rejected
