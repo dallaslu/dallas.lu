@@ -3859,3 +3859,32 @@
     score: 6.13
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8b389348b7adede0649f78def3e9d8198658dd9d
+  author:
+    name: Scottdeeno
+    lang: en
+    email:
+      value:
+        encrypted: ZTAyNjA3ZjJmZmM1MjA4MGE4MmI5MmMzYjc3MGZmYmY=
+        algorithm: aes-256-gcm
+        iv: d8841e82be71cda33ffb6193
+        version: "1"
+      hash:
+        sha256: cd41044e54b90c947c983107981dada18643666c71506184c4aa34fbc31e4594
+  published: 2024-11-09T13:38:04.639Z
+  content: В настоящее время одной из ключевых современных информационных угроз
+    для общества в сфере медиабезопасности становится вовлечение детей и
+    подростков в деструктивные Интернет-сообщества <a
+    href="https://telegra.ph/Sliv-shkolnic-18-11-06">слив фото школьниц вк</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzY0ZTA5ZWJhNzk5NGVlNmZiMWU5YWRl
+    algorithm: aes-256-gcm
+    iv: d00d170d32ef4aa587e5ecf7
+    version: "1"
+  spam:
+    score: 6.14
+    marked: true
+  status: rejected
