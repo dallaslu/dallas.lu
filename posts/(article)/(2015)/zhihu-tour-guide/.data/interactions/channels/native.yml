@@ -3888,3 +3888,33 @@
     score: 6.14
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: fa6a034eb1868a313c286dba79d8feb50bc999e5
+  author:
+    name: BruceJes
+    lang: en
+    email:
+      value:
+        encrypted: N2ZmMzQxYmRhNThhM2NkMDNmNWMyZThjZWRjNmEzZTI=
+        algorithm: aes-256-gcm
+        iv: ec944ddb4fb6bb847db01f4d
+        version: "1"
+      hash:
+        sha256: 98bc6dc19873b8ceee8f37f67d16b2b2513971b28d2e445a0145fb235d4ae17a
+  published: 2024-11-09T19:31:18.676Z
+  content: Ведь есть же десятки сервисов для номеров из других стран. А
+    беларусские форумы огорожены, им подавай только их собственный картофель
+    типа +375 <a
+    href="https://afmedia.ru/odnorazovyj-nomer-dlja-sms-preimushhestva-i-primenenie">купить
+    одноразовый номер для смс</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzcwNGZhZmNhMzNkMTZhYjI0N2JmODI5YzVmMg==
+    algorithm: aes-256-gcm
+    iv: c670c25be4450c604428091b
+    version: "1"
+  spam:
+    score: 9.5
+    marked: true
+  status: rejected
