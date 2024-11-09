@@ -3918,3 +3918,32 @@
     score: 9.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f4e3083de66539ea2a1574def2a9edfc2dfd7a7e
+  author:
+    name: ManuelPor
+    lang: en
+    email:
+      value:
+        encrypted: Njk2YmI1MmRjMDBkNWZhMWI3YzRkMzU0MGQzZTk0MmI=
+        algorithm: aes-256-gcm
+        iv: d87822db6e070e33f2ac03cd
+        version: "1"
+      hash:
+        sha256: 3df0465dd4a22b1e8d39f1bf76642bfda31a4ae6969b2ff854b0b960d746390d
+  published: 2024-11-09T20:38:43.346Z
+  content: Melbet - начинай играть на реальные деньги на официальном сайте онлайн
+    казино Мелбет и выигрывай крупные суммы в популярных игровых автоматах <a
+    href="https://telegra.ph/Kometa-Kazino-11-06">casino kometa kometa casino
+    tech</a>
+  lang: zh-CN
+  ip:
+    encrypted: YmJkOTliNmFjZGZkYjdlNThkMzliZTFlYjg4Mw==
+    algorithm: aes-256-gcm
+    iv: 64a982a7f4b1d81c93830426
+    version: "1"
+  spam:
+    score: 6.2
+    marked: true
+  status: rejected
