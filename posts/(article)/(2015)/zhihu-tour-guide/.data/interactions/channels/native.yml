@@ -4133,3 +4133,32 @@
     score: 9.15
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f3b2f5ce2b7c06265c025a3ff4c7621cf0cab096
+  author:
+    name: Eddiekef
+    lang: en
+    email:
+      value:
+        encrypted: NzgyNDMxNDc4Yzg0ODA5NGEwYjY1MWIzZjEzM2VjMDI=
+        algorithm: aes-256-gcm
+        iv: 1c2410e7a280d4281e97cc63
+        version: "1"
+      hash:
+        sha256: 05229a5cb8691ad42345d49d2b39844a56da7aef07def419337196492b526ca9
+  published: 2024-11-10T17:17:56.208Z
+  content: 'Продажа недвижимости на Кипре: 10 674 предложения с ценами и фото.
+    Tranio поможет подобрать и купить жилье на Кипре стоимостью от 54 000€ <a
+    href="http://redstoneestate.ru">квартира на кипре купить недорого у
+    моря</a>'
+  lang: zh-CN
+  ip:
+    encrypted: YzJhNzViOWM3ZTJiNGM0YjBhOTg0Zjg1
+    algorithm: aes-256-gcm
+    iv: 87138f729b5211d3fbfcb371
+    version: "1"
+  spam:
+    score: 9.04
+    marked: true
+  status: rejected
