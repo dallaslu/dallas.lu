@@ -38,3 +38,39 @@
     iv: 25a583a6b383f1c81abebe1e
     version: "1"
   target: a0c0e161deca5772d540677e95e2ff3e4aa54f8b
+- type: reply
+  channel: native
+  id: d5bd3a0f91b5b6c300435efd4460bc88ec38ee8e
+  author:
+    name: "ADJERID WALID "
+    lang: en
+    url: walid24adj@live.fr
+    email:
+      value:
+        encrypted: MDY4ZDk2ODBhYzBhMGJjYmMxNTI5MWYzMzdmYTZmNzE3YjlkYjUyMmYzOTExNWM0M2NjMzhlYjZhMQ==
+        algorithm: aes-256-gcm
+        iv: 776d27358a636eba9d6f0f77
+        version: "1"
+      hash:
+        sha256: 6d4818b31d40fbc5fd998a66d61ca4f4d442197146e68068e42ca500abfa2409
+  published: 2024-11-10T09:44:42.987Z
+  content: "Thanks 😊 for sund.\r
+
+    Je suis en train de faire un petit mot pour vous remercie de votre réponse
+    \r
+
+    \r
+
+    Ajent berou adjerid walid Algérie.\r
+
+    Dountise cherga Algérie alger 🍀🦁🇱🇺🌟💚.\r
+
+    Je vous remercie de votre réponse.\r
+
+    Merci."
+  lang: en
+  ip:
+    encrypted: NjlhNWE3YzQ2ZjMxZGFjZmNhNmZkYjAwYjc=
+    algorithm: aes-256-gcm
+    iv: 0dc6185425a4b52e7ac0ca3a
+    version: "1"
