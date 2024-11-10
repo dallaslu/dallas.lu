@@ -85,3 +85,38 @@
     iv: e7da36ef0b3c3f08a53966c0
     version: "1"
   target: ddd695409416f54b95b51bd726f848f9bb3bbe0a
+- type: reply
+  channel: native
+  id: 30301c5103c0aa4e4a792dd00c5ef69210e17804
+  author:
+    name: bobo live casino malaysia
+    lang: zh-CN
+    url: bobo-live88.com
+    email:
+      value:
+        encrypted: MzE0MWUwNjE5ZjYwNjYxOTE1OTNlMjM4YmE3MzQxMjAxYjA2ZWJlNDQ1MTZjYWUyNTMxMjAz
+        algorithm: aes-256-gcm
+        iv: 277952b73843f565c964fa8d
+        version: "1"
+      hash:
+        sha256: db1e6bdcdfbcc98f8bab4f559e66e3424ebc236334462663919d112bfe8ced01
+  published: 2024-11-10T08:12:29.293Z
+  content: "你好！我曾经也遇到过类似的问题，以下是几个可能的解决方法：\r
+
+    \r
+
+    检查网络连接：有时候加载慢是因为网络信号不稳定，可以尝试切换Wi-Fi或者使用移动数据看是否有改善。\r
+
+    清理缓存：应用缓存过多也可能影响加载速度，可以在设置里清理应用缓存，或者尝试卸载再重新安装应用。\r
+
+    更新应用：确保你使用的应用是最新版本，有时候更新版本会修复一些已知的性能问题。\r
+
+    关闭后台应用：如果后台运行的应用占用较多资源，也可能导致加载缓慢，尝试关闭一些不必要的后台程序。\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: ZmYzMTE1ODY1MDE4ODBhNzYzODYzZjA4OGM4ZA==
+    algorithm: aes-256-gcm
+    iv: 70877d41d6dc88cb711f3329
+    version: "1"
+  spam:
+    score: 0.16
