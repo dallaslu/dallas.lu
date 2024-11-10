@@ -4105,3 +4105,31 @@
     score: 5.72
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 131891a7b0b51c8a1713c0fdc62ff9341e517f6c
+  author:
+    name: Charliecop
+    lang: en
+    email:
+      value:
+        encrypted: NjEyNmYyN2Q0YzJiZjIzZDBlMzkwNDhkZjgxNTYyYWY=
+        algorithm: aes-256-gcm
+        iv: a73b7b8101908499cbf59e7f
+        version: "1"
+      hash:
+        sha256: ac666cb9766d210ffd1e8c84db69108d7db3d17c3d5d97e5b20251511eca75d8
+  published: 2024-11-10T16:44:23.586Z
+  content: Апартаменты Napa Gem в пешей доступности от одного из самых красивых
+    пляжей Кипра, а также бурного веселья на шумном летнем курорте Айя-Напа <a
+    href="http://nedvizhimostrussa.ru/">кипр квартира</a>
+  lang: zh-CN
+  ip:
+    encrypted: MDE0ZWNjNWVlZDFiY2I5YzM3ZTBlYzEw
+    algorithm: aes-256-gcm
+    iv: ad58b32cd3c967ccc199f8d0
+    version: "1"
+  spam:
+    score: 9.15
+    marked: true
+  status: rejected
