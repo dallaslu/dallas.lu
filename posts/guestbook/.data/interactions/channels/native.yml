@@ -1208,3 +1208,34 @@
     algorithm: aes-256-gcm
     iv: d2f9d8a3f6f0d3df103b0114
     version: "1"
+- type: reply
+  channel: native
+  id: 17a823ed74dbf3a2156b28ab2c9925b9ea6eddfb
+  author:
+    name: Geraldreomi
+    lang: en
+    email:
+      value:
+        encrypted: ZWM4NjdkMDdlNzYwNmY5Zjg1NWI3NDdjOTJhODg0NDg=
+        algorithm: aes-256-gcm
+        iv: b1246a8a985698a72587ebda
+        version: "1"
+      hash:
+        sha256: 815ea1b745d1829dfebf5264a4efc8f8a5d6dd2819c20d303be02b0bdcfa9644
+  published: 2024-11-10T11:14:53.911Z
+  content: 'Разработка лендингов в студии в Москве осуществляется с учетом
+    современных маркетинговых стратегий и требований рынка. К основным услугам
+    добавляются: аудит и анализ конверсии, продвижение в поисковых системах,
+    контентное наполнение, настройка CRM и профессиональная техническая
+    поддержка <a
+    href="https://webstudiya-landing.ru/">webstudiya-landing.ru</a>'
+  lang: en
+  ip:
+    encrypted: NTE2YWE3MWMzZjZlMGU3ZDFiZjUwMTY3
+    algorithm: aes-256-gcm
+    iv: 0b01b2e3dcbb86ef48317793
+    version: "1"
+  spam:
+    score: 8.1
+    marked: true
+  status: rejected
