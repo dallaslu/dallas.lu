@@ -3977,3 +3977,32 @@
     score: 9.2
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5704f6dd7755873937c60265c674fb8c9305ba78
+  author:
+    name: Iyannashoft
+    lang: en
+    email:
+      value:
+        encrypted: NDY4Y2Y0NmE4OTg5YThlOTI5MzY4NTY3OTQ5ODdmNDEwOWZkNzFiZDQzOGU4NDU2MmE1Y2E5OGU4NTU5Zjc0YWM5NzE2NGE4ZmY1YWJiM2QyODlkNjhlODkwMTliOGMw
+        algorithm: aes-256-gcm
+        iv: 4093423e0fb66d363e9ab4ef
+        version: "1"
+      hash:
+        sha256: 2d3c10e00194f724224073e83bd46f3475db1c454ac4df5e46bf866e4a146f1d
+  published: 2024-11-10T02:35:00.382Z
+  content: "бесплатные деньги на карту за регистрацию в казино \r
+
+    <a href=\"https://t.me/s/besplatnyie_dengi_na_kartu\">деньги на карту
+    бесплатно за регистрацию</a>"
+  lang: zh-CN
+  ip:
+    encrypted: ZGRkYWJlMTM0NjhjYWQ3ZTJkNTc1YTQyOTQ=
+    algorithm: aes-256-gcm
+    iv: a569b5f6c12ff5bc5b647f77
+    version: "1"
+  spam:
+    score: 6.63
+    marked: true
+  status: rejected
