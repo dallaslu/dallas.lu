@@ -4340,3 +4340,32 @@
     score: 8.95
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9ce255763b5580dd493cd8f8808774a5df4a7362
+  author:
+    name: PatrickMaymn
+    lang: en
+    email:
+      value:
+        encrypted: ZDc1M2Y5MWUyZDJmNWZiODdlMzEyZWRkZDRiNGQwN2Y=
+        algorithm: aes-256-gcm
+        iv: 65c8ebd97c34a0cb4349f252
+        version: "1"
+      hash:
+        sha256: 2736ea5d2ae99900db4f398e6082c29f53eb5b33324146c390b442e1ff07d31c
+  published: 2024-11-11T11:02:48.068Z
+  content: Фотосфера – это долгожданный момент творчества, вдохновение, радость,
+    уникальные дизайны и невероятно красивые решения. Это творческая
+    лаборатория, где люди на основе снимков и изображений создают шедевры для
+    себя, родных и друзей <a href="https://fotooks.ru/">салон фото</a>
+  lang: zh-CN
+  ip:
+    encrypted: MDY1NTQ3NGI5ZmQzN2UzMjRhZWJlNTQwOTZiMg==
+    algorithm: aes-256-gcm
+    iv: 1b9e874853a4a40ca3b7a443
+    version: "1"
+  spam:
+    score: 8.87
+    marked: true
+  status: rejected
