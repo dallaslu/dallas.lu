@@ -4281,3 +4281,62 @@
     score: 7.62
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9518ed842416c907532a0963f13a59147c3f3990
+  author:
+    name: RobertCloup
+    lang: en
+    email:
+      value:
+        encrypted: MGI2YjkyODgwZDU5YjlkOTMwOTg4N2IyOTU1MDkxM2QxNmNi
+        algorithm: aes-256-gcm
+        iv: 2d991a91ae43e0764128844d
+        version: "1"
+      hash:
+        sha256: 341db4c1b1d94a394c431d0e291dde6e8a1c37b21e43e22f6874dda47dd38465
+  published: 2024-11-11T10:56:06.168Z
+  content: Откройте мир вождения с нашей автошколой, обучающей безопасным навыкам
+    управления автомобилем. Мы предлагаем высококачественное обучение вождению,
+    которое поможет вам уверенно управлять автомобилем в любых условиях <a
+    href="https://avtoschoolavtoritet22.ru/">автошкола в москве рядом со
+    мной</a>
+  lang: zh-CN
+  ip:
+    encrypted: MmY1M2FhMDA1YTNmZjIyYmY3NzNkNWI0
+    algorithm: aes-256-gcm
+    iv: faae2de9c9767b6e32c91c80
+    version: "1"
+  spam:
+    score: 8.99
+    marked: true
+  status: rejected
+- type: reply
+  channel: native
+  id: fdc630790c3f651c0bdbb87111a580a4439c7286
+  author:
+    name: Thomascor
+    lang: en
+    email:
+      value:
+        encrypted: YzM3ZWIzNGZiNWRkODJhNTVjYjBjMTU5NjFkNTVhYzc=
+        algorithm: aes-256-gcm
+        iv: 21febd13029ad0520029ae19
+        version: "1"
+      hash:
+        sha256: 4f0a3d69ad3bd05b9cd6efa2030410f161ebb29b01b195740af14717d42bb59e
+  published: 2024-11-11T10:56:37.550Z
+  content: Мы печатаем развороты фотокниг на высококачественной профессиональной
+    фотобумаге Fujicolor Crystal Archive Digital тип DP II (матовая или
+    тиснёная) на современной машине Noritsu QSS 3704HD <a
+    href="http://basova-photo.ru/">фотокнига самостоятельно</a>
+  lang: zh-CN
+  ip:
+    encrypted: NGM3YmJkMzFhZjFiYjE4MTdkZWUyMDUz
+    algorithm: aes-256-gcm
+    iv: 7d99e18ecf68e6bb0155b657
+    version: "1"
+  spam:
+    score: 8.95
+    marked: true
+  status: rejected
