@@ -1446,3 +1446,37 @@
   spam:
     score: 2.9
   status: auditing
+- type: reply
+  channel: native
+  id: 98daad26201f2e7fd83508d8772a75dba62343b8
+  author:
+    name: Sustainable practices in metal recovery
+    lang: en
+    email:
+      value:
+        encrypted: OGRiODhjZGYwOTY2NGQxMGQ2NjllODI0NGI2NWU2MTIxYTlh
+        algorithm: aes-256-gcm
+        iv: 1b10c974b8e3b2e90c8c8ecb
+        version: "1"
+      hash:
+        sha256: 0359f0cdac089abd8c63d5a145c9e105ad693f173044afdbb35ec269a86c86f4
+  published: 2024-11-11T02:09:14.126Z
+  content: "Ciao, potential new friend! I'm hyped to meet you, dawg. \r
+
+    \ \r
+
+    Potentially an excellent addition for your website    <a
+    href=http://cuprum.top/>Copper scrap storage solutions</a> \r
+
+    \ \r
+
+    Hasta la vista, and may your spirit be rejuvenated"
+  lang: en
+  ip:
+    encrypted: OTA3ZjM0YWZlMTdiMDAxMWI2NzgxZTE5ZTkxMg==
+    algorithm: aes-256-gcm
+    iv: f00e1a0d084fb7cebe35ebfe
+    version: "1"
+  spam:
+    score: 3.4
+  status: auditing
