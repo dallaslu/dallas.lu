@@ -4399,3 +4399,32 @@
     score: 8.83
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 08ad0f6ebebb5c7a4c6e40ef029e6f0c063dc2c2
+  author:
+    name: Ernestciche
+    lang: en
+    email:
+      value:
+        encrypted: MzZlNDMzNTg5ZTA2MWM2MzFhMzlkODgxNWJhYWVjMjM=
+        algorithm: aes-256-gcm
+        iv: d7aa155e2dabeedca6e97330
+        version: "1"
+      hash:
+        sha256: 18c4d9554dc0dc69859370a95fec541135a75d32cbf5c27d6e7c6f31063bce52
+  published: 2024-11-11T20:13:36.419Z
+  content: Предложения для открытия бизнеса ИП с нуля — редкость. Для получения
+    займа предприниматель уже должен работать на рынке. Обычно не меньше 6
+    месяцев <a href="https://oaocentrinvest.ru/">кредит на развитие бизнеса
+    москва</a>
+  lang: zh-CN
+  ip:
+    encrypted: NGY2Njc5MDhjZTc1NmRlYzIxNWZhODMwNzE2Nw==
+    algorithm: aes-256-gcm
+    iv: efce09829290648567eef1ec
+    version: "1"
+  spam:
+    score: 9.05
+    marked: true
+  status: rejected
