@@ -4633,3 +4633,32 @@
     score: 9.16
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 6b53bc688d26c4975616c99848fd370a689df170
+  author:
+    name: Lamarhem
+    lang: en
+    email:
+      value:
+        encrypted: YzVmNTJlMDg0ZjllMGU0NDYxN2RjNzkwNmI0ZmZlNmE=
+        algorithm: aes-256-gcm
+        iv: 30c46baac109ac2f18efc90b
+        version: "1"
+      hash:
+        sha256: 8351b90de99e6a789ba556a52db64a1388bcf403f4048e3e190b3ddd25d2e224
+  published: 2024-11-12T23:34:07.602Z
+  content: Приобретение нового оборудования в лизинг для бизнеса на выгодных
+    условиях. Длительные сроки финансирования. Специальные программы от
+    поставщиков <a href="https://ptleasing.ru/">лизинг торгового оборудования
+    для магазина продуктов</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODNkYTRmM2ZhNmEyMjVlZjg5MDE2N2E0ZjE4Yw==
+    algorithm: aes-256-gcm
+    iv: f132c0fdea2387d034de5ad5
+    version: "1"
+  spam:
+    score: 8.96
+    marked: true
+  status: rejected
