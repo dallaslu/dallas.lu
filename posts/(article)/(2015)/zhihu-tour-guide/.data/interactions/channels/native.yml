@@ -4605,3 +4605,31 @@
     score: 5.8
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 4a55fc6dcd97ba5f4f50956d36aa0209bbbdfeb3
+  author:
+    name: DavidTrore
+    lang: en
+    email:
+      value:
+        encrypted: OThiOGZkODNmZjIzODVjM2Q1N2E1YTFkNDFhM2RkMTM=
+        algorithm: aes-256-gcm
+        iv: d58beee4e70ce5feea60072a
+        version: "1"
+      hash:
+        sha256: 4d2cae30895143bce2b88abc70932ce660d5bdc0dc2c82adfc162aeaae299232
+  published: 2024-11-12T21:29:28.890Z
+  content: Расчет и покупка спецтехники в лизинг для юр. лиц и ИП. Лучшие
+    предложения лизинга на строительную технику и быстрое оформление <a
+    href="http://spectehnikaleasing.ru/">продажа спецтехники бу лизинг</a>
+  lang: zh-CN
+  ip:
+    encrypted: YzRlMjA1YWQwZWJiODViMWIzMmJjMGZk
+    algorithm: aes-256-gcm
+    iv: 01af99d684720d96e673c64e
+    version: "1"
+  spam:
+    score: 9.16
+    marked: true
+  status: rejected
