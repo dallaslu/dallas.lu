@@ -4543,3 +4543,32 @@
     score: 9.02
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 742f24b5b7c6763f84bc783671d24a0215d42529
+  author:
+    name: RichardPet
+    lang: en
+    email:
+      value:
+        encrypted: NWU5ODI2YWE1OTc0YjcyZThkNjJlNjEyMThiZGQxNDY=
+        algorithm: aes-256-gcm
+        iv: a8776bc50356f0c8563f8023
+        version: "1"
+      hash:
+        sha256: 50058e75c7a0d856d8eb55f38237c2bece1c8d24fc1f66c5d970aca821b07554
+  published: 2024-11-12T12:24:25.630Z
+  content: Подскажите, где в Москве можно купить качественную строительную
+    технику, такую как башенные краны или мачтовые подъемники? Интересуют
+    надежные компании с хорошей репутацией <a
+    href="https://woman.build2.ru/viewtopic.php?id=16170">https://woman.build2.ru/viewtopic.php?id=16170</a>
+  lang: zh-CN
+  ip:
+    encrypted: MzEwYTYzMWQ5MDEzZDBjNTFkZmRlNWMxYzBlNQ==
+    algorithm: aes-256-gcm
+    iv: b0bc9fb1f8dad5ea7da3aa88
+    version: "1"
+  spam:
+    score: 8.15
+    marked: true
+  status: rejected
