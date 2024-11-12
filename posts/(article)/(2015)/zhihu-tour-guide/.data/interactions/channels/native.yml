@@ -4457,3 +4457,31 @@
     score: 9.02
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f8685ba2ed6f042704253d5cc0f285a891cce9b4
+  author:
+    name: JosephBoirl
+    lang: en
+    email:
+      value:
+        encrypted: MmQwN2IyYTk4YzQ4YzJiYmM0MmQwM2IxOWVjYWMzZjQ3ZDc2
+        algorithm: aes-256-gcm
+        iv: 54107997c7621c04b8a2e753
+        version: "1"
+      hash:
+        sha256: a63f22d3e41d3469d9a2eacb7228db3ef35a831bc64f2e168fdd18b2638f52a4
+  published: 2024-11-12T01:43:02.276Z
+  content: "[url=https://kreken.cc/]КРАКЕН зеркало - даркнет маркет. КРАКЕН ссылка
+    онион tor kraken krn. Вход на кракен маркет[/url]  войти на сайт по
+    kreken.cc"
+  lang: zh-CN
+  ip:
+    encrypted: OGVjZTZiZDUwZGM5ZjJmZTk5NDZjYWEy
+    algorithm: aes-256-gcm
+    iv: b0793dbca779fc685622d769
+    version: "1"
+  spam:
+    score: 5.19
+    marked: true
+  status: auditing
