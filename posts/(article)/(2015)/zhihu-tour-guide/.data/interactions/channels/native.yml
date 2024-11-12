@@ -4514,3 +4514,32 @@
     score: 6.74
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: d4f9288be045cf2f3387db8e89440597bc754ebc
+  author:
+    name: Gradynew
+    lang: en
+    email:
+      value:
+        encrypted: ZDcyMjJhYmZkYTliOTUwYTM1ZTA3MmQ5NWU0ZGRlYmM=
+        algorithm: aes-256-gcm
+        iv: 2cde352d589418f33742e3bf
+        version: "1"
+      hash:
+        sha256: febc7c9640d5ed63df8495bb021dfba4cb2b75440c7f3898c9cf4f442f960e67
+  published: 2024-11-12T12:09:05.216Z
+  content: Лизинг — услуга для компаний и ИП, снижающая затраты на покупку
+    транспортных средств для коммерческих и личных целей. Выберите автомобиль,
+    подпишите договор <a href="https://car-yaroslavl.ru/">лизинг автотранспорта
+    и спецтехники</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZjgwNmFmYWFmYWU3NGZkY2FjYzc0ODhk
+    algorithm: aes-256-gcm
+    iv: 55e59556ad19c292f36164e7
+    version: "1"
+  spam:
+    score: 9.02
+    marked: true
+  status: rejected
