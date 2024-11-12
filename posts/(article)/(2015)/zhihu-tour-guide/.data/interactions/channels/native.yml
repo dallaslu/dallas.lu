@@ -4485,3 +4485,32 @@
     score: 5.19
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: ab83c25cd4350a0b685ae4710f090bffac2debfd
+  author:
+    name: FreddieLagma
+    lang: en
+    email:
+      value:
+        encrypted: ZDA4NmNkODc5NzBhZjhiNmQ3YTIxYjJjMzJmYjI3MTA=
+        algorithm: aes-256-gcm
+        iv: a525fc7f94fdcc742415bd79
+        version: "1"
+      hash:
+        sha256: 48bc27df942362ef6b0cd940be19d59efa16e1312bf0777baf9314c33865f85e
+  published: 2024-11-12T10:49:19.404Z
+  content: Использование разнообразных источников финансирования помогает
+    компаниям достигать устойчивого развития, минимизируя риски и максимизируя
+    эффективность инвестиций в проекты и инновации <a
+    href="http://minimoo.eu/index.php/en/forum/suggestion-box/668709">http://minimoo.eu/index.php/en/forum/suggestion-box/668709</a>
+  lang: zh-CN
+  ip:
+    encrypted: MzRjMjMwZWEwNzg1ZGI2ZDViZDgzMmRjOTAxOA==
+    algorithm: aes-256-gcm
+    iv: 62dad191d3eb3d642f7a7a1d
+    version: "1"
+  spam:
+    score: 6.74
+    marked: true
+  status: rejected
