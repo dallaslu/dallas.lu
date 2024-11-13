@@ -4816,3 +4816,31 @@
     score: 7.89
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5b8cd4dbc447fe782710407ab088d0807705a96e
+  author:
+    name: Michaelteeme
+    lang: en
+    email:
+      value:
+        encrypted: OGY3MDUyOGY2ZjUyOGZhYzViMzcyYzNmZTFlNWI5N2Y=
+        algorithm: aes-256-gcm
+        iv: 72b1d8740553113cc0a362f5
+        version: "1"
+      hash:
+        sha256: eadad4db971354932a54c97efaf0f3e238932759ef0990182200cb15ca163d4b
+  published: 2024-11-13T16:32:54.438Z
+  content: "Как выбрать гирлянды для новогоднего оформления фасада дома? Виды
+    подсветки, лучшие материалы, обзор разных моделей гирлянд и советы по
+    монтажу: https://dzen.ru/a/Zy5D8pM8zzfwUtJ0"
+  lang: zh-CN
+  ip:
+    encrypted: M2M5MTM1OTFjY2Y2NDVkNjFiYjg4MmY4Y2UzZg==
+    algorithm: aes-256-gcm
+    iv: ec9a5b1a7f3a6f84e8a1ded9
+    version: "1"
+  spam:
+    score: 8.07
+    marked: true
+  status: rejected
