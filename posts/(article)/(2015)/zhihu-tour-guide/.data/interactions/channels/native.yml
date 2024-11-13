@@ -4844,3 +4844,32 @@
     score: 8.07
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f2c5503bca455bcc7042d028b1bc8cf010006bf4
+  author:
+    name: RichardDen
+    lang: en
+    email:
+      value:
+        encrypted: ZjAyNjg4YzFmZmQyODBkZDBmNDZjZjgzNzFmOWZjZTE=
+        algorithm: aes-256-gcm
+        iv: 395d514b5d7599ba38b6d859
+        version: "1"
+      hash:
+        sha256: 108a36aefe65bd3c3c5e6605190f485676f26e8b4fed6ed30ae3561935d85339
+  published: 2024-11-13T23:30:22.778Z
+  content: Обмен криптовалют на USDT (Tether) является обычной практикой в мире
+    цифровых активов, предлагая стабильную альтернативу более волатильным
+    криптовалютам <a
+    href="https://www.05745.com.ua/list/493880">https://uin.in.ua/forum/viewtopic.php?f=7&t=47955&p=69526&sid=1f5e43b23dab99be0b1143c9cc6e24c1#p69526</a>
+  lang: zh-CN
+  ip:
+    encrypted: NDg1MjU3NWEyOTJmZjdhYzM3NjNhYTcwNDEzNg==
+    algorithm: aes-256-gcm
+    iv: 141d15affe327d6099f52a88
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
