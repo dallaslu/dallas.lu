@@ -4873,3 +4873,32 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 600273a3e38afb6d1f3f4187401c502736c1e737
+  author:
+    name: WilliamWak
+    lang: en
+    email:
+      value:
+        encrypted: OGQ5ZjgzYTM4MmI5NmM3NzcxY2M5OTJhYWMyY2UxNjY=
+        algorithm: aes-256-gcm
+        iv: 090af57d8f501a3d89dea471
+        version: "1"
+      hash:
+        sha256: 0d02062eabef8936b94872d93637df9adc7798790cfd5a8f3c351f9964eebc95
+  published: 2024-11-13T23:42:45.161Z
+  content: Платформа уникальная и отличная в плане удобств (начиная от ввода и
+    вывода средств, заканчивая инструментами для торговли). Постоянные
+    улучшения. Куча графиков <a href="https://www.mayaschool.ru/assets/">покет
+    опшн</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzhmNmJkYjQ3MTBlM2RiNzYyYjBkNTZm
+    algorithm: aes-256-gcm
+    iv: 6dcb7384748c688cbb1ea757
+    version: "1"
+  spam:
+    score: 9.16
+    marked: true
+  status: rejected
