@@ -4662,3 +4662,32 @@
     score: 8.96
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c8ab6c4aaa5b0fcea8871a69d8142cf314a79055
+  author:
+    name: CharlesNak
+    lang: en
+    email:
+      value:
+        encrypted: NWI4YThiZTYwZjVjMDQ5NmM5Yjc2OTQ4ZjZhODYxZTU=
+        algorithm: aes-256-gcm
+        iv: 6188aba7ff602fef086fe478
+        version: "1"
+      hash:
+        sha256: 8aac353920e83adf740dfc604fc137e9d694293d818535675f64662a4abbd53e
+  published: 2024-11-13T00:05:06.683Z
+  content: Какую спецтехнику можно взять в лизинг? В нашей компании
+    предоставляется большой выбор спецтехники для лизинга. Вам доступны
+    экскаваторы, погрузчики, бульдозер <a
+    href="https://welcome-leasing.ru/">лизинг спецтехники москва</a>
+  lang: zh-CN
+  ip:
+    encrypted: NjA1YzY5MWViYzMwYWI0OTIzOGIwMzMxZDI3Mg==
+    algorithm: aes-256-gcm
+    iv: ac2c4c0d1c49bb0b66f94249
+    version: "1"
+  spam:
+    score: 9.06
+    marked: true
+  status: rejected
