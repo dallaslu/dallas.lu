@@ -4758,3 +4758,61 @@
     score: 5.56
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 177ce8ed88bc1c4c14874c98ad088d01b86867ac
+  author:
+    name: Georgewes
+    lang: en
+    email:
+      value:
+        encrypted: ZmVlZjIzOGM0N2FlNThiNTg5ZThkZmU3NTY4ZDZhNTE=
+        algorithm: aes-256-gcm
+        iv: bc17625ed5eb7fcf44bafd88
+        version: "1"
+      hash:
+        sha256: 2a846203b8ef8c9b0f2645eab4232afc6c1a4a14c02d3027956f44a3183e06f1
+  published: 2024-11-13T13:42:39.697Z
+  content: На приеме гинеколог проводит осмотр воспалений, новообразований и
+    других гинекологических патологий, проводит диагностику заболеваний женских
+    половых органов и выявляет их на ранних стадиях <a
+    href="http://www.rolandus.org/forum/profile.php?mode=viewprofile&u=26945&sid=58c87897dcfca2fef5e0486dffe48ca9">http://www.rolandus.org/forum/profile.php?mode=viewprofile&u=26945&sid=58c87897dcfca2fef5e0486dffe48ca9</a>
+  lang: zh-CN
+  ip:
+    encrypted: Y2U0MzBlYTE0MDg2MzY3ODM5NTQ5OTg3
+    algorithm: aes-256-gcm
+    iv: e388da9cb8852af1a959485a
+    version: "1"
+  spam:
+    score: 7.11
+    marked: true
+  status: rejected
+- type: reply
+  channel: native
+  id: 98eb50df653bf1ba99197bfe23686acf63cb7810
+  author:
+    name: DavidGrind
+    lang: en
+    email:
+      value:
+        encrypted: YTAzYTQxZmNiZTY2NTMwOWFkZTRmNWUyMGViMTc2Y2I=
+        algorithm: aes-256-gcm
+        iv: da6cd69988143f3628345591
+        version: "1"
+      hash:
+        sha256: e31969076fa2291fef79bb20f361afd6a8c38952f8c0ca461997fef964d7e07b
+  published: 2024-11-13T13:42:44.608Z
+  content: Друзья, мне нужен совет знающих. Можете ли Вы мне подсказать каким
+    образом можно вывести на гривну криптовалюту? Какие обменники есть их
+    хороших <a
+    href="http://mamachki.ucoz.lv/forum/74-3578-1#87980">http://www.diablomania.ru/forum/showthread.php?p=568263#post568263</a>
+  lang: zh-CN
+  ip:
+    encrypted: OWIwZDRlNmZlNTJiM2E3ZjVkZTAzYTc5ZWFlOA==
+    algorithm: aes-256-gcm
+    iv: 3747a5098e2af2ed30b696fc
+    version: "1"
+  spam:
+    score: 7.89
+    marked: true
+  status: rejected
