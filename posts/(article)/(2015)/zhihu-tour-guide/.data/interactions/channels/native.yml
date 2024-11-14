@@ -5106,3 +5106,31 @@
     score: 7.15
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 148479809552470f136ea0fc85e97c6dcaaa1b42
+  author:
+    name: RichardVof
+    lang: en
+    email:
+      value:
+        encrypted: YTcwMDJjYzcwZGYzM2E2MjAzYTQyODZjOTcwNDY5N2FiOGRj
+        algorithm: aes-256-gcm
+        iv: 99663a0c61750c03b6b46ea0
+        version: "1"
+      hash:
+        sha256: 757a51ccc06faaaf65344440b049ea007765551294d3933cab786b935913e71c
+  published: 2024-11-14T23:10:02.840Z
+  content: VPS на Windows — это виртуальный выделенный сервер, развёрнутый в
+    облачном кластере, с предустановленной лицензионной ОС Windows Server.
+    Виртуализация KVM <a href="https://siteboom.ru/">купить сервер vps</a>
+  lang: zh-CN
+  ip:
+    encrypted: YjcyZWM0MDYzODE5MGE0MzkyOTMzZmVi
+    algorithm: aes-256-gcm
+    iv: 5310931f25e998933b19b0cf
+    version: "1"
+  spam:
+    score: 9.01
+    marked: true
+  status: rejected
