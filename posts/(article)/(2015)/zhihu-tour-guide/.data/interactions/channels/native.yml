@@ -5017,3 +5017,34 @@
     score: 7.99
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8b8b553df74b285650b2d619e2537f7c4c8ea5e0
+  author:
+    name: ThomasSwefe
+    lang: en
+    email:
+      value:
+        encrypted: YjFhZDFkNjJmYWJkM2U4NDNiYjVmMmQ3NjlkM2UxOTc=
+        algorithm: aes-256-gcm
+        iv: 32b98eb0cbc4e8060d2af02e
+        version: "1"
+      hash:
+        sha256: 9b390971d246cc0d5c3934550adb05bcf527e724baa827c579cdfad2da24a72a
+  published: 2024-11-14T14:43:50.532Z
+  content: Разнообразие предложений на рынке позволяет легко подобрать удобные
+    варианты для хранения личных вещей. Предметы могут быть адаптированы под
+    любые размеры и потребности, что делает процесс организации не только
+    полезным, но и приятным <a
+    href="http://www.forbstco.com/index.php?option=com_kunena&view=topic&catid=3&id=9727&Itemid=752">система
+    хранения вещей в гардеробной</a>
+  lang: zh-CN
+  ip:
+    encrypted: OGQ0Y2Q3MTg1NGNlZjliYmJmMDkzNzk1
+    algorithm: aes-256-gcm
+    iv: da0a0f58941787ee24fa0230
+    version: "1"
+  spam:
+    score: 6.33
+    marked: true
+  status: rejected
