@@ -5048,3 +5048,32 @@
     score: 6.33
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e7e09b74261c352598e9dde87f38c07626794b5b
+  author:
+    name: Williammow
+    lang: en
+    email:
+      value:
+        encrypted: MDdjMWU5YzI1MWE0YjUyMWE2MDZlMGE4NTdmNTE4OGUzMTRh
+        algorithm: aes-256-gcm
+        iv: 44f61a48a64f0e8bf0d6228f
+        version: "1"
+      hash:
+        sha256: 6d6efa9ad3a008b981987d4f18afc4c8aaea48a2ada70f707d22c8d376852f28
+  published: 2024-11-14T22:34:19.022Z
+  content: With BlueWallet, you maintain ownership of your private keys. This
+    Bitcoin wallet is crafted by Bitcoin enthusiasts for the community <a
+    href="https://bluewallet-bitcoin-wallet.en.uptodown.com/android">BlueWallet
+    download</a>
+  lang: zh-CN
+  ip:
+    encrypted: Zjg0ZjQwMDNhZTA2ODE3ZmU4YjUzOTg0YjhhYg==
+    algorithm: aes-256-gcm
+    iv: dbabe0cde06f7ddda71daf61
+    version: "1"
+  spam:
+    score: 6.46
+    marked: true
+  status: rejected
