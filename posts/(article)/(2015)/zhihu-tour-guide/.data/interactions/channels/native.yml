@@ -4986,3 +4986,34 @@
     score: 9
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 1be3b3b7f110dd2f959af78e2b5dbcaba693ad97
+  author:
+    name: Davidfup
+    lang: en
+    email:
+      value:
+        encrypted: MzViODMzNTJlYzAxN2RjZjY0N2ZiNjFhMGM5ZWNmMzA=
+        algorithm: aes-256-gcm
+        iv: b6bd93e312b22332dfb9954d
+        version: "1"
+      hash:
+        sha256: 48c352481f49dbc67cc054066865838b2f81bc64a9298525d3e1796e3ae59e33
+  published: 2024-11-14T14:28:32.974Z
+  content: Когда речь идет о комфортной организации пространства, на помощь
+    приходят инновационные подходы. Элементы, которые можно комбинировать и
+    адаптировать, открывают множество возможностей для создания идеального
+    хранилища <a
+    href="http://fsp.iro22.ru/forum/6-podmeropriyatie-1-4/2976-luchshie-idei-dlya-organizatsii-stellazhej.html#41511">навесные
+    гардеробные системы</a>
+  lang: zh-CN
+  ip:
+    encrypted: YmIwZTc0MGQ0MjczNDQ4N2M3ZTY5ZDliMWE2Mw==
+    algorithm: aes-256-gcm
+    iv: ee6aa7a66e64f815786ae3f0
+    version: "1"
+  spam:
+    score: 7.99
+    marked: true
+  status: rejected
