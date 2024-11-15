@@ -17,3 +17,32 @@
     encrypted: NjcwNzg3NjZiZmU1ODc1MjJiNDRmYTdhM2M=
     algorithm: aes-256-gcm
     iv: 66c56f3716a4e7eaeb09dbd7
+- type: reply
+  channel: native
+  id: 9aeacf79ecb23d36d9325101648dc5adb57cda4c
+  author:
+    name: ManuelFus
+    lang: en
+    email:
+      value:
+        encrypted: NGZjZjZlMmFmMWUyZDgyNjVjMmExNTQ5NGM1OTZiNGEyOTM1
+        algorithm: aes-256-gcm
+        iv: f16241395144943a45bbd27c
+        version: "1"
+      hash:
+        sha256: 8c7626a0830298eb0405b8cf4cdfffb1b14104fc0a3bad6243d351709e83893d
+  published: 2024-11-15T13:12:19.191Z
+  content: 'Представьте себе: Вы гуляете по улицам Москвы, а вокруг Вас оживают
+    легендарные злодеи и аферисты! Здесь исторические личности сплетаются с
+    киношными персонажами, а за каждым поворотом скрывается тайна <a
+    href="https://captour.ru/subjects/ekskursii-po-moskve-na-tureckom-yazyke/">https://captour.ru/subjects/ekskursii-po-moskve-na-tureckom-yazyke/</a>'
+  lang: zh-CN
+  ip:
+    encrypted: ZGE4ZWI3ZGJiZmI2YWExMTEwOTU5MzQ4M2QzYQ==
+    algorithm: aes-256-gcm
+    iv: 6485e868f3b507f2fdd74605
+    version: "1"
+  spam:
+    score: 9.77
+    marked: true
+  status: rejected
