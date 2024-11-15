@@ -30,3 +30,25 @@
     version: "1"
   spam:
     score: 0.75
+- type: reply
+  channel: email
+  id: 166ea609-f9df-4a95-9909-07bdada785ec
+  author:
+    verified: true
+    name: Dallas Lu
+    lang: zh-CN
+    email:
+      value:
+        encrypted: NzEwYzg1M2U4ODZkZDg5N2IxNTA3Mg==
+        algorithm: aes-256-gcm
+        iv: a3456da750c857b83932e955
+        version: "1"
+      hash:
+        sha256: 0ac740f867d01353371baf0121d2705e4810a2cf1bb2401c620c27286b2005f3
+  published: 2024-11-15T09:08:50.770Z
+  content: 权限配置可以参考：<https://radicale.org/v3.html#authentication-and-rights>。核心思路是，让黄页项目变为只读，以免用户的修改与同步脚本产生的内容发生冲突。
+  lang: zh-CN
+  target: 4371de864763b4b5d369d33472fa200c847a42b5
+  spam:
+    score: 2.87
+  status: auditing
