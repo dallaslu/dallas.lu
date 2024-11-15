@@ -217,3 +217,33 @@
     score: 6.03
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8db29c1904973144f9eee7f3f4f4c2e8049ec82f
+  author:
+    name: CarlosPrept
+    lang: en
+    email:
+      value:
+        encrypted: ZDcwYzVmYTZhYjMzYWNiMDlmMjNkMTExZmVhN2I5NGFhMzUx
+        algorithm: aes-256-gcm
+        iv: 60be57bae31b55c2cda426b9
+        version: "1"
+      hash:
+        sha256: bff2b11bd0e88be5ad3f7628a79a5c712c9e32e31199e2e45677b6d127910d3e
+  published: 2024-11-15T20:38:06.928Z
+  content: Интерфейс таких платформ обычно прост и доступен, что делает их
+    привлекательными для новичков и профессионалов. Основные функции
+    ориентированы на то, чтобы дать трейдерам возможность анализировать рыночные
+    тенденции, а также быстро и безошибочно выполнять сделки <a
+    href="http://wiki.myamens.com/index.php?title=%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%9F%D0%BE%D0%BA%D0%B5%D1%82%20%D0%9E%D0%BF%D1%88%D0%BD">http://wiki.myamens.com/index.php?title=%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%9F%D0%BE%D0%BA%D0%B5%D1%82%20%D0%9E%D0%BF%D1%88%D0%BD</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZjEyNjAwOWIwMWRiNjg2NGZhNGFmNmQyZWRmMQ==
+    algorithm: aes-256-gcm
+    iv: 998d83fb824b5df453788833
+    version: "1"
+  spam:
+    score: 7.67
+    marked: true
+  status: rejected
