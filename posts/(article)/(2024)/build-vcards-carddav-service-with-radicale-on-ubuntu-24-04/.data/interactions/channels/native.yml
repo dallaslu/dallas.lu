@@ -4,3 +4,29 @@
   published: 2024-10-18T05:11:06.643Z
   type: mention
   title: 为 vCards 搭建 Radicale CardDav 服务器
+- type: reply
+  channel: native
+  id: 4371de864763b4b5d369d33472fa200c847a42b5
+  author:
+    name: 可劲儿划水的熊
+    lang: zh-CN
+    email:
+      value:
+        encrypted: YmI3NDg2Yjk0YjA3N2YzNjcwYjU2Nzg5Y2MxMjU5
+        algorithm: aes-256-gcm
+        iv: 63e9ff55bcdb70defb5916f7
+        version: "1"
+      hash:
+        sha256: 6a61de59a7c824bf06b5d8f444d3e1ebcc6487f546ff40fc1dc2b9ec9ceda13a
+  published: 2024-11-15T04:50:59.446Z
+  content: 刚刚部署了 tomsquest/docker-radicale
+    满足家人之间跨平台的基本使用，不过权限方面还没弄明白。然后就看到了您这篇文章，也想在nas 上用docker 自建一份
+    这个黄页项目，不知能否帮指指路，感谢
+  lang: zh-CN
+  ip:
+    encrypted: MzcwMDdkZTM0ZmRmMzk1YmZjZTE3Yzdl
+    algorithm: aes-256-gcm
+    iv: a6026e4c16110ae4a93343b2
+    version: "1"
+  spam:
+    score: 0.75
