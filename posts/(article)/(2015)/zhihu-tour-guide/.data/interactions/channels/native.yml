@@ -480,3 +480,30 @@
     score: 6.13
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: fa1eb17c61e99b3522de6eaaf029755c0e0bfa42
+  author:
+    name: JeffreyElome
+    lang: en
+    email:
+      value:
+        encrypted: MzNjNWM0YWMyMzgxMzQxMjY4MWM0ODI5YzA4YTQ0YmE3OTc5OTJhMTAwMjkyNzA1YTkwYTU3ZTEyNDk3Y2JlOTc1NWE3MmY2NDgzMmYyNDgxMGIwNDhlNA==
+        algorithm: aes-256-gcm
+        iv: 51e1863dcc35d4cccec256c7
+        version: "1"
+      hash:
+        sha256: 95c300f4eeda9ae5ddeeed7952e84d34b6f63cddef8b38a2c8029e9b682c3731
+  published: 2024-11-16T13:29:34.859Z
+  content: <a
+    href="http://textorg-shop.ru/bitrix/redirect.php?event1=click_to_call&event2=&event3=&goto=https://t.me/s/bonus_za_registratsiyu_bez_depa">http://xn--80afhkkfe7a3bze.xn--p1ai/bitrix/redirect.php?event1=&event2=&event3=&goto=https://t.me/s/bonus_za_registratsiyu_bez_depa</a>
+  lang: zh-CN
+  ip:
+    encrypted: MzU4MGRjMGU4MjNhODQxNDM1YjM0ZGI4
+    algorithm: aes-256-gcm
+    iv: 765fda1e3e7f14f8eec68811
+    version: "1"
+  spam:
+    score: 9
+    marked: true
+  status: rejected
