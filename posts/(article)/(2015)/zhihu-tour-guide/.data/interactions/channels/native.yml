@@ -398,3 +398,31 @@
   spam:
     score: 3.08
   status: auditing
+- type: reply
+  channel: native
+  id: ccb413fccdeca11aaa2b042f55b55d90339c7eda
+  author:
+    name: RichardSen
+    lang: en
+    email:
+      value:
+        encrypted: ZmY3NDY3YzEwOWI1M2E3ZmMwYjA1OGNjMzEzZDViYWFmYTY2
+        algorithm: aes-256-gcm
+        iv: cba494ab56b2724af08672e7
+        version: "1"
+      hash:
+        sha256: 7a7d45c2b60c3aea3da1377fffef0267492fa47f15c16caccff15c20abc0f18a
+  published: 2024-11-16T12:27:12.140Z
+  content: A Bitcoin wallet that allows you to store, send Bitcoin, receive
+    Bitcoin and buy Bitcoin with focus on security and simplicity <a
+    href="https://bluewallet-bitcoin-wallet.en.uptodown.com/android">BlueWallet</a>
+  lang: zh-CN
+  ip:
+    encrypted: NGZmZWI1MGJiNDY0ZmI1ZWMxNDYwZDkzMjRlMQ==
+    algorithm: aes-256-gcm
+    iv: a8262e3ee25fb22c667bf8b8
+    version: "1"
+  spam:
+    score: 6.53
+    marked: true
+  status: rejected
