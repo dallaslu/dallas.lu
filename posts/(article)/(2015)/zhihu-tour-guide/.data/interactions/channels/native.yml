@@ -659,3 +659,31 @@
     score: 5.55
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 35f10985149e77a30b21b8b1d2ca2d75d872312c
+  author:
+    name: Jamesinaph
+    lang: en
+    email:
+      value:
+        encrypted: MTYyNzM0OTZkOTA5MzRjNmMzYzdkMjdlM2E3NTM3NjljMDI0
+        algorithm: aes-256-gcm
+        iv: b4a24f62eeac73b9aff9c334
+        version: "1"
+      hash:
+        sha256: a7139a6717b5d6f0d700ddbcecb4a4cec905bea6cfa591c43bd54f5a5fd00e24
+  published: 2024-11-17T11:07:34.697Z
+  content: Лессе-Пассе или Теудат Маавар - это oдин из возможных паспортов
+    Израиля, который выдается гражданам этой страны
+    https://xn----7sbbzecaihj2bkbelhgv2p.com/
+  lang: zh-CN
+  ip:
+    encrypted: YjhiYWY1ZDlhZjYzYzBlZmRhMjY0ZmNhZWM0Mg==
+    algorithm: aes-256-gcm
+    iv: 1e92c80fa6f9835c8bf94796
+    version: "1"
+  spam:
+    score: 5.3
+    marked: true
+  status: auditing
