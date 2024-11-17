@@ -593,3 +593,37 @@
   spam:
     score: 2.5
   status: auditing
+- type: reply
+  channel: native
+  id: 9319d533e5c44927e76475a8e2044ecd96b343b8
+  author:
+    name: megaWEB10-ATven
+    lang: en
+    email:
+      value:
+        encrypted: ZDdiN2U2ZGQ0MGQzNDA5NGM3NGFlZmNmNWM2YTcwZDI0NGE5M2YxYTA2NTc2NWFmYWI4Zg==
+        algorithm: aes-256-gcm
+        iv: 0f594b190f556919fffe83b9
+        version: "1"
+      hash:
+        sha256: 84de348013f2cd1b51192f4a2497e263121e205a5ca827789d2267d6c76f9072
+  published: 2024-11-17T00:27:49.111Z
+  content: "MEGA снова работает!!! \r
+
+    \ \r
+
+    \ https://mg2at.sbs  \r
+
+    \ \r
+
+    \ Подробнее https://teletype.in/@ravet/vG6K5-LNgRp "
+  lang: zh-CN
+  ip:
+    encrypted: NmQ2MGFhZWIwOWIxNTRmZjJlN2Y4Zg==
+    algorithm: aes-256-gcm
+    iv: f5316faa0aa7baa7ab6f5c23
+    version: "1"
+  spam:
+    score: 8.12
+    marked: true
+  status: rejected
