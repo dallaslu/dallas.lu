@@ -627,3 +627,35 @@
     score: 8.12
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 1392eb10d2b79e677b28f5e37e9b163f17a9f093
+  author:
+    name: LeonardVar
+    lang: en
+    email:
+      value:
+        encrypted: YjZiNjFhN2M4ZGQ5MGMwZTdmYzJjZTk0Mzc3MzNmZTU0YTBlNThjYzZhNTFjYmE0OTI=
+        algorithm: aes-256-gcm
+        iv: f94dac607298a688a1e1a263
+        version: "1"
+      hash:
+        sha256: f1d17a02d960e0f3fcfa0411c14e134dd1c752b3bffb44fef89ca9829a626e7d
+  published: 2024-11-17T01:51:37.370Z
+  content: "Blacksprut работает, BS best! \r
+
+    \ \r
+
+    \ \r
+
+    \ https://bs2site2.best "
+  lang: zh-CN
+  ip:
+    encrypted: MDIwZmQ5OGVjMjlhMTM5ZWI0ZTE0ZTNm
+    algorithm: aes-256-gcm
+    iv: 31b8b8824bd9cae5e1eb0ac3
+    version: "1"
+  spam:
+    score: 5.55
+    marked: true
+  status: auditing
