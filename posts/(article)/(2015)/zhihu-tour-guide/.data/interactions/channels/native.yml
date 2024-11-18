@@ -745,3 +745,34 @@
     score: 5.17
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: ae48198861f4e44e458e0fc911523f663bb6e6f9
+  author:
+    name: CharlesWit
+    lang: en
+    email:
+      value:
+        encrypted: OTJlODc4Njc1YTc1YzdkZjE5MWE3OTAzNTU0NmVjMmE1NzI1
+        algorithm: aes-256-gcm
+        iv: 7178960ea6035297d1bfb0f6
+        version: "1"
+      hash:
+        sha256: a87f6aabc4ad19362b661a88adfbb3d94ec136cd12bd7a0f1f7f6c2707dbd7b5
+  published: 2024-11-18T00:14:24.661Z
+  content: Одним из важнейших экологичных решений в дорожном строительстве
+    является использование переработанных материалов. Это не только помогает
+    сократить количество отходов, но и уменьшает потребность в новых материалах,
+    что снижает негативное воздействие на окружающую среду <a
+    href="https://www.free-bible.com/samaritans/samaritansthe_samaritan_pentateuch.php">The
+    Samaritan Pentateuch - The Samaritans (Free Bible)</a>
+  lang: zh-CN
+  ip:
+    encrypted: YzM4YTg1NDEyOTg5N2U4ZjM0ZWVmY2RiMjIxNg==
+    algorithm: aes-256-gcm
+    iv: 37238e882e78380a863022d0
+    version: "1"
+  spam:
+    score: 6.16
+    marked: true
+  status: rejected
