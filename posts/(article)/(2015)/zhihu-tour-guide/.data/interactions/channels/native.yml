@@ -890,3 +890,34 @@
     score: 6.19
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ba71ce90e8409c220e54281a06f00fc299fc95ef
+  author:
+    name: BrianNef
+    lang: en
+    email:
+      value:
+        encrypted: YjA0OTE4YWZkZTFiY2I5MTI3OTY0ZTYxZmRiZDllYjAxY2Jl
+        algorithm: aes-256-gcm
+        iv: 6934fa57cbc4b26df64db4c3
+        version: "1"
+      hash:
+        sha256: c0ac48db16afbe2dd37efd4813cfa94345c0502a929d50795a917e7816116103
+  published: 2024-11-18T13:08:06.414Z
+  content: Профессиональная команда специалистов в области обрезки и спилки
+    деревьев, готовая предоставить Вам качественные услуги на территориях
+    приусадебных участков, дачных зон, скверов и парков. Наши мастера имеют опыт
+    работы с различными породами деревьев и могут обеспечить Вам оптимальные
+    решения для ухода за зелеными насаждениями Вашего участка
+    http://everestlg.ru
+  lang: zh-CN
+  ip:
+    encrypted: N2UyMTkxOWVlYTU1MzE5OGIzNjM3Yjg0ZmVmMg==
+    algorithm: aes-256-gcm
+    iv: b8cfded184361dba2f90fe04
+    version: "1"
+  spam:
+    score: 7.66
+    marked: true
+  status: rejected
