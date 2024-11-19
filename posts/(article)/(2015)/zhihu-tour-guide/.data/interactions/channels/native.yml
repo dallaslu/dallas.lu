@@ -982,3 +982,35 @@
     score: 5.79
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 143a889b162211f03d710d6897653e09eca721fe
+  author:
+    name: MichaelSwots
+    lang: en
+    email:
+      value:
+        encrypted: ZjY5Njg4NjFkNmFiYTNhZTkxODk3MDlhMWQzZWI2MjE=
+        algorithm: aes-256-gcm
+        iv: 70bed01ac076735c013f8d6c
+        version: "1"
+      hash:
+        sha256: 6289f11d161ae879c024d46444f97e0aae6e29737cf12eb9036c83c6ca3cd62b
+  published: 2024-11-19T16:52:27.232Z
+  content: Начало собственного дела в сфере здравоохранения может быть выгодным и
+    стабильным решением. Этот рынок всегда будет востребован, поскольку
+    потребность в медицинских товарах и услугах не исчезает. Однако для
+    успешного старта важно выбрать правильную модель, которая позволит
+    использовать уже проверенные решения и избежать множества сложностей,
+    характерных для создания бизнеса с нуля <a
+    href="http://minimoo.eu/index.php/en/forum/welcome-mat/686620">http://minimoo.eu/index.php/en/forum/welcome-mat/686620</a>
+  lang: zh-CN
+  ip:
+    encrypted: NTc5YzNkNzIyZGQzOTg3ZGFlMmQxMzhmNGMyZg==
+    algorithm: aes-256-gcm
+    iv: 9b2b199111d7fab63fa0cbd6
+    version: "1"
+  spam:
+    score: 6.24
+    marked: true
+  status: rejected
