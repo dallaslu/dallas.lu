@@ -1014,3 +1014,32 @@
     score: 6.24
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0da8b1bd08b269e8b90f1cc0e19bd1d32af5523b
+  author:
+    name: Wallaceanymn
+    lang: en
+    email:
+      value:
+        encrypted: ZTIzNjBjMWNhMzBmZGYxNjc5ZTg3OGIwOGY3MzVhMmQ=
+        algorithm: aes-256-gcm
+        iv: fdf2c05a74c4d7e29169f989
+        version: "1"
+      hash:
+        sha256: 8260dd83895f542359ed4b0a0e17cc7014e14439d1258ab6ba5c4f3d89203b1a
+  published: 2024-11-19T17:10:32.236Z
+  content: Профессиональная установка камина и дымохода качественно и выгодно с
+    доставкой и установкой под ключ в Москве и Московской области <a
+    href="https://gdekupitdom.ru/news/detail/kaminnaya-topka-chazelles-solo-f70l/">Каминная
+    топка Chazelles Solo F70L</a>
+  lang: zh-CN
+  ip:
+    encrypted: MDE5Y2FhMjU2NTA1NjNhYzUwZmNjNzY4NWE5Zg==
+    algorithm: aes-256-gcm
+    iv: 8355b581032a17d7a1340b4b
+    version: "1"
+  spam:
+    score: 9.53
+    marked: true
+  status: rejected
