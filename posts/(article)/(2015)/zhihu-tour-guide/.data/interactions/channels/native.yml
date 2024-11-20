@@ -1072,3 +1072,32 @@
     score: 6.91
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 35dd291c8408b4b849b6f49c0b699016d70e9128
+  author:
+    name: DonaldEvome
+    lang: en
+    email:
+      value:
+        encrypted: ZWRhZTBjM2U0ZWVjZjk3NWRiNjY4MGE4ZGFhYjM3MzU=
+        algorithm: aes-256-gcm
+        iv: 8f11797b316af6492fc25eb8
+        version: "1"
+      hash:
+        sha256: 132e2602c89898e404a15013ea92c508d1d2579a38f795a36c2efa0878dcbf66
+  published: 2024-11-20T01:24:17.085Z
+  content: На сегодняшний день самым эстетичным методом протезирования считаются
+    безметалловые коронки. При этом под словом «керамика» подразумеваются самые
+    разные химические соединения <a href="https://studiaulybki.ru">безметалловые
+    коронки на зубы</a>
+  lang: zh-CN
+  ip:
+    encrypted: MmI4NDlmOTUyYjg4MmQ4ZGIwYjAxY2EwZDBiOA==
+    algorithm: aes-256-gcm
+    iv: 36264bfbdba70d7fcd56cc0f
+    version: "1"
+  spam:
+    score: 8.97
+    marked: true
+  status: rejected
