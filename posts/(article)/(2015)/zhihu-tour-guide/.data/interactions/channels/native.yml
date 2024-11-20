@@ -1101,3 +1101,37 @@
     score: 8.97
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 50bb558fff165b3cf113f1a811dd33f32736b8e5
+  author:
+    name: LeonardVar
+    lang: en
+    email:
+      value:
+        encrypted: NTA2NzliYTQ5NDRhMWE0YzFlMzFjYmQ5ZGQ5YmFmMjQ5ZmZmOGRhMzQ4OTM3MGJhYzY=
+        algorithm: aes-256-gcm
+        iv: 865c3d527ee5623714cc42c1
+        version: "1"
+      hash:
+        sha256: f1d17a02d960e0f3fcfa0411c14e134dd1c752b3bffb44fef89ca9829a626e7d
+  published: 2024-11-20T11:40:35.628Z
+  content: "MEGA снова работает!!! \r
+
+    \ \r
+
+    \ https://megaweb4.top  \r
+
+    \ \r
+
+    \  Подробнее https://teletype.in/@trololo79/m2ptLGYocEj "
+  lang: zh-CN
+  ip:
+    encrypted: MmYzMTQ5ZGE4Njg5YzRkMzZlMjE1Mzli
+    algorithm: aes-256-gcm
+    iv: d6b7e6e037935471d7bc0c95
+    version: "1"
+  spam:
+    score: 8.19
+    marked: true
+  status: rejected
