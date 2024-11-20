@@ -36,3 +36,30 @@
     algorithm: aes-256-gcm
     iv: 74076f974dc049ba240871fd
     version: "1"
+- type: reply
+  channel: native
+  id: 89f1b4728c7ba66ed5903ced1ac46a1acb578b70
+  author:
+    name: Stephenhab
+    lang: en
+    email:
+      value:
+        encrypted: ZTUzMjEwMWUwOTQwODBjOTQ1MmJkOWY2OGQyMmU1ZDgyZWEyZTc0ZGM1
+        algorithm: aes-256-gcm
+        iv: 7387a844fb6aedbfbf804272
+        version: "1"
+      hash:
+        sha256: 94674eba9b56bcce12fd57fe15092d10b80aea97c167e5b9c580884fec0b8228
+  published: 2024-11-20T14:58:13.189Z
+  content: "https://hindithoughts.arvindkatoch.com/2024/11/online-sports-betting-\
+    in-india.html\r\n"
+  lang: en
+  ip:
+    encrypted: Y2Q5OTE3MjI2NzZjMjk1MmRhNjU5OWUyZDE=
+    algorithm: aes-256-gcm
+    iv: 81fd9bbef4058b4b55a75f79
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
