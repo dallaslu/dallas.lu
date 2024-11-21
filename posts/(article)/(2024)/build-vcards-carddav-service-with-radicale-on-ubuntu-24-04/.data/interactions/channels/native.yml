@@ -51,3 +51,20 @@
   target: 4371de864763b4b5d369d33472fa200c847a42b5
   spam:
     score: 0.87
+- type: reply
+  channel: native
+  id: b00af67e40af747adcca75d58da8f3c669edf147
+  author:
+    name: SUnny
+    lang: zh-CN
+  published: 2024-11-21T07:10:48.870Z
+  content: hello，按贵帖方式搭建，web访问正常，但是加在ios里面账户可以验证通过可以更新出来文件夹，但是每个文件夹的内容都为0，没有更新具体的数据，不知道原因出现在哪里，能帮忙看一下嘛
+    服务器：c.w-4.cn
+  lang: zh-CN
+  ip:
+    encrypted: OTcwOTY5YzBkNjI1NTFlODI0NzRlNDBhNDU=
+    algorithm: aes-256-gcm
+    iv: 1307d15e0901f296e61d0567
+    version: "1"
+  spam:
+    score: 1.01
