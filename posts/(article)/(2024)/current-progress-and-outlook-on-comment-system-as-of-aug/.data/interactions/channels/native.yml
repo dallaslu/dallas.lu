@@ -63,3 +63,30 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: bfdd627934385b9fbdc2b8b27551a85d877a5632
+  author:
+    name: Stephenhab
+    lang: en
+    email:
+      value:
+        encrypted: N2IwZGMwYWE0ZGIyMTc3MzFhNmQxODIyYzk3NGQzNzViMTc1ODVkZGZm
+        algorithm: aes-256-gcm
+        iv: 0dc2e6ee0d266eef197b69d1
+        version: "1"
+      hash:
+        sha256: 94674eba9b56bcce12fd57fe15092d10b80aea97c167e5b9c580884fec0b8228
+  published: 2024-11-21T05:11:07.831Z
+  content: "http://dizainkuhni.com/statti/nadijna-ventilyatsiya-i-dimohid-dlya-pr\
+    ivatnogo-budinku-yak-obrati-ta-vstanoviti.html\r\n"
+  lang: en
+  ip:
+    encrypted: ZmFiNzZlNmZmOGUwOTdkM2NmZjQ3NWQ2OGE=
+    algorithm: aes-256-gcm
+    iv: 2d0454c9cab7389d125edf23
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
