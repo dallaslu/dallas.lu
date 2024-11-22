@@ -1504,3 +1504,34 @@
     score: 6.86
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3fdea96aec024c5061067f7965bd5d78c45f1d48
+  author:
+    name: JuanJuan
+    lang: en
+    email:
+      value:
+        encrypted: N2UyYTI1YTUwNDRlMWUwYjcxMDBmYmE5NTdjNDU0NzA=
+        algorithm: aes-256-gcm
+        iv: 687eb42f9e15ef11a4b605c2
+        version: "1"
+      hash:
+        sha256: 78f57c772bf111c5b086c3d11cbe47e095f237386bd3d2e61d59132e492a86d2
+  published: 2024-11-22T20:07:22.559Z
+  content: "[url=https://wingstv.ru/news_aviation/rejting-bk.html]Мобильные
+    приложения букмекерских контор[/url] — это современный инструмент для
+    ставок, который позволяет делать прогнозы на спортивные события в любом
+    месте. Они отличаются высокой скоростью работы, широким выбором функций и
+    удобной навигацией. Большинство приложений также поддерживают трансляции
+    матчей в прямом эфире."
+  lang: zh-CN
+  ip:
+    encrypted: NjNlYzRjYTFhODM3YWMzZDAyZmM2MGI0MDk=
+    algorithm: aes-256-gcm
+    iv: 3742a4777b9d540579ce7c7e
+    version: "1"
+  spam:
+    score: 6.46
+    marked: true
+  status: rejected
