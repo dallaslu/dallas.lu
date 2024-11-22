@@ -1535,3 +1535,33 @@
     score: 6.46
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e18d8c3aaafac85e96d4bbee67888a367a4c341f
+  author:
+    name: KevinPiest
+    lang: en
+    email:
+      value:
+        encrypted: NDJiYThlZjcyOTU4OTZkMjkxYTdhOTNjNGU4OTcxZmU=
+        algorithm: aes-256-gcm
+        iv: af8bd8b516f8b1ab0d38d0c1
+        version: "1"
+      hash:
+        sha256: 975b52cb3d3a93917d47bb7713e38ef5a1acaacdb15924ee37609bb5550551de
+  published: 2024-11-22T23:24:12.058Z
+  content: Виртуальные номера могут быть очень полезны для бизнеса. Они позволяют
+    компаниям улучшать связь с клиентами, увеличивать продажи и улучшать общую
+    эффективность <a
+    href="http://kupidonchik.org/virtualnyie-nomera-germanii-ot-servisa-didvirtualnumbers-com/">купить
+    немецкий номер телефона</a>
+  lang: zh-CN
+  ip:
+    encrypted: NjZmYWVhYjVhMjllOWQwMmMxOTI5M2M3MDdmYw==
+    algorithm: aes-256-gcm
+    iv: f6bb7a42be1feaf55ed237c4
+    version: "1"
+  spam:
+    score: 6.53
+    marked: true
+  status: rejected
