@@ -1687,3 +1687,32 @@
     score: 5.73
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 0df7addfa6927fca745b0ad2f5d3d1fc8737d878
+  author:
+    name: Anthonytut
+    lang: en
+    email:
+      value:
+        encrypted: ZTEzZTUzNjRkMjc4YzUwZDVkNzI5OGY4ZGE3YWU1ODY=
+        algorithm: aes-256-gcm
+        iv: 693f43029350f098aaf26000
+        version: "1"
+      hash:
+        sha256: 74c98fcfc49dc3c09845bd3483f53c09d447dabd4df22ada3fd7be7a0395fba2
+  published: 2024-11-23T17:28:13.369Z
+  content: Бесплатные виртуальные номера для СМС — это возможность быстро и
+    безопасно проходить верификацию на различных сайтах без регистрации <a
+    href="https://dom-lady.ru/arenda-virtualnyh-nomerov-dlya-vremennyh-proektov-i-sobytij-gibkost-i-ekonomiya-resursov.html">арендовать
+    номер телефона</a>
+  lang: zh-CN
+  ip:
+    encrypted: NDJhZTAyN2Q0NzExOTIwNmMxZTdlY2M4MmIxZg==
+    algorithm: aes-256-gcm
+    iv: 9a3b1efed2acbfea77eaf882
+    version: "1"
+  spam:
+    score: 8.34
+    marked: true
+  status: rejected
