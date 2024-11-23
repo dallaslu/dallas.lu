@@ -870,3 +870,37 @@
   spam:
     score: 3.4
   status: auditing
+- type: reply
+  channel: native
+  id: 5c60b93787b762c957d9b2b027cc3152a0c8bf2e
+  author:
+    name: Scrap metal reclamation and processing
+    lang: en
+    email:
+      value:
+        encrypted: YTMwNjk0N2Y5M2ZhMzEzMTViNGM0NGJlYmZkMGE2MTk4MQ==
+        algorithm: aes-256-gcm
+        iv: 21f24fc760d880078b999321
+        version: "1"
+      hash:
+        sha256: 8187f4d6223a96c74c4866c8eb02ccdef8c5f815e07791642c2c23a34e83dbb9
+  published: 2024-11-23T18:58:09.687Z
+  content: "Yo, amigo! I'm thrilled we could spend quality time together. \r
+
+    \ \r
+
+    This could be just what you need    <a href=http://cuprum.top/>Copper scrap
+    environmental impact</a> \r
+
+    \ \r
+
+    Be well, my friend"
+  lang: en
+  ip:
+    encrypted: NTY1MzBjOWFmZjY0MjYyMWM5MjFmMTBlY2Q=
+    algorithm: aes-256-gcm
+    iv: 57bed8b0af271d5cb39d3b6a
+    version: "1"
+  spam:
+    score: 3.49
+  status: auditing
