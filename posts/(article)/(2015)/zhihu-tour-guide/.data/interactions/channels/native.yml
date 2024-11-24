@@ -1746,3 +1746,35 @@
     score: 6.74
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b12a63d875e93a371de674d4893edde43102e9cc
+  author:
+    name: LeonardVar
+    lang: en
+    email:
+      value:
+        encrypted: MTlkZmE5YTdiNTRmZjYzNWE3OTE0MmU3YTdiYjNjMWJkMzlmNTczODNiMjg1M2U0MzM=
+        algorithm: aes-256-gcm
+        iv: 12397193d6a722e507f00f59
+        version: "1"
+      hash:
+        sha256: f1d17a02d960e0f3fcfa0411c14e134dd1c752b3bffb44fef89ca9829a626e7d
+  published: 2024-11-24T14:26:32.272Z
+  content: "MEGA снова работает. Рабочие зеркала!!! \r
+
+    \ \r
+
+    \ \r
+
+    \ https://megaweb2.top "
+  lang: zh-CN
+  ip:
+    encrypted: YzRiNGM4Nzc3MWQyNGFhZDU0ZjEzNQ==
+    algorithm: aes-256-gcm
+    iv: 16572c4d89fd10a39c26e48a
+    version: "1"
+  spam:
+    score: 5.37
+    marked: true
+  status: auditing
