@@ -1716,3 +1716,33 @@
     score: 8.34
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ac6ac20dcec9e8873320ee192f9c4d83487adb45
+  author:
+    name: DustinBep
+    lang: en
+    email:
+      value:
+        encrypted: MGQ1MTQzYmQ1MDkwYjI2MGUzNWM0NDUxYjY0OGUyZGU=
+        algorithm: aes-256-gcm
+        iv: eb6177b3efcbfc4e726ebd85
+        version: "1"
+      hash:
+        sha256: 865e4fe82d2e5e34551475fef763c8b7e22485888b88d0843822a2908c990e71
+  published: 2024-11-24T10:23:46.170Z
+  content: Эвакуатор с манипулятором - универсальное решение для перевозки
+    автомобилей. Он сочетает функции обычного эвакуатора и крана-манипулятора.
+    Это позволяет решать сложные задачи по эвакуации. Манипулятор может
+    поднимать и перемещать грузы в труднодоступных местах <a
+    href="https://r28.su/internet/kak-obojti-parol-administratora-windows-10-instruktsiya.html">https://r28.su/internet/kak-obojti-parol-administratora-windows-10-instruktsiya.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: M2MwM2Q3NDc3YWFjODRkNTU4MmNhM2QyZTVlYw==
+    algorithm: aes-256-gcm
+    iv: 836898482db5846769362131
+    version: "1"
+  spam:
+    score: 6.74
+    marked: true
+  status: rejected
