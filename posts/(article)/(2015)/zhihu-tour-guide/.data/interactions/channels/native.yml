@@ -1813,3 +1813,30 @@
     score: 7.96
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3a297bdc9cc295d4bf6847419ed3f25503259bfb
+  author:
+    name: AnthonyFlida
+    lang: en
+    email:
+      value:
+        encrypted: OWM2MjYwOTg4MWY2YjhhMGEyOGE2YTUxNDU1NDk2NTc=
+        algorithm: aes-256-gcm
+        iv: d606386b7d85a51b58059047
+        version: "1"
+      hash:
+        sha256: 636b159c8d17376515f85bde4b4e4c4650dfea5618001b8439702cc3200613d5
+  published: 2024-11-24T21:08:46.271Z
+  content: Вы можете купить справки в Москве в нашей клинике
+    https://aleksandriya-med.ru/.
+  lang: zh-CN
+  ip:
+    encrypted: Y2RlZmE0NmRmOTgwYzgzYTRjZjZjMDA3Y2JjYw==
+    algorithm: aes-256-gcm
+    iv: ad2c25a0dfa9329c9d2ca5a4
+    version: "1"
+  spam:
+    score: 8.6
+    marked: true
+  status: rejected
