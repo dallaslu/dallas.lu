@@ -1778,3 +1778,38 @@
     score: 5.37
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: c30019d31b0d5af00d07927731e226ea029f1f40
+  author:
+    name: Massovibre
+    lang: en
+    email:
+      value:
+        encrypted: MWIxMjhmNTg1ZTJmYjhmNTliZDZlMTQxODA0MmUzZDM4NDBiMzNkODY0
+        algorithm: aes-256-gcm
+        iv: 8e9a461703098813a611ac61
+        version: "1"
+      hash:
+        sha256: f06ed8259357464cf8f5a149767f8046dc3f2b5575f52b18693da05cc4166a81
+  published: 2024-11-24T20:56:06.016Z
+  content: "More than just a place to gamble, casinos are entertainment hubs. From
+    concerts to shows and gourmet food, casinos provide a full night of fun. \r
+
+    Explore the Top European Casinos Online \r
+
+    https://telegra.ph/Bitcoin-Casinos-I-Best-Online-Casinos-Accepting-Bitcoin-\
+    11-16 \r
+
+    https://medium.com/@gevorgyan1984/bitcoin-casinos-i-best-online-casinos-acc\
+    epting-bitcoin-abf5a9db72a1"
+  lang: zh-CN
+  ip:
+    encrypted: MDg0OGNiNDBlYjgzZjJkYzYzMmFkODdmZWI=
+    algorithm: aes-256-gcm
+    iv: c33c3117d1caf92046f85bbd
+    version: "1"
+  spam:
+    score: 7.96
+    marked: true
+  status: rejected
