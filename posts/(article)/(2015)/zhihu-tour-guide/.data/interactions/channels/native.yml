@@ -1995,3 +1995,30 @@
     score: 8.26
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c0e7805fed9ae07254ece23e91b9dc7e5c435005
+  author:
+    name: Richardwar
+    lang: en
+    email:
+      value:
+        encrypted: ZDMzNDc2ZTUxNzQ5NjQyNmQ0MmViZjQ3N2M2YzE0ODg3Zg==
+        algorithm: aes-256-gcm
+        iv: fabf82c3064a4a792f88717f
+        version: "1"
+      hash:
+        sha256: f86d2e2e623c3bc092717b75b0218cffaf6b920aa5dd56d8631076d08e83938a
+  published: 2024-11-25T20:52:18.969Z
+  content: Вы можете купить медсправку в нашем мед центре https://med-bez-boli.ru/
+    в Москве без медкомиссий.
+  lang: zh-CN
+  ip:
+    encrypted: ZjQ3YWZjMDc3NDJiYTkxMDA4N2EyNDQ2YjVjZg==
+    algorithm: aes-256-gcm
+    iv: 017cc48e480cf9091796a20c
+    version: "1"
+  spam:
+    score: 8.24
+    marked: true
+  status: rejected
