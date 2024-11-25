@@ -1965,3 +1965,33 @@
     score: 8.38
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b7e274ead9a8d00c7b96db9fb4ce04fe22e2c8b0
+  author:
+    name: Allenfoels
+    lang: en
+    email:
+      value:
+        encrypted: NzYyZDliYjYyNDlmZjY3MzJiMzk0YTA2ZjViYzY0Yzg2ZA==
+        algorithm: aes-256-gcm
+        iv: bfd6afed58193d24b671978d
+        version: "1"
+      hash:
+        sha256: dd1f82006e668da289d5a750f4dca431a8862803d6ece996ea6ac25be6cae9e6
+  published: 2024-11-25T13:32:47.692Z
+  content: Множество профессий, связанных с интернетом, становится доступными даже
+    тем, кто ещё не закончил учебу. Знания, полученные в процессе освоения таких
+    специальностей, открывают перспективы и дают шанс на независимость в
+    финансовом плане <a
+    href="http://torgteh-rzn.ru/index.php?option=com_k2&view=itemlist&task=user&id=13829">http://torgteh-rzn.ru/index.php?option=com_k2&view=itemlist&task=user&id=13829</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZjM5MjVmNjU1N2I4YjQ0MWZiNzVlOGJmMWViODc1
+    algorithm: aes-256-gcm
+    iv: fea19d037d8879d1d7ae5e27
+    version: "1"
+  spam:
+    score: 8.26
+    marked: true
+  status: rejected
