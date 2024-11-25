@@ -1938,3 +1938,30 @@
   spam:
     score: 2.5
   status: auditing
+- type: reply
+  channel: native
+  id: 2e7ba41b6e0bee4d143b4abf732ddf0ec041ebe2
+  author:
+    name: Michealerown
+    lang: en
+    email:
+      value:
+        encrypted: YzIyZGY1NjUyZDU0NDE1YjhlM2MwZjY4N2M4ZTVmMGFlNw==
+        algorithm: aes-256-gcm
+        iv: 68e4eb783f6c62b181df7f74
+        version: "1"
+      hash:
+        sha256: 177f7351e1f6ca7383e14e552a5a59bc1dbfb4cd645048fcbc60752f6bc1eef5
+  published: 2024-11-25T12:43:00.460Z
+  content: Вы можете купить справку в медцентре https://smails-clinic.ru/ с
+    доставкой по Москве.
+  lang: zh-CN
+  ip:
+    encrypted: MmExODg0NThlZDgxYjNhYjY4NWZjNmI5YTJkMg==
+    algorithm: aes-256-gcm
+    iv: afec66e5933525322f75c8ca
+    version: "1"
+  spam:
+    score: 8.38
+    marked: true
+  status: rejected
