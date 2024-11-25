@@ -1840,3 +1840,33 @@
     score: 8.6
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 77a07b2448d4edf2fbdbaedb7a9be6eea5c05984
+  author:
+    name: TerryNuawn
+    lang: en
+    email:
+      value:
+        encrypted: MDdhN2MyMGI3Y2FjMDVmMjhhZDg3ZWQ1OTI3NTFiNDQwYg==
+        algorithm: aes-256-gcm
+        iv: dd8423d58236025a453bd396
+        version: "1"
+      hash:
+        sha256: 267a80b4bf208c14fedbdc170e5ce3a73eefaadf38fed62b017289ccf1e4d03a
+  published: 2024-11-25T00:05:49.605Z
+  content: На данный момент антигравийная пленка считается материалом, который
+    отлично защищает кузов авто от различных повреждений. Так, она поможет
+    избежать царапин, потертостей, а также предохраняет машину во время
+    небольших ДТП, и в результате на поверхности авто не появляется ржавчина <a
+    href="https://bookcrossing.ru/forum/topic/171631">https://bookcrossing.ru/forum/topic/171631</a>
+  lang: zh-CN
+  ip:
+    encrypted: YjI3NDkzYzViODZkZGIzM2ZmMjVkNDI4ZWUzNzg3
+    algorithm: aes-256-gcm
+    iv: d6eb614d82b1d2a5da778d88
+    version: "1"
+  spam:
+    score: 9.28
+    marked: true
+  status: rejected
