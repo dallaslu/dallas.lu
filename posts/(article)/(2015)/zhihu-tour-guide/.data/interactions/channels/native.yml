@@ -2022,3 +2022,32 @@
     score: 8.24
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a6a561c32ea37c91ca87db338ae00a2847e202db
+  author:
+    name: Gregorytip
+    lang: en
+    email:
+      value:
+        encrypted: MDU0ODkzN2QwZWIxNjE2Y2YxZmJmNDU4ZmQ4YzQ5M2QyMQ==
+        algorithm: aes-256-gcm
+        iv: 7452ee9f4c28a6051e7d3711
+        version: "1"
+      hash:
+        sha256: 18e2a05621c2c63bcbf5c55f5971db283d8b018d3ca521c2d7385a75fd468d90
+  published: 2024-11-25T23:31:22.466Z
+  content: Цифровые технологии в нынешнее время проникают во все сферы жизни,
+    виртуальный номер проявляет себя как неотъемлемым инструментом для
+    эффективного и безопасного общения <a
+    href="https://www.0412.ua/list/455494">https://www.0412.ua/list/455494</a>
+  lang: zh-CN
+  ip:
+    encrypted: MGM4NjQ4OTY0ZTE2ZGI4YTdiMmFmM2U2YTQ2MzM5
+    algorithm: aes-256-gcm
+    iv: a45baf4250c7da9fbfee829e
+    version: "1"
+  spam:
+    score: 6.44
+    marked: true
+  status: rejected
