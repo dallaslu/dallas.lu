@@ -2205,3 +2205,33 @@
     score: 8.59
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7ec69ba4197ea2c5e9ecc35edabb0faf886bb4ca
+  author:
+    name: Gordonshall
+    lang: en
+    email:
+      value:
+        encrypted: MWVmYzE0YTNkNmRjMTg1MGMzMjdmZDM1ZjgwYTJkNWMzYw==
+        algorithm: aes-256-gcm
+        iv: 271ca8bfdbce9d208fe93dc6
+        version: "1"
+      hash:
+        sha256: 68020202381883373f6577b389f0b0874701436336c8ca1102e6633c1b66b0e3
+  published: 2024-11-26T21:28:02.588Z
+  content: Это проверенный обменник, которым я пользуюсь уже не первый раз. Здесь
+    курс всегда выгодный, обмен происходит быстро, а скрытых комиссий нет. Очень
+    удобно и безопасно для тех, кто хочет обменять криптовалюту на честных
+    условиях <a
+    href="https://avtoimoto.forum2.net/viewtopic.php?id=221#p882">https://avtoimoto.forum2.net/viewtopic.php?id=221#p882</a>
+  lang: zh-CN
+  ip:
+    encrypted: Y2FjMzUyNGY5MGFjNDUzY2Y1MjRiNmQyNGI1NmNj
+    algorithm: aes-256-gcm
+    iv: 57a68e4bdd884723fe3f2aa3
+    version: "1"
+  spam:
+    score: 6.55
+    marked: true
+  status: rejected
