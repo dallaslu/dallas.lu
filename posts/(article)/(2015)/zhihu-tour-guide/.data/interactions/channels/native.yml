@@ -2106,3 +2106,34 @@
     score: 5
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: f856a3aeb68eb3b35e55032262c0fc7b8cf61742
+  author:
+    name: CarltonCaf
+    lang: en
+    email:
+      value:
+        encrypted: MDRmNGEyMzNiNmVjYWJmNGI1OWU4MzUzMWI0YzI3Y2ZjZQ==
+        algorithm: aes-256-gcm
+        iv: 567da45beb2d037db36c369d
+        version: "1"
+      hash:
+        sha256: 485111c00d996c81d7a1761e80410c7792ff2a64cf58c3586f48d786a29438cb
+  published: 2024-11-26T11:29:55.303Z
+  content: С развитием технологий виртуальные номера стали все более
+    персонализированными и настраиваемыми. С помощью специальных сервисов можно
+    выбирать желаемый номер из предложенного списка, настраивать перенаправление
+    звонков, устанавливать голосовое приветствие и даже анализировать статистику
+    звонков <a
+    href="https://gaspra.net/interesnoe/virtualnyj-nomer-ot-did-virtual-numbers.html">https://gaspra.net/interesnoe/virtualnyj-nomer-ot-did-virtual-numbers.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: YzFhMTg3NWZiOTI0ZmFjOTU0ZWE4ZGRlY2Y1ZmRj
+    algorithm: aes-256-gcm
+    iv: d148d049510821e0b2f6b30b
+    version: "1"
+  spam:
+    score: 6.57
+    marked: true
+  status: rejected
