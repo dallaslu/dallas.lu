@@ -2407,3 +2407,32 @@
     score: 8.06
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 79a0b556273755ffc6d6c037518958cce53945ac
+  author:
+    name: DomingoThunk
+    lang: en
+    email:
+      value:
+        encrypted: NmQ3ODgxNDI1MzNmNzUyMzZkOTI2YjFhYTc3OTU3ZDc=
+        algorithm: aes-256-gcm
+        iv: 3dc455d8b4d6ea964395e8c2
+        version: "1"
+      hash:
+        sha256: eb48a047c1839504cf1d6b0ddb5b715b9808cf26d0a2ba75837522c35331cc8f
+  published: 2024-11-27T22:49:33.312Z
+  content: 'Камеры видеонаблюдения выполняют различные задачи: они помогают
+    отпугивать нарушителей, фиксируют события на охраняемой территории и
+    контролируют действия сотрудников <a
+    href="https://videonabludenie35.ru/">Доступные камеры видеонаблюдения</a>'
+  lang: zh-CN
+  ip:
+    encrypted: OWY1MWNjMWJhOTg1OTk4NWFmZTU4ZDk2ODI5YmQy
+    algorithm: aes-256-gcm
+    iv: 5bf7450b6bbfbae44ef36b0d
+    version: "1"
+  spam:
+    score: 9.04
+    marked: true
+  status: rejected
