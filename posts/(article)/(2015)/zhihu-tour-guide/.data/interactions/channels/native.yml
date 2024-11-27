@@ -2294,3 +2294,32 @@
     score: 8.19
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0eeeeb2785adbc7a63fd8adfd867a8c2e7678433
+  author:
+    name: RobertAcisk
+    lang: en
+    email:
+      value:
+        encrypted: MTg4NDlkOTA0MDQ5OTRhOTFkNGI0Mjg5ZGUyMzUwMGI5Mw==
+        algorithm: aes-256-gcm
+        iv: e580382ca8dec067a18857a3
+        version: "1"
+      hash:
+        sha256: 91481440aa8c845f717f18330bce2e721542ed6b3d790040004357ef0a0befa5
+  published: 2024-11-27T13:43:50.505Z
+  content: "Задачи и роль QA-инженера: путь к успешной карьере в области
+    тестирования программных продуктов. Узнайте, какие навыки и знания
+    необходимы специалисту для качественного выполнения задач на всех этапах
+    разработки: https://dzen.ru/a/ZvqB94uwl1C-1ivx"
+  lang: zh-CN
+  ip:
+    encrypted: NjhkOGE3MmQ0MDIxNTI4NDVlZmRhYjI5ZGQ5MTUx
+    algorithm: aes-256-gcm
+    iv: e49abdb0145b5bae5312300e
+    version: "1"
+  spam:
+    score: 7.91
+    marked: true
+  status: rejected
