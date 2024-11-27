@@ -930,3 +930,33 @@
   spam:
     score: 3.45
   status: auditing
+- type: reply
+  channel: native
+  id: 7daa54dc148637e9284aa84bd002a4b1625191e9
+  author:
+    name: JuanJuan
+    lang: en
+    email:
+      value:
+        encrypted: MzQzNGIxNTZiNTIxMmM4MDA2ZmMwMWE1NjdjYTlkYWU=
+        algorithm: aes-256-gcm
+        iv: 6983ab0d005961ddff6d3c56
+        version: "1"
+      hash:
+        sha256: 78f57c772bf111c5b086c3d11cbe47e095f237386bd3d2e61d59132e492a86d2
+  published: 2024-11-27T03:57:02.416Z
+  content: Сайт предоставляет возможность быстро скачать приложение для ставок на
+    спорт и начать играть с бонусами. Приложение поддерживает ставки в режиме
+    реального времени, трансляции матчей и аналитические инструменты.
+    [url=https://wingstv.ru/news_aviation/rejting-bk.html]https://wingstv.ru/news_aviation/rejting-bk.html[/url]
+    — это сочетание удобства, надежности и множества интересных предложений.
+  lang: en
+  ip:
+    encrypted: OTVmMzE5ZjgyMzM0Y2VmMThkMDJkODUzZmY=
+    algorithm: aes-256-gcm
+    iv: f1a7c007f2dd09fe07629d03
+    version: "1"
+  spam:
+    score: 5.96
+    marked: true
+  status: auditing
