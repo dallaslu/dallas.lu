@@ -2380,3 +2380,30 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 000197de8808fa9e2250111a013b5b5a5997c434
+  author:
+    name: Walterplulk
+    lang: en
+    email:
+      value:
+        encrypted: YTVhNjBiMzVlMTBkMjQ0NDY2NDQ2MGZjMWFhY2Q3ZTc=
+        algorithm: aes-256-gcm
+        iv: 9939cbd85665a3f0f6394ec5
+        version: "1"
+      hash:
+        sha256: 4ce031c94b8383715598a9b2f4e29b310d690239168156dd42e22a362ef903e4
+  published: 2024-11-27T22:24:42.488Z
+  content: Вы можете купить справку в клинике https://medikwest.ru/ по Москве с
+    бесплатной доставкой до любой станции метро.
+  lang: zh-CN
+  ip:
+    encrypted: NTRiNTZjMmQyODc0MjllZTJiM2EyZTgyYjRmMw==
+    algorithm: aes-256-gcm
+    iv: f519f632f6096a794ef1cf1e
+    version: "1"
+  spam:
+    score: 8.06
+    marked: true
+  status: rejected
