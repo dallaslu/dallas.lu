@@ -2267,3 +2267,30 @@
     score: 5.37
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: d42fa4c3abbc2e3c1eabccb5dcd9aa4990a50aee
+  author:
+    name: Walterplulk
+    lang: en
+    email:
+      value:
+        encrypted: NTczZGI4YjNkNjUwMGVkOTllZjdlYTQyMjliODBlYzEyOQ==
+        algorithm: aes-256-gcm
+        iv: 5f3595c4c3376dac4af03143
+        version: "1"
+      hash:
+        sha256: be247368e14568d01969d2f108a123c9ea3f3fe9eed92a6ba5ed29464ba1579c
+  published: 2024-11-27T13:11:43.779Z
+  content: Вы можете купить медицинскую справку в мед центре
+    https://hearth-health.ru/ в Москве без прохождения врачей.
+  lang: zh-CN
+  ip:
+    encrypted: MGNkMjk5OTg3MWQ5ZmY5NjJiYWUwZDdiNzhhOA==
+    algorithm: aes-256-gcm
+    iv: 451f4989bc955ea866d8d7c6
+    version: "1"
+  spam:
+    score: 8.19
+    marked: true
+  status: rejected
