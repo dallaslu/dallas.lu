@@ -2519,3 +2519,33 @@
     score: 6.62
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3f6fa3e45a5e325e9cee1b558db3fc3a542b7fe1
+  author:
+    name: Daviddof
+    lang: en
+    email:
+      value:
+        encrypted: ZThkYzhkZmY0NTJhMzEzYjNkOTlhYzM3ZTg0OWQ0MjM=
+        algorithm: aes-256-gcm
+        iv: 151cc803af559de55ce039fa
+        version: "1"
+      hash:
+        sha256: b2ca99087cf70147a0b6f82c8d91b1892a33abed649a4e82eb26772e6a4224db
+  published: 2024-11-28T13:53:51.416Z
+  content: Узнавая все больше о Кипре, вы только убедитесь в привлекательности
+    острова. Лимасол, Пафос, Ларнака, Айя-Напа и Протарас привлекают инвесторов
+    удачным географическим положением, развитой инфраструктурой и тем, что это
+    самые «русскоязычные» города республики <a
+    href="http://holidayhomesplus.co.nz/">cyprus villas</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZGU1ZTAyNWFkNDJhZjMyNjA0NDlhN2NiZjM3NmIw
+    algorithm: aes-256-gcm
+    iv: 0c7c42430a534c9f86d7a148
+    version: "1"
+  spam:
+    score: 5.93
+    marked: true
+  status: auditing
