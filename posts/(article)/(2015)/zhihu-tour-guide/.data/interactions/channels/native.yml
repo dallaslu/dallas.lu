@@ -2577,3 +2577,68 @@
     score: 5.07
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 62903dd1145f5e35f75bcd5363c0bad4a490416d
+  author:
+    name: GeorgeKat
+    lang: en
+    email:
+      value:
+        encrypted: YzVmNGVjMTY4MDNlOWQ1ZDc1NjkyMWYzNTgwNTY5YTNhMzdkZGFmZmU3MmRhMzM1NzQzZmIyYTE3YQ==
+        algorithm: aes-256-gcm
+        iv: fad6b3da152191e54d903aff
+        version: "1"
+      hash:
+        sha256: 39633a78583f2be014d2434012cfb82c4de6bbdd04df89bfcb1b03eb375880f7
+  published: 2024-11-28T21:03:01.390Z
+  content: "selling cms casino GramBit \r
+
+    Sell GramBit casino script. \r
+
+    Our group will be able to help you run his online casino. \r
+
+    Our games developed on HTML5 and start on all platforms, on smartphones, and
+    on PCs! \r
+
+    Our CMS  can be run as an online casino as well as a club casino. \r
+
+    Our casino has over 2,500 games! \r
+
+    We do not restrict casinos by ip and Domains. \r
+
+    Connecting any payment systems. \r
+
+    Our web developers do unique casino design. \r
+
+    We'll help you select and set up the server, casino platform, payment
+    systems, and API. \r
+
+    After you purchase the casino, you get our support, and upgrades. \r
+
+    If you still have questions, our support team is available 24/7 to answer
+    them. \r
+
+    С уважением, ваш GramBit. \r
+
+    \ \r
+
+    Contacts: \r
+
+    Telegram: https://t.me/grambitmaster \r
+
+    mail: support@grambit.pro \r
+
+    \ \r
+
+    P.S.: Sale of source code is possible."
+  lang: zh-CN
+  ip:
+    encrypted: MjFhMmRiYmNhODhjODJjNmEwYzVlODQ0MWI=
+    algorithm: aes-256-gcm
+    iv: da91a3bba0ed9ee86c214297
+    version: "1"
+  spam:
+    score: 4.63
+    marked: true
+  status: auditing
