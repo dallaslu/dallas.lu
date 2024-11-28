@@ -2489,3 +2489,33 @@
     score: 8.15
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c857ea71caf0d490e6c36d3e227801242540bde1
+  author:
+    name: PatrickirotA
+    lang: en
+    email:
+      value:
+        encrypted: ZTE3YzNhOTUyMjQwZTNiMDgxY2E4NGIwYmE2NmI1YjYwZg==
+        algorithm: aes-256-gcm
+        iv: 02fb2a0cb92335cfa910c291
+        version: "1"
+      hash:
+        sha256: 693761e81fa8ecfc1ca3e4fa5064a469402253ba4ffb9caf5eb648a9c001be39
+  published: 2024-11-28T09:24:10.797Z
+  content: '1xBet Promo Code 2024 - 1XBIG24: enter this code when creating your
+    account to receive up to $100 as a 100% match on your first deposit. The
+    bonus amount must be used in the sports section by placing bets with odds of
+    1.4 or higher and a 5x wagering requirement within 30 day <a
+    href="http://centroculturalrecoleta.org/blog/pages/1xbet-promo-code_cameroon.html">http://centroculturalrecoleta.org/blog/pages/1xbet-promo-code_cameroon.html</a>'
+  lang: zh-CN
+  ip:
+    encrypted: OTdjMzVjNjc3MTJjOTJlOTIzZmMwNTk4YWIzNg==
+    algorithm: aes-256-gcm
+    iv: abb9bbf1ecb278b90bba620d
+    version: "1"
+  spam:
+    score: 6.62
+    marked: true
+  status: rejected
