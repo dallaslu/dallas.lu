@@ -2462,3 +2462,30 @@
     score: 6.24
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5d41e3133985ae4976811130823065844bec3179
+  author:
+    name: WilliamSeino
+    lang: en
+    email:
+      value:
+        encrypted: ZDM5YjE4OTdhYjc2MGU4NjY5OTYwNjhiN2EzMGU5M2QwNg==
+        algorithm: aes-256-gcm
+        iv: f704c8bbb8892c4a98fd4580
+        version: "1"
+      hash:
+        sha256: 795a92803828b7968c1ce5160a5b0bf2025d5041b2fe4ca5e99c5ef0db60208f
+  published: 2024-11-28T09:20:48.297Z
+  content: Вы можете купить справку в поликлинике https://dobromedic.ru/ по Москве
+    с доставкой до станции метро.
+  lang: zh-CN
+  ip:
+    encrypted: MDFkNmNjZDdjNDU4ZDVmYjJkMmUyMGQxZDFiMA==
+    algorithm: aes-256-gcm
+    iv: aa33ac5a3f8e104662e3466a
+    version: "1"
+  spam:
+    score: 8.15
+    marked: true
+  status: rejected
