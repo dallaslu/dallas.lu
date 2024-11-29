@@ -2819,3 +2819,33 @@
     score: 6.67
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 4ccef2926a403ed69321a590a37207c260752a7d
+  author:
+    name: Waynerom
+    lang: en
+    email:
+      value:
+        encrypted: ZmU4YWJiNTIzMTI0MDZmMjNjN2Y0YjFlOGRiYmFjMGM=
+        algorithm: aes-256-gcm
+        iv: 54e9fbd83158ae8c49e51061
+        version: "1"
+      hash:
+        sha256: c3aa7bb972d9e93f3ca8da291a7545dec1a87c3ae0def1c797e2e600c028992a
+  published: 2024-11-29T15:26:57.550Z
+  content: Выбор места для проживания или отдыха имеет огромное значение для
+    качества жизни. Важно тщательно подойти к вопросу выбора недвижимости,
+    которая будет не только комфортной, но и обеспечит высокий уровень жизни в
+    течение долгого времени <a
+    href="http://dianov.bget.ru/forum/thread62720.html#1386414">http://dianov.bget.ru/forum/thread62720.html#1386414</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTFiMWNjNzhhZjUzNzhjNzQ4Njk2OTdiZjVjZDRl
+    algorithm: aes-256-gcm
+    iv: 52e440f6a8fcbc650d433118
+    version: "1"
+  spam:
+    score: 8.01
+    marked: true
+  status: rejected
