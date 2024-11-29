@@ -1227,3 +1227,30 @@
   spam:
     score: 3.01
   status: auditing
+- type: reply
+  channel: native
+  id: dae1c4cb465733bf409842f19ca3c54c33a35c19
+  author:
+    name: Kevinsog
+    lang: en
+    email:
+      value:
+        encrypted: NzVjYWE4YmIwMTMzZWFiZmQ5ZDIwMjM3OTk3NmQ4NGQwZWM0YTYyZTFhNTY4ZThkYzYyMWYyMWY4MDRk
+        algorithm: aes-256-gcm
+        iv: e6489c7da32932cd6395a6ee
+        version: "1"
+      hash:
+        sha256: b1fcdd7a2a5db494aa6dfbed98ef410b4658e84bbbda6f0f29ee6f25b908ccbe
+  published: 2024-11-29T20:23:30.056Z
+  content: Thought you might find this article as captivating as I did  <a
+    href=https://rt.rulet-18.com/>https://rt.rulet-18.com/</a>
+  lang: en
+  ip:
+    encrypted: NGU2NzliMzMwY2E3NjNjNWM1MmMzNzEyYzg=
+    algorithm: aes-256-gcm
+    iv: 3946298d0051cabee440b358
+    version: "1"
+  spam:
+    score: 4.5
+    marked: true
+  status: auditing
