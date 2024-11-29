@@ -2671,3 +2671,30 @@
     score: 7.04
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9aec001c83e96ad59ffbbad55b049c3e4e24ba36
+  author:
+    name: LindseyAnoke
+    lang: en
+    email:
+      value:
+        encrypted: M2Y2MTY1ZWIxNWMwZDA3NDdjMzdjY2Y0M2ZlNDBjZmI=
+        algorithm: aes-256-gcm
+        iv: 0c69e2f20ba998d51cb3a21e
+        version: "1"
+      hash:
+        sha256: 343ea5206d198927f371c09611c4afd3827dea47d1107347a1ab05c95c54044c
+  published: 2024-11-29T00:17:27.154Z
+  content: Вы можете купить справку в медицинском центре https://kristall-med.ru/
+    в Москве без прохождения врачей.
+  lang: zh-CN
+  ip:
+    encrypted: Mzc5YjI4ZDBiYmVjZmVlNTMyNDc4Yjc1MTI2ZA==
+    algorithm: aes-256-gcm
+    iv: 790878c6bafeda0b2f7be5ce
+    version: "1"
+  spam:
+    score: 8.2
+    marked: true
+  status: rejected
