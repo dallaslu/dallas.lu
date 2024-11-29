@@ -2763,3 +2763,29 @@
     score: 5.72
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: dbc12454be6a2dd247aa8693717e97e01f9e067e
+  author:
+    name: LindseyAnoke
+    lang: en
+    email:
+      value:
+        encrypted: MmJkYWE2MWM1ODY0NWYyZWUzYzc3NWJmYjBiYWY1NzU=
+        algorithm: aes-256-gcm
+        iv: 8209f3ffc1335be0d858020b
+        version: "1"
+      hash:
+        sha256: e0cbaddc19b2349194e890544df665ceb05b8f1e6994cd770b7bfbd84df15f0e
+  published: 2024-11-29T14:58:56.753Z
+  content: Вы можете купить справки в Москве в нашей клинике https://medic-dpo.ru/.
+  lang: zh-CN
+  ip:
+    encrypted: ZDk3Njc4YmI1OGQ2YzMxYmYzZWUxZTY1M2U0NQ==
+    algorithm: aes-256-gcm
+    iv: c51ce32ffdf142df891b815b
+    version: "1"
+  spam:
+    score: 8.42
+    marked: true
+  status: rejected
