@@ -2789,3 +2789,33 @@
     score: 8.42
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c242e60646710d45a4b6b6fa6fd186f42f5bd5ab
+  author:
+    name: Terryren
+    lang: en
+    email:
+      value:
+        encrypted: MDgzNjZiZTI2ZTZhZmNhOWFiNzFlODE4ODA4ZDUxODIzZg==
+        algorithm: aes-256-gcm
+        iv: 5df0ba25e2b34bf234a81d83
+        version: "1"
+      hash:
+        sha256: a549f11a4d53d70af22af6d5be3ea18943e76cc10f4a6b3ac08136dfd4f0f07e
+  published: 2024-11-29T15:15:12.993Z
+  content: Букмекерская контора 1хБет приготовила для своих клиентов разнообразную
+    систему бонусов и акций, которая привлекает новых участников и поддерживает
+    интерес у постоянных клиентов. Ниже рассмотрим основные бонусы и акции
+    букмекера 1xbet <a
+    href="https://www.diamondpaints.com/articles/1xbet-promo-code-qatar_1.html">https://www.diamondpaints.com/articles/1xbet-promo-code-qatar_1.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: NGFkN2U2MWQ1MzQyZDZkYmM0MzcxMzdiNTdhNQ==
+    algorithm: aes-256-gcm
+    iv: d9d5a3a125b0424e73e7005a
+    version: "1"
+  spam:
+    score: 6.67
+    marked: true
+  status: rejected
