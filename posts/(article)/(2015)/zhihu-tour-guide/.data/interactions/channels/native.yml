@@ -2877,3 +2877,29 @@
     score: 5.48
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 7440f2cb5a41969330b96032b1c2660884245ada
+  author:
+    name: JesusCaugs
+    lang: en
+    email:
+      value:
+        encrypted: YTBiNzg1ZTVkMDU4MjNmZDg4ZjA0MWY3Y2RkZGJiZjE3NA==
+        algorithm: aes-256-gcm
+        iv: 4dd6f2ef05b9006c03c75359
+        version: "1"
+      hash:
+        sha256: b27b2e334bb6a50507dd94db8f307f8732ee2a279e823412d6f73f78560e3666
+  published: 2024-11-30T19:44:41.545Z
+  content: Вы можете купить медсправку в нашем мед центре https://medic-dpo.ru/.
+  lang: zh-CN
+  ip:
+    encrypted: YWRiNzhjYWRjYWY4ZTY4N2Q0MzliMTMyYjJjZQ==
+    algorithm: aes-256-gcm
+    iv: ccba8ba32aec8124c826913e
+    version: "1"
+  spam:
+    score: 8.46
+    marked: true
+  status: rejected
