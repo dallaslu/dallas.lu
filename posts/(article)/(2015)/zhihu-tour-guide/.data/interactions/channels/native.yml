@@ -2958,3 +2958,30 @@
     score: 9.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3977579e6583df05da71d3330a5285a2a716f2eb
+  author:
+    name: AndreaMox
+    lang: en
+    email:
+      value:
+        encrypted: OTcyZWNiZTE0OWU5Y2NjNzA3NjA1ZWRkNjE1YzgzOWZjNg==
+        algorithm: aes-256-gcm
+        iv: 9ff6d687ec9fa52afe662d6e
+        version: "1"
+      hash:
+        sha256: caab5b6929d9bec78ee977997480ff20f4b425704774bfefe395162bd8315490
+  published: 2024-12-01T11:50:38.375Z
+  content: Вы можете купить справку в медцентре https://munclinic.ru/ с доставкой
+    по Москве.
+  lang: zh-CN
+  ip:
+    encrypted: NzJiYjE1NjE2MjBmYTQ1ZWRkOTcyY2FjMGViZg==
+    algorithm: aes-256-gcm
+    iv: ad4c14cf8b8b31ffc9355d38
+    version: "1"
+  spam:
+    score: 8.28
+    marked: true
+  status: rejected
