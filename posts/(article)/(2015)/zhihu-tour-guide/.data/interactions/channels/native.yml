@@ -3602,3 +3602,35 @@
     score: 4.37
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 2577b05271aff6e97d569b6cbf482798635de108
+  author:
+    name: Taylorboolo
+    lang: en
+    email:
+      value:
+        encrypted: YTI1MjE2NDk4NjIwNTBhYjQ5NTIxNzUyZDM2YTJhMTlkOA==
+        algorithm: aes-256-gcm
+        iv: ae951ff2059dc9083d26f694
+        version: "1"
+      hash:
+        sha256: f84861562ad4cb411d8a0ef8954c4c75d0885e71ae6880cfd34eef98972070d6
+  published: 2024-12-01T14:11:16.772Z
+  content: "Более 20 лет опыта переводов c немецкого и английский медицинской
+    документации: эпикриз, исследование МРТ, КТ, УЗИ,  протокол операции,
+    лабораторные анализы, гистология, молекулярная патология – по всем разделам
+    и специализациям медицины – онкология, урология, гинекология, ортопедия,
+    хирургия и др. Квалифицированный медицинский перевод документов на немецкий
+    язык для лечения за границей и с немецкого после лечения
+    https://medicaltranslate.ru"
+  lang: zh-CN
+  ip:
+    encrypted: Y2JhYmYwZTBjYTVkOTQ3MDJhYzc2NDg1
+    algorithm: aes-256-gcm
+    iv: 390bdcdd1545bf34c31f5ecd
+    version: "1"
+  spam:
+    score: 7.68
+    marked: true
+  status: rejected
