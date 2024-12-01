@@ -3634,3 +3634,35 @@
     score: 7.68
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 034d0cbe2c10dc41c0bc0da8236415a97b35ca61
+  author:
+    name: Thomasgeoxy
+    lang: en
+    email:
+      value:
+        encrypted: ZDM2OGQ3ZTNhNzUzM2UwMjdlMDdkYzAyYzdiMTBhMDdlYg==
+        algorithm: aes-256-gcm
+        iv: cc1c091ea7bbbe586d120102
+        version: "1"
+      hash:
+        sha256: 2ffb11f3e813eff54de9351f4ce3749078794623921c5c444e55ebb13608ddfc
+  published: 2024-12-01T15:07:45.500Z
+  content: Виртуальные номера, телефонные номера, которые напрямую не связаны с
+    телефонной линией или физической SIM-картой, становятся все более
+    популярными среди людей во всем мире. Одной из областей, где их
+    использование приобрело значительный импульс, является приложение для обмена
+    сообщениями, такое как Telegram <a
+    href="https://palitrameha.ru/virtualnyj-nomer-dlya-telegram/">номер для
+    тг</a>
+  lang: zh-CN
+  ip:
+    encrypted: MjExYTAyZTcyNTExODRhMWMwMTNhMGNjODE5MA==
+    algorithm: aes-256-gcm
+    iv: 6b919f0cbb6a5da1c3369178
+    version: "1"
+  spam:
+    score: 9.03
+    marked: true
+  status: rejected
