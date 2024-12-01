@@ -3697,3 +3697,34 @@
     score: 9.62
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c2ebb74973a7e4a8a79d473378e08fdfd8f4b540
+  author:
+    name: Juliojax
+    lang: en
+    email:
+      value:
+        encrypted: MDdiZGUzNWUzZWVlN2Q4N2QzYTNjZjk4MGE0M2MyMzA=
+        algorithm: aes-256-gcm
+        iv: 3b916c08d3e3020a5258eb7a
+        version: "1"
+      hash:
+        sha256: 73610bc904eb1a2be0b7b3e5db1e7366580d5ba2fa903168059acdbe65a889c8
+  published: 2024-12-01T20:12:52.552Z
+  content: Условия использования промокода 1xBet можно узнать после его проверки.
+    Для этого в разделе «Витрина промокодов» находится специальное поле, куда
+    следует вставить полученный набор из цифр и букв для получения подробных
+    сведений. Чтобы проверить комбинацию, следует авторизоваться в личном
+    кабинете <a
+    href="https://grupocarumoreno.com.br/art/codigo_promocional-1xbet_bono.html">https://grupocarumoreno.com.br/art/codigo_promocional-1xbet_bono.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: NGU5YmUxYTkwYzM3ZWY5NzU3MjEwMDAw
+    algorithm: aes-256-gcm
+    iv: 044025909d4643e665271da9
+    version: "1"
+  spam:
+    score: 6.52
+    marked: true
+  status: rejected
