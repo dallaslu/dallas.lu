@@ -3666,3 +3666,34 @@
     score: 9.03
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7e76cd6ff54f0d459ff474a8594ebf39b27022b7
+  author:
+    name: ZacharyNog
+    lang: en
+    email:
+      value:
+        encrypted: YTU1OTU3YTFlMmRmNDNlNGQxMzdiZGZhMjA1YTQwMDJlYw==
+        algorithm: aes-256-gcm
+        iv: c5d54b1c977847d4b46f5617
+        version: "1"
+      hash:
+        sha256: e43785a2f3c6aa6d3c860d19b84fc54d414d716c6b44ae84843b97b96465c127
+  published: 2024-12-01T15:23:58.784Z
+  content: Построенные дома по индивидуальным проектам – это результат работы
+    наших архитекторов, инженеров – строителей, смежных специалистов и, конечно,
+    наших Заказчиков. Мы всегда стараемся сделать наши дома функциональными,
+    простыми и удобными, чтобы во время эксплуатации наши заказчики вспоминали
+    нас добрым словом <a
+    href="https://www.vbesedki.ru/stati/stroitelnyie_novosti_rossii_all/karkasno-panelnyjj-dom/">https://www.vbesedki.ru/stati/stroitelnyie_novosti_rossii_all/karkasno-panelnyjj-dom/</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZmZiMTI0YzU4NTFiMmVmNmFlM2JhNDBkMTc4OWI1
+    algorithm: aes-256-gcm
+    iv: 407da432e5f2257f8d2e4486
+    version: "1"
+  spam:
+    score: 9.62
+    marked: true
+  status: rejected
