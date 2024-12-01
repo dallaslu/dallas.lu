@@ -3728,3 +3728,30 @@
     score: 6.52
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b5798e6587974fbca65facdb8eb846befe6ab424
+  author:
+    name: ArnoldSam
+    lang: en
+    email:
+      value:
+        encrypted: MmQwZmYxMjU0YjJlZjhhNjA4ZjE0NjBlMmY0NTEyMjg0Mg==
+        algorithm: aes-256-gcm
+        iv: 6602eaf4fb2c7d5af274f9af
+        version: "1"
+      hash:
+        sha256: 7fac4fd21d1aca062275727dcddbe5e3139faf380f31271b12671fcc43005e91
+  published: 2024-12-01T20:18:13.791Z
+  content: Вы можете купить медсправку в нашем мед центре
+    https://doktora-gerasenko-med.ru/ в Москве без медкомиссий.
+  lang: zh-CN
+  ip:
+    encrypted: NjJiZDZhZWE0YTA1ZThlYzI2MjM2Y2I4YWY3OQ==
+    algorithm: aes-256-gcm
+    iv: 86e8cffbc2a92846ba4ec035
+    version: "1"
+  spam:
+    score: 8.43
+    marked: true
+  status: rejected
