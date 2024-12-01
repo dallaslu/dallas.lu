@@ -2931,3 +2931,30 @@
     score: 9.12
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f21eb0c6aee5f50720545f2338fcfc27c136f945
+  author:
+    name: JeffreyElome
+    lang: en
+    email:
+      value:
+        encrypted: MTI4ZTkxODgyNTYwZDk2YjkwZmJmNzY0ZjM1YTk4ZWVjNjNmY2ZkNzM1ZTk1MDUwOWRlNGQ5MGVjMzk1ZjQ1Zjc2YjUzMGRhNTQwZDViNGE0NjA1ZDkxOWFjZmI=
+        algorithm: aes-256-gcm
+        iv: b1347eec61229164c9b2a7c5
+        version: "1"
+      hash:
+        sha256: 7384be293d59c626d8653346f6c08bf208384444a5bab42659371600e92c2b0c
+  published: 2024-12-01T05:06:26.794Z
+  content: <a
+    href="http://k-td.ru/bitrix/redirect.php?goto=https://t.me/s/bonus_za_registratsiyu_bez_depa">http://kancportal.ru/bitrix/rk.php?goto=https://t.me/s/bonus_za_registratsiyu_bez_depa</a>
+  lang: zh-CN
+  ip:
+    encrypted: YzQ0NmYzNTllMDM2MDRkN2RmNzUzOWU0
+    algorithm: aes-256-gcm
+    iv: e49467ae7a9d0ee5427404b1
+    version: "1"
+  spam:
+    score: 9.5
+    marked: true
+  status: rejected
