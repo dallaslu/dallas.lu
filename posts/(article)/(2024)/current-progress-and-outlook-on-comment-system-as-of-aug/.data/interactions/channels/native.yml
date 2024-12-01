@@ -116,3 +116,29 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8b96cfcbcf093c55e35501feed9415214cdd479a
+  author:
+    name: BrandonPax
+    lang: en
+    email:
+      value:
+        encrypted: YWRhNDhjMzI2ZGU1MGZhMGZjZTQ0MGFlYTEzMjdjZjM5MWMzNjNlMzM3
+        algorithm: aes-256-gcm
+        iv: 9377847be264eb02dae3103f
+        version: "1"
+      hash:
+        sha256: 94674eba9b56bcce12fd57fe15092d10b80aea97c167e5b9c580884fec0b8228
+  published: 2024-12-01T08:27:35.614Z
+  content: "http://diskusia.katasternehnutelnosti.sk/viewtopic.php?f=7&t=2759\r\n"
+  lang: en
+  ip:
+    encrypted: M2ZmYzdjZGViZmJiNTczYTE4NmUzMmUyZTg=
+    algorithm: aes-256-gcm
+    iv: 0bdbf259a07c068ad75f0cd4
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
