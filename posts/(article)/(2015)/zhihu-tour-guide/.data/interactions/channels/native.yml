@@ -102,3 +102,32 @@
     score: 5.12
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: d93b8fbbb35d29e75a98efb22d8f1bd20f94f0e5
+  author:
+    name: JamesDus
+    lang: en
+    email:
+      value:
+        encrypted: OGU2M2Q3OGY5MGFmMDM0OTliYWQ1NzA5N2Q0OWE2ODE=
+        algorithm: aes-256-gcm
+        iv: 5e571ad16303feb1704c2ffb
+        version: "1"
+      hash:
+        sha256: 9a8c9c467292fa4858173bf8e20560a9a03e6fe9f70e83bfb2c379f4428708d3
+  published: 2024-12-02T21:45:18.441Z
+  content: Технологические инновации в производстве оборудования Современные
+    достижения в области технологий значительно изменили процесс создания
+    сложных систем для медицинской и биологической отраслей <a
+    href="http://xn--48-6kcd0fg.xn--p1ai/forums.php?m=posts&q=24347&n=last#bottom">http://xn--48-6kcd0fg.xn--p1ai/forums.php?m=posts&q=24347&n=last#bottom</a>
+  lang: zh-CN
+  ip:
+    encrypted: NGU2NGUwNTkzMTM2MTc3OWEwYTNhNGMyYTY2MA==
+    algorithm: aes-256-gcm
+    iv: 6a9bc0e519dac862b93ef0c6
+    version: "1"
+  spam:
+    score: 6.85
+    marked: true
+  status: rejected
