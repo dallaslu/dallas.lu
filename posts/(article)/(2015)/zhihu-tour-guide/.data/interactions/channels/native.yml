@@ -3787,3 +3787,47 @@
     score: 6.28
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9a74c1771792391e365746fa2ae2721f15df6be3
+  author:
+    name: Shop-1Mut
+    lang: en
+    email:
+      value:
+        encrypted: YTdiZmM5ZWQ2ZGI2OWMwNWM2NDRmNTc0NGQ4OWYzOTNiYmQ0OGEwOGMz
+        algorithm: aes-256-gcm
+        iv: 7f8430e6b7038d6441f25170
+        version: "1"
+      hash:
+        sha256: abef05c40f7c51e0146cb67cad88bb2b44de4bf2493abfee6c8945f980c62e7c
+  published: 2024-12-02T03:17:42.266Z
+  content: "LoveShop  снова работает!!! \r
+
+    \ \r
+
+    \ \r
+
+    Подробнее
+    https://telegra.ph/Mirovaya-Slava-NFT-Kollekcij-shop1-biz-Kak-Im-EHto-Udalo\
+    s-10-18   \r
+
+    \ \r
+
+    \ \r
+
+    \ \r
+
+    \ \r
+
+    #loveshop1300-biz # shop1-biz #loveshop13 #loveshop15 #loveshop16"
+  lang: zh-CN
+  ip:
+    encrypted: NjdlNzc0YTQxNTUwMjI2ZmUxMjQxODQz
+    algorithm: aes-256-gcm
+    iv: 0b076d15050ebc94270d5190
+    version: "1"
+  spam:
+    score: 5.67
+    marked: true
+  status: auditing
