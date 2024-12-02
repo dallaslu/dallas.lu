@@ -166,29 +166,3 @@
     encrypted: ZDRlZmQ5N2RjYTY2YWFjOGU0MTJhNTlh
     algorithm: aes-256-gcm
     iv: 3be00e996028a6a89ee43840
-- type: reply
-  channel: native
-  id: 1422776777367fa284c31712527c94d4f7462c0e
-  author:
-    name: NathanFeask
-    lang: zh-CN
-    email:
-      value:
-        encrypted: NzQ0ZDAyMWExNzgzOGUzYjQ5NWU4YTBkMTRkOTk4Zjc0ZDJlNzU=
-        algorithm: aes-256-gcm
-        iv: a678cd89d0fa016cf18bf413
-        version: "1"
-      hash:
-        sha256: dda638916f6f5052b824057ae5626519267e63d162abf3e3f491c02f66086cc5
-  published: 2024-11-21T19:40:14.405Z
-  content: <a href=https://advokat-kokin.ru/>услуги юриста в москве</a>
-  lang: zh-CN
-  ip:
-    encrypted: YWI5NmRmMGQzMjgyOTRiYWY0NzliZTBiNjE=
-    algorithm: aes-256-gcm
-    iv: 0c01d4c2b44ba4b9f582b623
-    version: "1"
-  spam:
-    score: 9.9
-    marked: true
-  status: rejected
