@@ -166,3 +166,29 @@
     encrypted: ZDRlZmQ5N2RjYTY2YWFjOGU0MTJhNTlh
     algorithm: aes-256-gcm
     iv: 3be00e996028a6a89ee43840
+- type: reply
+  channel: native
+  id: d1c9bc5db0a3e51cc455c3f22730383698c7e1c2
+  author:
+    name: Davidfup
+    lang: zh-CN
+    email:
+      value:
+        encrypted: ZTA5M2FkZDE3MDkyM2ZiMDRlN2NmOTA2NmViMTQ0M2JjNGU1NGJjNA==
+        algorithm: aes-256-gcm
+        iv: 763b02fd4ca23cf96aecb91d
+        version: "1"
+      hash:
+        sha256: 3d6e2c17ceef78b22c6b72bf519134694b14a37dd3ccc90935e7e559328ca9b4
+  published: 2024-12-02T07:11:40.901Z
+  content: <a href=https://luko-mebli.com.ua/>кухня гостиная в современном стиле</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZWMyMDU2ZTRjYTcwN2Q0NGE3ZTljNTVlMmMwMQ==
+    algorithm: aes-256-gcm
+    iv: bd39da84f80b337862048fe4
+    version: "1"
+  spam:
+    score: 6.6
+    marked: true
+  status: rejected
