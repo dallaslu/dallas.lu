@@ -44,3 +44,33 @@
     score: 8.11
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 4748b96708e435be5f14a4b3e13cd52577ed3a67
+  author:
+    name: MichaelWeipt
+    lang: en
+    email:
+      value:
+        encrypted: ZmNlMWU0OTljZDBjMzk3ZDhjZTQyNjdkMjk5YjE4ZmE=
+        algorithm: aes-256-gcm
+        iv: 9a5a58673ec3047eb0737a7f
+        version: "1"
+      hash:
+        sha256: 4740f050387aef60f4012b342724e51b1a2a9890ee191837541033f53dd0651f
+  published: 2024-12-02T11:51:36.760Z
+  content: В последние десятилетия наблюдается значительный прогресс в области
+    технологий, используемых для создания высококачественных медикаментов. Эти
+    достижения влияют на множество аспектов, включая эффективность процессов,
+    безопасность продуктов и экономическую целесообразность <a
+    href="http://www.clean-ace8.com/bbs/board.php?bo_table=free&wr_id=440015">http://www.clean-ace8.com/bbs/board.php?bo_table=free&wr_id=440015</a>
+  lang: zh-CN
+  ip:
+    encrypted: NjM3Yzc0MDk1NTJhOGM4ZTJjOTczNjMyNjRlMQ==
+    algorithm: aes-256-gcm
+    iv: da1f941a1d5cfb36c0cc2fd9
+    version: "1"
+  spam:
+    score: 6.55
+    marked: true
+  status: rejected
