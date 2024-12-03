@@ -272,3 +272,33 @@
     score: 9.07
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e5e6d1b1e9768170152c9cc20216173b7730a10d
+  author:
+    name: Michaelphoff
+    lang: en
+    email:
+      value:
+        encrypted: N2U5MDc0MzNjODM1NDg3Y2M5NzI0MjU5YWViODU2ZWY1OQ==
+        algorithm: aes-256-gcm
+        iv: 3732e35deded2d4e194f55e2
+        version: "1"
+      hash:
+        sha256: 6617566a23e8fe10af6514745555b993b6ec1b1bcb2ebd708c32c365d40f72c6
+  published: 2024-12-03T23:23:32.469Z
+  content: 'Блистерная упаковка (контурные ячейки) - вид пластиковой упаковки для
+    фармацевтической продукции. Данный тип упаковки имеет множество
+    преимущество: гигиеничность, компактность, защищенность от подделок и
+    механических повреждений, удобство использования и пр <a
+    href="http://oborudpromo.ru/">гранулятор с псевдоожиженным слоем</a>'
+  lang: zh-CN
+  ip:
+    encrypted: YTRkZjRlYmY3YjlhNDk1NGY2MzU1ZTdmZGZkNg==
+    algorithm: aes-256-gcm
+    iv: 75c35e865da9038cd7f46eee
+    version: "1"
+  spam:
+    score: 8.84
+    marked: true
+  status: rejected
