@@ -244,3 +244,31 @@
     score: 8.83
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8b634e1dd1df4f5360c63b6520d5895cbeae4d70
+  author:
+    name: Donaldtaw
+    lang: en
+    email:
+      value:
+        encrypted: OTQ3NjIyOWU4ZGU3MDdmYWEzMDA0ZDBiYzNlZDQ5MjE=
+        algorithm: aes-256-gcm
+        iv: e43924f01ff8d1955d5c43c5
+        version: "1"
+      hash:
+        sha256: 2206c86bb875476fa3ca49b76207bae3c36c0ab0fbf507510581f2fe6bf9b81e
+  published: 2024-12-03T23:22:57.777Z
+  content: Термоформер Multivac R085 предназначен для упаковки непищевых, пищевых
+    и медицинских продуктов в мягкую и в жёсткую плёнку и вакуумирования <a
+    href="http://msmservice.ru/">смеситель бинов</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZmE5MGIyMDE1NGVmNDNhZGMzODc5M2U3YWNhOA==
+    algorithm: aes-256-gcm
+    iv: aa44a5d830db95e522738ce4
+    version: "1"
+  spam:
+    score: 9.07
+    marked: true
+  status: rejected
