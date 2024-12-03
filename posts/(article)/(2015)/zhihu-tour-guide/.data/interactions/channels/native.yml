@@ -214,3 +214,33 @@
     score: 5.77
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: db1e161a131cbd77bc562afd0f5ff23ec9c8cc2c
+  author:
+    name: Stevenbiz
+    lang: en
+    email:
+      value:
+        encrypted: ZDUwYzFjMzMzN2QwMmVlNTU3M2Q4ZWZhZWQwYjM1NzM=
+        algorithm: aes-256-gcm
+        iv: 241e2a2d9db7227678494baf
+        version: "1"
+      hash:
+        sha256: 2b46346860a0ca94036b262555bf5dea8ae40e562981bbd46c4a1857f1802e09
+  published: 2024-12-03T13:44:57.462Z
+  content: Лабораторный компактный V-образный смеситель СФМ-11 подходит для
+    смешивания различных материалов в областях фармацевтики, пищевой,
+    химической, металлургии, керамики, электроники, аккумуляторов и т. д. и
+    способен смешивать два или более сухих порошковых и/или гранулированных
+    материалов <a href="http://amplituda74.ru/">капсулятор ручной</a>
+  lang: zh-CN
+  ip:
+    encrypted: NDhhM2MxYjJhZWU4MmJhMDEyZDgzNTg4MGFjOQ==
+    algorithm: aes-256-gcm
+    iv: 911c8d14073f68db6ee016d3
+    version: "1"
+  spam:
+    score: 8.83
+    marked: true
+  status: rejected
