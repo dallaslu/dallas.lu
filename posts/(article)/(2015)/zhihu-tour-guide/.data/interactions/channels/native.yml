@@ -338,3 +338,32 @@
     score: 6.31
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 09f811f833a3c38c3c99e2e3d0cf2480219127dd
+  author:
+    name: Howardidowl
+    lang: en
+    email:
+      value:
+        encrypted: M2E3MDQ3NWE2Y2I1YWI4Y2ZmYzE3OTViZTVmMmEyMzMwMw==
+        algorithm: aes-256-gcm
+        iv: 17709f15d0ca251b5abaf59e
+        version: "1"
+      hash:
+        sha256: 82cdf1d87b3ecfa056d68dd742d3d2878b274e4bd5c54b8f3860200a79405e92
+  published: 2024-12-04T13:32:18.771Z
+  content: Компания Ист-Пак приняла участие в выставке Pharmtech & Ingredients
+    2024 —  крупнейшей в России и странах ближнего зарубежья международной
+    выставке оборудования, сырья и технологий для фармацевтического производства
+    <a href="http://oborudpromo.ru/">пресс инструмент</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTI1OTMxMjJkZGZiMDZkZDMwOTc5MjM0NWRlMQ==
+    algorithm: aes-256-gcm
+    iv: 3096e7f6d2fc912d33be47f5
+    version: "1"
+  spam:
+    score: 8.91
+    marked: true
+  status: rejected
