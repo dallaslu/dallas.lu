@@ -403,3 +403,30 @@
     score: 5.72
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: ab204f7d0aa29ad1a221904a9fcff046628acda7
+  author:
+    name: JeffreyElome
+    lang: en
+    email:
+      value:
+        encrypted: YzY1NTFiNzE2ZDNiM2VkNGI2N2ZmMGQ5ZDljZmFiZDk4MDQ4YWI0MmUzYTY0ZTBkZmQ0ZTBjMjViZDc2YjM4NWMyMzIwMGJiMThkMzU4NDA=
+        algorithm: aes-256-gcm
+        iv: 22021ceb223d3a7ab73f4b52
+        version: "1"
+      hash:
+        sha256: 30e3c3c0e0adb724f0557ee3796d9dcd04db82701efc510283131f76803447a6
+  published: 2024-12-04T22:18:12.244Z
+  content: <a
+    href="http://lillozav.com/bitrix/redirect.php?goto=https://t.me/s/bonus_za_registratsiyu_bez_depa">http://linevoshl.ru/bitrix/redirect.php?goto=https://t.me/s/bonus_za_registratsiyu_bez_depa</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTdjYmZjNTc4NzQ1MTNlMzcyYjJhYzc3
+    algorithm: aes-256-gcm
+    iv: f0704aa1edb2faec903be1f7
+    version: "1"
+  spam:
+    score: 9
+    marked: true
+  status: rejected
