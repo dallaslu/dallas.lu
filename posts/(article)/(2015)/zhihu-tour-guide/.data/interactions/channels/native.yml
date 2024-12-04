@@ -460,3 +460,32 @@
     score: 8.89
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8aaf3d9b6015955b9d1eed543b3443115c12ae06
+  author:
+    name: WillieRit
+    lang: en
+    email:
+      value:
+        encrypted: MWQwMGU1NDNkMTdlMTgwODAzNTM3YTUzMTQ0NjBhNWMyZg==
+        algorithm: aes-256-gcm
+        iv: 2d2aa4c5069a97dfd0458572
+        version: "1"
+      hash:
+        sha256: 89fd332fee058e6b23fefed8f0ea6d3ed7ffda5aca2b0b05ed9049d9b4186b4c
+  published: 2024-12-04T23:51:56.938Z
+  content: Труба профильная, выполненная таким методом, также отличается
+    повышенной пластичностью. Поэтому она подходит для изготовления различных
+    заготовок, применяемых в каркасном строительстве и мебельном производстве <a
+    href="http://odintsovo-beton-zavod.ru">сайт металлобаза</a>
+  lang: zh-CN
+  ip:
+    encrypted: MWVlMWMxODM5ZDMzZDY0ZjM5MDRjMGRjNDA1Mw==
+    algorithm: aes-256-gcm
+    iv: 0d75eaad6f5a7619ce3fe66a
+    version: "1"
+  spam:
+    score: 9.01
+    marked: true
+  status: rejected
