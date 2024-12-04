@@ -430,3 +430,33 @@
     score: 9
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 1f0f5378ca65a1d34f27a6b123308782f2756ad9
+  author:
+    name: Julioimmug
+    lang: en
+    email:
+      value:
+        encrypted: ODE3OWNhYzRlNmYzNGZjZGU5OGYwMDBiZjRjOGQyNjdiYg==
+        algorithm: aes-256-gcm
+        iv: 4c7a51297e658f5fc9a8d7d4
+        version: "1"
+      hash:
+        sha256: 9c3580e6993c29e4e0982c55bbc6cce7dba58240fdbfa8162b107f380b1b76d3
+  published: 2024-12-04T23:46:11.844Z
+  content: В зависимости от размера, толщины листового металла, из которого
+    изготовлены трубы, меняется степень выдерживаемой нагрузки. Больше
+    информации о каждом виде изделия, включая технические характеристики, вы
+    получите, перейдя в карточку товара <a
+    href="http://svai-master78.ru/">купить металл дешево</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzMzMDMzMzQ4ZGE3YTMxZjY0YjYzNzJiNWYwZA==
+    algorithm: aes-256-gcm
+    iv: 325db845ae1b4ed6921c10c9
+    version: "1"
+  spam:
+    score: 8.89
+    marked: true
+  status: rejected
