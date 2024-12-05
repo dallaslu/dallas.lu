@@ -547,3 +547,34 @@
     score: 7.18
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2483e009eb212d5efa151e957fb4691959a728be
+  author:
+    name: PatrickGox
+    lang: en
+    email:
+      value:
+        encrypted: OTgxMmMxYTFhNWU0ODYwNjhkMjU1NDNhMWMzYjhlNGQ5Mg==
+        algorithm: aes-256-gcm
+        iv: 0d67a1502356eb23459fe852
+        version: "1"
+      hash:
+        sha256: ed571f16fc31564189b7ef9aa06b8e0b45809059ccf7ef76a4f09b58013dc928
+  published: 2024-12-05T21:41:10.336Z
+  content: Шины являются важной частью любой специальной техники, обеспечивая её
+    проходимость, устойчивость и безопасность на различных типах покрытия.
+    Правильный выбор покрышек влияет на эффективность работы машины и её
+    долговечность, а также помогает избежать возможных поломок и аварийных
+    ситуаций <a
+    href="http://wiki.annecyso.fr/doku.php?id=%20%D0%A7%D1%82%D0%BE%20%D1%83%D1%87%D0%B5%D1%81%D1%82%D1%8C%20%D0%BF%D1%80%D0%B8%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BA%D0%B5%20%D1%88%D0%B8%D0%BD%20%D0%B4%D0%BB%D1%8F%20%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D0%BE%D0%B9%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8">http://wiki.annecyso.fr/doku.php?id=%20%D0%A7%D1%82%D0%BE%20%D1%83%D1%87%D0%B5%D1%81%D1%82%D1%8C%20%D0%BF%D1%80%D0%B8%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BA%D0%B5%20%D1%88%D0%B8%D0%BD%20%D0%B4%D0%BB%D1%8F%20%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D0%BE%D0%B9%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZTI1MzlkNmVmOWVhNGJjYjYwNDRjNjVjNjc5MQ==
+    algorithm: aes-256-gcm
+    iv: 65eefdbf86771239234e38b7
+    version: "1"
+  spam:
+    score: 7.53
+    marked: true
+  status: rejected
