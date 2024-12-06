@@ -607,3 +607,29 @@
     score: 5.82
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 781b8052f618e68563526884b7597dd81ff2fe4a
+  author:
+    name: Romeoror
+    lang: en
+    email:
+      value:
+        encrypted: NjBmYjM4ODY3NGVhOTI0YzhiNzM5NTMwZGY0NTNlMWYyMWVl
+        algorithm: aes-256-gcm
+        iv: 44927a9e5a30f9875b605f21
+        version: "1"
+      hash:
+        sha256: 03e01627385a795a0f42afbe9200b04445393e87ebd9e24a4d79456091406325
+  published: 2024-12-06T15:04:35.332Z
+  content: "[url=https://crucible-of-slots.com/]South Africa Online Gambling[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: YmIzODI1MTY1ZDdkNTBjMjA0ZTA=
+    algorithm: aes-256-gcm
+    iv: 4b35e93b960bb1ef880f842b
+    version: "1"
+  spam:
+    score: 6.04
+    marked: true
+  status: rejected
