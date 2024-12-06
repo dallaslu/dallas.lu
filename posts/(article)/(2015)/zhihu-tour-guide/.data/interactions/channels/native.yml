@@ -662,3 +662,34 @@
     score: 5.83
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 294de3831a11ff40f399d4c6fe2115e3d0f35c1e
+  author:
+    name: Robertdethy
+    lang: en
+    email:
+      value:
+        encrypted: ZWFhZWIzNTVmMWRjNTRlZGU5MzYxYzE0NzA5NmM2N2UyMw==
+        algorithm: aes-256-gcm
+        iv: b360ecb3c645af0afaa3d061
+        version: "1"
+      hash:
+        sha256: d34f3ddbeb0cab5f3a4bd4d8316bd94acd1249548d0073ecace98a0256327ee1
+  published: 2024-12-06T17:02:02.677Z
+  content: Lightning Storm — это захватывающий видеослот, созданный компанией
+    Aristocrat Technologies, известной своими высококачественными играми для
+    наземных и онлайн-казино. Lightning Storm выделяется своим уникальным
+    дизайном, интересными механиками и высокими потенциальными выигрышами.
+    Давайте рассмотрим основные аспекты этой игры <a
+    href="https://ufa-print.ru">Зеркало Ирвин казино</a>
+  lang: zh-CN
+  ip:
+    encrypted: NDNkOTVhM2U0MTc5OGQxMjEyZjQ0MDU3ZDMxNg==
+    algorithm: aes-256-gcm
+    iv: 6cac9820849cadc989e2d666
+    version: "1"
+  spam:
+    score: 8.77
+    marked: true
+  status: rejected
