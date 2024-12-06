@@ -765,3 +765,34 @@
     score: 5.65
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 2f13d70030f497958fd835ec2a385b8e2936d9c2
+  author:
+    name: ThomasPhabe
+    lang: en
+    email:
+      value:
+        encrypted: OTI5ZjAyN2IxNTkwMTlkYjUwYWYyZmJhZGM0YTRlN2JlMA==
+        algorithm: aes-256-gcm
+        iv: 2174a615fa9d93e6b7bd9899
+        version: "1"
+      hash:
+        sha256: 2ea067357b8b046e62e189220f4805c83559d740833cc4fe215ba22530dac6da
+  published: 2024-12-06T21:05:12.068Z
+  content: Обратите внимание на гинеколога в Варшаве, Анастасию Юрьевну. Это врач
+    с огромным опытом, которая помогает пациенткам в самых разных ситуациях. Она
+    занимается гинекологическими осмотрами, ультразвуковой диагностикой,
+    лечением воспалительных процессов и консультациями по вопросам планирования
+    семьи <a
+    href="http://mydwoje.iq24.pl/default.asp?grupa=257517&temat=643852&nr_str=1#dol_str">http://mydwoje.iq24.pl/default.asp?grupa=257517&temat=643852&nr_str=1#dol_str</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTJhYzk3MzNiMzVlNDYyOTBiYTE3NThlNTgxYw==
+    algorithm: aes-256-gcm
+    iv: 8fc7048cba2783d1daa3eb63
+    version: "1"
+  spam:
+    score: 6.58
+    marked: true
+  status: rejected
