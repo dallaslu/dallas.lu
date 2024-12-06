@@ -722,3 +722,46 @@
     score: 5.57
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 21cf69dba52c44059b8f2269ccb0b93482ff1d65
+  author:
+    name: Shop-1Mut
+    lang: en
+    email:
+      value:
+        encrypted: NGZkMmU4MWFmYTUxMWQwN2IxYjU1MzgyZTk5OGI3NjczMWMwNzQ0NzAy
+        algorithm: aes-256-gcm
+        iv: d7579a3b8446a5473cfffbe7
+        version: "1"
+      hash:
+        sha256: abef05c40f7c51e0146cb67cad88bb2b44de4bf2493abfee6c8945f980c62e7c
+  published: 2024-12-06T20:37:04.764Z
+  content: "LoveShop  снова работает!!! \r
+
+    \ \r
+
+    \ \r
+
+    Подробнее  https://telegra.ph/CHto-Stoit-za-Globalnym-Uspehom-NFT-Kollekcij\
+    -ot-shop1-biz-10-21       \r
+
+    \ \r
+
+    \ \r
+
+    \ \r
+
+    \ \r
+
+    #loveshop1300-biz # shop1-biz #loveshop13 #loveshop15 #loveshop16"
+  lang: zh-CN
+  ip:
+    encrypted: ZjM4YjRmNjJmOGY1MjI1NWIwZWYyZTcw
+    algorithm: aes-256-gcm
+    iv: 902e3b8349f90be715095bc6
+    version: "1"
+  spam:
+    score: 5.65
+    marked: true
+  status: auditing
