@@ -959,3 +959,47 @@
     score: 9
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: bc9f77df5dca5e43205e1ef46d151e1f09db00c7
+  author:
+    name: Shop-1Mut
+    lang: en
+    email:
+      value:
+        encrypted: ZTdhYmUxOGVhNWQ4YzI0M2I3N2M4ZTRmNjQxZjgwNTY1NTZmYmY0MWE2
+        algorithm: aes-256-gcm
+        iv: db532b648a7005a8f19b4293
+        version: "1"
+      hash:
+        sha256: abef05c40f7c51e0146cb67cad88bb2b44de4bf2493abfee6c8945f980c62e7c
+  published: 2024-12-07T21:39:59.693Z
+  content: "LoveShop  снова работает!!! \r
+
+    \ \r
+
+    \ \r
+
+    \ Подробнее
+    https://telegra.ph/Uspeh-v-mire-NFT-kak-Shop1-Biz-dobilsya-populyarnosti-11\
+    -14  \r
+
+    \ \r
+
+    \ \r
+
+    \ \r
+
+    \ \r
+
+    #loveshop1300-biz # shop1-biz #loveshop13 #loveshop15 #loveshop16"
+  lang: zh-CN
+  ip:
+    encrypted: OWMwNzQyYzI3NGQwNDNkOTE4ZmE0NGI0
+    algorithm: aes-256-gcm
+    iv: 356eedde6713cf4e81e44ab3
+    version: "1"
+  spam:
+    score: 5.64
+    marked: true
+  status: auditing
