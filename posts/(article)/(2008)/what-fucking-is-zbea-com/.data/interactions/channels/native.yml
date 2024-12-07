@@ -218,3 +218,33 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e1e654ca4103eca13c66b0ff99771e8299f1dce1
+  author:
+    name: Arthurtause
+    lang: zh-CN
+    email:
+      value:
+        encrypted: M2Q4ODI0N2Y2ZTNlYmI3OGZiZWY2OGUxOWMxMzg0ZjIwNmMx
+        algorithm: aes-256-gcm
+        iv: 2617b24b3635c687ffbaf8b0
+        version: "1"
+      hash:
+        sha256: 32479bc5962dc2c1fb5c4f7fa1f38a2d24598b3588d785269aa88f1a64053c09
+  published: 2024-12-07T02:07:54.995Z
+  content: " \r
+
+    - Никакой волокиты с документами, все онлайн и быстро.   \r
+
+    <a href=https://zaim-mini.ru/>Займы онлайн  Без лишних проверок</a> "
+  lang: zh-CN
+  ip:
+    encrypted: NmU3OTExMGQ3ZjQ0OGI2MmJkYTViYmM4ZGY=
+    algorithm: aes-256-gcm
+    iv: 862f2d1ea1a39ab8d7f49799
+    version: "1"
+  spam:
+    score: 8.81
+    marked: true
+  status: rejected
