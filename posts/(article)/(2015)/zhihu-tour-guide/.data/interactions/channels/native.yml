@@ -1035,3 +1035,32 @@
     score: 6.04
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 84e8e1c11d585bf2a6fbf1ec9f72a3433ef42051
+  author:
+    name: AgustinUnwix
+    lang: en
+    email:
+      value:
+        encrypted: NDFlZTliYjk3MzNiZGM3ZjExZjQ5ZjE1ZWFhODMwOTgxOQ==
+        algorithm: aes-256-gcm
+        iv: 632a625c8b6057a40fb5f7e9
+        version: "1"
+      hash:
+        sha256: 821680d81ab20791607d9bdba3427f8e8b0e6fed717c9b31bffdc0f1a6c3379e
+  published: 2024-12-08T02:04:51.610Z
+  content: Для веб-проектов, работающих на VPS, обеспечивается высокая скорость
+    загрузки страниц, что является ключевым фактором для улучшения
+    пользовательского опыта и SEO-показателей сайта <a
+    href="https://netfaq.ru/">vps хостинг windows</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZDY2Njk4ZmUzNDUwYTY1NmNhNzA1MTM0ZjA5Zg==
+    algorithm: aes-256-gcm
+    iv: d93fa3bc2e418280f931e999
+    version: "1"
+  spam:
+    score: 8.93
+    marked: true
+  status: rejected
