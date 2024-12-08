@@ -1064,3 +1064,32 @@
     score: 8.93
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2a10269e8acfd7886d55f01696211f8eaa6a8dfb
+  author:
+    name: KevinHeece
+    lang: en
+    email:
+      value:
+        encrypted: YTRiMjdhMzFhMDUzMjUzZjk0YjgzNjVkNTc0NDI2MjI1Mw==
+        algorithm: aes-256-gcm
+        iv: b735dd86bac16629730c5231
+        version: "1"
+      hash:
+        sha256: 3fd7a1856e8262017ac57b23d2b8351f7dfb114a9a5aa7105d3e52dd0f930c63
+  published: 2024-12-08T13:03:52.312Z
+  content: Инверторы играют ключевую роль в системах солнечной энергетики,
+    позволяя преобразовывать постоянный ток, генерируемый солнечными панелями, в
+    переменный <a
+    href="https://solar.biz.ua/invertory-ibp/gibridnyj-invertor-ibp-3000vt-24v-mppt-na-3-kvt-ismppt-bf-3000-axioma-energy.html">https://solar.biz.ua/invertory-ibp/gibridnyj-invertor-ibp-3000vt-24v-mppt-na-3-kvt-ismppt-bf-3000-axioma-energy.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTNlODNmZjA2YzM0MTk3YTcxOWYwYWE2MGUwYg==
+    algorithm: aes-256-gcm
+    iv: cd68a3b7dac458e2686bce1e
+    version: "1"
+  spam:
+    score: 7.36
+    marked: true
+  status: rejected
