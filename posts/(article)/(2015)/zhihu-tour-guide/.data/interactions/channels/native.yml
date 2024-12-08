@@ -1003,3 +1003,35 @@
     score: 5.64
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 479f2968786e9736c4045e3695a2d6aca7a8cfd9
+  author:
+    name: Ralphvieno
+    lang: en
+    email:
+      value:
+        encrypted: ZWJkMmMzNzE3MDQ4OTEwODI5MWYxNGIwZTU0YmU5ODliYg==
+        algorithm: aes-256-gcm
+        iv: d35544772956c8c82b976770
+        version: "1"
+      hash:
+        sha256: ef50a6240932259911c4ffb78b268068e4acd7b59e549b33c1b50b0c778f5c7e
+  published: 2024-12-08T01:59:16.258Z
+  content: Инверторы играют ключевую роль в системах солнечной энергетики,
+    позволяя преобразовывать постоянный ток, генерируемый солнечными панелями, в
+    переменный, который может быть использован для питания бытовых приборов,
+    освещения и других потребностей дома, офиса или производственного объекта.
+    Это делает их незаменимым компонентом для создания эффективных и автономных
+    систем электроснабжения <a
+    href="https://solar.biz.ua/invertory-ibp/">https://solar.biz.ua/invertory-ibp/</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZDUwZmE2ZmMxNjQ4MjE4ZmNiNmJmMGU5MGI5OQ==
+    algorithm: aes-256-gcm
+    iv: 08fa674db06f83fc6908a413
+    version: "1"
+  spam:
+    score: 6.04
+    marked: true
+  status: rejected
