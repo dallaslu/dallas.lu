@@ -306,3 +306,32 @@
     score: 5.56
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 0c563a7517ed70e07898db35c937d905d1836b6a
+  author:
+    name: Walterspawl
+    lang: zh-CN
+    email:
+      value:
+        encrypted: Mzk2YTZjMDk0OThlYmNkZTFjYTA2ZGQ4MWZlN2IxNjM5Ng==
+        algorithm: aes-256-gcm
+        iv: 985b0b2747745b298264adc7
+        version: "1"
+      hash:
+        sha256: fa4c00d5d3f991f722e101539c9ba9e2d94ffbd8bd288dfd2def5a22932ba8dc
+  published: 2024-12-08T17:40:34.755Z
+  content: " Выберите морскую прогулку, чтобы увидеть дельфинов в их естественной
+    среде.  \r
+
+    <a href=https://anapanet.ru/>https://anapanet.ru/</a>"
+  lang: zh-CN
+  ip:
+    encrypted: ZjRlMjZjNTZjZGNlMTcxMWZhNTk2MTcyYjU=
+    algorithm: aes-256-gcm
+    iv: 5ad20b0aca8ee06ad65fc9c9
+    version: "1"
+  spam:
+    score: 9.2
+    marked: true
+  status: rejected
