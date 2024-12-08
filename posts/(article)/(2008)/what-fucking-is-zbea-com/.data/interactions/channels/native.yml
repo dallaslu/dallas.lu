@@ -248,3 +248,29 @@
     score: 8.81
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 18a0fbc37f42a660ea6ef6ccd3dd4556613d5a6f
+  author:
+    name: MichaelKib
+    lang: zh-CN
+    email:
+      value:
+        encrypted: NzkyNGU4MTJiYWNkMWI0MDhmZmI2NzliMzY3NGUxYTAyYzJiOGQ2OTNmZjI4YjQ2
+        algorithm: aes-256-gcm
+        iv: 5a53ec5b2b21fcbda6ef209d
+        version: "1"
+      hash:
+        sha256: e531507997b64ee023a4c375c2ea3ebc7f2d6a58bcc202e3a8bb2461f39f8fc5
+  published: 2024-12-08T15:10:40.800Z
+  content: <a href=https://press-news.com.ua/>https://press-news.com.ua/</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZTFmZjUzNjRiYWU3NWQwODAyYzI5MDFkM2FkNQ==
+    algorithm: aes-256-gcm
+    iv: c9520787153db0f83b9cf78f
+    version: "1"
+  spam:
+    score: 8
+    marked: true
+  status: rejected
