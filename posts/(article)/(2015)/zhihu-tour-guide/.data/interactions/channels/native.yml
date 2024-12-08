@@ -1121,3 +1121,31 @@
     score: 5.22
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: ef784a459cd79361605482d89a0d6645a5da8dfd
+  author:
+    name: JamesZom
+    lang: en
+    email:
+      value:
+        encrypted: YTJhNTczNDRjMDEzODAzMzkyOTY1OWM5YWQyZmY2NTgzMw==
+        algorithm: aes-256-gcm
+        iv: 565029e7a1a1faff00b55f57
+        version: "1"
+      hash:
+        sha256: fe43616c81e6ed65a3d952031bbefc393a4589ec5a05cd181178fd83ece0e156
+  published: 2024-12-08T17:20:51.833Z
+  content: Гимнастика для спины, занятия Красивая осанка, Здоровая спина, Йога,
+    Гамаки, Стретчинг, Шпагат, Пилатес, Zumba, Восточные танцы, массаж в Студии
+    <a href="https://dusash-omsk.ru/">фитнес клуб метро беляево</a>
+  lang: zh-CN
+  ip:
+    encrypted: NWRmNWU5MzQyZjg5OGEzMTBjMDY2MDY1OTAzYw==
+    algorithm: aes-256-gcm
+    iv: 09f165584466023739e6d46b
+    version: "1"
+  spam:
+    score: 9.05
+    marked: true
+  status: rejected
