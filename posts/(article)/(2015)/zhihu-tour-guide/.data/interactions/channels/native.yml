@@ -1149,3 +1149,32 @@
     score: 9.05
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0d1f8bef303584d0f317d35bc1b4e9a33ba60bbb
+  author:
+    name: ZacharyVaxia
+    lang: en
+    email:
+      value:
+        encrypted: ZmU4ODRmMzZhZmJhODM1NWYzOTY1MjMzNThhNzdiNWRlZA==
+        algorithm: aes-256-gcm
+        iv: 209b2b0e57af27f5ef9a98ff
+        version: "1"
+      hash:
+        sha256: 308ec9a9e4d4a3c0ff8e1856c41352be46cb8a59d90a5943a905d05045bf8322
+  published: 2024-12-08T22:20:19.519Z
+  content: Просторный тренажерный зал. Fitness Беляево оборудован 150+ единицами
+    современных тренажеров. Самые популярные из них представлены в нескольких
+    экземплярах, чтобы вы не тратили время на ожидание в очереди <a
+    href="https://fitness-lubercy.ru/">фитнес залы беляево</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODM5MjgyNmQ3ODgwZmVlYTNjMWE3YTFhMjUxNQ==
+    algorithm: aes-256-gcm
+    iv: ffa982ea220f76a42cf37ddc
+    version: "1"
+  spam:
+    score: 8.97
+    marked: true
+  status: rejected
