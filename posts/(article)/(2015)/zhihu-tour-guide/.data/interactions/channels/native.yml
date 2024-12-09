@@ -1205,3 +1205,37 @@
     score: 5.25
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: e37d85e6c488695fbf46059aa9a0d04068fde84a
+  author:
+    name: Shop-1Mut
+    lang: en
+    email:
+      value:
+        encrypted: OGY3N2QwODgwY2Y3NmJiOTM3Y2YyNDk4NzA5ODU1YWQ2NTE0N2NiODYw
+        algorithm: aes-256-gcm
+        iv: 021cc88a51cfc636f7b5590a
+        version: "1"
+      hash:
+        sha256: abef05c40f7c51e0146cb67cad88bb2b44de4bf2493abfee6c8945f980c62e7c
+  published: 2024-12-09T09:30:40.424Z
+  content: "BS снова работает!!! \r
+
+    \ \r
+
+    \ Подробнее https://teletype.in/@trololo79/dS_96KuCmUe \r
+
+    \ \r
+
+    #BS2BEST-AT #BS2SITE-AT"
+  lang: zh-CN
+  ip:
+    encrypted: NmM3NWNkZGEwNmY4NGExNmQxYTZkYzJm
+    algorithm: aes-256-gcm
+    iv: c312d869270ba3b5fd8829b3
+    version: "1"
+  spam:
+    score: 5.67
+    marked: true
+  status: auditing
