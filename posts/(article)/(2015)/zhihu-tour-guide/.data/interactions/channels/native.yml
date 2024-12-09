@@ -1239,3 +1239,31 @@
     score: 5.67
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: de53604b258109401a541d49c23551cc819e2ad3
+  author:
+    name: Irwinfrugh
+    lang: en
+    email:
+      value:
+        encrypted: ODMxMjMyNTBjZGQxYjFmZDM5M2EyMzA1MzA0MzhiNzk3OA==
+        algorithm: aes-256-gcm
+        iv: a20475c96b7f06c9801f2ea4
+        version: "1"
+      hash:
+        sha256: a34d4ca5efef1a1020b7710842251475de12e1ff6d92d65c904381dee36e590c
+  published: 2024-12-09T12:11:25.378Z
+  content: Высокотехнологичные видеостойки от производителя. На нашем сайте
+    представлен широкий ассортимент различных моделей и с разными размерами
+    экрана <a href="https://vk.com/biznareklama">купить видеостойку</a>
+  lang: zh-CN
+  ip:
+    encrypted: Y2RkMTc1Y2JkMDRmODA1ZjJkMWNlMzNmNDFjZQ==
+    algorithm: aes-256-gcm
+    iv: 32724a3e304695c569c0a824
+    version: "1"
+  spam:
+    score: 6.12
+    marked: true
+  status: rejected
