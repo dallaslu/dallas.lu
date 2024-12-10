@@ -1548,3 +1548,33 @@
     score: 8.59
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ebe216bc51e8f30cce1a099523995cd405c14bda
+  author:
+    name: FrankElamp
+    lang: en
+    email:
+      value:
+        encrypted: MDBmMmY4YTQxZTkzMzgzOWE2OGI5ZGU4MjZmYmFiZjEwMg==
+        algorithm: aes-256-gcm
+        iv: 7c4c469301ad523487054313
+        version: "1"
+      hash:
+        sha256: 6b64c09f01c23a89ab1bd7ea1cd233acd1b2ac63aa3159b8e5f7dc8344587c95
+  published: 2024-12-10T21:30:06.557Z
+  content: Используйте бесплатные шаблоны резюме для устройства на работу. Пустые
+    бланки резюме для устройства на работу представлены в 35 вариантах
+    оформления. Шаблоны представлены в формате PDF, используйте для работы с
+    файлами PDF-редакторы <a
+    href="https://www.time-samara.ru/content/view/734992/smotrim-shablony-rezyume-na-rabotu--podborka-blankov">https://www.time-samara.ru/content/view/734992/smotrim-shablony-rezyume-na-rabotu--podborka-blankov</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTQ3ZDVjOTg0MmEyMzJlMDEwYWUwOGQwNjNkNA==
+    algorithm: aes-256-gcm
+    iv: 9393cf4644a4ba63f4efef7f
+    version: "1"
+  spam:
+    score: 8.43
+    marked: true
+  status: rejected
