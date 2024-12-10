@@ -1445,3 +1445,33 @@
     score: 6.97
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a3716df886810b778db3c0dfe98709d5150ab821
+  author:
+    name: DavidJulge
+    lang: en
+    email:
+      value:
+        encrypted: OWQzNTgyNGI5ODE5YmJiNDg3NjllM2U0ZjM4NmFlODZmZg==
+        algorithm: aes-256-gcm
+        iv: 8361f2e4a238e294e8573f68
+        version: "1"
+      hash:
+        sha256: 9cf0c2e977b1f32125fd62c2af715337766ffeb2624300bdb05942f4e6735e88
+  published: 2024-12-10T13:12:39.351Z
+  content: Наша компания предоставляет услуги эвакуации автомобилей в Москве и
+    Московской области круглосуточно. Мы гарантируем оперативную помощь,
+    доступные цены и профессиональный подход. Вызвать эвакуатор вы можете по
+    телефону или оформить заявку на нашем сайте в любой момент <a
+    href="https://autoru24.ru/">эвакуатор балашиха</a>
+  lang: zh-CN
+  ip:
+    encrypted: NGJkZTUyOWYxOWIxMzU0NmI3ZmJkNmU5MDUzYg==
+    algorithm: aes-256-gcm
+    iv: ebff68e812b9fbbd4656b4e5
+    version: "1"
+  spam:
+    score: 8.83
+    marked: true
+  status: rejected
