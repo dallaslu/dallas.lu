@@ -1417,3 +1417,31 @@
   spam:
     score: 2.5
   status: auditing
+- type: reply
+  channel: native
+  id: fd93e208e0c7332020a9c709006b64ec8e87816a
+  author:
+    name: CharlesNig
+    lang: en
+    email:
+      value:
+        encrypted: NmQyYjc5ODRhY2I4M2RmZGU3N2FjZGRmNmM1Y2U2N2NlNA==
+        algorithm: aes-256-gcm
+        iv: d9c7be277861d3f2707028cd
+        version: "1"
+      hash:
+        sha256: 27545b4adf75604b1d4851d48ef758704b0393414c26b387a55cd68f8ba0ac06
+  published: 2024-12-10T00:26:52.916Z
+  content: Кто может порекомендовать обменник с хорошими условиями для обмена
+    криптовалюты? Хочу, чтобы курс был честный и не было скрытых комиссий <a
+    href="https://obovsem.rolevaya.info/viewtopic.php?id=3782#p16181">https://obovsem.rolevaya.info/viewtopic.php?id=3782#p16181</a>
+  lang: zh-CN
+  ip:
+    encrypted: YjMyZDljNThmM2JmN2VlYjExZGE0MGM4MzEzNw==
+    algorithm: aes-256-gcm
+    iv: 7a1ada02d8c9a5db38dc5968
+    version: "1"
+  spam:
+    score: 6.97
+    marked: true
+  status: rejected
