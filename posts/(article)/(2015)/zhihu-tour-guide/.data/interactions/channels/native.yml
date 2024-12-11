@@ -1642,3 +1642,30 @@
     score: 7.69
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5b5d92c661bceb43141572fe3b15dab6691eadf3
+  author:
+    name: Davidsip
+    lang: en
+    email:
+      value:
+        encrypted: OWFjMjI2ZDFhYTk5YWIwNTA2ZThhMzY1NWE2NDdmZWVhNw==
+        algorithm: aes-256-gcm
+        iv: 6629acddb20a1feb7fffeaaf
+        version: "1"
+      hash:
+        sha256: 32bba13fc27de5a1aac0181e5ec9c216fe6a748d1fa8c7739b431c04dea1f1c6
+  published: 2024-12-11T15:46:04.179Z
+  content: 'Babu88: Online casino and bookmaker for sports betting in Bangladesh
+    <a href="https://mayaiswithyou.com/">babu88 download</a>'
+  lang: zh-CN
+  ip:
+    encrypted: OWE2OTgzYTdmMTg4MjExYTY4MDQ0ZWU4MzU4NQ==
+    algorithm: aes-256-gcm
+    iv: caee424258ba4a4841bae3a3
+    version: "1"
+  spam:
+    score: 6.48
+    marked: true
+  status: rejected
