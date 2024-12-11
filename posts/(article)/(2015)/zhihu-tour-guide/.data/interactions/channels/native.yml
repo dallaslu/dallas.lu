@@ -1608,3 +1608,37 @@
     score: 7.78
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c513a667e471d5a94e794e668809b4d9104ada8b
+  author:
+    name: LauraSCAVE
+    lang: en
+    email:
+      value:
+        encrypted: YmIwYzAwYzk2NjI2ZGVmNTkzYmQ2YWIzMTE4MWIzNTUzOWQ3NzRiNWYzYjVmN2YxNTk=
+        algorithm: aes-256-gcm
+        iv: 8e099a09e8cb8da1e09f4db2
+        version: "1"
+      hash:
+        sha256: dec8e57ccc91dc5121c783f48a17872ac76c6fca221c8e8c4abef1228c3eafee
+  published: 2024-12-11T13:11:55.705Z
+  content: "Мы специализируемся на создании идеального соединения между
+    талантливыми девушками и ведущими платформами в индустрии моды. \r
+
+    Более подробная информация по ссылке [url=https://camcharm.ru/]вебкам студии
+    [/url] \r
+
+    Наши специлисты помогают моделям раскрыть свой потенциал, предоставляя
+    обучение и поддержку на каждом этапе. Мы также предлагаем услуги для
+    агентств, желающих найти лучших специалистов для своих проектов."
+  lang: zh-CN
+  ip:
+    encrypted: NWUzNjYwMDY4Y2M3NzQ4MGE2NjU3NTk5MzE=
+    algorithm: aes-256-gcm
+    iv: 949b8deb332bb56c4186419b
+    version: "1"
+  spam:
+    score: 7.69
+    marked: true
+  status: rejected
