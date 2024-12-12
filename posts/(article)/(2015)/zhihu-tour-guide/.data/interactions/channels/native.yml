@@ -1750,3 +1750,32 @@
     score: 8.82
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: daf4e3171ada5bb8ef3725876cd32cc5754e5f19
+  author:
+    name: PhilipInfox
+    lang: en
+    email:
+      value:
+        encrypted: NTljYWRiMzY5MjlmZWZhMTI0NmRmYTY1ZDljZGY3YTE2YQ==
+        algorithm: aes-256-gcm
+        iv: 95a0795de9c8e139f7a51b74
+        version: "1"
+      hash:
+        sha256: f78e8cefd1e1fbb434c0c59cde7463a42560723245b814703b70aac2e68182fd
+  published: 2024-12-12T11:19:53.161Z
+  content: Мы не просто предоставляем цифры. На сайте вы найдете аналитические
+    материалы, которые помогут лучше понять динамику валютного рынка, выявить
+    тренды и спланировать свои финансовые шаги <a
+    href="http://new-yoomoney.ru/">стоимость доллара в рублях</a>
+  lang: zh-CN
+  ip:
+    encrypted: NDI1MTc4Y2ZmNWM5Y2M1NzUzMDYwZDYxOTQ0OQ==
+    algorithm: aes-256-gcm
+    iv: d80f9657b769af81500e7b19
+    version: "1"
+  spam:
+    score: 8.96
+    marked: true
+  status: rejected
