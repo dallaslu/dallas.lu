@@ -1719,3 +1719,34 @@
     score: 8.57
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 890ec027c52c18a5075177900fa3d7a47f5d1515
+  author:
+    name: SamuelSauby
+    lang: en
+    email:
+      value:
+        encrypted: MWQ2OTY3ZmNlNzI2ZWFiNDJlZWM5N2QxZTY2ZmE4OWFhOA==
+        algorithm: aes-256-gcm
+        iv: 99afa3f8d328f772785df53b
+        version: "1"
+      hash:
+        sha256: e19f39540aa97562dc0dcec6b6198071032a6320d3742f42fcb15e47c341115d
+  published: 2024-12-12T11:10:42.414Z
+  content: Отслеживание курсов валют — это важный инструмент для грамотного
+    управления финансами как в личной жизни, так и в бизнесе. Знание актуального
+    курса позволяет выбрать наиболее выгодное время для обмена валюты, что
+    особенно полезно при подготовке к поездкам за границу или международным
+    переводам <a href="http://my-smsfinance.ru/">курс доллара совкомбанк на
+    сегодня</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZTEwNjU3YWZhMmIwMzgxNGY3MDg0M2RjMzZjZQ==
+    algorithm: aes-256-gcm
+    iv: a4c4e52552159bc74b223209
+    version: "1"
+  spam:
+    score: 8.82
+    marked: true
+  status: rejected
