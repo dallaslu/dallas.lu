@@ -1927,3 +1927,39 @@
     score: 8.62
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3677832987122e84bbc3ba96c5905c588e0db07b
+  author:
+    name: Richardvep
+    lang: en
+    email:
+      value:
+        encrypted: MTBiYzQyNTJmOGIwNWNmMDA0ZDU0ODlmZDZmMmU3MDc1Mw==
+        algorithm: aes-256-gcm
+        iv: 2fedfc001a5ae83b2b491fa3
+        version: "1"
+      hash:
+        sha256: 7e3cd8c950a651461841ea55f97e398af02d9489d18531a2f699949fb70df2a7
+  published: 2024-12-13T00:24:44.818Z
+  content: 'Передвижной компрессор — это универсальное решение для сжатия воздуха
+    в разных условиях. Мобильные компрессоры, включая электрические модели,
+    используются в самых разных сферах: от строительства до производства. Для
+    удобства эксплуатации существуют передвижные компрессорные установки,
+    воздушные компрессоры передвижные и даже воздушные компрессоры на прицепе.
+    Эти устройства бывают как поршневыми, так и более мощными промышленными
+    вариантами. Важно, что передвижной компрессор бывает с различными
+    характеристиками, включая мощность, тип привода и производительность, что
+    позволяет подобрать модель для любых нужд <a
+    href="http://stroy-compressor.ru/">компрессор передвижной воздушный
+    электрический 220в</a>'
+  lang: zh-CN
+  ip:
+    encrypted: YmNhYWM1NGI0ZDgyYzk3YzIyMDE1NGU0ZWE5Mg==
+    algorithm: aes-256-gcm
+    iv: 261cba79a9e3968e8f5c6188
+    version: "1"
+  spam:
+    score: 8.68
+    marked: true
+  status: rejected
