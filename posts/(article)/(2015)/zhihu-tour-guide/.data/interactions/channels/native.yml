@@ -1992,3 +1992,32 @@
     score: 4.93
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 79c72842af0cdaddbf119943bef9a5c7de09440a
+  author:
+    name: Haywoodnitly
+    lang: en
+    email:
+      value:
+        encrypted: YWZiOTFlYmM4ZTBjNGYwYWE5ZmJhZjQ2N2FjZjRmYzcxYg==
+        algorithm: aes-256-gcm
+        iv: 3bc4d5b301a7d49b4e29c3a3
+        version: "1"
+      hash:
+        sha256: d1eaa9bf0946febcd7c35c4213fbcc80d5e1f7e57f2a9b7e7de90a059ccd4516
+  published: 2024-12-13T10:31:28.238Z
+  content: Наш сайт для мониторинга курсов валют — это ваш надежный помощник в
+    финансовом планировании. Каждый день предоставляем точную и актуальную
+    информацию о курсах валют, позволяя пользователям принимать обоснованные
+    решения <a href="http://card2money.ru/">доллар цена рублей</a>
+  lang: zh-CN
+  ip:
+    encrypted: NjA1MDBkZTNmZWQ2ODQ1MTJkZTIxNzc5N2FlZA==
+    algorithm: aes-256-gcm
+    iv: ff867109d0f6c08b535d5c05
+    version: "1"
+  spam:
+    score: 8.89
+    marked: true
+  status: rejected
