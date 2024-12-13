@@ -2080,3 +2080,35 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 92cf07a5febd50dab340572002038ac11bf50c59
+  author:
+    name: WilburMaymn
+    lang: en
+    email:
+      value:
+        encrypted: M2ExZjllZTU5YmJlZmI4OTQ2NjQ4NDk3NzgzNThiZTI=
+        algorithm: aes-256-gcm
+        iv: 576dcbbf785755ae3d772536
+        version: "1"
+      hash:
+        sha256: 8646c45a65991df2dde04dade0978b8f0965627147ef639849189ad0870c19d7
+  published: 2024-12-13T19:58:29.087Z
+  content: Спиральный компрессор — это эффективное устройство, которое
+    используется для сжатия воздуха в различных системах. Герметичный спиральный
+    компрессор часто используется в промышленных приложениях, где необходимы
+    компактность и надежность. Такие компрессоры обеспечивают отличную
+    герметичность и минимальный уровень утечек, что делает их идеальными для
+    использования в самых разных условиях <a
+    href="http://compressor-tomsk.ru/">спиральный компрессор</a>
+  lang: zh-CN
+  ip:
+    encrypted: MDNiNTNiODhlMGNkMTJjM2IwNWZlNGZhMGI3NQ==
+    algorithm: aes-256-gcm
+    iv: 1aea64f26436d2a0ac2e8af7
+    version: "1"
+  spam:
+    score: 8.78
+    marked: true
+  status: rejected
