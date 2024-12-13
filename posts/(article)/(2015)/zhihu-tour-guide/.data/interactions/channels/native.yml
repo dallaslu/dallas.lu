@@ -2053,3 +2053,30 @@
     score: 6.15
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 04bffc1d45585e551cda6f043b1ca14a1b4cc24a
+  author:
+    name: KennethanIto
+    lang: en
+    email:
+      value:
+        encrypted: YTVhOTFhZGYyYmI4MmMxNGZmZGUzNTJkYjQ0NzVhNzc=
+        algorithm: aes-256-gcm
+        iv: c0df15ffecc38dd68755a3aa
+        version: "1"
+      hash:
+        sha256: edab9b4f1056ab9c4d6202c21407ead558f154677e74761c4c9dd72f7b2cd6ff
+  published: 2024-12-13T19:43:02.158Z
+  content: <a
+    href="https://t.me/vladislavkocherizhkin/40">https://t.me/vladislavkocherizhkin/40</a>
+  lang: zh-CN
+  ip:
+    encrypted: N2NiZTk2NjMxNjQ0M2I3ZTA0NTU4MTU0YTY1NA==
+    algorithm: aes-256-gcm
+    iv: 5a78fa04fe312cd2160a7ba6
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
