@@ -166,3 +166,29 @@
     encrypted: ZDRlZmQ5N2RjYTY2YWFjOGU0MTJhNTlh
     algorithm: aes-256-gcm
     iv: 3be00e996028a6a89ee43840
+- type: reply
+  channel: native
+  id: cadc298553e4a3c2c7b7802a318c00edb21d639b
+  author:
+    name: DarrylTwise
+    lang: zh-CN
+    email:
+      value:
+        encrypted: Njg1NDdiYzYzZjk0NWY3YjkwMjZhZWNiZjNmOTVhNDE3YTMwZGQzOGRlN2VhYTMxNTE=
+        algorithm: aes-256-gcm
+        iv: 1147dae4f3c72a6d3de4062b
+        version: "1"
+      hash:
+        sha256: e5ba95e50246fe07f4016689fd2c494e340a9d7b42f6b64a484f66313cb642d2
+  published: 2024-12-13T23:28:47.269Z
+  content: <a href=https://barus.com.ua/>шаблони для аплікації з листя</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTRlNjhhZjIzZjQ4NzliYzQzNjhlZDE2MjUyMg==
+    algorithm: aes-256-gcm
+    iv: 5c0bb0b19f68150a5c764fff
+    version: "1"
+  spam:
+    score: 6.62
+    marked: true
+  status: rejected
