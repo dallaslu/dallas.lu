@@ -192,3 +192,31 @@
     score: 6.62
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9cd507378e3464183fc9f2ef337c295812298399
+  author:
+    name: AlbertoGoarl
+    lang: zh-CN
+    email:
+      value:
+        encrypted: MzRlNmQ2ZjlmYmY0ZmQ1NmNkMmRjYTgxZGYyYjBlZjE3Mzgy
+        algorithm: aes-256-gcm
+        iv: e460935d3e2e83a8d3f06252
+        version: "1"
+      hash:
+        sha256: 2dda679b792daf93fb3e400ce07a93363ac24ba85275f0ac989adc3034fbd3d8
+  published: 2024-12-14T21:49:53.875Z
+  content: " \r
+
+    <a href=https://kinogo24.biz/>фильмы онлай</a>  "
+  lang: zh-CN
+  ip:
+    encrypted: YWMxMjViMzAxMjYyMzI1OThhNjFhNWFjM2I=
+    algorithm: aes-256-gcm
+    iv: 9062568ef12a37da508e06e6
+    version: "1"
+  spam:
+    score: 7.22
+    marked: true
+  status: rejected
