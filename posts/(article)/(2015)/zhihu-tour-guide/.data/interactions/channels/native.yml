@@ -2140,3 +2140,33 @@
     score: 5.17
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 1ec7e0a448f8d3fbc04f3bf1a3346d0fd9d434a1
+  author:
+    name: Evgenhaw
+    lang: en
+    email:
+      value:
+        encrypted: ODlkYzJjMDk3YWYwODllODIwNjI1MjIxZjU0MDcxZGM=
+        algorithm: aes-256-gcm
+        iv: a2816d95d96e019faf7666d8
+        version: "1"
+      hash:
+        sha256: 78f57c772bf111c5b086c3d11cbe47e095f237386bd3d2e61d59132e492a86d2
+  published: 2024-12-14T08:17:50.189Z
+  content: Сегодня [url=https://rossia-hall.ru/stavki-na-sport.htm]мобильные
+    приложения букмекерских контор[/url] предлагают полный функционал для ставок
+    на спорт. Через них вы можете пополнять счет, отслеживать статистику и
+    заключать пари в несколько кликов. Это идеальный вариант для тех, кто ценит
+    мобильность и удобство.
+  lang: zh-CN
+  ip:
+    encrypted: MDhhN2IyODA4Mjk0NmQzNGZjMzNkNTI4ZGFjNQ==
+    algorithm: aes-256-gcm
+    iv: cc35537ab66f248738abe780
+    version: "1"
+  spam:
+    score: 6.5
+    marked: true
+  status: rejected
