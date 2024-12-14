@@ -60,3 +60,29 @@
     version: "1"
   spam:
     score: 0.5
+- type: reply
+  channel: native
+  id: 6b4db36145ac365dd5d394f604fe48bb50878edb
+  author:
+    name: Arthurbus
+    lang: en
+    email:
+      value:
+        encrypted: OGMyZWY3MjZmZDU4MjI2ZjUzOTkwY2RjNTlkNGEwOTcwOTI2ZWY=
+        algorithm: aes-256-gcm
+        iv: 717c393c4d87da6d1469cb9a
+        version: "1"
+      hash:
+        sha256: aa39bd1346a14a64e1d1ddd3a738269ae52a7a9eac36d835b8de303cdc728278
+  published: 2024-12-14T10:45:47.665Z
+  content: "https://pq.hosting/vps-vds-slovakia-bratislava\r\n"
+  lang: en
+  ip:
+    encrypted: NWRmYThmNDc5ZjJkZjhkNDQzNDUwMzU2ZDM=
+    algorithm: aes-256-gcm
+    iv: d782e34df6b404e8fe6f8e46
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
