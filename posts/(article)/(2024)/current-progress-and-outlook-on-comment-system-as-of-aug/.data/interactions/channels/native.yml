@@ -36,3 +36,27 @@
     algorithm: aes-256-gcm
     iv: 74076f974dc049ba240871fd
     version: "1"
+- type: reply
+  channel: native
+  id: 248eb9373411a5f7b997028b71039373671839ad
+  author:
+    lang: zh-CN
+    url: https://lingxianpub.wang/
+    email:
+      value:
+        encrypted: ZGYwMDdhZjc4ODE5MTU0Y2I2Yzk5NzM3NWRjNTJhOTA=
+        algorithm: aes-256-gcm
+        iv: e0de86e007644428b98b39c8
+        version: "1"
+      hash:
+        sha256: 9a2177eef772f39d0e34f3f09ab427447866c0cbc7b8ccd528c02e5b6636ec19
+  published: 2024-12-14T03:38:15.895Z
+  content: 学到了，后面加评论系统的时候就这么搞
+  lang: zh-CN
+  ip:
+    encrypted: NzRhNWVjYWFlYzkzMzU4ODM1NGQxNzY0
+    algorithm: aes-256-gcm
+    iv: 937a4160edc64f3b0fc50cf3
+    version: "1"
+  spam:
+    score: 0.5
