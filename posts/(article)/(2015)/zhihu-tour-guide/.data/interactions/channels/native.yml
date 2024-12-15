@@ -2962,3 +2962,32 @@
     score: 9.09
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ba467e5e417ff7ce5826b0836b85b3c0277e9584
+  author:
+    name: Jaimeglate
+    lang: en
+    email:
+      value:
+        encrypted: MzUyMTgyZDYyZWY3Yjc0NDBmNDgzMGFmM2UyYTI5ZGQzMQ==
+        algorithm: aes-256-gcm
+        iv: 6ebfb093f8b26b9c7707bbe4
+        version: "1"
+      hash:
+        sha256: 13f4bd948b5af32e462beef7cdd21e8bf1a9470ff19ea0709bf8fb2be25ac4e8
+  published: 2024-12-15T18:06:41.374Z
+  content: Микрозаймы выдают МФО – микрофинансовые организации. Их преимущество
+    для бизнеса – в более простом порядке получения денег и быстром сроке
+    рассмотрения заявки <a href="https://polytech-business.ru/">займ директору
+    ооо</a>
+  lang: zh-CN
+  ip:
+    encrypted: NmRjMGIxYzkwZjVlOWY3OTdiZjFhN2EwZWI4Ng==
+    algorithm: aes-256-gcm
+    iv: 057c95301bc77ff1312ec9d6
+    version: "1"
+  spam:
+    score: 9.1
+    marked: true
+  status: rejected
