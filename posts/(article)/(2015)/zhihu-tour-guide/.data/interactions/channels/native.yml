@@ -2906,3 +2906,31 @@
     score: 8.9
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 28ec619f54b7645db84b2a53d40772929658aa26
+  author:
+    name: PeterMub
+    lang: en
+    email:
+      value:
+        encrypted: Mzg5NjcyMjlhODllZmQ2Y2MwMTlhNjM5YmZjMmI4NzRlNA==
+        algorithm: aes-256-gcm
+        iv: f8d3e1d04f1618352909d9de
+        version: "1"
+      hash:
+        sha256: 392eec479d54a6f140824f83ffe6efaa682dcb2de4033912498e7066a5b7cb60
+  published: 2024-12-15T14:21:30.975Z
+  content: 'Надежные онлайн казино Украины: как выбрать площадку для игры в слоты,
+    чтобы выигрывать деньги и легко выводить гривны на карту <a
+    href="https://kozak-casino.blogspot.com/">казино Козак</a>'
+  lang: zh-CN
+  ip:
+    encrypted: N2E3NzExMTZmYTQ2ZWVhODYxMWZmNDc1YzRlZg==
+    algorithm: aes-256-gcm
+    iv: 612820f2376cb1854ccd0628
+    version: "1"
+  spam:
+    score: 6.28
+    marked: true
+  status: rejected
