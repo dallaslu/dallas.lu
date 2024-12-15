@@ -2846,3 +2846,63 @@
     score: 5.19
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 1690feb3d8acc03bc854a96de37aa1f37008ff14
+  author:
+    name: Brandonciz
+    lang: en
+    email:
+      value:
+        encrypted: MDQyMzBjMTUwN2EzM2UyYTkwZTk1NWNiNmFlMmEwNjg4OGQ5MDZkYWI0MDMwOTM1
+        algorithm: aes-256-gcm
+        iv: 2cddceb17d9f1374d45db49d
+        version: "1"
+      hash:
+        sha256: f0435c7b2cd4fe634c6643656316a2b2072a4cfb31810a35d93329996ef76139
+  published: 2024-12-15T10:51:43.593Z
+  content: "Владелец популярной площадки **Mega Darknet Market**, именуемый
+    **Мориарти**, запускает конкурс с невероятными призами! ������ \r
+
+    \ \r
+
+    Каждая ваша покупка дает вам шанс выиграть призы мечты! Чем больше покупок,
+    тем больше шансов. ������ \r
+
+    \ \r
+
+    ������ **Результаты конкурса будут подведены в канун Нового года**, и сам
+    **Мориарти** проведет их в прямом эфире! Это событие вы не захотите
+    пропустить! \r
+
+    \ \r
+
+    ������ Подробнее об условиях и участии: \r
+
+    1️⃣ [Узнать о конкурсе здесь](https://m3gaweb2.top) \r
+
+    2️⃣ [Зарегистрироваться и участвовать](https://m3gaweb15.top) \r
+
+    3️⃣ [Сделать покупку и
+    выиграть](https://megacatkp55k5rtmloe3da7k7w7hp5l2da2kkmbc7lqdlm442wrxrqyd.\
+    top) \r
+
+    \ \r
+
+    ������ **Мега-призы ждут вас**: от эксклюзивных товаров до секретных наград
+    от самого Мориарти! Не упустите свой шанс. Участвуйте и выигрывайте! ������
+    \r
+
+    \ \r
+
+    Ждем вас на Mega!"
+  lang: zh-CN
+  ip:
+    encrypted: MGEwOTlmNTA2NWFkZWM5NmY1MTU5MWY3
+    algorithm: aes-256-gcm
+    iv: 4b7d2bd25ab026a09cb6ff7d
+    version: "1"
+  spam:
+    score: 8.9
+    marked: true
+  status: rejected
