@@ -220,3 +220,29 @@
     score: 7.22
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e865b970dc3bcb55bbea60722ccb449018f33d07
+  author:
+    name: Mariorob
+    lang: zh-CN
+    email:
+      value:
+        encrypted: ZTU0NDY2ZTgzMzAyYTY2MTI3NWEzMzM4MjIwNjk1NzVjMjMwY2IwNzQ1OTk3NTYx
+        algorithm: aes-256-gcm
+        iv: cdd70d8728329b151057ad92
+        version: "1"
+      hash:
+        sha256: dc4658a846cdb9262947ee409d17a3c4401c2bf3c75f43067fdef2e63673d91e
+  published: 2024-12-15T22:34:37.094Z
+  content: <a href=https://vkorzinu.com.ua/>https://vkorzinu.com.ua/</a>
+  lang: zh-CN
+  ip:
+    encrypted: NmRhYzhmNTQ0YWQxMWRkODIwNmZhOTk3MTNlOQ==
+    algorithm: aes-256-gcm
+    iv: dc5948b84fd5810a02430281
+    version: "1"
+  spam:
+    score: 8
+    marked: true
+  status: rejected
