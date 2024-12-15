@@ -2818,3 +2818,31 @@
     score: 5.72
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 2c249c845d3c15b94127ee279cf36c1d999a51b0
+  author:
+    name: Homerwak
+    lang: en
+    email:
+      value:
+        encrypted: NDM0OTQxNjA5ZWY0Y2MxZTFmOGVhYjY3YjIzMmUxMDg1MTQ1
+        algorithm: aes-256-gcm
+        iv: 9e10b9d3ab5314370ed8d3eb
+        version: "1"
+      hash:
+        sha256: a63f22d3e41d3469d9a2eacb7228db3ef35a831bc64f2e168fdd18b2638f52a4
+  published: 2024-12-15T09:24:01.986Z
+  content: "[url=https://kreken.cc/]КРАКЕН зеркало - даркнет маркет. КРАКЕН ссылка
+    онион tor kraken krn. Вход на кракен маркет[/url]  войти на сайт по
+    kreken.cc"
+  lang: zh-CN
+  ip:
+    encrypted: YWU1ZWU3NmRkYWFjZjIwYzQ2MDA5MmRkZWI=
+    algorithm: aes-256-gcm
+    iv: c1735a31e60c3b76acd4930d
+    version: "1"
+  spam:
+    score: 5.19
+    marked: true
+  status: auditing
