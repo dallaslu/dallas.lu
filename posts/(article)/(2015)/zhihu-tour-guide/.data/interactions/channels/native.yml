@@ -2753,3 +2753,32 @@
     score: 6.64
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 572ceae2c7b863766c9e33d0a899af2b5c9a8f10
+  author:
+    name: Williaminhip
+    lang: en
+    email:
+      value:
+        encrypted: NmM2MDU4NWQxNjFlZTI4MjI3MGUzMDQ0ZDdiMWMzNjM4OA==
+        algorithm: aes-256-gcm
+        iv: 6f28176005dad9c33b2aba15
+        version: "1"
+      hash:
+        sha256: f7f94ea38996147ff6ddb19638a90ce3c023f83b367668f2934f27e8aadc1669
+  published: 2024-12-15T00:47:24.559Z
+  content: Цилиндрическая камера видеонаблюдения является одним из наиболее
+    эффективных решений для наружного мониторинга и обеспечения безопасности <a
+    href="https://giftum.ru/kak-vybrat-videoregistrator-v-2025-godu/">видеорегистратор
+    4 канальный купить</a>
+  lang: zh-CN
+  ip:
+    encrypted: NDU2YTQ3NGRhOTYyZTJkZjYyMTllNzlkMDI1Zg==
+    algorithm: aes-256-gcm
+    iv: cf99178520e238d72c5b1a8e
+    version: "1"
+  spam:
+    score: 9.39
+    marked: true
+  status: rejected
