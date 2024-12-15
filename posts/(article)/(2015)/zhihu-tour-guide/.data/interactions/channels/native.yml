@@ -2934,3 +2934,31 @@
     score: 6.28
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a772eb337a181a4694deb32307422aa32a6cfadb
+  author:
+    name: ChestergaX
+    lang: en
+    email:
+      value:
+        encrypted: ZDczNmNkMWI3NWU0ZGJjYTQzM2I3Mjc4MjYxZWJjNTM0ZQ==
+        algorithm: aes-256-gcm
+        iv: 7f1e5dbeee943e1e3a34fdfc
+        version: "1"
+      hash:
+        sha256: f4e6166c4d739c5b7f044ece872ca8cec501ada7cf861981c697f583909ca64d
+  published: 2024-12-15T15:27:35.742Z
+  content: Межкомнатные раздвижные перегородки на заказ. Купить с доставкой по
+    России. Действуют акции, системы скидок и специальных предложений <a
+    href="http://loft-zonirovanie.ru">двери купе для гардеробной стекло</a>
+  lang: zh-CN
+  ip:
+    encrypted: NGY0ODAxYjMxZGE1ODc3NmVmZWQzNzEyNWRiOA==
+    algorithm: aes-256-gcm
+    iv: 821e87f8cf63631a4d1970c3
+    version: "1"
+  spam:
+    score: 9.09
+    marked: true
+  status: rejected
