@@ -3031,3 +3031,32 @@
     score: 5.74
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: d27858bd260f82bca625979a73a218d4a919da8c
+  author:
+    name: Robertdom
+    lang: en
+    email:
+      value:
+        encrypted: YmU5YTFlZDY0ZTg1ZDdjMWMxNzQwNzI5YjE4ZDRjNzA4OA==
+        algorithm: aes-256-gcm
+        iv: cae8dfdecf75710e1b02449d
+        version: "1"
+      hash:
+        sha256: d800a931eb74cf6ed0a2f123cb7171e7895df32c93401c7b63ef8fad0ed913a8
+  published: 2024-12-16T12:11:48.948Z
+  content: Чаще всего стеклянные перегородки можно увидеть в деловых помещениях –
+    пространствах лаконичных, функциональных и, прежде всего, с рабочей
+    атмосферой <a href="http://loftwood-design.ru/">гардеробная система с
+    выдвижными ящиками</a>
+  lang: zh-CN
+  ip:
+    encrypted: YWMzZDRkODgzZjk2OThmMmQxYTdlNWJlNzhhZA==
+    algorithm: aes-256-gcm
+    iv: 794fe620490e33d9ce5ffe69
+    version: "1"
+  spam:
+    score: 9.03
+    marked: true
+  status: rejected
