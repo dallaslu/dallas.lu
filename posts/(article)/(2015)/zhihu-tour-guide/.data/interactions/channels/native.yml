@@ -3060,3 +3060,32 @@
     score: 9.03
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5ebbc8134ccf73920bf3e27413c03484069bf93c
+  author:
+    name: DavidBep
+    lang: en
+    email:
+      value:
+        encrypted: NTliMjFkOTdkZjUyZDQ3NmU1MjIyNDc0MWU5MDUzN2Y=
+        algorithm: aes-256-gcm
+        iv: 5d921d165e62de06b1f5a1c5
+        version: "1"
+      hash:
+        sha256: 239eacbbbb972054840606456a5ecf8b33ce6aaa7cc1c9ab62b4c9fdc1ee364e
+  published: 2024-12-16T17:35:04.849Z
+  content: Труба профильная — это вид современного строительного металлопроката,
+    получаемый профилированием. Они имеют сечение, отличное от круглого.
+    Наиболее распространены квадратные и прямоугольные <a
+    href="http://allshveller.ru/">стальная профильная труба цена</a>
+  lang: zh-CN
+  ip:
+    encrypted: MWRmODdlZGUyOWZjN2ExZTQ4NmM4MWIyY2Y1MA==
+    algorithm: aes-256-gcm
+    iv: 1537e16eae3e7495d29ce84a
+    version: "1"
+  spam:
+    score: 8.93
+    marked: true
+  status: rejected
