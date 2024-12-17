@@ -120,13 +120,13 @@
     lang: en
     email:
       value:
-        encrypted: ZjQ5NTUzZTdmZGYyOTgwNzY0ODIzNWNjNDM2MDI3MzI4NGNiMDNkZDJmMzViNA==
+        encrypted: ODU3M2Q3NzBmNTJiNGE1MjI2YzBmZDEwODUwMzIzOGU0MmY3Yzc5YjQyYWZjMw==
         algorithm: aes-256-gcm
-        iv: 4c9512e5a35f7c14e678b0d2
+        iv: f71a44d1d6fc365dad6923cd
         version: "1"
       hash:
         sha256: b7f53f0d0fcdb39f2f661aadeaa3dba725e9e0b48799bbbfdb9e80aae83a062e
-  published: 2024-12-17T08:50:37.669Z
+  published: 2024-12-17T22:08:32.309Z
   content: "Инструкция по установке VPN \r
 
     В современном мире, где интернет занимает существенное место в нашей жизни,
@@ -234,9 +234,9 @@
     наслаждаться безопасным и приватным интернет-соединением."
   lang: en
   ip:
-    encrypted: ZDViZTE2ZGRlZDgxOGZhOGFkODk5YzQ2NTE=
+    encrypted: M2NiMWIwZGYzY2Y3NTU3NGQ1MGMzOTY1OGQ=
     algorithm: aes-256-gcm
-    iv: 70e01c085b82ab090866caf5
+    iv: cdd792e5f47d4c8c36eefac8
     version: "1"
   spam:
     score: 5.83
