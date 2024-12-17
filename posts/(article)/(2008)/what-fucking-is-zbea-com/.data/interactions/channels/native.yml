@@ -272,3 +272,29 @@
     score: 7.34
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 25665c5e6c7d6a9872e3027fc3dd8d63c8ca99fa
+  author:
+    name: GeorgeEnAva
+    lang: zh-CN
+    email:
+      value:
+        encrypted: ZTAyNmYxYzUwNmMzMzE5MmUyMDNmNzJhZGYwYjkzMWQ5YmYwYWU3OGY3YzYwODY2ZGY=
+        algorithm: aes-256-gcm
+        iv: 306163ac34057153aa1ed530
+        version: "1"
+      hash:
+        sha256: eafc9d20671dde560b2790c5432b560853310f74a9910e3d7dad9bc0fac4c322
+  published: 2024-12-17T18:03:39.143Z
+  content: <a href=https://latestnews.com.ua/>привітання сестри з днем народження</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZWNlN2Y4OWJiODViMmI3ZTAxZjU2YjE2MDA0Yw==
+    algorithm: aes-256-gcm
+    iv: fc7b197741ab3a37a3ba3261
+    version: "1"
+  spam:
+    score: 6.58
+    marked: true
+  status: rejected
