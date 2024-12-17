@@ -3368,3 +3368,32 @@
   spam:
     score: 2.87
   status: auditing
+- type: reply
+  channel: native
+  id: 8368132d329e9d5d9aabf4edfd4f6152d032e6ee
+  author:
+    name: MarioWar
+    lang: en
+    email:
+      value:
+        encrypted: MTEyNjM0YjQ1NmQ2ZTRjMGQ5OTkyMDJhZTFkMjk0NWQyOQ==
+        algorithm: aes-256-gcm
+        iv: 3712a59cff8e935ed0d72beb
+        version: "1"
+      hash:
+        sha256: 6bc09fd3453d41c1a316aa8d8a98d691e094662ff1f141579cfa35e4ef625b0a
+  published: 2024-12-17T22:45:05.454Z
+  content: 'Полный гид по достопримечательностям Калининграда: от Кафедрального
+    собора до Куршской косы. Узнайте, какие места обязательно стоит посетить в
+    самом западном городе России <a
+    href="https://www.cossa.ru/profile/?ID=258319">kaliningrad.blog</a>'
+  lang: zh-CN
+  ip:
+    encrypted: YWU4ZjkyYzZmZGQ0NjNlNmExNDRkZTYzYWM3Yg==
+    algorithm: aes-256-gcm
+    iv: 4261970e31bde51a057de301
+    version: "1"
+  spam:
+    score: 7.87
+    marked: true
+  status: rejected
