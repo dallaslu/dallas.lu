@@ -3172,3 +3172,33 @@
     score: 7.56
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a1e5154bb25e3b72bc67002ef3fc245abd197162
+  author:
+    name: BrianSib
+    lang: en
+    email:
+      value:
+        encrypted: ZWJiMWYzNWM1MDk1ZjJjODNlZmQ4OTEzODI4NTA2MzE=
+        algorithm: aes-256-gcm
+        iv: ced433148073c26b0455be5f
+        version: "1"
+      hash:
+        sha256: 964dd1207c717e26c74343e30fb0253aaf034b80f5a3ef6da5eeba10948c9289
+  published: 2024-12-17T17:53:30.683Z
+  content: Промисловий сталевий вентиль марки 11с37п для регулювання потоку води,
+    пари чи газу у трубопровідних системах. Використовується у системах
+    середнього та високого тиску <a
+    href="https://www.riva-service.com.ua/ru/zasuvki-z-obgumovanim-klinom/zasuvka-30ch39r-du-50-z-obgumovanim-klinom">задвижка
+    с обрезиненым клином</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTU0OTZhMGQ5MTc2NjZkZTkwNTFkMThiNGQ2OA==
+    algorithm: aes-256-gcm
+    iv: 0969f53d9477d132e88b75eb
+    version: "1"
+  spam:
+    score: 6.64
+    marked: true
+  status: rejected
