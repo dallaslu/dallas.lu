@@ -246,3 +246,29 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 138aaf23ab730203e9fa84c1060934db2eb9f6bf
+  author:
+    name: GeorgeEnAva
+    lang: zh-CN
+    email:
+      value:
+        encrypted: YjUxMzZlNTJjMzM0ZWFhODQ3ZDlhZWJjZTA1MjIyNmRhNWVlMjA0NjBhN2YyNWE1ZTg=
+        algorithm: aes-256-gcm
+        iv: ca9d39ec8d1a7f681a6be73d
+        version: "1"
+      hash:
+        sha256: eafc9d20671dde560b2790c5432b560853310f74a9910e3d7dad9bc0fac4c322
+  published: 2024-12-17T06:33:58.613Z
+  content: <a href=https://latestnews.com.ua/>день у день</a>
+  lang: zh-CN
+  ip:
+    encrypted: NjUyNWI1N2VjOTQwNDE1N2Y0OTg5MDllMzM0OQ==
+    algorithm: aes-256-gcm
+    iv: 6b01e189a2a6ca3cd0d58c0e
+    version: "1"
+  spam:
+    score: 7.34
+    marked: true
+  status: rejected
