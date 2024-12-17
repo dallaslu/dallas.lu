@@ -3202,3 +3202,33 @@
     score: 6.64
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8ddc1f0f82417108cdd09d212c4b57b84d65a6e4
+  author:
+    name: SteveArres
+    lang: en
+    email:
+      value:
+        encrypted: NmQwNTJiMmUxYzI0NzAwNjIwOTRhYTM0MjZlZmM0YmEyYg==
+        algorithm: aes-256-gcm
+        iv: 35f4fb68f02da64f1067f481
+        version: "1"
+      hash:
+        sha256: 78fdc031727d4806b2eb10d4a0b2ef16c8a608cbf03e9649644b52a95e75004e
+  published: 2024-12-17T19:38:01.635Z
+  content: Создаем стильные и функциональные интерьеры квартир, домов и офисов в
+    Санкт-Петербурге, дизайн-проекты под ключ с 3D визуализацией по доступным
+    ценам от современных дизайнеров студии «ID-Code» <a
+    href="https://id-cd.ru/raschet-dizajn-proekta/">расчет дизайн проекта
+    квартиры</a>
+  lang: zh-CN
+  ip:
+    encrypted: NDY3YjdiY2ViMWRiNWE4ZTA4MjBkZWQzZDNkNA==
+    algorithm: aes-256-gcm
+    iv: 0cc9e9608d6ca093001a5158
+    version: "1"
+  spam:
+    score: 9.09
+    marked: true
+  status: rejected
