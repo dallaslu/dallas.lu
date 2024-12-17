@@ -3117,3 +3117,32 @@
     score: 5.09
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 00c7139775bfcd1c0a1d6de0298f2d4ce9cdf3f8
+  author:
+    name: BernardNet
+    lang: en
+    email:
+      value:
+        encrypted: YTAwMzhiNThmZDRkN2M1Yzg2MTk4MWM2MWViMzc3NmU=
+        algorithm: aes-256-gcm
+        iv: 474cc648afb5090fc7596395
+        version: "1"
+      hash:
+        sha256: a0071b487146ccb9dad0cab40f47b6ae8468aa932d92f28cb8dfb918e75a3f7e
+  published: 2024-12-17T00:14:47.145Z
+  content: 'Самые востребованные среди них – прямоугольные и квадратные изделия.
+    Профильные трубы 40х40 широко используются во всех сферах: тяжелой и легкой
+    промышленности <a href="http://odintsovo-beton-zavod.ru">купить профильную
+    трубу в москве</a>'
+  lang: zh-CN
+  ip:
+    encrypted: NjYyN2VhZDQxYWJkODUwYzFlNDQ2ZDJkNjA4OA==
+    algorithm: aes-256-gcm
+    iv: aa00cf40cd473ae3518783fc
+    version: "1"
+  spam:
+    score: 9.08
+    marked: true
+  status: rejected
