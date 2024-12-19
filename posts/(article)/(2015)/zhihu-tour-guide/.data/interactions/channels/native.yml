@@ -3621,3 +3621,33 @@
     score: 5.19
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: f3b1a7d87bb5cb3dc1a5c1b325c8cfb6c32dd9f7
+  author:
+    name: Bruceopiva
+    lang: en
+    email:
+      value:
+        encrypted: ZjY2YzdmY2NhZWQ4Yzc3YmM2YjFhMTQzMjI0NGJhMTBmYTFh
+        algorithm: aes-256-gcm
+        iv: 9a8f903034592ad904032a51
+        version: "1"
+      hash:
+        sha256: df9f4cb506a9cf2c4e4c8b580b0ecad947ee9e264c3164613b9ce40ca8dcc41b
+  published: 2024-12-19T20:48:04.839Z
+  content: The first thing you need to know. Fonbet promo codes are coded access
+    through which bonuses become available to players. Visually, a bonus code is
+    a combination or combination of symbols, which is the very same access code
+    to some advantage <a
+    href="https://kmural.ru/news_importer/inc/aktualnue_promokodu_bukmekerskoy_kontoru_fonbet.html">https://kmural.ru/news_importer/inc/aktualnue_promokodu_bukmekerskoy_kontoru_fonbet.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: Y2JkZTVmM2VmZGFjN2FkNjlkYzJiZDg2OGUxOQ==
+    algorithm: aes-256-gcm
+    iv: a8415353f57aac06e7d86b6d
+    version: "1"
+  spam:
+    score: 8.33
+    marked: true
+  status: rejected
