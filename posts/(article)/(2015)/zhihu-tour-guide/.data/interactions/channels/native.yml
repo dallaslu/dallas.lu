@@ -3551,3 +3551,31 @@
     score: 6.14
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7924cc2f45fe21effa88ce97fc641ed293df3756
+  author:
+    name: Titusalary
+    lang: en
+    email:
+      value:
+        encrypted: ODIwMjQyYmZjZmYxOWFlMGJhNmVjYTMzNGY5MTRmYWI2NzQ5
+        algorithm: aes-256-gcm
+        iv: 0f5650acf0d8d66b254cd65b
+        version: "1"
+      hash:
+        sha256: 1d0151d51374a167fca1b046bddcd8ab7c352e63598a163a609b62c7917362c1
+  published: 2024-12-19T13:18:33.296Z
+  content: Pegasus check-in closes 45 minutes before departure for flights within
+    Turkey and 60 minutes before departure for international flights <a
+    href="https://pegasus-avia1.ru/">Pegasus Airlines</a>
+  lang: zh-CN
+  ip:
+    encrypted: Y2FiZDc2YWZlODVhNTRiYzEwMmRjNjk5YjhmMzQz
+    algorithm: aes-256-gcm
+    iv: 3a217f7a301a6a016a781638
+    version: "1"
+  spam:
+    score: 9.13
+    marked: true
+  status: rejected
