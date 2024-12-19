@@ -69,3 +69,25 @@
     version: "1"
   spam:
     score: 1.01
+- type: reply
+  channel: native
+  id: 237357a49d74653a7c8c1da1aeff5d914aa60ed8
+  author:
+    lang: en
+  published: 2024-12-19T07:22:35.521Z
+  content: "```shell\r
+
+    sudo mkdir -p /home/radicale/collections/collections-root\r
+
+    ```\r
+
+    这里多家加了一个s 应该是collection-root \r\n"
+  lang: zh-CN
+  ip:
+    encrypted: OTY5NjI5M2MzODVkNDJlMjA5ZGNlZQ==
+    algorithm: aes-256-gcm
+    iv: cc2d52c750f56954861f37cd
+    version: "1"
+  spam:
+    score: 3.23
+  status: auditing
