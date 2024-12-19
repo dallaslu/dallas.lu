@@ -3579,3 +3579,45 @@
     score: 9.13
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0691744f865fe3199d947d507fd00f5500965a3b
+  author:
+    name: Shop-1Mut
+    lang: en
+    email:
+      value:
+        encrypted: ZTMyODVmNGVjMTU2NzRjNTIwYzAzNDliYTIyYjI4MzNkYjEwZWM0NjJm
+        algorithm: aes-256-gcm
+        iv: 8e955ced46330fa1722d5722
+        version: "1"
+      hash:
+        sha256: abef05c40f7c51e0146cb67cad88bb2b44de4bf2493abfee6c8945f980c62e7c
+  published: 2024-12-19T14:53:19.749Z
+  content: "LoveShop  снова работает!!! \r
+
+    \ \r
+
+    \ \r
+
+    \ Подробнее https://teletype.in/@ravet/pM2krxXLQK1  \r
+
+    \ \r
+
+    \ \r
+
+    \ \r
+
+    \ \r
+
+    #loveshop1300-biz # shop1-biz #loveshop13 #loveshop15 #loveshop16"
+  lang: zh-CN
+  ip:
+    encrypted: NWM0YmJhNzA0ODcyMzI1NjRkZmViMA==
+    algorithm: aes-256-gcm
+    iv: 42966d1cd26f985bce7b36d4
+    version: "1"
+  spam:
+    score: 5.19
+    marked: true
+  status: auditing
