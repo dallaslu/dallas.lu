@@ -3513,3 +3513,41 @@
     score: 5.41
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: a63a44cef45b8f8a755e1ec60bdcbb5358285aaf
+  author:
+    name: KennethDuppy
+    lang: en
+    email:
+      value:
+        encrypted: YjZmOGEwZTgxMTcwNWZkNWU2NWNiODIwMDMwNDA3MmQxODI5NDI0ZjY1NjBkMjM1YTU1ZDMxNjViODk5ZDc=
+        algorithm: aes-256-gcm
+        iv: cefdb41e9fbc93cdd2326fc8
+        version: "1"
+      hash:
+        sha256: 15de341f8d61b470542d6af2f8a67b110633f5c448b3fb5a0d9efeb14971789f
+  published: 2024-12-19T00:09:33.735Z
+  content: " \r
+
+    This morning, THREE MONTHS LATER, I got an email from PayPal that I had been
+    charged again. I don't even know what to say. I knew their stuff all seemed
+    janky and unprofessional but charging months after allegedly canceling the
+    service just seems like an outright scam. I'm not even that mad about losing
+    $12 I'm just blown away at how shady this site is. \r
+
+    \ \r
+
+    <a
+    href=https://ecelebritymirror.com/celebrity-babies/kimiko-flynn-5-facts-rom\
+    e-flynn-daughter/>_sex_</a>"
+  lang: zh-CN
+  ip:
+    encrypted: M2VhN2ZhMzAzZGI2MDliNTY5OTNjNzc0
+    algorithm: aes-256-gcm
+    iv: 172374888a59d64d089f92ee
+    version: "1"
+  spam:
+    score: 6.14
+    marked: true
+  status: rejected
