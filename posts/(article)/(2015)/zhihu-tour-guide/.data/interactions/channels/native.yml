@@ -3747,3 +3747,32 @@
     score: 5.26
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 2634246352f9b0a9561f199b04d1ebc83fc0c05c
+  author:
+    name: JustinWeime
+    lang: en
+    email:
+      value:
+        encrypted: ZWQ5NmFhYWY3ODk0MDNiZmVmNTNkN2E5YWNkZDJhYjRjMTJj
+        algorithm: aes-256-gcm
+        iv: 5a9b286951f66dd1a11309e2
+        version: "1"
+      hash:
+        sha256: d8c052c02e82303252753fb15fb576b15971e3a354fa3b301067ead039794474
+  published: 2024-12-20T19:20:12.044Z
+  content: Платформа Telegram завоевала популярность не только как мессенджер, но
+    и благодаря такому функционалу, как чат-боты. Они дают пользователям доступ
+    к ИИ-сервисам, которые в обычных условиях недоступны для жителей России <a
+    href="https://dzen.ru/a/Z2KIpDeQlgEjs38y">chatgpt в телеграм</a>
+  lang: zh-CN
+  ip:
+    encrypted: MGZkOTg5MjA4MDlhMjA3NGRhYzNiZmY3ODFiOQ==
+    algorithm: aes-256-gcm
+    iv: 6063be2d2a4f1aec4bc6d0d7
+    version: "1"
+  spam:
+    score: 9.01
+    marked: true
+  status: rejected
