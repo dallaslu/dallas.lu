@@ -405,3 +405,29 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 75b43060519282e6876699f542b4cd7a731b1054
+  author:
+    name: CarlosJen
+    lang: zh-CN
+    email:
+      value:
+        encrypted: ODhiMjA2NzJjZDJmN2ZjNjY0ODliNmJkYzgzZjZjNjllODE3NDYyNTkxOWUzNzM4ZThiZmE2ZTMyNzVhYmQ=
+        algorithm: aes-256-gcm
+        iv: 76e12da81f9834824d1de713
+        version: "1"
+      hash:
+        sha256: 49e318d155f7def40b1d0d3087371ff88e5426e9bd933cf7b6d2045cd83fc2ca
+  published: 2024-12-20T21:01:51.022Z
+  content: <a href=https://family-room.com.ua/>docomed</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTBkNzYyOGIzZjU0NmRmNWRlMTU0NzJiNWE2YQ==
+    algorithm: aes-256-gcm
+    iv: 70b816ded64ae1416265d3dc
+    version: "1"
+  spam:
+    score: 7.55
+    marked: true
+  status: rejected
