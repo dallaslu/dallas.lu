@@ -1075,3 +1075,31 @@
   spam:
     score: 3.21
   status: auditing
+- type: reply
+  channel: native
+  id: 640f9f7c7bd30a2cc1b97e7d53dcc572dbc0c22e
+  author:
+    name: Helpmmot
+    lang: en
+    email:
+      value:
+        encrypted: MDg2OGU2OTljNDNhMGE5M2U5NzM3MDc4NzBhYjUxNWY1ZTEwMWQ=
+        algorithm: aes-256-gcm
+        iv: c4a66c4b4b12a43fc0e11b8f
+        version: "1"
+      hash:
+        sha256: 336695dfd9576c31f0b4f445376102de1cb6da6020fbe2d47825f74636e825a3
+  published: 2024-12-20T05:35:57.423Z
+  content: "Good afternoon, I need any financial help, \r
+
+    if possible, help, I am grateful for earlier, \r
+
+    4149 5001 4353 5667    I am from Selidovo Ukraine \r
+
+    have a nice day, success and good luck"
+  lang: en
+  ip:
+    encrypted: Y2YzZjdhZmJjZGIyNjZiOWMwMzUxMg==
+    algorithm: aes-256-gcm
+    iv: c77a01982dcbfcfbc4baa8a2
+    version: "1"
