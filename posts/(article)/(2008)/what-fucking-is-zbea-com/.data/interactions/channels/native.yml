@@ -379,3 +379,29 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c77615bdeef9dfe304291b54451b488386d41c21
+  author:
+    name: DanielelucT
+    lang: zh-CN
+    email:
+      value:
+        encrypted: NmIwZmY3YmM4MjJhNDMzOTk3Y2UwMTNkYTdkNTI2MDI=
+        algorithm: aes-256-gcm
+        iv: 87444a4d66b81421850b6698
+        version: "1"
+      hash:
+        sha256: ba54132e5bd9140cb57dd1615e027c2dfbd9c390855cc288b635de2f70da847b
+  published: 2024-12-20T03:52:57.696Z
+  content: "<a href=http://tv.kinogo.fi/filmy/>http://tv.kinogo.fi/filmy/</a> "
+  lang: zh-CN
+  ip:
+    encrypted: ZTMwMTdjOTkwNTM0MTViM2ExYWVkOTUwNDQ=
+    algorithm: aes-256-gcm
+    iv: fb65e9d345beb364ab720333
+    version: "1"
+  spam:
+    score: 8
+    marked: true
+  status: rejected
