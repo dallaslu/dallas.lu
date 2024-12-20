@@ -3776,3 +3776,31 @@
     score: 9.01
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b2dad6b72060b2d9c6b1514144efff0b11fcf621
+  author:
+    name: JamesPaw
+    lang: en
+    email:
+      value:
+        encrypted: NjJjMTFmYTQwODY2YzdjYWVhZjFjNmEwNzMxNzU3NTRhZTgy
+        algorithm: aes-256-gcm
+        iv: 498dbbd742254f68e6e9f2b6
+        version: "1"
+      hash:
+        sha256: cd6d6b8c2462a3f1def5ff80f1a5f29393d29662328389dbb2c3505513ef8238
+  published: 2024-12-20T19:42:13.625Z
+  content: Актуальное зеркало Vavada casino 2025. К сожалению, законы в некоторых
+    регионах могут привести к блокировке даже официальных и популярных
+    международных казино <a href="https://quotedapps.com/">friendome.com</a>
+  lang: zh-CN
+  ip:
+    encrypted: OGNiNjI0YTZiYjljMTRiZDA4YmY4YzdiMzFlZjI5
+    algorithm: aes-256-gcm
+    iv: bc0c273761598db561179a33
+    version: "1"
+  spam:
+    score: 6.23
+    marked: true
+  status: rejected
