@@ -3884,3 +3884,33 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2cc203a1b64a28b693050d3dc022d248d29e2cc3
+  author:
+    name: AltonDug
+    lang: en
+    email:
+      value:
+        encrypted: OGY0ODQwMmRkNGVjMmM4NThkM2FhYTI5NTM2YjVlZDNiOA==
+        algorithm: aes-256-gcm
+        iv: 7786d9322022f8a46f594b07
+        version: "1"
+      hash:
+        sha256: d02c7b64e3837bbab4b1c5429a8c3090c98e8388f5685bc7c999bd8b3654bce2
+  published: 2024-12-21T14:55:40.635Z
+  content: СЗЗ (санитарно защитная зона) для промышленных предприятий в Москве и
+    Московской области. Что нужно учесть при разработке проекта СЗЗ и на этапе
+    согласования в органах надзора для обеспечения законной деятельности объекта
+    НВОС
+    https://vc.ru/u/3791103-infa-v-dele/1719864-chto-takoe-szz-i-kak-razrabotat-proekt-sanitarnoi-zony
+  lang: zh-CN
+  ip:
+    encrypted: ZmI4ZmNiNWNlZThhZWZhMGFiNTYzMzhmYmQxMQ==
+    algorithm: aes-256-gcm
+    iv: 731ab98865effae417909f2b
+    version: "1"
+  spam:
+    score: 8.4
+    marked: true
+  status: rejected
