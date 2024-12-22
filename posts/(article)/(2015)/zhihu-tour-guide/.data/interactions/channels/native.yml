@@ -4012,3 +4012,37 @@
     score: 5.63
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 9970f69d7de76f22b382d2d0658f6da11815aadc
+  author:
+    name: Eugenefruch
+    lang: en
+    email:
+      value:
+        encrypted: YWI4MWFiOWZmNzQ1ODU4Zjc0M2UwZmMyY2NjM2JkMzdkYg==
+        algorithm: aes-256-gcm
+        iv: 277e7e9db7025cc18fafda28
+        version: "1"
+      hash:
+        sha256: f28f46f41e110205fc694d1f135ce81ddc193d932503195520b428b793dabf66
+  published: 2024-12-22T15:39:57.823Z
+  content: 'The 1xBet promo code 2025: 1XNEW25. Use to register a new member, get
+    a sports bonus 100% up to €130 and casino bonus €1950 + 150 free spins. Use
+    the bonus code when registering and you are guaranteed to receive a 2025
+    welcome bonus from 1xBet. The 1xBet bookmaker has proven itself to be
+    time-tested, it has high odds for sports betting, and a huge number of slots
+    in the cauldron section, there are also roulette, poker, and fast online
+    games like Aviator <a
+    href="http://somatextiles.com/wp-content/pgs/?1xbet_promo_code_somalia_3.html">promo
+    code in 1xbet</a>'
+  lang: zh-CN
+  ip:
+    encrypted: YjE1MzZiOTBjOTg1OWM5Y2YyYWQ1NWMyOTViZA==
+    algorithm: aes-256-gcm
+    iv: 8d3db761eb94d259a77692c7
+    version: "1"
+  spam:
+    score: 5.96
+    marked: true
+  status: auditing
