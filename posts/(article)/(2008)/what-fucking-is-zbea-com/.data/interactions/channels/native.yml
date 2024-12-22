@@ -457,3 +457,29 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5e02d320aefbed882d83f65148d229fef46f160c
+  author:
+    name: Kennethkep
+    lang: zh-CN
+    email:
+      value:
+        encrypted: NDY1ZjM3MGUxZTRhMzI5NTM5NmVhNWRkZjg1NWMyYTRlNDZiNjdlNDQyNGQwMTA3ZGQ=
+        algorithm: aes-256-gcm
+        iv: 71eeef7ce86cba4ed978da85
+        version: "1"
+      hash:
+        sha256: f58cef3b0b7ee2d996bbf07134644377455721d1cfd369d16ce38fb7547f7c40
+  published: 2024-12-22T14:57:42.019Z
+  content: <a href=https://chvetochki.org.ua/>https://chvetochki.org.ua/</a>
+  lang: zh-CN
+  ip:
+    encrypted: MDYxOWVmMTI1ZDkzNzg4Yzk4Yzc5NTQ1ZmM1NA==
+    algorithm: aes-256-gcm
+    iv: 85fde02e0c98838140e7dd53
+    version: "1"
+  spam:
+    score: 8
+    marked: true
+  status: rejected
