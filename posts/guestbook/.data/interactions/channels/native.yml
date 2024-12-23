@@ -1369,3 +1369,40 @@
     score: 7.44
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 66b7e7f9e93ff8fcbaceb2b9b77dcbae7517ed50
+  author:
+    name: Michaeldycle
+    lang: en
+    email:
+      value:
+        encrypted: N2VjMzg5MDEzOTRhOWUyYWVjODU3YzEzNjU3OWI2YTdmMDJm
+        algorithm: aes-256-gcm
+        iv: ac73e860666bfb3ec558fafa
+        version: "1"
+      hash:
+        sha256: a63f22d3e41d3469d9a2eacb7228db3ef35a831bc64f2e168fdd18b2638f52a4
+  published: 2024-12-23T23:44:29.243Z
+  content: "What's up, everyone?  \r
+
+    \ \r
+
+    I didn't believe it at first, but... \r
+
+    \ \r
+
+    [url=https://bestloanappph.com/]is best loan legit[/url] \r
+
+    \ \r
+
+    Catch you later!"
+  lang: en
+  ip:
+    encrypted: MTYzOGNjZDRhNjY5ODVhMjZmZDlhYTM5YjRiNw==
+    algorithm: aes-256-gcm
+    iv: a76e1ad916e188e760661090
+    version: "1"
+  spam:
+    score: 2.59
+  status: auditing
