@@ -4172,3 +4172,35 @@
     score: 5.68
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 0798068aea6c8ddcae232a4f11ac783bc5cae7b7
+  author:
+    name: ThomasZidly
+    lang: en
+    email:
+      value:
+        encrypted: OThlYjA3YzE0Yjg0YmE1ZWU5MGQ1YThiMmQ1NTgyZGY0NQ==
+        algorithm: aes-256-gcm
+        iv: 3b3527a1b3721e0e753ca5db
+        version: "1"
+      hash:
+        sha256: 0fb858ba7faf128e1d1fd807a23a922fd28f1a58c98e30a9aa2e0755f470e4ab
+  published: 2024-12-23T15:24:07.912Z
+  content: Code promo 1xBet 2025 - CODE1X200, en l'utilisant, vous participez a la
+    promotion « Bonus de bienvenue 100% » et pouvez obtenir jusqu’a 130$ sur
+    votre solde de jeu. Pour cela, vous devez miser dans la section sport avec
+    des cotes d’au moins 1,4, dans un montant cinq fois superieur. Ne manquez
+    pas l'opportunite de jouer pendant 30 jours aux frais du bookmaker et de
+    retirer vos gains sur votre solde principal <a
+    href="https://agaclar.net/images/pgs/4rabet-promo-code_welcome-bonus.html">https://x-repair.ru/pgs/?1xbet_promokod_besplatno_bonus.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzUxMDdmNzMzMTI1NGUxZmU2ZmU4NzJhZDFjOWZm
+    algorithm: aes-256-gcm
+    iv: 750bff3f1c55db26e23a0a90
+    version: "1"
+  spam:
+    score: 7.02
+    marked: true
+  status: rejected
