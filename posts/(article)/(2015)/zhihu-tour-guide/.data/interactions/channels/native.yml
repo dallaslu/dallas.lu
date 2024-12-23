@@ -4046,3 +4046,31 @@
     score: 5.96
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: a874305c999e744e312146579ef30d67c3b2ee1f
+  author:
+    name: ThomasZidly
+    lang: en
+    email:
+      value:
+        encrypted: YThmNmNjYWQ5ZWE2MWI4ZjJiYzE3YjJhYjdmNjA1MDQ2Yw==
+        algorithm: aes-256-gcm
+        iv: b63dfc0957d601d2a67c8b87
+        version: "1"
+      hash:
+        sha256: 57b277469543f9701b7b774acca0fd73b92db50da5fb941f06a8da1b7592935a
+  published: 2024-12-23T00:56:18.016Z
+  content: 'Преимущества Arkada Казино. Щедрые бонусы: До 500% на первый депозит и
+    сотни бесплатных фриспинов. Огромный выбор игр: Слоты, настольные игры,
+    live-казино <a href="https://t.me/s/arkada_casino_online">arkada casino</a>'
+  lang: zh-CN
+  ip:
+    encrypted: YWI4ZDQ3NmRjYjlkMzEwNWNkN2E3OTM2ZjY0ZWI2
+    algorithm: aes-256-gcm
+    iv: 395b6a9099979be37c666a02
+    version: "1"
+  spam:
+    score: 6.19
+    marked: true
+  status: rejected
