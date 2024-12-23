@@ -4204,3 +4204,59 @@
     score: 7.02
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: cead17bdb1232b71b083c6368519e134a39ea283
+  author:
+    name: PhillipSowly
+    lang: en
+    email:
+      value:
+        encrypted: YTIzNTE4M2QxMzgyYzVmNmZlNTk5NWY2NjhiOThmODZiMQ==
+        algorithm: aes-256-gcm
+        iv: f59f0337c839971ea040c661
+        version: "1"
+      hash:
+        sha256: 1bc37b502d2a969512d99304e678af34fe1be7a685333957ab86efeebcdc02e1
+  published: 2024-12-23T22:22:27.460Z
+  content: Promo codes are a useful tool to get enhanced bonuses and privileges
+    for free bets. 1xBet is one of the platforms that actively uses codes to
+    attract new players and provide them with bonuses this way <a
+    href="https://www.freepatent.ru/js/pgs/1xbet_promokod_pri_registracii___aktualnuy_segodnya.html">https://llibertat.cat/ca/pgs/codigo_promocional_megapari.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTU1MDMxNWQ1YTVlOTdhZTNmNGFjZmRmZGYwNThi
+    algorithm: aes-256-gcm
+    iv: d4d787ada1d5352a1a9836b6
+    version: "1"
+  spam:
+    score: 7.6
+    marked: true
+  status: rejected
+- type: reply
+  channel: native
+  id: bbe353dc13a04cbfd0d47d8fe2ae464094bf47ac
+  author:
+    name: RodneyShums
+    lang: en
+    email:
+      value:
+        encrypted: YmM1MWRmMzliYzg2ZGFlZTFmN2Y1NDc1NDU3NTFlNzA5YQ==
+        algorithm: aes-256-gcm
+        iv: 0a445afe302cd2216cd5c044
+        version: "1"
+      hash:
+        sha256: 7fd64725c1290a0d1708604ab586f33a48c37ed3a42e22bea09bb2aac526ebcd
+  published: 2024-12-23T22:22:48.334Z
+  content: Enfrente adversarios epicos e conquiste a gloria na Arena dos Campeoes
+    <a href="https://lusa-gaming.pt/desafios-estrategicos/">lusa-gaming.pt</a>
+  lang: zh-CN
+  ip:
+    encrypted: MzMzMTQzMjYxNTNiYTI2MDNlYWQyZWE2MTNhZA==
+    algorithm: aes-256-gcm
+    iv: 35eb6ab64cfc3bb79a4d1ca4
+    version: "1"
+  spam:
+    score: 6.93
+    marked: true
+  status: rejected
