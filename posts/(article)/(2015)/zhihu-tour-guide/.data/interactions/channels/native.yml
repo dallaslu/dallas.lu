@@ -4260,3 +4260,32 @@
     score: 6.93
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 14b31b79ee95bb6327a37356e8f08ea4eee0f26a
+  author:
+    name: RaymondUrict
+    lang: en
+    email:
+      value:
+        encrypted: Y2Y0OGFlZWQ0MjFmYzk4M2IyNjAyMTJhNTE5ZGRmNmQ2Zg==
+        algorithm: aes-256-gcm
+        iv: d8b9e35ae896e2b79264efe6
+        version: "1"
+      hash:
+        sha256: 790054ff95ffb88469885bcdb8ccf3ef03144c962c41043368f4fbc44201be43
+  published: 2024-12-24T12:38:17.611Z
+  content: Во все времена на рынке сантехники чугунные ванны пользовались особой
+    актуальностью. Данный важный элемент ванной комнаты имеет огромное
+    количество преимуществ <a
+    href="https://roofor.ru/dom/remont-kvartiry-v-novostroykakh-osobe">https://roofor.ru/dom/remont-kvartiry-v-novostroykakh-osobe</a>
+  lang: zh-CN
+  ip:
+    encrypted: NWNlMDE2ZTM4MWQ1YjQzNDlkNTU1MTMzOTU0Yg==
+    algorithm: aes-256-gcm
+    iv: 06803e282d8cf5c29d68225d
+    version: "1"
+  spam:
+    score: 9.86
+    marked: true
+  status: rejected
