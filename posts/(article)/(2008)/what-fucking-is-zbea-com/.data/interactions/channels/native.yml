@@ -483,3 +483,29 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 40c116c7aefb508ca326a7971cf4f46c230c7d75
+  author:
+    name: RonaldKen
+    lang: zh-CN
+    email:
+      value:
+        encrypted: OGQ5NmRlMGEwZTMyZGFlM2E2ZDQxMTAwZDZiODk3MDI5YTlmZTI2YzdjODE1MDQx
+        algorithm: aes-256-gcm
+        iv: f246a235287423e2a92f3b24
+        version: "1"
+      hash:
+        sha256: c1ae72a785badf679ae2970d4b090fe4a7fe6642d6ca55afd12184e66c724bbc
+  published: 2024-12-24T00:26:41.040Z
+  content: <a href=https://fabrika.dp.ua/>панели для стен влагостойкие</a>
+  lang: zh-CN
+  ip:
+    encrypted: NTA3MmNjMTkxMGE0ZGI3OGFmMzNmZDAwOGJlOA==
+    algorithm: aes-256-gcm
+    iv: 33c66e61b058d6a25667c48a
+    version: "1"
+  spam:
+    score: 6.67
+    marked: true
+  status: rejected
