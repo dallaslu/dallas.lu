@@ -267,3 +267,29 @@
   spam:
     score: 2
   status: auditing
+- type: reply
+  channel: native
+  id: 47ece5c95c0c7d8ad5af6cb5e6342e53914f463a
+  author:
+    name: DominicTab
+    lang: en
+    email:
+      value:
+        encrypted: NmQzMGNlZDZiYWFlZmYzYmMyOGFhY2MxZTY1MjNjYWEyYmE1ZGYxNDg1NzM=
+        algorithm: aes-256-gcm
+        iv: 6b8cb40e263e9a5115f2517b
+        version: "1"
+      hash:
+        sha256: 622a951d7f7b86a2de856cdd5ce44ad6bd260b47f63594e9e828402ff5347e96
+  published: 2024-12-25T11:22:57.433Z
+  content: "https://www.diyelectriccar.com/members/arendaavtotbilisicom.302096/\r\n"
+  lang: en
+  ip:
+    encrypted: OWY5YmRmMDJlODUzMWYxNzQzYWY2MjBmNGY=
+    algorithm: aes-256-gcm
+    iv: cd0e36c50789ef9a10007d48
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
