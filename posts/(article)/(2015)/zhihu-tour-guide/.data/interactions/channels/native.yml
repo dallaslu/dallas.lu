@@ -4318,3 +4318,34 @@
     score: 5.97
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 0992cdf95ef3f60e7dfeb3c36e3c0b9a3f65e332
+  author:
+    name: CharlesTrien
+    lang: en
+    email:
+      value:
+        encrypted: NzdmYjU0OGMwNTEyNDVmNGUwZGQ4NmM2OWQwYzk2ZmY2Zg==
+        algorithm: aes-256-gcm
+        iv: a854dab1768fd01108488d73
+        version: "1"
+      hash:
+        sha256: 7170a92f499c9751ae010958d7627eb45f49e9249edef2ad467b37f41bbc935c
+  published: 2024-12-25T01:06:56.142Z
+  content: Ik vond het geweldig om te lezen over de mogelijkheid om Telegram
+    didvirtualnumbers.com/nl/how-to-register-in-telegram/ te gebruiken zonder
+    een simkaart. Ik had geen toegang tot een simkaart en wilde Telegram toch
+    gebruiken. Dankzij DID Virtual Numbers kreeg ik snel een virtueel nummer en
+    was het registratieproces erg eenvoudig <a
+    href="https://essaywritersforum.freeforums.net/thread/1418/een-virtueel-duits-telefoonnummer-kopen">https://essaywritersforum.freeforums.net/thread/1418/een-virtueel-duits-telefoonnummer-kopen</a>
+  lang: zh-CN
+  ip:
+    encrypted: YzM5OTBiOWEzMzJmNDJjMzNjNmVmYjkwNzkwMWFk
+    algorithm: aes-256-gcm
+    iv: 462f2e4814084a5ca24f2ec5
+    version: "1"
+  spam:
+    score: 6.75
+    marked: true
+  status: rejected
