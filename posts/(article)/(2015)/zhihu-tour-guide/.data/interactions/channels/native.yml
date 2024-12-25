@@ -4349,3 +4349,31 @@
     score: 6.75
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c4c73756b6ca2517031e2419e1dbf8e377242f0e
+  author:
+    name: RussellFem
+    lang: en
+    email:
+      value:
+        encrypted: OTMxMjcxZjM1MTIwZjUyZWIyN2QyZWNlYzg3NTJmNmExOA==
+        algorithm: aes-256-gcm
+        iv: 6cf0571444b8eb789e360ed0
+        version: "1"
+      hash:
+        sha256: 37cc1c0c8daf4fdddf3600e18929e861e626175e7213131f6705829069a3fcab
+  published: 2024-12-25T01:57:12.342Z
+  content: Имплантация – современный метод протезирования зубов, при котором
+    возможно полноценное восстановление целостности зубного ряда. При дентальной
+    имплантации <a href="https://smiledenta.ru">имплантация зубов форум</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzViYmQ0MjA4YTI4YTk1OWY1ZmIzZjdhN2U2Yw==
+    algorithm: aes-256-gcm
+    iv: f941ed721ac37596edf7e961
+    version: "1"
+  spam:
+    score: 9
+    marked: true
+  status: rejected
