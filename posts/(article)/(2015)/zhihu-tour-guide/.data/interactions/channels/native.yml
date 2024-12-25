@@ -4437,3 +4437,32 @@
     score: 8.89
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b8b21f101bf2084b03c4fa6e8434e823e9cbeb3e
+  author:
+    name: BrandonBar
+    lang: en
+    email:
+      value:
+        encrypted: MWIxYWU2OTc3ZTA3NzQwMzQyOTU1ODEyYjMzYzdkNjc5ZQ==
+        algorithm: aes-256-gcm
+        iv: fc95efedf9d56e28daa82ee9
+        version: "1"
+      hash:
+        sha256: d9d6807e41c237a56617e42d3857ecb8897c5dd1521076acb2ead31233d39f63
+  published: 2024-12-25T09:49:52.349Z
+  content: Преимущества современных цифровых решений Технологические платформы
+    становятся важной частью повседневной жизни, предлагая пользователям
+    удобство и широкий функционал <a
+    href="http://www.kroosuriya.com/krusuriya/modules.php?name=Journal&file=display&jid=12901">http://www.kroosuriya.com/krusuriya/modules.php?name=Journal&file=display&jid=12901</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODUyNzk1ZGUzOWY0MTdkZmY2MDdlMmVhYjI2NQ==
+    algorithm: aes-256-gcm
+    iv: c3592e32761d82c0d342616a
+    version: "1"
+  spam:
+    score: 7.06
+    marked: true
+  status: rejected
