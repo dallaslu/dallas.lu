@@ -4466,3 +4466,33 @@
     score: 7.06
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7a95d7ccba220f7a48926fa31dfd87cb55224999
+  author:
+    name: HermanAlela
+    lang: en
+    email:
+      value:
+        encrypted: M2Q3ZDZmMmI0ZDg2MDlmNzVhNmFkNWU3M2VlMjI2NjE0Yg==
+        algorithm: aes-256-gcm
+        iv: ae49c71c777192e95eb3eeab
+        version: "1"
+      hash:
+        sha256: 003cb3ce6aec89d2f84c61c046e51f2755ffc3f711a6de3b61476b5edbc33036
+  published: 2024-12-25T12:36:47.086Z
+  content: Dit artikel gaf me precies de informatie die ik nodig had. Dankzij DID
+    Virtual Numbers kon ik een virtueel nummer verkrijgen en me registreren op
+    mijn computer. Het proces was snel en het voelde veilig, omdat ik mijn
+    persoonlijke gegevens niet hoefde in te voeren <a
+    href="https://www.ftt2.com/forum?mingleforumaction=viewtopic&t=1333#postid-2331">https://www.ftt2.com/forum?mingleforumaction=viewtopic&t=1333#postid-2331</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTgyMTM1NGU3OTE1MTg0Zjc2YzZlZDY1ODJkYzFj
+    algorithm: aes-256-gcm
+    iv: 7e2a9fe4778fba337165b043
+    version: "1"
+  spam:
+    score: 6.64
+    marked: true
+  status: rejected
