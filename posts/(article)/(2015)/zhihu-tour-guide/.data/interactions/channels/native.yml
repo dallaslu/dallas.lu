@@ -4496,3 +4496,31 @@
     score: 6.64
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3c4134bad54454d658d5b031de476daee8e829d4
+  author:
+    name: DesmondDug
+    lang: en
+    email:
+      value:
+        encrypted: MmE2NGY1YmI3ODg1NTc0YTkxNDhkMjE2YWU4NDlkY2U5Yg==
+        algorithm: aes-256-gcm
+        iv: d5e258de27097689e4ec4252
+        version: "1"
+      hash:
+        sha256: 81f57b0a05f3a81e77c68741bfc0683bce06e4c129002352b74cf0e48a6bd0c7
+  published: 2024-12-25T22:01:03.926Z
+  content: Новая песня для тех, кто привык добиваться своего! Не смотри на других,
+    забудь оправдания — это твой путь, и он начинается с <a
+    href="https://band.link/IsPbO">Projektx_Punk</a>
+  lang: zh-CN
+  ip:
+    encrypted: NWFhNzIwYzUwMDkxNmMzMDcwMDk1NzdhZDZlMQ==
+    algorithm: aes-256-gcm
+    iv: 3cfd0d1e9dfa8121bf8312ad
+    version: "1"
+  spam:
+    score: 6.15
+    marked: true
+  status: rejected
