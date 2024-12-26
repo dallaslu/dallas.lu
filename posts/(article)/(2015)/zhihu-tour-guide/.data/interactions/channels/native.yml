@@ -4664,3 +4664,29 @@
     score: 5.88
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 541d485d8c411c4ac760270556f0e242294a127a
+  author:
+    name: BlakeSpelm
+    lang: en
+    email:
+      value:
+        encrypted: MGZmZmE3ODVjNWRkM2ZmNzY0Y2Q4Zjc1M2UyODhmM2E2NQ==
+        algorithm: aes-256-gcm
+        iv: 984d1c81b0554b350b2a3da1
+        version: "1"
+      hash:
+        sha256: ebfa8be963da4aa39a5b73c70892de44fd48812d2bd25f681372b2f2741e32f4
+  published: 2024-12-26T23:11:11.765Z
+  content: https://forum.azs-lukoil.ru/threads/kraken-ssylki-2024-kak-zajti-na-kraken-v-2024-kraken-aktualnye-ssylki-zerkala-i-ispolzovanie-tor.1182/
+  lang: zh-CN
+  ip:
+    encrypted: YzUzMGExODZmYjAyYWM5MzJmZGMwMzc0MWFmYg==
+    algorithm: aes-256-gcm
+    iv: c6eeece221ffe1720bd1edef
+    version: "1"
+  spam:
+    score: 9
+    marked: true
+  status: rejected
