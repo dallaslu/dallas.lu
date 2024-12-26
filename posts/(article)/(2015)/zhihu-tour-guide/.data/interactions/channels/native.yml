@@ -4552,3 +4552,33 @@
     score: 5.1
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 125d18aae45b3f538139c286e52fcc2ecc55c589
+  author:
+    name: DanielHoopy
+    lang: en
+    email:
+      value:
+        encrypted: OWE0ODUzNmZiNGY5NDE4OGMzMzZkYzdjMzdmYmVhYTVhYw==
+        algorithm: aes-256-gcm
+        iv: bf387dedfd675a21f8969605
+        version: "1"
+      hash:
+        sha256: ce6f0b961c34e606965942ca47ebfc5b84f7a9dc21abff25ccc369cf879d4914
+  published: 2024-12-26T11:05:47.764Z
+  content: The cryptocurrency market is fraught with scams, hacks, and fraudulent
+    schemes. By performing an AML check, you can identify potentially risky
+    assets and avoid falling victim to scams <a
+    href="https://crystalcompliance.hashnode.dev/how-to-conduct-a-free-aml-check-on-your-avalanche-assets">Avalanche
+    AML monitoring</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTcxYzE4YzU1ZWNjNzAxOWQwMjFiMWQwMTE3MA==
+    algorithm: aes-256-gcm
+    iv: 86908a59c06ac6aa2d450a49
+    version: "1"
+  spam:
+    score: 6.54
+    marked: true
+  status: rejected
