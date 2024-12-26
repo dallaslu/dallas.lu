@@ -1467,3 +1467,29 @@
   spam:
     score: 2.91
   status: auditing
+- type: reply
+  channel: native
+  id: 514038808914891f83c5fcb78ebadcb473cdc385
+  author:
+    name: Your money>>> http://go.xuderuy.com/0nf6
+    lang: en
+    email:
+      value:
+        encrypted: YTg1N2YxN2M3Nzc0NzQyYmYyYjdiM2NlNjJiMGViNjAxNWRjMWY0MjcyODIyZGYwMTI=
+        algorithm: aes-256-gcm
+        iv: f780ad3ab998c93affe1af94
+        version: "1"
+      hash:
+        sha256: 2efe1d0227684126757cb567395fc5fe802c770035c4591af2960dc976424ad4
+  published: 2024-12-26T11:50:00.199Z
+  content: Your opportunity for success is here — register now!  -
+    http://go.xuderuy.com/0nf6
+  lang: en
+  ip:
+    encrypted: ZDczMzE2NGM0ODQyMmNiMTE0MzdmNTNmOWQ=
+    algorithm: aes-256-gcm
+    iv: 0ef85cec38357f55a0ea8b59
+    version: "1"
+  spam:
+    score: 2.95
+  status: auditing
