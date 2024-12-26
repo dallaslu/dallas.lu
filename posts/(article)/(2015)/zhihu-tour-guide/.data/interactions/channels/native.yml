@@ -4635,3 +4635,32 @@
     score: 5.67
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 43c8e4e9246c0882ab029445b2f4e8eea44b960e
+  author:
+    name: krknsiteA
+    lang: en
+    email:
+      value:
+        encrypted: NDcxMDhjNjVjYmE2MTE4Y2VhYjFiY2VkZWVmMWZmZWM5YTRkYjY=
+        algorithm: aes-256-gcm
+        iv: 825a90bbdf13aee30ee39991
+        version: "1"
+      hash:
+        sha256: 08fb5dd90727cedaae7e8580c276bb220f3d2aaab91b3cefcae60b99de9efeb3
+  published: 2024-12-26T22:30:46.801Z
+  content: Добро пожаловать в мир Кракена (Kraken) — одного из самых популярных
+    даркнет-маркетплейсов. Если вы ищете рабочую ссылку, проверенные зеркала или
+    рекомендации по безопасности, вы попали по адресу.  <a
+    href="https://kra06.cc">Кракена ссылка</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODgzMTE2ZGU5MWVjNDMyMDZmNTMxYWM4
+    algorithm: aes-256-gcm
+    iv: be8e66550ad4b6fa7cf65e31
+    version: "1"
+  spam:
+    score: 5.88
+    marked: true
+  status: auditing
