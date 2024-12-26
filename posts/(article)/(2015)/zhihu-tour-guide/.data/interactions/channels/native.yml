@@ -4582,3 +4582,29 @@
     score: 6.54
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e3a82325227d61925a523083cb00c0b377c05999
+  author:
+    name: Frankdaf
+    lang: en
+    email:
+      value:
+        encrypted: N2RkYjg2NmU3ZDY4MzUzODY3OWExOWI5NTgxZDA0MGI1Mg==
+        algorithm: aes-256-gcm
+        iv: 2192a2c58ee0bff2320a088a
+        version: "1"
+      hash:
+        sha256: a6d00a1ebadeeb43f5abd22f55cbb4d9f95f2e0c92bc230e79a5ae43dfa36303
+  published: 2024-12-26T11:58:48.580Z
+  content: <a href="https://sms-man.com/cn">https://sms-man.com/cn</a>
+  lang: zh-CN
+  ip:
+    encrypted: NjNlZGY0NGFiY2M1N2E4MWYzZmI3NzY5ZTEwOQ==
+    algorithm: aes-256-gcm
+    iv: c42e1054c1d7f04dc7f39c2c
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
