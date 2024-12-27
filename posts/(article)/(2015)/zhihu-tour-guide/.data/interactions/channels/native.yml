@@ -4690,3 +4690,31 @@
     score: 9
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: cc6b2493d48992109f9c4f455c7165dc0bc57a2d
+  author:
+    name: TimothySig
+    lang: en
+    email:
+      value:
+        encrypted: Yzg0ODFiMWRkZTg5Y2Q1NDU5OGM5M2VjNWYzNDUzZDEyMQ==
+        algorithm: aes-256-gcm
+        iv: a9dfa1e07789e08f044cd537
+        version: "1"
+      hash:
+        sha256: e03542995c7f95e78d59b896b0102ddcc5f2308fb25676b35156e42dd6e1ba6d
+  published: 2024-12-27T00:49:48.314Z
+  content: In the fast-paced world of blockchain development, integrating reliable
+    APIs is crucial for building efficient decentralized applications (dApps) <a
+    href="https://telegra.ph/Exploring-Aptos-Network-Unlocking-the-Future-of-Blockchain-Interoperability-and-Integration-11-30">https://telegra.ph/Exploring-Aptos-Network-Unlocking-the-Future-of-Blockchain-Interoperability-and-Integration-11-30</a>
+  lang: zh-CN
+  ip:
+    encrypted: NWEzMDg1MDZiODg4Nzc1MjM1NWZjMTk5NTZkNQ==
+    algorithm: aes-256-gcm
+    iv: e9b738425e93aba2ce5c901b
+    version: "1"
+  spam:
+    score: 7.39
+    marked: true
+  status: rejected
