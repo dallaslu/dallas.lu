@@ -4777,3 +4777,33 @@
     score: 5.93
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 36edcf23cf2e5caa62dc610411ae969b561421e3
+  author:
+    name: Jefferygox
+    lang: en
+    email:
+      value:
+        encrypted: OWRkNThhNGIyMTViMTg3MTkzMTFkMWEwMDYwZTE1ZTcwYw==
+        algorithm: aes-256-gcm
+        iv: b8cf08bd70e8ed01e80fada3
+        version: "1"
+      hash:
+        sha256: 89d0dff176d4411da251fddeab033741208d25b91bca357a6bae4332b0d0b342
+  published: 2024-12-27T12:25:23.270Z
+  content: Somebody was posting that setting up the authenticator works on 1.0.11,
+    and then upgrade to 1.0.13 for confirmations to work. Idk, something like
+    that, haven't tried it <a
+    href="https://steamdesktopauthenticator.io/">скачать sda steam
+    authenticator</a>
+  lang: zh-CN
+  ip:
+    encrypted: NmYzY2M3MjlmZGU0ZDM3NjhkNDc2YTYwNzg0ZA==
+    algorithm: aes-256-gcm
+    iv: 9713302acb93cf75f4c08990
+    version: "1"
+  spam:
+    score: 6.12
+    marked: true
+  status: rejected
