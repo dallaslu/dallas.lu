@@ -4746,3 +4746,34 @@
     score: 9.13
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 40c37c99dcdf18b865c3120414cac5914bbad913
+  author:
+    name: Richardtob
+    lang: en
+    email:
+      value:
+        encrypted: NWEyZjBkOTg0NGJhNzM4MDQxY2QyMzZmOGMwZjc3MGZkZg==
+        algorithm: aes-256-gcm
+        iv: fabe26b040c179691d501920
+        version: "1"
+      hash:
+        sha256: 467dfb1247e1e1c97f75ebabf39a22d50e714d357304d7454f1f79330c714880
+  published: 2024-12-27T12:16:26.399Z
+  content: Steam aauthenticator is a option of two-step authentication on steam.
+    It provides additional step privacy your nicknames and passwords. If this
+    option is enabled, Steam Aauthenticator asks you for one-time passcode every
+    time , when you login to Steam on a unfamiliar device <a
+    href="https://steamdesktopauthenticator.me/">steam guard authenticator
+    скачать</a>
+  lang: zh-CN
+  ip:
+    encrypted: YmM5MWYzNDZkYjEwMmViNjU2YTUyMzkzNDM3OQ==
+    algorithm: aes-256-gcm
+    iv: 21890fc778f08be4223e7fb4
+    version: "1"
+  spam:
+    score: 5.93
+    marked: true
+  status: auditing
