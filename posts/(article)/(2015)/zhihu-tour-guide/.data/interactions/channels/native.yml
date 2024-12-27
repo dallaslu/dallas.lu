@@ -4718,3 +4718,31 @@
     score: 7.39
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 61696c4311f27badcbec907e5f64ae1475ea555e
+  author:
+    name: Stevenwrers
+    lang: en
+    email:
+      value:
+        encrypted: YTRlMDI1MTI4Zjc1MTUxMWZlNjEwODQ3ZDE4YzcxN2E0NA==
+        algorithm: aes-256-gcm
+        iv: e987147240425edfad66f03a
+        version: "1"
+      hash:
+        sha256: 195bc3b9934cd865f63e1b7cf8378ae9a864fb13694f87dc888ed1e87bfb13c1
+  published: 2024-12-27T12:13:36.800Z
+  content: This page is dedicated for ASF configuration. It serves as a complete
+    documentation of config directory, allowing you to tune ASF to your needs <a
+    href="https://steamauthenticator.ru/">steam move authenticator</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzVhYzlmOWZjNjZjMzlmZGFiYmRjNDliZjEzOQ==
+    algorithm: aes-256-gcm
+    iv: 5ff34159781555d2d4cde060
+    version: "1"
+  spam:
+    score: 9.13
+    marked: true
+  status: rejected
