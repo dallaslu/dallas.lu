@@ -4921,3 +4921,32 @@
     score: 6.09
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8d04233eff367cad28a07de65d5db02d44f7b9bc
+  author:
+    name: DavidMenry
+    lang: en
+    email:
+      value:
+        encrypted: MWEzODE4NDk3MzQzYWQ0ZWQ3MWMwYjg3NWIwNDcxNTkyNw==
+        algorithm: aes-256-gcm
+        iv: 89cb4ee03642f65a4d479f6c
+        version: "1"
+      hash:
+        sha256: 86d1dce8b43ad7c22228e2f7b02819494d1383922bd9a1c45ca598b68510891f
+  published: 2024-12-28T16:03:09.619Z
+  content: Your Steam Mobile app can be used to authenticate multiple Steam
+    accounts. From the blue drop down on the Steam Guard tab, select an account
+    or add a new one <a href="https://steamauthenticator.ru/">download sda
+    steam</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZjY3YzZjY2JmMzRhOGIyMGI0NDRlMjRjNGU5Nw==
+    algorithm: aes-256-gcm
+    iv: f4f9449ccabee64ca21132af
+    version: "1"
+  spam:
+    score: 9.11
+    marked: true
+  status: rejected
