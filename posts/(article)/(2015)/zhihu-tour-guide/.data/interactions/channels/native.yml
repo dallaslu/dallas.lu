@@ -4835,3 +4835,33 @@
     score: 6.23
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5eb82f8269414278c740705b0021a2527b3afd85
+  author:
+    name: JeremyAroge
+    lang: en
+    email:
+      value:
+        encrypted: ZGEwMmM5NzI2YTc5OTE2NjM0N2VmNTUzZDNlZTk5MjJiYw==
+        algorithm: aes-256-gcm
+        iv: 6cf39a558a5c16b6df8a4893
+        version: "1"
+      hash:
+        sha256: 3c3e7ef6b4bcb9075483179710680541cb4ca63337beafeb6dca508108c563aa
+  published: 2024-12-28T01:32:59.625Z
+  content: IF you lost your maFiles OR lost your encryption key, go here and click
+    "Remove Authenticator" then enter your revocation code that you wrote down
+    when you first added your account to SDA <a
+    href="https://authenticatorsteam.com/">steam guard mobile authenticator как
+    включить</a>
+  lang: zh-CN
+  ip:
+    encrypted: MWZkZGIzMzgwMjcyYjM2Y2U0ZmU1MWRiOTEzNg==
+    algorithm: aes-256-gcm
+    iv: 5b144a22d672897b8a9bbd40
+    version: "1"
+  spam:
+    score: 5.99
+    marked: true
+  status: auditing
