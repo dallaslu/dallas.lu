@@ -4807,3 +4807,31 @@
     score: 6.12
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 078351b55c14f25f5907acb3e0b2f706db4b3330
+  author:
+    name: CharlesReS
+    lang: en
+    email:
+      value:
+        encrypted: NTAwMzkxNjhmYzFjYjhiODI5MjNkNGU1NTk5YmMwOWM4NA==
+        algorithm: aes-256-gcm
+        iv: d61f84bd10371d93220184c2
+        version: "1"
+      hash:
+        sha256: c5be366ce37be876e0b1b8e6c2314d8856c7bea1ef11470d75c10666aff85fd2
+  published: 2024-12-28T01:10:21.223Z
+  content: The Steam Guard Mobile Authenticator is a feature of the Steam Mobile
+    App that provides an additional level of security to your Steam аccount <a
+    href="https://steamauthenticatordesktop.com/">steam move authenticator</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTI5OTdhZDY1MjMzNDhiMTNhNGI0MjI0MWJlYw==
+    algorithm: aes-256-gcm
+    iv: 89726570d1c27bd2644fd826
+    version: "1"
+  spam:
+    score: 6.23
+    marked: true
+  status: rejected
