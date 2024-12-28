@@ -4865,3 +4865,31 @@
     score: 5.99
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: f0c1d27972aa5eae2a29e8b33a8b32860d291996
+  author:
+    name: Frankkef
+    lang: en
+    email:
+      value:
+        encrypted: M2I2MmE3MTkyMThlOTk2YzM1NzA1OWJjMmQ5NzhjOTNhZg==
+        algorithm: aes-256-gcm
+        iv: 58a51bc3bba0d123a751b876
+        version: "1"
+      hash:
+        sha256: dae1bb576cb525931dab4bdb2e661ee9e75d06e3b88b14ff71f0b8fcc063a60a
+  published: 2024-12-28T01:33:52.436Z
+  content: Instantly connects you to random people worldwide, similar to the
+    Omegle experience. You could meet someone from across the globe or right
+    around the <a href="https://rt.skypesexchat.ru">виртуальный секс чат</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZGFiNTZiMDJmMDY5OTFiYWQxMzBhMDgzMWIwNA==
+    algorithm: aes-256-gcm
+    iv: 21ba8b3e517e66493f6c62d9
+    version: "1"
+  spam:
+    score: 9.08
+    marked: true
+  status: rejected
