@@ -4950,3 +4950,33 @@
     score: 9.11
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c0c5690e25f41cd74617ee66554a2057c8dca3f3
+  author:
+    name: EddieUtery
+    lang: en
+    email:
+      value:
+        encrypted: MTQ1MTA1MzdlMGY2OWFmOWRhYThlZTVkZTIxNjE4MGVhYg==
+        algorithm: aes-256-gcm
+        iv: 16ed6759d13115a8af2931ef
+        version: "1"
+      hash:
+        sha256: 2f230364ccf6290a9d40f73249313d7618650eb7f2ed772ef43ed579525afe08
+  published: 2024-12-28T16:32:54.301Z
+  content: A command line utility for setting up and using Steam Mobile
+    Authenticator (AKA Steam 2FA). It can also be used to respond to trade,
+    market, and any other <a
+    href="https://steamdesktopauthenticator.me/">download steam desktop
+    authenticator</a>
+  lang: zh-CN
+  ip:
+    encrypted: N2YxMzhhNTI1NGU4NDE0YTIyNTY5NmY4OTg0MA==
+    algorithm: aes-256-gcm
+    iv: 1e5209976b04844958f64954
+    version: "1"
+  spam:
+    score: 6.14
+    marked: true
+  status: rejected
