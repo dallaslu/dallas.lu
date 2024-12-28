@@ -4980,3 +4980,33 @@
     score: 6.14
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 682ec3de21e09c805ca8c65962bf7d3be09f68a6
+  author:
+    name: Davidfek
+    lang: en
+    email:
+      value:
+        encrypted: N2M5YWY5OTJiOTJjNzA1MWYxMDE3ZjQyODlkMDQ5M2ZkNg==
+        algorithm: aes-256-gcm
+        iv: 991040cd8863e1becff2a368
+        version: "1"
+      hash:
+        sha256: eb775a4744ec4d472eac30132128a8fbc9389e16cd4a44ce87efdc3313b6c1ca
+  published: 2024-12-28T22:02:37.283Z
+  content: "Автотесты в разработке ПО: как автоматизация помогает ускорить процесс
+    проверки и снизить количество ошибок. Узнайте о преимуществах использования
+    автоматизированного тестирования и его роли в современных проектах:
+    https://vc.ru/u/3791103-infa-v-dele/1733597-avtotesty-instrumenty-vidy-i-sm\
+    ysl-avtomatizacii-qa"
+  lang: zh-CN
+  ip:
+    encrypted: MjkxNWRhNTI5YmU1MmZmZDU4MWI0YjUwYWQyMw==
+    algorithm: aes-256-gcm
+    iv: 6b5c18f8bdb473c565f1a5d2
+    version: "1"
+  spam:
+    score: 8.42
+    marked: true
+  status: rejected
