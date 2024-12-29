@@ -5081,3 +5081,33 @@
     score: 6.43
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: aab250498eaddbf3674072e8107b37ad2a1e9885
+  author:
+    name: CharlesLom
+    lang: en
+    email:
+      value:
+        encrypted: MzEyYzQwNzNjYzkyMjJlYTI3YTMxOGUwZGMzN2ZjMjA1Ng==
+        algorithm: aes-256-gcm
+        iv: 64f15ffb137da8efb08255bb
+        version: "1"
+      hash:
+        sha256: dc0534f91f9960ac3506114c0adf7ab6e20c507c2499285802b6a099a69a893c
+  published: 2024-12-29T12:55:43.490Z
+  content: "Главное отличие автоматизированного тестирования от ручного состоит в
+    способе выполнения: в первом случае тесты запускаются с помощью инструментов
+    автоматизации, во втором — все действия выполняются тестировщиком вручную
+    https://vc.ru/u/3791103-infa-v-dele/1733597-avtotesty-instrumenty-vidy-i-sm\
+    ysl-avtomatizacii-qa"
+  lang: zh-CN
+  ip:
+    encrypted: Y2Q4NTE3YjFkZjZmZjI1NWZiZjMzNGJhOWE1YQ==
+    algorithm: aes-256-gcm
+    iv: 451fd936e15007921cc5ca1f
+    version: "1"
+  spam:
+    score: 8.4
+    marked: true
+  status: rejected
