@@ -5051,3 +5051,33 @@
     score: 4.83
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: f332eface97509fe6dbaea3d2282f9e94f3648ad
+  author:
+    name: krknsiteA
+    lang: en
+    email:
+      value:
+        encrypted: MTE1OGE2YmFlNzg1MTgxMWM3MzcyNTVhNDQ0YjAyNGQ0NzEyZTY=
+        algorithm: aes-256-gcm
+        iv: 2ddf58140cdf98b15c13b97a
+        version: "1"
+      hash:
+        sha256: 08fb5dd90727cedaae7e8580c276bb220f3d2aaab91b3cefcae60b99de9efeb3
+  published: 2024-12-29T11:46:42.764Z
+  content: Добро пожаловать в мир Кракена (Kraken) — одного из самых популярных
+    даркнет-маркетплейсов. Если вы ищете рабочую ссылку, проверенные зеркала или
+    рекомендации по безопасности, вы попали по адресу.  <a
+    href="https://www.azadfishing.epizy.com/product/kraken-zerkalo-ssylka-kraken-official/">Kraken
+    ссылка</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZDM1YTA1NjViODJkOGM5Y2NiNDExZmU2
+    algorithm: aes-256-gcm
+    iv: 76482d6df2cc828ce2b53893
+    version: "1"
+  spam:
+    score: 6.43
+    marked: true
+  status: rejected
