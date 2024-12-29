@@ -5139,3 +5139,32 @@
     score: 6.22
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 328ed421a160b02e815aa95d9693dce2c9d488ae
+  author:
+    name: Kevinhox
+    lang: en
+    email:
+      value:
+        encrypted: NGIyMDU4MTdiZjI1OTkwN2RiMTg1OWMxYmRiZWUwMGM3Yw==
+        algorithm: aes-256-gcm
+        iv: 1ee1250ab70f40e866c4fcf9
+        version: "1"
+      hash:
+        sha256: 5f77150837cc8c98b78cda5f107bc1aa8389c2276182cacedf005a6f532cdcdf
+  published: 2024-12-29T23:05:42.348Z
+  content: 'Run Steam Desktop Authenticator.exe and click the button to set up a
+    new account. Login to Steam and follow the instructions to set it up. Note:
+    you still <a href="https://steamauthenticatordesktop.com/">скачать sda
+    steam</a>'
+  lang: zh-CN
+  ip:
+    encrypted: Mjc0ZDQ5OTU1ZDdiZTk5MTMzOTk3OGRiMjA0Zg==
+    algorithm: aes-256-gcm
+    iv: 55620d49320419b31200ac4d
+    version: "1"
+  spam:
+    score: 6.43
+    marked: true
+  status: rejected
