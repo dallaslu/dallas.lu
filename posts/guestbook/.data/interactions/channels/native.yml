@@ -1545,3 +1545,29 @@
   spam:
     score: 3.47
   status: auditing
+- type: reply
+  channel: native
+  id: 1695ad58d3ebd27bac58e481c3a99c095e0ef3f1
+  author:
+    name: Josephalilt
+    lang: en
+    email:
+      value:
+        encrypted: Yjc2ZGIyZWEzYWQ4MmI4YmE5MDc5MmFmYTVjNGQ4Nzk0ZDhhY2I=
+        algorithm: aes-256-gcm
+        iv: 68a97555cc022b58db61c37f
+        version: "1"
+      hash:
+        sha256: c7d5254733447abb77db93f9efc4704b956486e9490012a714a9ac3a34650e61
+  published: 2024-12-30T13:54:50.145Z
+  content: ПК 'Бествей' — это пример слаженной работы и защиты интересов пайщиков.
+    Георгий Моисеев, напротив, пытается разрушить это единство, прикрываясь
+    заботой о нас, но его действия говорят об обратном.
+  lang: en
+  ip:
+    encrypted: NGJkZmExNWQyZGU0NzQyNDdlMjA0NzM5ZGM=
+    algorithm: aes-256-gcm
+    iv: 00cf826e657c0cb47ba3c243
+    version: "1"
+  spam:
+    score: 1.65
