@@ -5278,3 +5278,31 @@
     score: 8.85
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 4c161db81892378757f0217f16802bff947841cb
+  author:
+    name: JerryFek
+    lang: en
+    email:
+      value:
+        encrypted: OGY5MzI1YzlhY2RlM2M0M2ExN2RmYjFhYTA1NTlhNGVlYg==
+        algorithm: aes-256-gcm
+        iv: f9c98d7f5051b70788924465
+        version: "1"
+      hash:
+        sha256: 563fbd1a99594290f722e2c6e7bbd52dbf4cefc926d3eec51278895ea4dc4040
+  published: 2024-12-30T17:10:08.389Z
+  content: SDA and maFile are related to account management on the Steam platform.
+    SDA allows you to generate Steam Guard security codes on your computer <a
+    href="https://authenticatorsteam.com/">steam guard authenticator</a>
+  lang: zh-CN
+  ip:
+    encrypted: MmY4MTc5MjNkNGVhODFiOTVhZGYzNDlmZGQ1MQ==
+    algorithm: aes-256-gcm
+    iv: 4d6d6106bcfef2b433f6c3b6
+    version: "1"
+  spam:
+    score: 6.14
+    marked: true
+  status: rejected
