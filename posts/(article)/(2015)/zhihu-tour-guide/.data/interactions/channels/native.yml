@@ -5306,3 +5306,31 @@
     score: 6.14
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 29139a9eeff316a01ad99cf6a66d0714516e9106
+  author:
+    name: JerryFek
+    lang: en
+    email:
+      value:
+        encrypted: NDQ0NDczZGM4NmEwYjEyNDRkYmE0MjI3ODIwZmQ4ODFhMg==
+        algorithm: aes-256-gcm
+        iv: 71077722e23b343a2b1efbd7
+        version: "1"
+      hash:
+        sha256: 962e6e699fd8b428e326c66cdfd65c5fa4f8ab097485ac6e3a5dc9a1336ddabc
+  published: 2024-12-31T02:48:09.820Z
+  content: SDA allows you to generate Steam Guard security codes on your computer.
+    SDA and maFile are related to account management on the Steam platform <a
+    href="https://authenticatorsteam.com/">steam guard authenticator скачать</a>
+  lang: zh-CN
+  ip:
+    encrypted: Nzc3ZGIyOGY2OGQzZjRlNmJmZTkzZDcyNTY0Ng==
+    algorithm: aes-256-gcm
+    iv: 0e75aca150b8f5c69b9f52db
+    version: "1"
+  spam:
+    score: 6.12
+    marked: true
+  status: rejected
