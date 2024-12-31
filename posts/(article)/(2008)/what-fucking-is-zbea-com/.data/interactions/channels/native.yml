@@ -613,3 +613,30 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5d9f996e489b25f4d7036bed79ac8502690cff59
+  author:
+    name: Anthonywah
+    lang: zh-CN
+    email:
+      value:
+        encrypted: NmZjMmJlZjU5NGIyOGJiZmEzZDAyOGJhYmFlNDVlMzc5OGMzODY5NTBkM2IyODA5YTQzYg==
+        algorithm: aes-256-gcm
+        iv: 05da02d9de3597fb4cc9e7c8
+        version: "1"
+      hash:
+        sha256: e8ec461e09e861ece7d3b64ea0241d00d68ab5e62958076886cb2ee4b0ea5a9c
+  published: 2024-12-31T07:47:34.750Z
+  content: <a
+    href=https://supermarket-semena.com.ua/>https://supermarket-semena.com.ua/</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzIxY2ExZjgxMmMxY2YzYmE4M2ExYjZhY2U2Mw==
+    algorithm: aes-256-gcm
+    iv: a50a98c5660bb10f139f4ce6
+    version: "1"
+  spam:
+    score: 8
+    marked: true
+  status: rejected
