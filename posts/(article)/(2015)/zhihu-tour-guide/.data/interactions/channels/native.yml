@@ -5376,3 +5376,40 @@
     score: 4.91
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 2c33f40e488609383a9f0e4ddc7bbf9872835db7
+  author:
+    name: Shop-1Mut
+    lang: en
+    email:
+      value:
+        encrypted: NjliZTJhODdmMGU3OWQ1NTEzYjIxOTgzMDQ4ZjFmZWM2ZGYxMDQ=
+        algorithm: aes-256-gcm
+        iv: e9ab4e892bebbed6df4f9555
+        version: "1"
+      hash:
+        sha256: e6b58ed7ef6b790f4f2b03aacf6df09dad973bb7af6a3f4f123ce7efea58a274
+  published: 2024-12-31T13:55:41.585Z
+  content: "[Хотите|Желаете|Мечтаете] получить [бесплатный|даровой|халявный] NFT?
+    ?? Участвуйте в [розыгрыше|акции|лотерее] от loveshop \"Пушистые льдинки\"!
+    ?? [Подробности здесь|Узнать больше можно тут|Вся информация по ссылке] –
+    [https://loveshop1300.cc|https://loveshop-1300.biz|https://lovezshop1300.bi\
+    z|https://loveshop-12.biz|https://loveshop-13.biz|https://loveshope12.biz|h\
+    ttps://loveshope13.biz|https://shope1.top|https://love-shop-1300.top|https:\
+    //love-shop-1300.homes|https://love-shop-1300.shop|https://shope1.biz|https\
+    ://shopl.biz] \r
+
+    \ \r
+
+    #loveshop1300-biz # shop1-biz #loveshop13 #loveshop15 #loveshop16"
+  lang: zh-CN
+  ip:
+    encrypted: OGVhMDUwZGRiNzk2MGY0NDljYTM1YjNk
+    algorithm: aes-256-gcm
+    iv: 1f7bcf17d6f9ade4613bb57b
+    version: "1"
+  spam:
+    score: 6.05
+    marked: true
+  status: rejected
