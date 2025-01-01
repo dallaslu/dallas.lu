@@ -5468,3 +5468,32 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f74703bf544368df6d7d48d0e7476e33f6fb4c94
+  author:
+    name: krknsiteA
+    lang: en
+    email:
+      value:
+        encrypted: Y2M5YzRkZWFmZTJhODc2NmU5MjZjNDQyNDBmMGNmMWMzOTkxMjA=
+        algorithm: aes-256-gcm
+        iv: fb62051b042f8d459a76d50a
+        version: "1"
+      hash:
+        sha256: 08fb5dd90727cedaae7e8580c276bb220f3d2aaab91b3cefcae60b99de9efeb3
+  published: 2025-01-01T06:41:59.161Z
+  content: Добро пожаловать в мир Кракена (Kraken) — одного из самых популярных
+    даркнет-маркетплейсов. Если вы ищете рабочую ссылку, проверенные зеркала или
+    рекомендации по безопасности, вы попали по адресу.  <a
+    href="https://www.indianbroadcastingworld.com/news/">Кракен ссылка</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODVlNzA4MjVhNDMzYWUwNjA0Y2YwNzli
+    algorithm: aes-256-gcm
+    iv: 152cce8ee13f56ff20f43df7
+    version: "1"
+  spam:
+    score: 6.16
+    marked: true
+  status: rejected
