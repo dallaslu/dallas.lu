@@ -87,3 +87,38 @@
   spam:
     score: 2.51
   status: auditing
+- type: reply
+  channel: native
+  id: cbfd79339a83fc6775e4627e54c98bb4c36568da
+  author:
+    name: KevinRoowl
+    lang: en
+    email:
+      value:
+        encrypted: ZjgwMjNjZmFlNzQ5M2EyMmVmYTAwYTllYjYzNmU1N2QxYQ==
+        algorithm: aes-256-gcm
+        iv: a9d23eb95bf72c561ea99188
+        version: "1"
+      hash:
+        sha256: 87da32faa3c785026f63d8f5bca24931dded40def8de4efd8ef1a97a3ffdc77d
+  published: 2025-01-02T21:03:47.457Z
+  content: '1XBET promo code 2025: 1XMAX25 - Use bonus code get for VIP bonuses -
+    up to €19502 + 150 free spins on casino and 100% up to €130 on sportsbook!
+    To get your Free Bet, new customers can register with 1xbet for free, and
+    enter the promo code 1x. Take a look at our site banners for the latest
+    1xBet promo codes and information about the brand’s 100% first deposit bonus
+    where you live. New players can enjoy an exclusive deposit bonus when they
+    sign up at 1xBet. See our site banners for the latest welcome deals at 1xBet
+    for your region <a
+    href="https://globalpower.co.jp/wp-includes/articles/promo_code_67.html">what
+    is promo code in 1xbet</a>'
+  lang: zh-CN
+  ip:
+    encrypted: MzAzM2I1NjI5MmQzZWVjYjZhOTBmMDMxOTEyMg==
+    algorithm: aes-256-gcm
+    iv: 042a6f1c874ae3901951f8c2
+    version: "1"
+  spam:
+    score: 5.87
+    marked: true
+  status: auditing
