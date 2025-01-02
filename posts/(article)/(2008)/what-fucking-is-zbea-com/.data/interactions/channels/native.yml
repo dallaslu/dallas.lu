@@ -166,30 +166,3 @@
     encrypted: ZDRlZmQ5N2RjYTY2YWFjOGU0MTJhNTlh
     algorithm: aes-256-gcm
     iv: 3be00e996028a6a89ee43840
-- type: reply
-  channel: native
-  id: 6938c42545c857a50c8437ca2ea62a9ec0e50cc8
-  author:
-    name: Alfredloyar
-    lang: zh-CN
-    email:
-      value:
-        encrypted: MGRmMTkzMDhmMTgyY2NkZmU0MTg1MDhlZTc4YzhjNDMxN2I0NDk3OTgyZGMwNWZlYWQ3OQ==
-        algorithm: aes-256-gcm
-        iv: c6456c5b57d1eea1d2f884c9
-        version: "1"
-      hash:
-        sha256: 6e94bce865f75987c73babf4d7e38c6a43a2524c2f542785e4fddfbd43e547da
-  published: 2025-01-02T12:33:40.156Z
-  content: <a href=https://shahtarsk.org.ua/>какой вытяжной вентилятор выбрать для
-    ванной</a>
-  lang: zh-CN
-  ip:
-    encrypted: YWE4YmJiMjBmZjU1NzgzZGEwMDFmN2ZiOTE5MQ==
-    algorithm: aes-256-gcm
-    iv: fc93e023c547047288827fd7
-    version: "1"
-  spam:
-    score: 6.39
-    marked: true
-  status: rejected
