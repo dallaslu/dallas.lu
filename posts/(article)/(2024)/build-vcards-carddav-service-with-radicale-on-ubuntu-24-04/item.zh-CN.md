@@ -38,7 +38,7 @@ sudo useradd --system --user-group --home-dir /home/radicale --shell /sbin/nolog
 创建 Radicale 数据目录：
 
 ```bash
-sudo mkdir -p /home/radicale/collections/collections-root
+sudo mkdir -p /home/radicale/collections/collection-root
 sudo chown -R radicale: /home/radicale
 ```
 
