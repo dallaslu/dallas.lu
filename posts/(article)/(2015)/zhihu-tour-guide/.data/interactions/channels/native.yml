@@ -331,3 +331,32 @@
     score: 7.6
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 12099e37e6889d56441152049fa084011d32de72
+  author:
+    name: Iyannashoft
+    lang: en
+    email:
+      value:
+        encrypted: ZTY0YjAwMmViOTVhOWM3NDg2NTViMTkzYjZjZTU0MDA4NjlmN2NhZTFlMTFhODVkMWQxOWQ2MDZlNWY3ZTM4MTQ4MTgwNzI0YmYyZmJl
+        algorithm: aes-256-gcm
+        iv: b3e5b6ee5033a3e6ae2bb5b2
+        version: "1"
+      hash:
+        sha256: 0ef60ee8d86752bc62f74a0b0a13f00c7d171d5797396b434ae943e4acd4c11e
+  published: 2025-01-03T23:55:36.652Z
+  content: "играть на mobilepokerclub \r
+
+    <a href=\"https://t.me/s/mobilepokerclub_game\">mobilepokerclub на
+    деньги</a>"
+  lang: zh-CN
+  ip:
+    encrypted: ZjFhMGI2NGRlY2E5NGMzYzRjNDEzNmNjMGNhZg==
+    algorithm: aes-256-gcm
+    iv: 14d234402b882feadda33282
+    version: "1"
+  spam:
+    score: 6.96
+    marked: true
+  status: rejected
