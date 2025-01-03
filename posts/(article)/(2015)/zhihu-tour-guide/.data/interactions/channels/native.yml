@@ -245,3 +245,33 @@
   spam:
     score: 3.03
   status: auditing
+- type: reply
+  channel: native
+  id: 3a6766cc46f556c10ded0e8115a5c3cc9ce3b65b
+  author:
+    name: KevinRoowl
+    lang: en
+    email:
+      value:
+        encrypted: MmMxMmNkMDMzNTliODU5MTNhNDViZjMzZWQzMTQyYzA2NA==
+        algorithm: aes-256-gcm
+        iv: 0ef517cdc261e2890db85b3c
+        version: "1"
+      hash:
+        sha256: dea7772bbe7e9576fcbea0a7dba5813df521686df175e9b497eef8550c9754c6
+  published: 2025-01-03T10:31:17.566Z
+  content: Each registered user can receive a 1xbet promo code for their birthday.
+    To participate in the promotion, you need to fill in your personal
+    information in the player profile <a
+    href="https://edicionesdelau.com/articles/promo_code_for_32.html">promo code
+    1xbet egypt</a>
+  lang: zh-CN
+  ip:
+    encrypted: Mzg1OTk5YjI2ZTdlODYyM2U1ZjhiOWY2OGFjNQ==
+    algorithm: aes-256-gcm
+    iv: cac027877767e51202de2b04
+    version: "1"
+  spam:
+    score: 6.32
+    marked: true
+  status: rejected
