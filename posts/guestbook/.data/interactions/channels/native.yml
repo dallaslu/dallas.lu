@@ -845,3 +845,61 @@
     iv: d667bea4c4ccadef440ff6fa
     version: "1"
   target: 7994c4b3d1d09b0b3c9bdffc91eab9f564e9f127
+- type: reply
+  channel: native
+  id: 64760177cd62129615c172183fd00c1354b9cc56
+  author:
+    name: Brandonciz
+    lang: en
+    email:
+      value:
+        encrypted: OGFjOGVjOGE1ZDVkODRiOGMwYzdhNDIyNjU3MjRmYWM4Mjc3ZWY=
+        algorithm: aes-256-gcm
+        iv: 40f5fe110fa8587b0972ba65
+        version: "1"
+      hash:
+        sha256: cb103dc31b76290131be3c532921a9a0e15b80c3fae112d0f4d3fd9d729baa52
+  published: 2025-01-03T12:13:38.531Z
+  content: "Привет! ������ \r
+
+    Я запускаю новый канал, где буду делиться самой актуальной и интересной
+    информацией о даркнете, анонимности в сети, кибербезопасности и многом
+    другом. Если тебя интересует: \r
+
+    \ \r
+
+    ������ Новости и инсайды из мира даркнета \r
+
+    ������ Инструкции и гайды по анонимности \r
+
+    ������ Разбор кейсов и схем \r
+
+    ������ Советы по кибербезопасности \r
+
+    \ \r
+
+    – тогда этот канал для тебя! \r
+
+    \ \r
+
+    Подписывайся, чтобы не пропустить самое важное и быть в курсе всех событий в
+    теневой стороне интернета. \r
+
+    \ \r
+
+    Ссылка на канал:  https://t.me/mg2_at_art \r
+
+    \ \r
+
+    \ \r
+
+    ������ Будет интересно!"
+  lang: en
+  ip:
+    encrypted: ZjA4ZjU0OGEwNmRlNWM1N2FlMTBhY2U4N2M=
+    algorithm: aes-256-gcm
+    iv: 86e20733d16b9dd603bfef4d
+    version: "1"
+  spam:
+    score: 3.64
+  status: auditing
