@@ -360,3 +360,32 @@
     score: 6.96
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f5ee24a39561b6a62d379e1933c87d99e04b52eb
+  author:
+    name: AntoineLIc
+    lang: en
+    email:
+      value:
+        encrypted: OGIyZTNiMDQ0ZDJjNzBiZmM5MmNmZjRkNmI5MWZlM2YyYQ==
+        algorithm: aes-256-gcm
+        iv: cbdd5edd851eb3fd80c67194
+        version: "1"
+      hash:
+        sha256: d83c0fb26ef4dbe02cc2a3fe223348d9d909efb46531b1e219db91135b376927
+  published: 2025-01-04T10:36:13.570Z
+  content: 'Melbet bookmaker offers new customers bonuses: for registration with a
+    promo code, for the first account replenishment (first deposit bonus),
+    freebet bonus for free bet, welcome bonus for new players <a
+    href="https://asmibmr.edu.in/news/1xbet_promo_code___welcome_bonus_130.html">https://asmibmr.edu.in/news/1xbet_promo_code___welcome_bonus_130.html</a>'
+  lang: zh-CN
+  ip:
+    encrypted: Y2FkMTAwZDk4YTYxMjQ3N2Q0MDI0NDcyM2JlMg==
+    algorithm: aes-256-gcm
+    iv: 026dea9a5d59e24a7cf7afc3
+    version: "1"
+  spam:
+    score: 6.8
+    marked: true
+  status: rejected
