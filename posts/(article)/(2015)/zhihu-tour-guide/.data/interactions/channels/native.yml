@@ -419,3 +419,32 @@
     score: 6.2
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8a2be2d3c9f1937753e13f5cf27abe8c79b63e62
+  author:
+    name: HarryWep
+    lang: en
+    email:
+      value:
+        encrypted: M2IxNzJjMjlmOTcyN2JjN2ZhM2ZjNDVjNWNiYzYwMzI1YQ==
+        algorithm: aes-256-gcm
+        iv: d4aadf739bc7b1f2b6c3d04b
+        version: "1"
+      hash:
+        sha256: 60a488e7e33ff9549618707256b02f3fb057aaec2d64c529b98c7fc354ebce25
+  published: 2025-01-04T18:58:49.619Z
+  content: This is our unique MelBet bonus code that needs to be entered when you
+    register for a new player account with the brand melbet. Melbet is mainly a
+    bookmaker, but also offers arcade games and casino games <a
+    href="https://cascadeclimbers.com/content/pgs/code_promo_melbet_bonus_de_bienvenue.html">https://cascadeclimbers.com/content/pgs/code_promo_melbet_bonus_de_bienvenue.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: NGZlNGQ2NjQxZGEwMTAzNjRmOGIwMmU1Y2ZmNA==
+    algorithm: aes-256-gcm
+    iv: d28de0efd6e9baceae446a89
+    version: "1"
+  spam:
+    score: 6.89
+    marked: true
+  status: rejected
