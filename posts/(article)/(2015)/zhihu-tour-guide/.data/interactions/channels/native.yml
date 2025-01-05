@@ -478,3 +478,33 @@
     score: 6.42
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7d4343129cee3c8f16609fe89842e331e21e4464
+  author:
+    name: Kennethheill
+    lang: en
+    email:
+      value:
+        encrypted: N2Q2MTYzYjVkMmJkNzk3ZDc5YTE4M2ZiYjQxNjQ0NTNjNg==
+        algorithm: aes-256-gcm
+        iv: 04de959bfaae45f798c29d45
+        version: "1"
+      hash:
+        sha256: c5cf53eccbc6c21eaee4c9a27e074665ee6c71253cf16dca8dc926710f5710f8
+  published: 2025-01-05T01:20:07.262Z
+  content: Nowadays, international communication is of great importance in both
+    personal and business life. Especially in a country like South Korea, which
+    is important in terms of technology and trade <a
+    href="https://techwinks.com.in/how-to-use-a-temporary-number-for-whatsapp/">temporary
+    WhatsApp number</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzE3YzE4MWU0OTYxMzdlOWY3Yjk5MjQ3NTY4NA==
+    algorithm: aes-256-gcm
+    iv: fd73d2f5e79cb77b9cd9d25d
+    version: "1"
+  spam:
+    score: 6.33
+    marked: true
+  status: rejected
