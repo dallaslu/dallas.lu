@@ -508,3 +508,33 @@
     score: 6.33
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 553057caf392b5a1539f5f810a622be49a4bdf82
+  author:
+    name: krknsiteA
+    lang: en
+    email:
+      value:
+        encrypted: MGYxNjRiMTY0ODZkY2RiNzZiN2FhYTUxOTJiMjc1NzgzNjY5YmY=
+        algorithm: aes-256-gcm
+        iv: feee8b2bbda9c8c428311e4c
+        version: "1"
+      hash:
+        sha256: 08fb5dd90727cedaae7e8580c276bb220f3d2aaab91b3cefcae60b99de9efeb3
+  published: 2025-01-05T10:30:23.046Z
+  content: Добро пожаловать в мир Кракена (Kraken) — одного из самых популярных
+    даркнет-маркетплейсов. Если вы ищете рабочую ссылку, проверенные зеркала или
+    рекомендации по безопасности, вы попали по адресу.  <a
+    href="https://hocthietkenoithat.net/khoa-hoc-nghe-moc-4-0/">Kraken
+    ссылка</a>
+  lang: zh-CN
+  ip:
+    encrypted: NmQ2MDEyZDVhY2VkYTRhMjM2YTIyYzdi
+    algorithm: aes-256-gcm
+    iv: 04e92d8b3bdacc5be4e57446
+    version: "1"
+  spam:
+    score: 6.22
+    marked: true
+  status: rejected
