@@ -538,3 +538,37 @@
     score: 6.22
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: efbb78f908bc9fcf4e5653766f8d12eb44d7ba83
+  author:
+    name: AlexNuckem
+    lang: en
+    email:
+      value:
+        encrypted: YWE2OTI2M2Q4ZTNkZjA0ZTY3ZTVhZmE4N2FkN2M1ZTUzMDI1MWVhMTJm
+        algorithm: aes-256-gcm
+        iv: 4c61b877568226c9c854d71a
+        version: "1"
+      hash:
+        sha256: 12d6b8fbbdb7eb5d0a3feb5e6996e133e9dba059fe6a26afcf27ad5a35a9b36c
+  published: 2025-01-06T06:47:28.810Z
+  content: " Автомат Sizzling Hot  \r
+
+    Оптимизирован для смартфонов \r
+
+    Казино с лицензией, дающие слоты \r
+
+    игровые аппараты \r
+
+    https://cash4winner.com/l/677a52021ec885ac910e13cd"
+  lang: zh-CN
+  ip:
+    encrypted: NWEzOGE5NjYzYTdmMjgyZDhkN2I3MjgwNDE=
+    algorithm: aes-256-gcm
+    iv: 2ad84dce12c47039f9b9fa00
+    version: "1"
+  spam:
+    score: 5.44
+    marked: true
+  status: auditing
