@@ -246,3 +246,30 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 56fffcb8267153ebc36c003ee514315f87f89249
+  author:
+    name: RobertStoro
+    lang: zh-CN
+    email:
+      value:
+        encrypted: YjdlZTc2NjY1MDFlYzdhOGU2NTQ0MDc1ZmRhYjlkMWVkMjhhMzQ2ODVjYTUyMTk4
+        algorithm: aes-256-gcm
+        iv: 799fe3eb94a465f982d38baf
+        version: "1"
+      hash:
+        sha256: c080dbfaa655cadf1c09268c708787b796a2aa1d430b93fd344ccf2f93abd8d9
+  published: 2025-01-06T14:12:10.533Z
+  content: <a
+    href=https://press-news.com.ua/jezoterika/licar-mechiv-taro-znachennja-i-tlumachennja-karti.html>https://press-news.com.ua/dosug/chto-takoe-termoodejalo.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: N2U2YWZhNDFlYjc5MjdjZjhjNWRiYWFiMDVmMA==
+    algorithm: aes-256-gcm
+    iv: 3310a95a9fedba95563c8b16
+    version: "1"
+  spam:
+    score: 8
+    marked: true
+  status: rejected
