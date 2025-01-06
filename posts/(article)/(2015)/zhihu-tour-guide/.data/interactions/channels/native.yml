@@ -572,3 +572,34 @@
     score: 5.44
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: ce4a2f9f407696a4f832365f5e14874fbb9ba42e
+  author:
+    name: JamesAbels
+    lang: en
+    email:
+      value:
+        encrypted: YTA5ZTE1OGI3M2Q3YjM3MWJkYzU0MTY2MTlkZjIzM2MzMg==
+        algorithm: aes-256-gcm
+        iv: 319bb175b7bc72652f9363e6
+        version: "1"
+      hash:
+        sha256: c65c0c8bf3ab8efc18d121cbf6170df08d3d755d92acf8d9429339d731ca692e
+  published: 2025-01-06T22:53:23.186Z
+  content: В нашем Центре техосмотра на Московском шоссе, 13 в Санкт-Петербурге вы
+    можете пройти техосмотр вашего автомобиля с гарантией качества и быстроты
+    обслуживания. Мы предлагаем полный спектр услуг, чтобы обеспечить
+    безопасность и соответствие вашего транспортного средства всем необходимым
+    стандартам <a href="https://yandex.ru/maps/org/tekhosmotr/11324347330">Центр
+    техосмотра Московское шоссе</a>
+  lang: zh-CN
+  ip:
+    encrypted: MDM3YmFjZGYzNmIzMzY4NWQ2YjU4MjdkMTU5MA==
+    algorithm: aes-256-gcm
+    iv: 7866b01724ac811c86fc564c
+    version: "1"
+  spam:
+    score: 8.99
+    marked: true
+  status: rejected
