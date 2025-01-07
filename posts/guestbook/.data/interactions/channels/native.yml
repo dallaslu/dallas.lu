@@ -1410,3 +1410,38 @@
   spam:
     score: 2.36
   status: auditing
+- type: reply
+  channel: native
+  id: 18768d42123e32db5ce8211fc393fde23e8eb66b
+  author:
+    name: Ravinia DeManiel
+    lang: en
+    email:
+      value:
+        encrypted: OGRiMGI2YzY1MjRjMzIwNWJhODNlYWE2MWMxYmVjZjg5M2ZkMTc5YmUyMzQ=
+        algorithm: aes-256-gcm
+        iv: 22aab4eb3d3dc031d7c0fe63
+        version: "1"
+      hash:
+        sha256: 3e8ddf5796ea0605c5b91bb761cd4ac1ff0a93a8be5b1a08a185d66466ca043f
+  published: 2025-01-07T23:36:57.810Z
+  content: "Exploring your site felt like wandering through the historical ruins
+    of Machu Picchu, where every discovery is both profound and delightful. The
+    rich visuals paired with engaging stories create a sense of adventure and
+    curiosity. I am grateful for the opportunity to express my admiration for
+    the captivating design that draws visitors into this remarkable journey. \r
+
+    \ \r
+
+    My site is available for browsing at any time <a
+    href=http://alumin.tel/info/chto-takoe-boksity>aDVanceD tEcHnolOGIes in
+    baUXiTe MInINg</a>"
+  lang: en
+  ip:
+    encrypted: ZGI2OWY2NjJiMzk1OTg1NjQxZDZjOWYw
+    algorithm: aes-256-gcm
+    iv: eefadaabde2a3abd8b41a5e7
+    version: "1"
+  spam:
+    score: 3.32
+  status: auditing
