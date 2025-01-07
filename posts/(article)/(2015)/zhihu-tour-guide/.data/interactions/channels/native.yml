@@ -673,3 +673,46 @@
   spam:
     score: 2.51
   status: auditing
+- type: reply
+  channel: native
+  id: ff10bc923bfcfc95fd46f4fe46331abff20d0c23
+  author:
+    name: goldenFalcon
+    lang: en
+    email:
+      value:
+        encrypted: MDcxYmI3YWE1YjI3MjMyYTk2MjQyODYzNjA0ZTRjMTAyZjA4ZTRiM2NhZWM=
+        algorithm: aes-256-gcm
+        iv: 544041b4e2f1c7cd41394f86
+        version: "1"
+      hash:
+        sha256: 85739f2a6017e937298763a08c56d83c4fd03c55f56b1607bac57a328c121dc1
+  published: 2025-01-07T09:31:30.380Z
+  content: "Social media managers spend a lot of time resizing images for
+    different platforms. This can be a tedious task that involves cropping and
+    adjusting dimensions. \r
+
+    http://www.croptor.com is a tool that can help you batch process images. You
+    simply upload your images, select the desired output sizes for different
+    platforms, and Croptor.com will resize the images for you. \r
+
+    This can save you a lot of time and frustration, especially if you manage
+    social media for multiple brands or clients. The free plan has limitations,
+    but the paid option is affordable and well worth the investment. \r
+
+    I highly recommend giving http://www.croptor.com a try. It could become an
+    essential part of your social media workflow. \r
+
+    \ \r
+
+    Have a good Day"
+  lang: zh-CN
+  ip:
+    encrypted: ZGJiNTRmMmQ4MWNjYTU1YTk5OGI5MzQ0
+    algorithm: aes-256-gcm
+    iv: bca114d178d64153e44d413a
+    version: "1"
+  spam:
+    score: 6.73
+    marked: true
+  status: rejected
