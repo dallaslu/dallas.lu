@@ -839,3 +839,33 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 045c27a9eb9305a8acba9b0f307000677d4b0714
+  author:
+    name: AlfredVub
+    lang: en
+    email:
+      value:
+        encrypted: NDkwZGFkMGUzZjg4YzZlYTVhMjgwMDM1OGZlZTU5OTAwYg==
+        algorithm: aes-256-gcm
+        iv: 339873dae606afc1d2d421c0
+        version: "1"
+      hash:
+        sha256: b897a13a152d2a3ef850c02344e13fa1b5f059cf85d67b4ddddefba3835af601
+  published: 2025-01-08T16:49:52.601Z
+  content: Если вы только планируете поездку в Таиланд и на Пхукет, загляните на
+    <a
+    href="http://gazelperm.ru/content/pages/natsional-nyj-park-ko-chang.html">phuketescape.com</a>
+    — там собрана базовая информация для начинающих путешественников что
+    посмотреть, куда съездить.
+  lang: zh-CN
+  ip:
+    encrypted: ZGRlYjUzMWQwYjc3NDFmZTdiYWYzZDUzMTgzNg==
+    algorithm: aes-256-gcm
+    iv: 8b979d3acad2b1bf68029561
+    version: "1"
+  spam:
+    score: 7.61
+    marked: true
+  status: rejected
