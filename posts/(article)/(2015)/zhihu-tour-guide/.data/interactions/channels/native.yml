@@ -898,3 +898,31 @@
     score: 8.67
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e9c36b1105b3a65d4abc5bf7d5d58d742f609ea5
+  author:
+    name: Richardcep
+    lang: en
+    email:
+      value:
+        encrypted: M2JiNmNhMzkyZGMxMzU2ZWIzY2Q2MmE4OThjZWRmM2M3OQ==
+        algorithm: aes-256-gcm
+        iv: 2bc72795fdaa783d9408dfe7
+        version: "1"
+      hash:
+        sha256: ce7a98bdf16f6b15f02e274af566a595951a4f671f7a40587340289d623fdec3
+  published: 2025-01-09T15:40:18.911Z
+  content: Бесплатные фриспины за регистрацию в казино - подборка актуальных
+    предложений. Новые фриспины без депозита 2025 года на <a
+    href="https://droptopsite1.ru/">промокоды на фриспины</a>
+  lang: zh-CN
+  ip:
+    encrypted: MzY0MjIyZDdlYjI5YjZhMjZhYTg3ZTk5ZDJmNQ==
+    algorithm: aes-256-gcm
+    iv: f0757f4218fe48393e9aabde
+    version: "1"
+  spam:
+    score: 9.15
+    marked: true
+  status: rejected
