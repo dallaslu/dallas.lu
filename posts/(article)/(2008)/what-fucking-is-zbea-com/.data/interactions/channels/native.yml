@@ -300,3 +300,30 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ba911bd4a2c7021a80dbc39cd4cd800c557a3df1
+  author:
+    name: Williamchate
+    lang: zh-CN
+    email:
+      value:
+        encrypted: NWU2ZTQ0ZWY0OTE4MzhmZjg4MjM2NmM3NmY2NDI0NGIzNWY1NjJjMjNkN2E5NWI3MjY=
+        algorithm: aes-256-gcm
+        iv: 988b9a26d5270fc51f72e8a2
+        version: "1"
+      hash:
+        sha256: adf18402db4fce9861b515297bbc40ee51e27050678c211a559c9403877c73b6
+  published: 2025-01-09T02:31:38.390Z
+  content: <a
+    href=https://vkorzinu.com.ua/literatura-ta-istorija/lui-paster-vidkrittja.html>https://vkorzinu.com.ua/literatura-ta-istorija/lui-paster-vidkrittja.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: YjkzZDE5MWMzNGQyMzBjMTM2MzU4YzUwYmUyNg==
+    algorithm: aes-256-gcm
+    iv: bd40a829516dc8b466350f69
+    version: "1"
+  spam:
+    score: 8
+    marked: true
+  status: rejected
