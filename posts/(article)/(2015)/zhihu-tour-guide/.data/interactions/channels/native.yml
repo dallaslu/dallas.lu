@@ -926,3 +926,36 @@
     score: 9.15
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: aaa0621f050666d23f872d03db113976ee00f283
+  author:
+    name: MatthewVew
+    lang: en
+    email:
+      value:
+        encrypted: N2IyOGMzOGRkMmNiYzVlNTQ2YzY3ZmI5MjcxNWNjMmJkNA==
+        algorithm: aes-256-gcm
+        iv: 451d69e1a0a6bde16b72bd79
+        version: "1"
+      hash:
+        sha256: ed3502134926b974906c016925d22ce11ee954ae6abb6d76af17279539f9dfc6
+  published: 2025-01-09T15:57:13.390Z
+  content: 'Займ на карту без отказа — это быстрое и удобное решение для тех, кто
+    нуждается в финансовой помощи: простая онлайн-заявка, минимальные требования
+    к заемщику и мгновенное одобрение, что позволяет получить необходимую сумму
+    практически незамедлительно, а также возможность быстро погасить
+    задолженность, делая процесс максимально комфортным и прозрачным для каждого
+    <a
+    href="https://vc.ru/money/1745237-top-17-mfo-gde-vzyat-zaimy-s-plohoi-kreditnoi-istoriei-bez-otkaza-na-2025-god">займы
+    без отказа на карту</a>'
+  lang: zh-CN
+  ip:
+    encrypted: OGY3ZjdhZWVkNzA2MGU3NTYyYWNmNDcyM2RlMw==
+    algorithm: aes-256-gcm
+    iv: 51e19ef006adf45b6cba89e7
+    version: "1"
+  spam:
+    score: 9.21
+    marked: true
+  status: rejected
