@@ -869,3 +869,32 @@
     score: 7.61
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 78f3dd87887b60e978feeff8dc84a8d803491d99
+  author:
+    name: MatthewDaf
+    lang: en
+    email:
+      value:
+        encrypted: ZmI2NjgzMWVjZjM1ZGY4MDkyOTA4MDFkN2MzNzNlZWFjYQ==
+        algorithm: aes-256-gcm
+        iv: 865d5a3c6be09dc45dfa8ace
+        version: "1"
+      hash:
+        sha256: 7c36eea58567be7d39f00dec95533a24cdeb72262f92763e73e22c25cf0462bc
+  published: 2025-01-09T00:53:51.707Z
+  content: Нашёл недавно интересный путеводитель по Парижу и Франции – <a
+    href="https://gazeta-curier.ru/img/pgs/top-10-sekretnyh-mest-parizha.html">parisgid.ru</a>.
+    Там есть готовые маршруты, идеи, обзоры достопримечательностей и советы где
+    поесть.
+  lang: zh-CN
+  ip:
+    encrypted: NWE5ZGQzZjhmMjU3MTM5YmRlNDAxZmFlNGRkZA==
+    algorithm: aes-256-gcm
+    iv: e21765169a862bfbac4cb844
+    version: "1"
+  spam:
+    score: 8.67
+    marked: true
+  status: rejected
