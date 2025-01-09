@@ -959,3 +959,31 @@
     score: 9.21
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7d02396615b1e1aef0fe61086f905aee33945aa0
+  author:
+    name: RobertSlift
+    lang: en
+    email:
+      value:
+        encrypted: MDU0MjQ3M2M5NzE4NzMzMjgzNjUwNGE5NzlmOTkyYzI2NQ==
+        algorithm: aes-256-gcm
+        iv: 7aad1c7a17659a894fb10637
+        version: "1"
+      hash:
+        sha256: ab912163581d71d870f59e6324d1a042d029fcd2954ed2d6ae51f1c93633a11e
+  published: 2025-01-09T23:26:15.323Z
+  content: Заказать изготовление по индивидуальному дизайну или купть памятник по
+    выгодной цене Вы можете в нашей Гранитной мастерской <a
+    href="https://nisp.ru">бесплатно 2024</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODJjMTNhZmM0MmRlYWQ3Mzg1MjBiNWI4NWFmNw==
+    algorithm: aes-256-gcm
+    iv: 7761059f7f73e33e3c56a578
+    version: "1"
+  spam:
+    score: 9.04
+    marked: true
+  status: rejected
