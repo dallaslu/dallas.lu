@@ -327,3 +327,30 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: d053f57d79ce5de90f9454aa72a12dbdf188d4c8
+  author:
+    name: Charlesfen
+    lang: zh-CN
+    email:
+      value:
+        encrypted: Y2RiNDdjYWY3MmEwZWI4OGZmOTI3YWEyNTliMGEwZWY3MDU4YTU1MjdhYzA5ZTliYTc=
+        algorithm: aes-256-gcm
+        iv: f3d5d8cd6feeffd0ed70d1f0
+        version: "1"
+      hash:
+        sha256: a92803208f319f966b5127c74cc7f32b7582a5a29f639be11cdd34d0cf89ff74
+  published: 2025-01-10T11:17:42.240Z
+  content: <a
+    href=https://kvartal-club.com.ua/tehno/korotka-istorija-vr-ta-ar.html>https://kvartal-club.com.ua/tehno/korotka-istorija-vr-ta-ar.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: NTUyYTQxYjZkYTY2OTE1NjIyNzMyOGIwZjgzNw==
+    algorithm: aes-256-gcm
+    iv: f19027d427d018d1f1a39831
+    version: "1"
+  spam:
+    score: 8
+    marked: true
+  status: rejected
