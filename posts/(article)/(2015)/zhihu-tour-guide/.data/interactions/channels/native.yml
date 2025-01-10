@@ -1023,3 +1023,31 @@
     score: 6.52
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 78c6e02f2c0c1a14e72ddfe3b87fee79c06dd406
+  author:
+    name: Williamalara
+    lang: en
+    email:
+      value:
+        encrypted: ZjRmMGJiMmFjNGYzM2RiODg5NzVmNDZkYTNiNjVjOWEzYQ==
+        algorithm: aes-256-gcm
+        iv: 296e0b50bbf38cf4bde52a5c
+        version: "1"
+      hash:
+        sha256: 8c71f26d76b45af47d593a5ecbe7d75c38b5a11c7bcd269bad9420342eb21b55
+  published: 2025-01-10T01:56:04.567Z
+  content: Гранитная мастерская памятников – это предприятие по изготовлению
+    памятников на могилу из натурального камня. <a
+    href="https://talkingstone.ru">смотреть онлайн бесплатно</a>
+  lang: zh-CN
+  ip:
+    encrypted: MDlkZTk4MDY2MzA2MTY0MzkyZjBjMmRkZTVhOA==
+    algorithm: aes-256-gcm
+    iv: 6c928ca05bcc700b25ddc503
+    version: "1"
+  spam:
+    score: 9.16
+    marked: true
+  status: rejected
