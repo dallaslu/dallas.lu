@@ -1232,3 +1232,33 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: bc6c44d1db09b51cde646e770ff9afa018e054a5
+  author:
+    name: Clydelit
+    lang: en
+    email:
+      value:
+        encrypted: OTQyMzNjYjI3MjI2YWM2OTRjOWY2NjIzNTA0N2E3ZjJmYg==
+        algorithm: aes-256-gcm
+        iv: a1c58d54284c170d23d305ca
+        version: "1"
+      hash:
+        sha256: f57221c0310817f28c46f0fbca0b47f7fb2afbfddbf287bbb8aecd716c9bdf2c
+  published: 2025-01-11T15:33:33.004Z
+  content: Букмекерская контора 1Win – самая популярная платформа для онлайн
+    ставок на спорт и казино в России. 1Вин – это легальный официальный сайт с
+    лицензией, которые всегда выводит выигрыши. Чтобы начать делать ставки и
+    играть на деньги, необходимо зарегистрироваться <a
+    href="http://statsgameroleplay.5nx.ru/viewtopic.php?f=3&t=6631">http://statsgameroleplay.5nx.ru/viewtopic.php?f=3&t=6631</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODk5NDc0NmNlNTcyZjRiYTM5ZTA4ZTE2MDAyMA==
+    algorithm: aes-256-gcm
+    iv: 079de46ce538af6626a1f58b
+    version: "1"
+  spam:
+    score: 7.98
+    marked: true
+  status: rejected
