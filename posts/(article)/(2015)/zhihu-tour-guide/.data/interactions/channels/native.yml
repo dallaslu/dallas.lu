@@ -1262,3 +1262,30 @@
     score: 7.98
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 669f54fbd28a11600969add940115834a3c47e1b
+  author:
+    name: krknsiteA
+    lang: en
+    email:
+      value:
+        encrypted: YzY0YzBhYTU4OWEzMmI5Y2VmMjhhZjI5MDcyNzg3OGY3MDY1MDQ=
+        algorithm: aes-256-gcm
+        iv: fd84fd47e88be5aa848f7874
+        version: "1"
+      hash:
+        sha256: 08fb5dd90727cedaae7e8580c276bb220f3d2aaab91b3cefcae60b99de9efeb3
+  published: 2025-01-11T21:03:57.088Z
+  content: <a href="https://kra25-cc.com">Кракен ссылка</a> – kraken darknet
+    market ссылка, кракен тор ссылка онион
+  lang: zh-CN
+  ip:
+    encrypted: MDU0YjgxNjVmMzFjNzRiZDQ3NjI3NzVk
+    algorithm: aes-256-gcm
+    iv: 5d705db7f1a928c0e5f2c7fe
+    version: "1"
+  spam:
+    score: 6.51
+    marked: true
+  status: rejected
