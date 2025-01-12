@@ -435,3 +435,29 @@
     score: 7.38
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 94d6a93e1e0fcf67d0b7584672b58251f79bd0f7
+  author:
+    name: GeorgeNup
+    lang: zh-CN
+    email:
+      value:
+        encrypted: YjBlNTgwODliODdlM2Y3YjhiY2Q3NzJjM2ZlOGYzZmE1NTRjNDY2OTFiZWE0ZDZlYzE=
+        algorithm: aes-256-gcm
+        iv: ac86d05ee385840ba6860e47
+        version: "1"
+      hash:
+        sha256: ba3dc5cb0d69acbe3a4d6b0ea16587b426588deeaa6e3de2ded87b2a41596992
+  published: 2025-01-12T11:21:32.621Z
+  content: <a href=https://new-mebel.com.ua/>new-mebel.com.ua</a>
+  lang: zh-CN
+  ip:
+    encrypted: MzNjODk3Njc1ZmVjNWQ4NDI1ZGQxZjY1MWIwOQ==
+    algorithm: aes-256-gcm
+    iv: 06098224540b81f6634421a4
+    version: "1"
+  spam:
+    score: 7.61
+    marked: true
+  status: rejected
