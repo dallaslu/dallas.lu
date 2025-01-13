@@ -1521,3 +1521,32 @@
   spam:
     score: 3.31
   status: auditing
+- type: reply
+  channel: native
+  id: 98e8538bfbad817b4e07f61da0e40eddb9807d9a
+  author:
+    name: MichaelDeple
+    lang: en
+    email:
+      value:
+        encrypted: YTVhMmNiZTU1MDYzMGUyMTU1M2FjYjg2OGJmNjM5ZTBmZmQzNmE=
+        algorithm: aes-256-gcm
+        iv: 165ccd4d3b705c708db23bcb
+        version: "1"
+      hash:
+        sha256: e3bed05226701f54ef07039b88ecfb985c2573eb3eab7d052fb4b1a3bad2ed65
+  published: 2025-01-13T05:58:47.420Z
+  content: "<a
+    href=\"http://www.karoitowncouncil.co.zw/2024/11/befizetes-nelkuli-bonusz-i\
+    ngyenes-kezdtke-a-5/\">https://eckticaret.com/1435-spielautomaten-kostenlos\
+    -spielen-online-slot-2/</a> \r\n"
+  lang: en
+  ip:
+    encrypted: ZDBlNTdkMjljNzQwYzU2ZDY2NGU3M2ZlNjY3ZmZl
+    algorithm: aes-256-gcm
+    iv: 638895e339ea4369ab5803bd
+    version: "1"
+  spam:
+    score: 8
+    marked: true
+  status: rejected
