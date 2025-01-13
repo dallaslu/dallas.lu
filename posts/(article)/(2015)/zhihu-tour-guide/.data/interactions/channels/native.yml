@@ -1552,3 +1552,32 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: aa26fad77e4886929e44117abae4b23d23be5519
+  author:
+    name: Kennethemuse
+    lang: en
+    email:
+      value:
+        encrypted: YmUyZDhkYWQyMTZlNzljZTEwYjQyNDg0MDZjYTY2ZTY3ODU2
+        algorithm: aes-256-gcm
+        iv: 6d009eeff18fff2fa812634e
+        version: "1"
+      hash:
+        sha256: 2059d82324e8eb4a698a0a5b6132b3336d3b193cba3b0641974b332ab3473239
+  published: 2025-01-13T00:45:36.674Z
+  content: Виниловый пол – это современное напольное покрытие, которое
+    стремительно набирает популярность благодаря своим уникальным свойствам и
+    широким возможностям дизайна <a
+    href="https://gp.by/novosti/kaleidoscope/news292747.html">https://gp.by/novosti/kaleidoscope/news292747.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTEwZWQ2NDhmOWI3ODRkMGQzMWQ3ODE4NTVlYw==
+    algorithm: aes-256-gcm
+    iv: e275a6a8e7debe24eb426ea4
+    version: "1"
+  spam:
+    score: 6.74
+    marked: true
+  status: rejected
