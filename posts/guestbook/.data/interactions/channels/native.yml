@@ -1550,3 +1550,37 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5231ee9d590660206dd3d70870f21726c412863d
+  author:
+    name: KennethDuppy
+    lang: en
+    email:
+      value:
+        encrypted: MmJmMTM0ZWQ2YjA4NmE4YjY0Yjk2NWY5OWQzNGE4ZDdlZWE0OTQwY2Y0ODNiOThhMmNkNjUxYTA3ZTc4ZWI=
+        algorithm: aes-256-gcm
+        iv: c80a988ffb2f5823f3f78a5d
+        version: "1"
+      hash:
+        sha256: e1810b4fd55ff94e963d24107870b25e167bdcd6d15c368c5536131050647d57
+  published: 2025-01-13T13:37:55.710Z
+  content: " \r
+
+    I guess the moral or the story is if a site seems shady AF make sure to
+    manually cancel the PayPal agreement even if they say they canceled it on
+    their end. \r
+
+    \ \r
+
+    <a href=https://mygreektutor.co.uk/expression-of-prohibition-2/>deleted
+    scene</a>"
+  lang: en
+  ip:
+    encrypted: ZDhjMjQ0ZWY5MTE2N2ViMDIwZGJiN2Ex
+    algorithm: aes-256-gcm
+    iv: 2fa80da6c8c5af5b62418aa2
+    version: "1"
+  spam:
+    score: 3.84
+  status: auditing
