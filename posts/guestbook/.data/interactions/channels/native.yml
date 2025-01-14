@@ -1673,3 +1673,50 @@
   spam:
     score: 3.21
   status: auditing
+- type: reply
+  channel: native
+  id: 5b5e58ebf8ef33c6bfda765ca0986b65952445ed
+  author:
+    name: Josephcig
+    lang: en
+    email:
+      value:
+        encrypted: MmNhYmQ2YmYxOTJjMmU0NjczZjZjMTdkNjlkODUzZDNjNzE0NGRlZDNkNmQ0Mg==
+        algorithm: aes-256-gcm
+        iv: bdc5ebeca23eeac6a5941ae6
+        version: "1"
+      hash:
+        sha256: 439426c6932db0ffc867422f9bbd0783c9b6f11f9171d485929b143cb3289b77
+  published: 2025-01-14T11:34:56.825Z
+  content: "Le code promo 1xBet pour l'annee 2025 vous offre un Bonus VIP a 100 %
+    allant jusqu'a 130 € pour les paris sportifs, ou un bonus exceptionnel de
+    1950 € accompagne de 150 tours gratuits. Grace a ce code exclusif, vous
+    pouvez beneficier d'un bonus ameliore des votre inscription sur le site
+    officiel 1xBet.com. Decouvrons ensemble les details du programme de bonus
+    propose par ce bookmaker. Quels sont les codes promo disponibles ? Quels
+    types de bonus sont accessibles actuellement pour les joueurs ayant choisi
+    cette plateforme pour leurs paris sportifs ? \r
+
+    <h1 style=\"text-align: center;\">Code Promo 1xBet</h1> \r
+
+    <h2 style=\"text-align: center;\"><a
+    href=https://www.adgcf.fr/upload/pgs/code_promo_165.html>https://www.adgcf.\
+    fr/upload/pgs/code_promo_165.html</a> \r
+
+    Le code promo 1xBet 2025 vous permet de beneficier d'une offre VIP exclusive
+    de 100 % jusqu'a 130 € sur les paris sportifs ou d'un bonus impressionnant
+    de 1950 € accompagne de 150 tours gratuits. Ce bonus de bienvenue double
+    votre depot initial en augmentant votre mise de 100 %. Dans cet article,
+    nous detaillons le processus pour vous inscrire correctement sur 1xBet,
+    maximiser votre bonus, et jouer gratuitement grace au bookmaker. Utilisez un
+    code bonus special pour debloquer l'ensemble des promotions disponibles et
+    obtenir de l'argent gratuit."
+  lang: en
+  ip:
+    encrypted: NzViNDgwMDA2MWNiZGYwNjM3NzYwMzczZTc=
+    algorithm: aes-256-gcm
+    iv: b6b926380ab84a6129a8111c
+    version: "1"
+  spam:
+    score: 3.28
+  status: auditing
