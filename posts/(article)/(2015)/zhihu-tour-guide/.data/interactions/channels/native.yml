@@ -1702,3 +1702,33 @@
     score: 7.81
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7b7cb915ba9c3acb77d486bf956916deb3602d6b
+  author:
+    name: DarrenCek
+    lang: en
+    email:
+      value:
+        encrypted: ZTRiMWQ1ZWQ2MjQyMmFiYjYzOTUwYmE4NzlmNzRkYjg0MDgz
+        algorithm: aes-256-gcm
+        iv: 8d6c65bf0514c23ba477e03d
+        version: "1"
+      hash:
+        sha256: 62a7c15e96962a9d751ca4dc6268a0b7520d1fabcd2048e461d604bf92a710c0
+  published: 2025-01-14T12:44:14.349Z
+  content: Польский виртуальный номер – это телефонный номер, который не привязан
+    к физической SIM-карте или мобильному устройству. Вместо этого, он работает
+    через интернет, что делает его доступным практически из любой точки мира <a
+    href="https://soccerweb.ru/virtualnye-nomera-dlya-biznesa/">купить
+    виртуальный номер телефона</a>
+  lang: zh-CN
+  ip:
+    encrypted: MWU1YzMyNzhkNGMyNzMyMTZlNzE2YjE2YTY4ZQ==
+    algorithm: aes-256-gcm
+    iv: d78431032beea7981abd510b
+    version: "1"
+  spam:
+    score: 9.13
+    marked: true
+  status: rejected
