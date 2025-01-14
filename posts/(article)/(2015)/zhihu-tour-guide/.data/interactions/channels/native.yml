@@ -1760,3 +1760,32 @@
     score: 6.02
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e21ad0b967b82873de02b5547a1ffc674b8bb20c
+  author:
+    name: ScottApows
+    lang: en
+    email:
+      value:
+        encrypted: Y2QxMWUxNjQwYTgwZjllYTM5ZDUxMGM2ZjMxODI2Njc5OThk
+        algorithm: aes-256-gcm
+        iv: f60e2136f5abc1a90a77dbe8
+        version: "1"
+      hash:
+        sha256: adc44487d0d9d35c5e098f722e08bbb6534b307dae3bc647d1edf7386f159988
+  published: 2025-01-14T21:41:26.875Z
+  content: Виртуальный номер телефона даёт возможность подключать любое количество
+    номеров и разговаривать с любого устройства, принимать звонки в офисе или
+    дома <a href="https://cafe-hayal.ru/vechnyj-virtualnyj-nomer/">купить
+    виртуальный номер</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZGVhYmM1ZjkzZjRjODBiNzExNDBhMmVjYzcxOA==
+    algorithm: aes-256-gcm
+    iv: b906a0e26596bb3d05c822a8
+    version: "1"
+  spam:
+    score: 9.28
+    marked: true
+  status: rejected
