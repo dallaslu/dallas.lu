@@ -1817,3 +1817,32 @@
     score: 6.31
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 63291bc8938a5c08825bae9929befa4deb9eedce
+  author:
+    name: RonaldDem
+    lang: en
+    email:
+      value:
+        encrypted: ZWE4OGJlMzdiZDU5MzFiNTQ2NWMxY2Y1NGIwNDFkZTU3NzBi
+        algorithm: aes-256-gcm
+        iv: 8ae9efee158c5cb77d55fc5a
+        version: "1"
+      hash:
+        sha256: 23b415cf052ecfaf43e7cc8c09755ade944f4248295151e9cd0697ce0a07b124
+  published: 2025-01-15T23:07:34.689Z
+  content: Дома из бревна вообще выглядят очень круто! Я лично давно мечтаю о
+    чем-то подобном, но, к сожалению, пока что даже участка под такой дом у меня
+    нет <a
+    href="https://ru.gorodwiki.ru/peterburg/izba-776157-otzyvy">https://ru.gorodwiki.ru/peterburg/izba-776157-otzyvy</a>
+  lang: zh-CN
+  ip:
+    encrypted: Yzk5MTA1Y2ZjOWNiZGU4MTQ3YmY1N2VjYmJhNg==
+    algorithm: aes-256-gcm
+    iv: 5ba5eff06fbc138623face45
+    version: "1"
+  spam:
+    score: 9.84
+    marked: true
+  status: rejected
