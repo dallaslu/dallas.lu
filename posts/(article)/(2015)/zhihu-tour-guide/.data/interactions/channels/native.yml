@@ -1846,3 +1846,39 @@
     score: 9.84
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: aa18562ad1151179e98e3226274e8e93a5c80103
+  author:
+    name: AlexNuckem
+    lang: en
+    email:
+      value:
+        encrypted: NTBmNDhjZDlhYzYwNDUxOWY1NWEyYmY0N2UxYzA0YWVhNmJlMmMxMDEwMGQ=
+        algorithm: aes-256-gcm
+        iv: b1812f15d6985617954d4098
+        version: "1"
+      hash:
+        sha256: dc4bcaf5ad60736cd5f0419d4c89dc4f954571864a5223ae7298b7b703746603
+  published: 2025-01-15T23:57:22.938Z
+  content: " Игровые автоматы  \r
+
+    Оптимизирован для смартфонов \r
+
+    Казино с лицензией, дающие слоты \r
+
+    \ \r
+
+    игровые аппараты топ 10\t \r
+
+    https://cash4winner.com/l/67816cee174262243c0008bf"
+  lang: zh-CN
+  ip:
+    encrypted: N2FjMDVkODM1YTBlMTI4MTZlMTdhN2Fm
+    algorithm: aes-256-gcm
+    iv: c9b021a1255e33e5bda97edf
+    version: "1"
+  spam:
+    score: 5.4
+    marked: true
+  status: auditing
