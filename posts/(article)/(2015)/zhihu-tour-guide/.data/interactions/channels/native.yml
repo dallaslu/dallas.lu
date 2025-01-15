@@ -1789,3 +1789,31 @@
     score: 9.28
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2d8f910fb56aa4a16554c7144e2c13a6a601a317
+  author:
+    name: Peterpaind
+    lang: en
+    email:
+      value:
+        encrypted: ZDBmZDhhZjRmYWRmMWY0NDExN2RhMTc0OTQ4YmQ3NmQ1YWZl
+        algorithm: aes-256-gcm
+        iv: a66ce76e6268aee36dd351d9
+        version: "1"
+      hash:
+        sha256: 9e2c1a9119593a9d6fdc4223db68787502450fb85f121dfcdedbffdf3257d074
+  published: 2025-01-15T17:15:55.710Z
+  content: Займы в Казахстане онлайн — быстрое оформление, минимальные требования,
+    выгодные условия для получения нужной суммы <a
+    href="https://wirelesscertification.org/">микрозаймы онлайн</a>
+  lang: zh-CN
+  ip:
+    encrypted: Y2I3ODY5YTg5YjJkYzhmOGYzYzQ1MjU3MmNiOQ==
+    algorithm: aes-256-gcm
+    iv: 7122e420e4fc3b8ba283ef20
+    version: "1"
+  spam:
+    score: 6.31
+    marked: true
+  status: rejected
