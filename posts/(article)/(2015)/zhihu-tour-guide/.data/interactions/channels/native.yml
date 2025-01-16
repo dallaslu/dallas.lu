@@ -1941,3 +1941,31 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0e7f1b8ce1a86e51bc3f4a9fbb2851315268bf44
+  author:
+    name: BobbyNeorb
+    lang: en
+    email:
+      value:
+        encrypted: NjJhZWY4NzlkNmRiZDVlYzYyYjAwY2E1ZmFiM2E2Yjk1MDM3
+        algorithm: aes-256-gcm
+        iv: 797ca11ef2e336ab16176124
+        version: "1"
+      hash:
+        sha256: 65f4a33780b456794113c69d8b88da5a2a5f70a2178d324d07d18b4e99f95ce7
+  published: 2025-01-16T12:29:41.319Z
+  content: Продажа табака для кальяна. На сайте вы можете зарезервировать
+    выбранный табак и забрать в магазине <a
+    href="https://pano24.com.ua/naperstok-dlya-kurinnya-yak-stilnij-aksesuar-najczikavishi-dizajni/">https://pano24.com.ua/naperstok-dlya-kurinnya-yak-stilnij-aksesuar-najczikavishi-dizajni/</a>
+  lang: zh-CN
+  ip:
+    encrypted: Y2M3YTBhOGMzMmNiODUyNGI0OTNlN2EzODkyOQ==
+    algorithm: aes-256-gcm
+    iv: e3fe0311fd768ca39ec417c4
+    version: "1"
+  spam:
+    score: 7.48
+    marked: true
+  status: rejected
