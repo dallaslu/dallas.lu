@@ -110,3 +110,29 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0bc1ff166948ec1657c80484ee08ff8ea4232a73
+  author:
+    name: RobertTug
+    lang: en
+    email:
+      value:
+        encrypted: ZTcwOWM5N2E3ZDljMDZlZTg5ZWVkMjcyYTAxNDkyMDU5YWJjZmQ2NzRmNjE0OWMw
+        algorithm: aes-256-gcm
+        iv: abebef01aad99d20644e071c
+        version: "1"
+      hash:
+        sha256: e40712688960fc0356fe234009d132c5f25988e3a2c074bd3462cb62306fa648
+  published: 2025-01-18T11:15:18.204Z
+  content: "https://hypothes.is/users/mietwagenpodgoricacom\r\n"
+  lang: en
+  ip:
+    encrypted: NDMyZjI2ZTY0NjMzYjVjODM3MDI3NDA1NzE=
+    algorithm: aes-256-gcm
+    iv: 9fac271a4372f0d222f882ad
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
