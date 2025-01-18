@@ -1844,3 +1844,53 @@
   spam:
     score: 3.45
   status: auditing
+- type: reply
+  channel: native
+  id: b83624b7e42bf16bf3258115035ea7b6462bdcfc
+  author:
+    name: Josephcig
+    lang: en
+    email:
+      value:
+        encrypted: NGQ3YjUwYzgyNjBhY2UzMDgyNGJlZTc2ODVjYzcyODUwZmJkMTNhNDBjM2IxMQ==
+        algorithm: aes-256-gcm
+        iv: 33e8384bb81151ea32337641
+        version: "1"
+      hash:
+        sha256: 439426c6932db0ffc867422f9bbd0783c9b6f11f9171d485929b143cb3289b77
+  published: 2025-01-18T09:05:08.448Z
+  content: "Ensuite, rechargez votre compte pour n'importe quel montant et obtenez
+    de l'argent bonus, maintenant vous pouvez jouer et gagner beaucoup d'argent.
+    Inscrivez-vous sur le site officiel de 1xBet et utilisez le code promo pour
+    obtenir un bonus sportif gratuit de 100% jusqu'a 130 €/$. \r
+
+    \ \r
+
+    <h1 style=\"text-align: center;\">Code Promo 1xBet</h1> \r
+
+    <h2 style=\"text-align: center;\"><span style=\"color: #2dc26b;\"> \r
+
+    \ \r
+
+    <a
+    href=https://medicallaserclinic.it/news/code_promo_120.html>https://medical\
+    laserclinic.it/news/code_promo_120.html</a></a></span></h2> \r
+
+    \ \r
+
+    Le code promo gratuit 1xBet pour un bonus de bienvenue de 100% jusqu'a €130.
+    Lors de votre inscription, saisissez le code bonus pour profiter de l'offre
+    exclusive 1xBet. Utilisez le code bonus 1xBet dans le champ d'inscription en
+    2025 et accedez a toutes les sections disponibles. Vous pouvez effectivement
+    obtenir le bonus de bienvenue en utilisant l'apk 1xbet. Telechargez l'apk
+    pour profiter du code promo 1xbet et recevoir un bonus de €/$130 lors de
+    votre inscription."
+  lang: en
+  ip:
+    encrypted: N2YwMzUwMGY3NmNmNDc0MmY2YmJhMDljZjQ=
+    algorithm: aes-256-gcm
+    iv: 7a3237a94522e890fb8ea43a
+    version: "1"
+  spam:
+    score: 3.4
+  status: auditing
