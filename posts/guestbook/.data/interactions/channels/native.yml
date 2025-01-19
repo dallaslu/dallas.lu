@@ -1984,3 +1984,39 @@
   spam:
     score: 2.09
   status: auditing
+- type: reply
+  channel: native
+  id: 5713f54e02c85c909a155495f9ff0822efc13a3e
+  author:
+    name: Kennethlex
+    lang: en
+    email:
+      value:
+        encrypted: MTE2YjgxY2E5YTUzMzllY2IxZWEzNmNiNDg3NzQyNjdiZjI2Zjc1MTdjMjhkN2U2OTZjOGVjYmQ0NGViOTk=
+        algorithm: aes-256-gcm
+        iv: f3a61c4c6a29d3c0eb548424
+        version: "1"
+      hash:
+        sha256: 7d7f855f759a1232f68f71354d7fd7dae09e1819fa9b7644ec140b234a3e0aa4
+  published: 2025-01-19T00:36:31.579Z
+  content: "Три года назад я вложил деньги в дом в глэмпинг-отель
+    [url=glamping-park.com]сайт проекта[/url], и теперь хочу поделиться своей
+    радостью. За это время моя инвестиция полностью окупилась! Я не только
+    наслаждаюсь природой и комфортом, но и получаю стабильный доход. Это был
+    один из лучших решений в моей жизни! \r
+
+    \ \r
+
+    \ \r
+
+    [url=https://glamping-lodge.ru/]модули для глэмпинга[/url]"
+  lang: en
+  ip:
+    encrypted: NTJkNTViMGQzYjUxNjhjM2Y0ZGIzMg==
+    algorithm: aes-256-gcm
+    iv: 4b33cde3d472ceb7b16b6eb5
+    version: "1"
+  spam:
+    score: 5.26
+    marked: true
+  status: auditing
