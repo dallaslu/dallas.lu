@@ -2111,3 +2111,28 @@
   spam:
     score: 2.11
   status: auditing
+- type: reply
+  channel: native
+  id: 5e0658a93e4c66e6331134e391c990834b698cc5
+  author:
+    name: Angelaswarf
+    lang: en
+    email:
+      value:
+        encrypted: OTE4Mzk2MzVjNGZmM2Y3NmIyYmFiMThjOGViNmZhNDU1ZTM2ZTk=
+        algorithm: aes-256-gcm
+        iv: 37f7d3744f2237372c463535
+        version: "1"
+      hash:
+        sha256: 876fba3e15707d2e7726b84bf6984bf0fc3f60b534395479d67cac56663258fa
+  published: 2025-01-20T12:47:40.333Z
+  content: Hello! Your Letter - http://telegra.ph/New-Transfer-01-20
+  lang: en
+  ip:
+    encrypted: ZjFkMTBlNzIyOTdjN2YwM2MwNGU3NzA5N2ZmMzYw
+    algorithm: aes-256-gcm
+    iv: 8fd78b0790c6696ccf0716eb
+    version: "1"
+  spam:
+    score: 3.89
+  status: auditing
