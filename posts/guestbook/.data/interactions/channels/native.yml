@@ -2020,3 +2020,94 @@
     score: 5.26
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 325f0204f5d84b0f3193f47e333dd68b77318a56
+  author:
+    name: Marinasl4626
+    lang: en
+    email:
+      value:
+        encrypted: ZTMzMWJlY2M4ZWY0OGEyODQ2ODhlNjQ3NzBiZTM0MDQ2MDAzMjc5MTFlNDIyNWYzZjllOA==
+        algorithm: aes-256-gcm
+        iv: 1c0d3527145bd2e2e4f34134
+        version: "1"
+      hash:
+        sha256: bfb862c9320f0ae5f980d3dc268f3d1c5e7dfc422a79d46bc4fac47d6190e79e
+  published: 2025-01-20T07:17:36.691Z
+  content: "XEvil 5.0 löst automatisch die meisten Captchas, \r
+
+    Einschließlich solcher Arten von Captchas: ReCaptcha v.2, ReCaptcha v.3,
+    Google captcha, SolveMedia, BitcoinFaucet, Steam, +12k \r
+
+    + hCaptcha, FC, ReCaptcha Enterprize jetzt im neuen XEvil 6.0 unterstützt!
+    \r
+
+    \ \r
+
+    1.) Schnell, einfach, präzise \r
+
+    XEvil ist der schnellste Captcha-Killer der Welt. Es hat keine
+    Lösungsgrenzen, keine Threads-Nummer-Grenzen \r
+
+    \ \r
+
+    2.) Unterstützung mehrerer APIs \r
+
+    XEvil unterstützt mehr als 6 verschiedene, weltweit bekannte APIs:
+    2captcha.com, anti-captcha (antigate), rucaptcha.com, death-by-captcha, etc.
+    \r
+
+    senden Sie einfach Ihr Captcha per HTTP-Anfrage, da Sie es an jeden dieser
+    Dienste senden können - und XEvil wird Ihr Captcha lösen! \r
+
+    XEvil ist also mit Hunderten von Anwendungen für SEO / SMM /
+    Passwortwiederherstellung / Parsen / Posten / Klicken / Kryptowährung / usw.
+    kompatibel. \r
+
+    \ \r
+
+    3.) Nützlicher Support und Handbücher \r
+
+    Nach dem Kauf haben Sie Zugang zu einer privaten Tech.support-Forum, Wiki,
+    Skype / Telegramm Online-Unterstützung \r
+
+    Entwickler trainieren XEvil KOSTENLOS und sehr schnell auf Ihre Art von
+    Captcha - senden Sie ihnen einfach Beispiele \r
+
+    \ \r
+
+    4.) Wie bekomme ich eine kostenlose Testversion der XEvil-Vollversion? \r
+
+    - Versuchen Sie, in Google zu suchen \"Home of XEvil\" \r
+
+    - sie finden IPs mit geöffnetem Port 80 von XEvil-Benutzern (klicken Sie auf
+    eine beliebige IP, um dies sicherzustellen) \r
+
+    - versuchen Sie, Ihr Captcha über die 2captcha-API in einer dieser IPs zu
+    senden \r
+
+    - wenn Sie einen SCHLECHTEN Schlüsselfehler haben, tru Sie einfach eine
+    andere IP \r
+
+    - viel Spaß! :) \r
+
+    - (es funktioniert nicht für hCaptcha!) \r
+
+    \ \r
+
+    ACHTUNG: Die kostenlose XEvil-DEMO unterstützt KEINE reCAPTCHA, hCaptcha und
+    die meisten anderen Arten von Captcha! \r
+
+    \ \r
+
+    http://xrumersale.site/"
+  lang: en
+  ip:
+    encrypted: MjQ0YTg5ZjQwNTRhMjNlOWY5OGIzNDA5YzQ=
+    algorithm: aes-256-gcm
+    iv: 7c81dfcf22af9201020efe0f
+    version: "1"
+  spam:
+    score: 2.11
+  status: auditing
