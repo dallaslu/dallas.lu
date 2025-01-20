@@ -2231,3 +2231,33 @@
     score: 7.32
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 74c8d100463e8e1843454fb8740282b38de250d0
+  author:
+    name: HaroldViacy
+    lang: en
+    email:
+      value:
+        encrypted: NGM0YzU1OWViMDY1YmU3MjVlNDEyY2RhZDE4N2RiNzY1ZmE0
+        algorithm: aes-256-gcm
+        iv: 9a42e5861049f3cc099fedf1
+        version: "1"
+      hash:
+        sha256: e5b4476275b331542922b6d9a1f1835ee91d11f2539e08deda916e7a94c36ce4
+  published: 2025-01-20T11:52:25.145Z
+  content: В основе сюжета лежит необычная концепция двух миров — сказочного и
+    реального. Всё начинается в волшебной стране, где Злая Королева, устав от
+    счастья и благополучия своих соседей, накладывает страшное проклятие, вырвав
+    героев из их привычных сказочных миров и закинув их в место, о котором они и
+    не мечтали https://odnazhdyvskazke-tv.ru
+  lang: zh-CN
+  ip:
+    encrypted: YTRlNTNiYzMwY2EzM2JjYjhhYWI3NjE0OTFkNg==
+    algorithm: aes-256-gcm
+    iv: 002ee7c16024f1bea8cbd9e5
+    version: "1"
+  spam:
+    score: 7.76
+    marked: true
+  status: rejected
