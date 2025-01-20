@@ -2200,3 +2200,34 @@
     score: 7.15
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5e3ec8112a59d4deaf8690e63cd62d8e65ff32a3
+  author:
+    name: Michealref
+    lang: en
+    email:
+      value:
+        encrypted: YjUwNWUzNDMwMjA4YTExOWIzZjRkNTY3YzFiZjQ2ZWZjYTUx
+        algorithm: aes-256-gcm
+        iv: 8293c463b01f32d69175d78f
+        version: "1"
+      hash:
+        sha256: 41f04024a4e8159cf38f74bc58ed00e2a19a9f37e37df8ec7f921e90a0dae27d
+  published: 2025-01-20T10:27:10.718Z
+  content: 1Win является лучшим букмекером и казино в 2024 году. В интернете
+    множество площадок, в которых есть ставки на спорт, но лидирующую позицию
+    занимает 1Вин. Для пользователей гарантированы честные условия, высокие
+    коэффициенты и качественное обслуживание. На официальном сайте 1Вин доступны
+    быстрые выплаты, кэшбек до 30% и супер бонус в размере 500% <a
+    href="https://elearnportal.science/index.php?title=%20%D0%9A%D0%B0%D0%BA%20%D0%BE%D0%B1%D1%8B%D0%B3%D1%80%D0%B0%D1%82%D1%8C%20%D0%BA%D0%B0%D0%B7%D0%B8%D0%BD%D0%BE%201win:%20%D0%BC%D0%B8%D1%84%D1%8B%20%D0%B8%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C">https://elearnportal.science/index.php?title=%20%D0%9A%D0%B0%D0%BA%20%D0%BE%D0%B1%D1%8B%D0%B3%D1%80%D0%B0%D1%82%D1%8C%20%D0%BA%D0%B0%D0%B7%D0%B8%D0%BD%D0%BE%201win:%20%D0%BC%D0%B8%D1%84%D1%8B%20%D0%B8%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C</a>
+  lang: zh-CN
+  ip:
+    encrypted: YjU0ODFkNmUwMGFiNTljNzZlYmViNWIyODAzZA==
+    algorithm: aes-256-gcm
+    iv: 7c24f6df09d676d69223f9ea
+    version: "1"
+  spam:
+    score: 7.32
+    marked: true
+  status: rejected
