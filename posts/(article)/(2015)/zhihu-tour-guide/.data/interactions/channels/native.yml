@@ -2261,3 +2261,32 @@
     score: 7.76
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 667b1ae1f8bbd5e3fb6a3a4acc8c2f444ed0167e
+  author:
+    name: Waltertoido
+    lang: en
+    email:
+      value:
+        encrypted: Y2NlYmRlMWM0ZTA0MDhmNmI5ZDBhNTkzYjNmNTIzZWQ4NWVj
+        algorithm: aes-256-gcm
+        iv: 45562aad5c608f03adfae545
+        version: "1"
+      hash:
+        sha256: 65d6cd4d51dc5426aa527f506453b8112cc7b04f7320f284ca7d6e9d115f4be2
+  published: 2025-01-21T00:59:48.093Z
+  content: "Как спилить дерево на участке в нужном направлении падения с помощью
+    бензопилы, топора и веревки (по естественному наклону и против него) и чего
+    ни в коем случае нельзя делать? Техника безопасности в процессе валки
+    деревьев: https://dzen.ru/a/Z4qBIK-a_ERTqyYy"
+  lang: zh-CN
+  ip:
+    encrypted: YjhjMGE3MTg4YWNkMmYwYzA3NzdjNmE4M2MxOA==
+    algorithm: aes-256-gcm
+    iv: 9282b56f94e58148d2a77792
+    version: "1"
+  spam:
+    score: 7.89
+    marked: true
+  status: rejected
