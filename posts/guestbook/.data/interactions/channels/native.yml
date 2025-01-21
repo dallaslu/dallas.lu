@@ -2136,3 +2136,63 @@
   spam:
     score: 3.89
   status: auditing
+- type: reply
+  channel: native
+  id: 8f8f988edaa81b0e4d3ac722506b1f5f5585140a
+  author:
+    name: SteveLurdy
+    lang: en
+    email:
+      value:
+        encrypted: ZTVjN2RhNjhlMzE3NDlkNDhkZjk5ODU0MDk2ODc1OWQ4ODRk
+        algorithm: aes-256-gcm
+        iv: a165c6f15d598bde590d1def
+        version: "1"
+      hash:
+        sha256: a63f22d3e41d3469d9a2eacb7228db3ef35a831bc64f2e168fdd18b2638f52a4
+  published: 2025-01-21T00:55:56.364Z
+  content: "Code promo de 1xBet - l'utilisation de ce code vous permettra
+    d'obtenir un bonus de 30% supplementaire, allant jusqu’a 100$. Le bonus est
+    accorde sous la forme de 130% du montant de votre premier depot. Cette offre
+    est reservee aux nouveaux utilisateurs majeurs apres leur inscription.
+    Profitez du code promo pour augmenter votre bonus de bienvenue de 100% a
+    130%. Les fonds seront credites sur votre solde de jeu, et le bonus devra
+    etre mise sur des paris sportifs. Ce code promo est valable jusqu'au 31
+    decembre 2025. \r
+
+    <h1 style=\"text-align: center;\">Code Promo 1xBet</h1> \r
+
+    <h2 style=\"text-align: center;\"><a
+    href=https://cere-india.org/art/code_promotionnel_21.html>https://cere-indi\
+    a.org/art/code_promotionnel_21.html</a></a></span></h2> \r
+
+    \ \r
+
+    Le Code promo 1xBet - en utilisant cette combinaison, vous aurez acces a un
+    bonus de 100% sur votre premier depot, pouvant aller jusqu'a 100$. La
+    totalite du bonus credite est disponible uniquement pour les paris dans la
+    section sportive. Vous devrez placer des paris avec une cote minimale de 1,4
+    et un wager x5. Si toutes les conditions de mise du bonus de bienvenue sont
+    respectees, tous vos gains pourront etre retires sur votre solde principal a
+    la fin de cette promotion. \r
+
+    \ \r
+
+    Le bookmaker 1xBet est l'une des plateformes les plus populaires et leaders
+    du marche. En plus de son interface conviviale et de ses mises a jour
+    regulieres de l'application mobile, la plateforme recompense ses joueurs
+    avec des promotions, des bonus et des cadeaux reguliers. La plupart des
+    utilisateurs, qu'ils soient nouveaux ou reguliers, utilisent activement des
+    codes promo pour jouer. Certains sont reserves a l'inscription pour
+    augmenter le bonus de bienvenue, tandis que d'autres peuvent etre utilises
+    sur la plateforme et se trouvent dans la section \"Vitrine des codes promo\"
+    du site."
+  lang: en
+  ip:
+    encrypted: ODdkYjRjYjNlODMxY2E3YjNhZTE2NDdkZTY=
+    algorithm: aes-256-gcm
+    iv: 38e81e3d16e675e82bd7bd8f
+    version: "1"
+  spam:
+    score: 3.22
+  status: auditing
