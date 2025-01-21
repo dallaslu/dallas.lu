@@ -2196,3 +2196,72 @@
   spam:
     score: 3.22
   status: auditing
+- type: reply
+  channel: native
+  id: d5b976ad48ad1e93945303d918094fb299ab5ab2
+  author:
+    name: Michaeldug
+    lang: en
+    email:
+      value:
+        encrypted: Yjc5NWQ2OGVhMDQyMjM0OGNmOGEwZDU1MmU1ZDBhNTRkMGI1
+        algorithm: aes-256-gcm
+        iv: 2c3f4ee481b36304f740e8c4
+        version: "1"
+      hash:
+        sha256: a63f22d3e41d3469d9a2eacb7228db3ef35a831bc64f2e168fdd18b2638f52a4
+  published: 2025-01-21T05:14:51.283Z
+  content: "Чтобы активировать промокод Ramenbet ?BONUSMEN?? при регистрации,
+    выполните следующие действия: \r
+
+    \ \r
+
+    Перейдите на официальный сайт Ramenbet. \r
+
+    \ \r
+
+    При регистрации или входе в личный кабинет найдите специальное поле для
+    промокода. \r
+
+    \ \r
+
+    Введите промокод Ramenbet ?BONUSMEN?? в это поле. \r
+
+    \ \r
+
+    Перейдите в раздел подтверждения регистрации и выберите способ
+    подтверждения: по электронной почте или SMS. \r
+
+    \ \r
+
+    Заполните все обязательные поля с персональными данными. \r
+
+    Подтвердите номер мобильного телефона или адрес электронной почты. \r
+
+    \ \r
+
+    После выполнения этих шагов на ваш счёт будут начислены дополнительные 30
+    бесплатных вращений для игры в слот Gates of Olympus. \r
+
+    <h1>Ramenbet промокод</h1> \r
+
+    <h2 style=\"text-align: center;\"><a
+    href=http://www.moshomes.ru/stat/artcls/?promokod_ramenbet_pri_registracii.\
+    html>http://www.moshomes.ru/stat/artcls/?promokod_ramenbet_pri_registracii.\
+    html</a></span></h2> \r
+
+    На сайте представлены около 4500 слотов, которые находятся в разделе
+    «Казино». Азартные игры распределены по категориям на панели навигации. Они
+    позволяют выводить на экран топовые слоты, новинки, автоматы Megaways, Hold
+    and Win, c функцией покупки бонусов или с джекпотом. Также в любой выбранной
+    категории можно воспользоваться дополнительными фильтрами."
+  lang: en
+  ip:
+    encrypted: YjQ1N2Q0ZDQyYTBlZjlmNDMzOWEzNzBkNTg=
+    algorithm: aes-256-gcm
+    iv: ee95fb961dc291b9889c876a
+    version: "1"
+  spam:
+    score: 6.31
+    marked: true
+  status: rejected
