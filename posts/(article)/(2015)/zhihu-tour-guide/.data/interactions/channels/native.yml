@@ -2376,3 +2376,35 @@
     score: 8.54
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 4751df9d1b0695363c4e09118b786d70d31efb0c
+  author:
+    name: Carlorex
+    lang: en
+    email:
+      value:
+        encrypted: NGRhNWY2NmZlNWU2Y2UwYzQ4MTI0YWJhYmZmZWNiZjQ4ZmY4
+        algorithm: aes-256-gcm
+        iv: 11cde72cf7e2814bfa091115
+        version: "1"
+      hash:
+        sha256: faa55561caae288b6112390a75634fd75ee6ee7972064bf7a3e0ca7cf97ef114
+  published: 2025-01-21T15:16:07.006Z
+  content: Одноразовый номер телефона — это временный номер, который можно
+    использовать для получения SMS-сообщений или звонков. Эти номера могут быть
+    полезны, когда вам нужно зарегистрироваться на сайте, не желая раскрывать
+    свой персональный номер. Также многие используют такие номера для
+    подтверждения аккаунтов на различных сервисах или для того, чтобы избежать
+    спама и нежелательных звонков <a
+    href="https://www.03247.com.ua/list/492352">временный номер</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTJiYzVlMTQ5YmE0MzdiOGFmMjhhMjc2YmZmYg==
+    algorithm: aes-256-gcm
+    iv: c781ab93a451c257bffa0c02
+    version: "1"
+  spam:
+    score: 5.84
+    marked: true
+  status: auditing
