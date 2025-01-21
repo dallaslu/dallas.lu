@@ -2347,3 +2347,32 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 57695397432d2e74714a705cc8b46105c979c6d3
+  author:
+    name: RichardGLymn
+    lang: en
+    email:
+      value:
+        encrypted: NmQ3N2Y5NTE4NTBkZjY3NDE3YzExYzU3ZGFhZDJlZWUwOTVj
+        algorithm: aes-256-gcm
+        iv: 74369344ebbec4239d64c1db
+        version: "1"
+      hash:
+        sha256: 9f5a8d7576c4c1805cb9810551611646501cea65a0c99d4680b809196bb44f46
+  published: 2025-01-21T15:09:14.222Z
+  content: Для игроков важно понимать, какие факторы влияют на безопасность и
+    надежность таких сервисов. От удобства интерфейса до наличия лицензий и
+    поддержки пользователей <a
+    href="http://torgteh-rzn.ru/index.php?option=com_k2&view=itemlist&task=user&id=14644">http://torgteh-rzn.ru/index.php?option=com_k2&view=itemlist&task=user&id=14644</a>
+  lang: zh-CN
+  ip:
+    encrypted: MzVkNDU0YzNkMDYyY2Q1ODUxMmMyMjlmNGU1OQ==
+    algorithm: aes-256-gcm
+    iv: c2a2cc1fa8e0de9478ad8cd9
+    version: "1"
+  spam:
+    score: 8.54
+    marked: true
+  status: rejected
