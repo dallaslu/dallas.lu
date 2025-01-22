@@ -2613,3 +2613,29 @@
     score: 8.26
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a594f3c82a46ede875cc3c13cc878c1721bb21b0
+  author:
+    name: Zkeymn
+    lang: en
+    email:
+      value:
+        encrypted: OWQwYzk1NmVkMTc1ZGIyNjg3N2FlZWFmNDU4MDdjMzUzNDRlMTA=
+        algorithm: aes-256-gcm
+        iv: 0ad2cf9b6f12dfc73616477b
+        version: "1"
+      hash:
+        sha256: d6eff5e32c9971dc737471cac580f548d7fefd3e2c5188ef05e4427108718b2f
+  published: 2025-01-22T20:50:20.564Z
+  content: "<a href=https://1win-nigeria-ng-bonus.com>1win</a>\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: MjM5MzVhMzRkMGQ0ZWU4NWUwOTliYjljNTlkN2Yw
+    algorithm: aes-256-gcm
+    iv: ea8eaa14295a45e2fb868bb2
+    version: "1"
+  spam:
+    score: 8.26
+    marked: true
+  status: rejected
