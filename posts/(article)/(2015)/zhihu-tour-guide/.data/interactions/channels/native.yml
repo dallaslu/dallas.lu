@@ -2476,3 +2476,32 @@
     score: 7.16
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ffd61e0069b9d8390b467bc0faf20d09aa767a58
+  author:
+    name: MichaelDeple
+    lang: en
+    email:
+      value:
+        encrypted: MzEyNWY0ZmNjMjc4ZTZmMzVmOGViYmQwN2JlOGUwYTdiNmNkZWE=
+        algorithm: aes-256-gcm
+        iv: 3ba9bc28cf04290ea2111697
+        version: "1"
+      hash:
+        sha256: e3bed05226701f54ef07039b88ecfb985c2573eb3eab7d052fb4b1a3bad2ed65
+  published: 2025-01-22T04:00:08.774Z
+  content: "<a
+    href=\"https://dessau-magazin.de/2025/01/21/kazino-su-momentiniu-pinig-imim\
+    u-be-patvirtinimo-16/\">https://dessau-magazin.de/2025/01/21/kazino-su-mome\
+    ntiniu-pinig-imimu-be-patvirtinimo-16/</a> \r\n"
+  lang: zh-CN
+  ip:
+    encrypted: OGI0NDI1MzdmY2E5ZTkzOGQ1NjhjNDhlNzYxMGMz
+    algorithm: aes-256-gcm
+    iv: b2a91841fb5205d06bbd447c
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
