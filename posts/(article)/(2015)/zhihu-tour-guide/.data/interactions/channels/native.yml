@@ -2443,3 +2443,36 @@
     score: 5.91
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 4bcefbede52aa424cad42c8aab5b94199e89153b
+  author:
+    name: Michaelirrit
+    lang: en
+    email:
+      value:
+        encrypted: OTNlMzc5ZWU3YjZjNzAyMjdkNjRiYTkwNDFlNjU2N2NlOTdk
+        algorithm: aes-256-gcm
+        iv: 83c9c4dad2bab071f3db66ae
+        version: "1"
+      hash:
+        sha256: 16838b1c0365e47187c79048709c3f44ee5a57d81d581f2f1644f4f7f6d7b00d
+  published: 2025-01-22T01:30:26.098Z
+  content: Виртуальные номера становятся все более популярными как среди частных
+    пользователей, так и в бизнес-среде. Эти номера позволяют принимать звонки и
+    SMS, а также использовать их для регистрации в различных сервисах без
+    необходимости привязываться к физическому номеру телефона. Технология
+    основывается на использовании IP-телефонии, что дает пользователю массу
+    преимуществ по сравнению с традиционными номерами <a
+    href="https://news.af-yujnaya.ru/news-266-kak-zaregistrirovatsya-v-telegramm-pri-pomoschi-virtualnogo-nomera.html">как
+    зарегистрироваться в тг</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTk5NDY4NjE5MjM2ZTk0NWUyY2QzOGUyNjExMA==
+    algorithm: aes-256-gcm
+    iv: 599bcc9d41d0b8956ccd447e
+    version: "1"
+  spam:
+    score: 7.16
+    marked: true
+  status: rejected
