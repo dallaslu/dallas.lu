@@ -2811,3 +2811,35 @@
     score: 7.37
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3cfefba0c5fd63dd5621767c4af7505a9bdd2863
+  author:
+    name: Josephhor
+    lang: en
+    email:
+      value:
+        encrypted: Y2Y3MjBiMGU0MTk0MGMwMzI0N2I1MjU0YjQzOTFmYzdlY2Iz
+        algorithm: aes-256-gcm
+        iv: 0c3073147a1700f5655633e1
+        version: "1"
+      hash:
+        sha256: b030450d8b8ada9ec7468753639387fa9b57b92064e6dae129f59cc2f21c3888
+  published: 2025-01-23T20:12:59.880Z
+  content: Северный Кипр – это место, где восточная культура встречается с
+    европейским комфортом, создавая идеальные условия для жизни, отдыха и
+    инвестиций. Прекрасный климат, доступные цены на недвижимость и простые
+    условия покупки привлекают сюда покупателей со всего мира. Но прежде чем
+    сделать первый шаг к приобретению собственного жилья у моря, важно
+    разобраться во всех нюансах <a href="https://iberiaproperty.ru/">квартиры на
+    северном кипре</a>
+  lang: zh-CN
+  ip:
+    encrypted: MDA1MWNlMTYwNDZkYmFmYTBjYTVkN2FlZjUwMA==
+    algorithm: aes-256-gcm
+    iv: 07aa96830dddc1b431dfdd38
+    version: "1"
+  spam:
+    score: 8.78
+    marked: true
+  status: rejected
