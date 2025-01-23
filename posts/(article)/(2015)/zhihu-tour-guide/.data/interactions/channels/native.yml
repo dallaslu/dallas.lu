@@ -2639,3 +2639,33 @@
     score: 8.26
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e9391b33096739824a57415c9407390c05d57d7b
+  author:
+    name: RickyDaf
+    lang: en
+    email:
+      value:
+        encrypted: YTkzZGM5MDgwYjNiN2I1YTY2ZTY5ZTRkMmVjZmY4NDgzNjZm
+        algorithm: aes-256-gcm
+        iv: 680b3b64109ba19e3020e723
+        version: "1"
+      hash:
+        sha256: f1f2d4cc238cf1018df4f4f814433ba5f6df5babd68b551a8710515850555ada
+  published: 2025-01-23T01:13:37.832Z
+  content: Удобный интерфейс позволяет быстро находить нужные данные, а
+    дополнительные функции, такие как сравнение курсов в разных банках и
+    отображение исторических графиков, делают использование сервиса максимально
+    комфортным <a href="http://fondfinance.ru/">камкомбанк курс валют на
+    сегодня</a>
+  lang: zh-CN
+  ip:
+    encrypted: NDI5M2NhODVlMTY0MTQyNzM4YzI3MDQzNGY3Yw==
+    algorithm: aes-256-gcm
+    iv: 44d8c57ef238f11e270eedca
+    version: "1"
+  spam:
+    score: 8.89
+    marked: true
+  status: rejected
