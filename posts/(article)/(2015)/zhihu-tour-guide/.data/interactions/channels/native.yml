@@ -2729,3 +2729,29 @@
     score: 6.84
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 10711dc40d59c0e30cc92f9272e630bcf15d1934
+  author:
+    name: Zkeymn
+    lang: en
+    email:
+      value:
+        encrypted: ZGU5NDliZTE5MmI2ZDc5MTlhNDI4MTk0MzhiZTFhMmU3MGEwYWI=
+        algorithm: aes-256-gcm
+        iv: 1d7882b7e99eeb80a872b13f
+        version: "1"
+      hash:
+        sha256: 2191128c1e860810c6b7b11827a7243d04e9029d5f5b46678904cb9ed912a241
+  published: 2025-01-23T06:40:56.882Z
+  content: "<a href=https://1wins-korean-bonus.com>1win</a>\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: MTc2MzlhM2JjYzQ0NDZlZWQ5MDU5MzE0NzM4ZDBl
+    algorithm: aes-256-gcm
+    iv: f52aba1432fdd87b625da4a0
+    version: "1"
+  spam:
+    score: 8.24
+    marked: true
+  status: rejected
