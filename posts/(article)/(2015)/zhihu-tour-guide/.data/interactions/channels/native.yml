@@ -2669,3 +2669,34 @@
     score: 8.89
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7cd6cc6f83e3ce099d95e7f523e7224f19beda86
+  author:
+    name: MichaelSnamp
+    lang: en
+    email:
+      value:
+        encrypted: ZTc4NmJmYTNlMTU4MjM0YTAxNDhkZTk4M2Q3ZmVmOGQ0MGJk
+        algorithm: aes-256-gcm
+        iv: b7d2b6e8c2a788e9eb658746
+        version: "1"
+      hash:
+        sha256: 39c5eb6413259262153128cc959dc203e49adac738d0503bfc323380bf02f701
+  published: 2025-01-23T02:29:19.220Z
+  content: Имплантация — популярная процедура замещения зубов искусственными
+    аналогами. Стоматологическая имплантология является одним из важнейших
+    разделов современной стоматологии, предусматривающий восстановление
+    нарушений целостности зубочелюстной системы благодаря качественным
+    аллопластическим материалам и достижениям в области современной стоматологии
+    <a href="https://www.dentalaesthetics.ru">перед имплантацией зубов</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZDc3YWQyMzVjNjMyMTg0NTczNGIxMDBhYWQ1YQ==
+    algorithm: aes-256-gcm
+    iv: 6c1766fb20a8da2c27b25ead
+    version: "1"
+  spam:
+    score: 8.83
+    marked: true
+  status: rejected
