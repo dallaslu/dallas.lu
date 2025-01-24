@@ -515,3 +515,29 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 4eb0068e76b09836c60df9a693d09160257defaa
+  author:
+    name: MichaelPhari
+    lang: zh-CN
+    email:
+      value:
+        encrypted: YTU2NjZkOTVkNGIxM2FlZTEwYTUzNzM5M2UzMzZjMDQ0OTFmNzJmOQ==
+        algorithm: aes-256-gcm
+        iv: 61580cf73348a6853336defe
+        version: "1"
+      hash:
+        sha256: fb6914aaf88b1379a8dfb9afcc131265a57b31731018af277df45784c6223030
+  published: 2025-01-24T21:35:11.473Z
+  content: <a href=https://stab-gen.ru/>Оптоволоконные кабели</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzNlNTM1MzYzNjk4NTZhNjJiY2ZkYjhlNWU=
+    algorithm: aes-256-gcm
+    iv: 8a8ae317b68895d20ed0b406
+    version: "1"
+  spam:
+    score: 9.83
+    marked: true
+  status: rejected
