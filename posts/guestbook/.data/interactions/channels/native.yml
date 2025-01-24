@@ -2307,3 +2307,33 @@
   spam:
     score: 3.38
   status: auditing
+- type: reply
+  channel: native
+  id: 8cc40477a711b8af5b3865efd6ca401f1fe2bab7
+  author:
+    name: Angelaswarf
+    lang: en
+    email:
+      value:
+        encrypted: MGZkNTYxYmZlMjk5MDE2NWJkZTIxZTI4OGY5NWUwMmJhZWJkZDA=
+        algorithm: aes-256-gcm
+        iv: b001a0081753a89dc6b8590c
+        version: "1"
+      hash:
+        sha256: 876fba3e15707d2e7726b84bf6984bf0fc3f60b534395479d67cac56663258fa
+  published: 2025-01-24T09:59:47.117Z
+  content: "Hello! \r
+
+    We would like to inform you that a registration was previously made using
+    your corporate email address on our platform. \r
+
+    Your Letter - https://telegra.ph/New-Transfer-01-18"
+  lang: en
+  ip:
+    encrypted: NGEyN2E0OWZhNDFhMWYzMThmY2Q4NTNmOWI1OQ==
+    algorithm: aes-256-gcm
+    iv: 95a6552671052dc7e8163e23
+    version: "1"
+  spam:
+    score: 2.61
+  status: auditing
