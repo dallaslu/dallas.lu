@@ -2927,3 +2927,31 @@
     score: 5.95
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 38558517826fb633e4fa2c64a5c6be591ec839c4
+  author:
+    name: Carlosinfaw
+    lang: en
+    email:
+      value:
+        encrypted: YTcxMWQ1Y2M5MDYwYmU5YjBjM2FiYjEyNjA0YjYxZDk1OTU0
+        algorithm: aes-256-gcm
+        iv: 957269496a0d7fc176d310f2
+        version: "1"
+      hash:
+        sha256: 650c4180c76619eefabbf0c0eea853939770183b767e731c3479658fa2d86c49
+  published: 2025-01-24T16:50:33.529Z
+  content: Official website of the gaming club Gizbo Casino . Slots from famous
+    providers. Bonuses and exclusive new products are waiting for you at Gizbo
+    Casino <a href="https://tvorogoff.ru/">казино Gizbo</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTAyMDJmNmI0Y2U1NWE0NDFlZDgyOWFkZmRkYQ==
+    algorithm: aes-256-gcm
+    iv: 0b45738aa5c6e0796feb18fe
+    version: "1"
+  spam:
+    score: 9.04
+    marked: true
+  status: rejected
