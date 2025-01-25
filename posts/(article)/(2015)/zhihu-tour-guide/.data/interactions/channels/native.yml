@@ -3079,3 +3079,32 @@
     score: 7.42
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 64f8240fc34df8543e1a86d1d22190cfd4d06ff8
+  author:
+    name: HenryPlund
+    lang: en
+    email:
+      value:
+        encrypted: MDNiN2M4OTBhNDNiYTZhNDkzNTE0YjcxMWM3ODZkNjJjMWRi
+        algorithm: aes-256-gcm
+        iv: e23962fa69e71f5d23feb1ea
+        version: "1"
+      hash:
+        sha256: 6b22dd26a7daf33e7cb53e2007866ed10a4b13144bd7c60687f7cc6b9522c32d
+  published: 2025-01-25T03:10:46.409Z
+  content: 'On the official website of Gizbo Casino you will find everything you
+    need for an exciting gameplay: safe transactions, a wide range of
+    entertainment, as well as profitable bonuses. Discover a new level of
+    gambling with Gizbo Casino <a href="https://advantes.ru/">казино Gizbo</a>'
+  lang: zh-CN
+  ip:
+    encrypted: NDA5MTA1OGViMTRmOTkwMTZiMTMyZmUxMzY4MA==
+    algorithm: aes-256-gcm
+    iv: 30e9fc99415f945b07027063
+    version: "1"
+  spam:
+    score: 8.88
+    marked: true
+  status: rejected
