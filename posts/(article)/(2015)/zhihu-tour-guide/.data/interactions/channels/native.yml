@@ -3190,3 +3190,31 @@
     score: 7.33
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3ea8414868e7bf8ea45a2f05ce59142b447099e2
+  author:
+    name: AnthonyWrony
+    lang: en
+    email:
+      value:
+        encrypted: MTgwMmJjMTFiNWQ5OTkwOGYyNThhZjkxMTZiMjAwODQyNzIz
+        algorithm: aes-256-gcm
+        iv: 3048de5229e45b4e5f43ead2
+        version: "1"
+      hash:
+        sha256: 8caab4fb5b00ad339de9a0086892b08012cecf2284d0801aea1c6a61067194ee
+  published: 2025-01-25T19:59:58.128Z
+  content: Детальный разбор официального сайта Водка Казино и вход на него через
+    актуальное и рабочее зеркало <a href="https://filosofiya.su/">казино
+    Vodka</a>
+  lang: zh-CN
+  ip:
+    encrypted: YmZiZmYyNzJlYTY4ZmI0OGMzNDA2OTgzNGQxOQ==
+    algorithm: aes-256-gcm
+    iv: 776aa6ca109a956171e2de94
+    version: "1"
+  spam:
+    score: 6.25
+    marked: true
+  status: rejected
