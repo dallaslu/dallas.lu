@@ -3136,3 +3136,31 @@
     score: 5.47
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: bf288b0ae017d59d2a51f6fe1125190d92912440
+  author:
+    name: OrlandoAloks
+    lang: en
+    email:
+      value:
+        encrypted: ZWQwODg4ZGRmMWJhMDRhZGFjZGNkYmZhNjJlNDcxMzhhNzdk
+        algorithm: aes-256-gcm
+        iv: 3d60b21b7104170994491850
+        version: "1"
+      hash:
+        sha256: f8d772bc5b7009301b1350e78bfaed0f096b510bb047f47c0cfc704773d689e3
+  published: 2025-01-25T11:03:47.701Z
+  content: 'Гизбо Казино представляет обширный каталог игр: слоты, настольные
+    игры, видеопокер и живые дилеры. Доступны щедрые бонусы и акции для новых и
+    постоянных игроков <a href="https://ahservice.ru/">казино Gizbo</a>'
+  lang: zh-CN
+  ip:
+    encrypted: N2NiMDlmZDI5MzQxMmM0MjBhYjQxN2EwODUzNQ==
+    algorithm: aes-256-gcm
+    iv: 25001262998ade2b5eddd3d2
+    version: "1"
+  spam:
+    score: 9.02
+    marked: true
+  status: rejected
