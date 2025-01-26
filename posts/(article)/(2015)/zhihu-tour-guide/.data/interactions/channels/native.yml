@@ -3218,3 +3218,29 @@
     score: 6.25
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b3291234f0489562293ac189a1988089376daa34
+  author:
+    name: Zkeymn
+    lang: en
+    email:
+      value:
+        encrypted: NTc2N2RkMmMzZjAxYzA4OWVkNDU2MDE4MTdjNThlYmJmNzc1MjU=
+        algorithm: aes-256-gcm
+        iv: 23cce3bd04c9f135872a5d02
+        version: "1"
+      hash:
+        sha256: f317b1978fae0e91b837e3f328259397931fa1f2e81e114dc377ca04d8a47db2
+  published: 2025-01-26T00:26:08.880Z
+  content: "<a href=https://vavada-finland-bonus.com>Vavada freespins</a>\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: Y2E5ZjcyM2JhNTc1YzdiMmI0YzdjYjFlNmNhN2Vl
+    algorithm: aes-256-gcm
+    iv: d09f7706ab9c796aad60ce64
+    version: "1"
+  spam:
+    score: 7.71
+    marked: true
+  status: rejected
