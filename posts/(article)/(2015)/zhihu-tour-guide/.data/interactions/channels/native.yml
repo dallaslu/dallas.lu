@@ -3272,3 +3272,33 @@
     score: 5
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 3816b05c6e4f35562ca8273bae3d7b691fa0466a
+  author:
+    name: Derekedumb
+    lang: en
+    email:
+      value:
+        encrypted: OWM0NmJjMDViOGY4NGViNmM1NDk5YTAwZTE3YzU4YjhlMGY3
+        algorithm: aes-256-gcm
+        iv: 34d38be18d6cfa705c3eb887
+        version: "1"
+      hash:
+        sha256: 38174dd26465dd8d6ee8b312de5daddfe1d76a8166dd898534a0afcb464f76c8
+  published: 2025-01-26T01:09:50.267Z
+  content: Казино привлекает игроков своей впечатляющей подборкой азартных игр.
+    Хотя количество предложенных развлечений здесь не самое обширное, по
+    стандартам качества и разнообразия оно сопоставимо с ведущими брендами
+    игорной индустрии <a href="https://xn--80adjupetnaj.xn--p1ai/">казино
+    Gizbo</a>
+  lang: zh-CN
+  ip:
+    encrypted: NTU1N2Y5NmYzNjNiZjI3ODhiNmJhMzA2ZjRhMw==
+    algorithm: aes-256-gcm
+    iv: 63bcfb846f657cfe4d21e30c
+    version: "1"
+  spam:
+    score: 6.01
+    marked: true
+  status: rejected
