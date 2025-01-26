@@ -541,3 +541,31 @@
     score: 9.83
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3dc9fca66ad4519e468405b0b91bb39b9fc63ecd
+  author:
+    name: MichaelPhari
+    lang: zh-CN
+    email:
+      value:
+        encrypted: YWM0M2EyOWI4OGFkZDNhMTY0NTMyMmE5ZDcwZTg2ZWEyMGMzOTFlNw==
+        algorithm: aes-256-gcm
+        iv: 999556749e08ac0d1c588b8b
+        version: "1"
+      hash:
+        sha256: fb6914aaf88b1379a8dfb9afcc131265a57b31731018af277df45784c6223030
+  published: 2025-01-26T01:02:18.089Z
+  content: " \r
+
+    <a href=https://stab-gen.ru/>Контрольные кабели</a> "
+  lang: zh-CN
+  ip:
+    encrypted: YzdmYmRkZWZjMTljYzUwZDA3M2Y4YWNlZDY=
+    algorithm: aes-256-gcm
+    iv: 0a8708e69329a7a2f26a2be0
+    version: "1"
+  spam:
+    score: 9.94
+    marked: true
+  status: rejected
