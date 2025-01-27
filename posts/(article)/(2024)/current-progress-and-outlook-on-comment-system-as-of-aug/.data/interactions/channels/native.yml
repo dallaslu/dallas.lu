@@ -162,3 +162,29 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 6670bc1f2e19d0c20bbbd57afab75b4cbaa47cb6
+  author:
+    name: babu88
+    lang: en
+    email:
+      value:
+        encrypted: ZmM3NjRiYWNkNzZkNmIyMzIzNDdlMmIyYWRiY2VjOTFkY2FlNTBhY2E5
+        algorithm: aes-256-gcm
+        iv: 3817ba96f0374b41a48efa4e
+        version: "1"
+      hash:
+        sha256: abef05c40f7c51e0146cb67cad88bb2b44de4bf2493abfee6c8945f980c62e7c
+  published: 2025-01-27T18:24:45.699Z
+  content: https://babu88-in.com/
+  lang: en
+  ip:
+    encrypted: NjJlMDgwMmQ2NzBjNTllYzhkMWQwYjg1Y2Q=
+    algorithm: aes-256-gcm
+    iv: 60757a30f062b321ab1c46cb
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
