@@ -3801,3 +3801,33 @@
     score: 7.65
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 634a626e17db5f02947a550c1b86dcf7da74c6e7
+  author:
+    name: Thomasbriff
+    lang: en
+    email:
+      value:
+        encrypted: N2ZjZjkxNTlhNDQ4ZjU1YzdkMTdiY2Y1YWQ1NjUyYjQxZTZk
+        algorithm: aes-256-gcm
+        iv: a6f92ef07066548ba7a5a2a2
+        version: "1"
+      hash:
+        sha256: 3ffdc365f1d862100ed99a475413baf35b6c31551164b95cbcd909b38ffb3439
+  published: 2025-01-28T14:17:33.164Z
+  content: Что входит в стоимость имплантации 1 зуба под ключ? Анестезия, рентген,
+    операция по установке титановых стержней, снятие слепков, наложение швов
+    (затем снятие) <a
+    href="https://www.mmafighting.com/users/stomvolgaru">имплантация зубов
+    импланты</a>
+  lang: zh-CN
+  ip:
+    encrypted: NjYyNmJjMDk4NzAyNWMzYTYzYmRlZDdhYzczNQ==
+    algorithm: aes-256-gcm
+    iv: 058a45946969cda62ba4de02
+    version: "1"
+  spam:
+    score: 6.23
+    marked: true
+  status: rejected
