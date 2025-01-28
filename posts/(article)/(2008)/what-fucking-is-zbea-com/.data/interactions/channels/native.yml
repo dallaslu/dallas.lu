@@ -708,3 +708,29 @@
     score: 9.33
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3fc38b76f17be24a1e6fb6c135b0ac2db2bb9945
+  author:
+    name: AndrewBaf
+    lang: zh-CN
+    email:
+      value:
+        encrypted: Mjk4ZTk0NmY3MWY0MjlmOTgxYjNlMzA2YjQyZTI1MGZkNWZkZGFhNjY3ZDUxMmQw
+        algorithm: aes-256-gcm
+        iv: 77c1acbadb6af9cbe4d4260d
+        version: "1"
+      hash:
+        sha256: d9299d645f6c4fabc69b18396ece1975256cfbad7fe3b1c1bfe5512d5ca0e101
+  published: 2025-01-28T02:32:35.656Z
+  content: <a href=https://michalnegrinru.ru/>куртка с искусственным мехом бежевая</a>
+  lang: zh-CN
+  ip:
+    encrypted: YmJmMmE3NzExYmUyNjE2OWFjNGYyODNjMjM=
+    algorithm: aes-256-gcm
+    iv: e74d731f97400af88c45a771
+    version: "1"
+  spam:
+    score: 9.56
+    marked: true
+  status: rejected
