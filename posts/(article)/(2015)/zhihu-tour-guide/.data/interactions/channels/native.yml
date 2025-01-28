@@ -3831,3 +3831,30 @@
     score: 6.23
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: d5fc18787ad10fb8970a2b2e71a8bc58da1e6044
+  author:
+    name: RandyLib
+    lang: en
+    email:
+      value:
+        encrypted: YzJiM2I0NzU2YjFhYTYwMWNmYjA4NjQ1OWRlNWU5NzViZWM5
+        algorithm: aes-256-gcm
+        iv: 570efc1d07e029b359730ac6
+        version: "1"
+      hash:
+        sha256: 532763989cb8feca8bcee48331720604c357cd46b887b8e6f77eb84dc442b348
+  published: 2025-01-28T14:30:13.923Z
+  content: Как правильно организовать подготовку к ЕГЭ? Советы преподавателей <a
+    href="https://chopen.net/chto-budet-esli-ne-sdat-ege-vozmozhnye-sczenarii-i-posledstviya/">https://chopen.net/chto-budet-esli-ne-sdat-ege-vozmozhnye-sczenarii-i-posledstviya/</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODcxODJmOGExOGViZTg3NzJkYTAyNTYwZWUxYg==
+    algorithm: aes-256-gcm
+    iv: 95a82f79919f36bc885ed41e
+    version: "1"
+  spam:
+    score: 7.69
+    marked: true
+  status: rejected
