@@ -3657,3 +3657,32 @@
     score: 5
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 9ebf1b2f5f7729437c6fb237e193cb0aa4907d24
+  author:
+    name: Williambuisy
+    lang: en
+    email:
+      value:
+        encrypted: MTE1ZmMwMjFlMjQ0ODM1ZmNlZmY2MDUxMDkzNjI4MDVlNDA1
+        algorithm: aes-256-gcm
+        iv: 5a3732cf0f09bb6cfa12997d
+        version: "1"
+      hash:
+        sha256: 009db185acd84b56ea3aa66b0be6d5f4ba9bea099d4f54dd5d1adcad04967658
+  published: 2025-01-28T00:52:11.811Z
+  content: Компания, основанная в 2023 году, стремительно завоевала доверие как
+    один из ведущих поставщиков азартного софта. Vodka Casino привлекает
+    игроков, которые ценят классические развлечения в духе Лас-Вегаса <a
+    href="https://xn--80aayvehbjj.xn--p1ai/">Vodka Casino</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZWUzMjg4NDNlZjY5MjkwODM4NTQ2NGNiZWUzZQ==
+    algorithm: aes-256-gcm
+    iv: 6e1c1c94a8a23956b5fdc73e
+    version: "1"
+  spam:
+    score: 6.05
+    marked: true
+  status: rejected
