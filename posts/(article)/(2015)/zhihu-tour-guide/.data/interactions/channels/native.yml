@@ -4001,3 +4001,29 @@
     score: 9.35
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: bc6b7a041b5ac19b20e6bc2baae4c7b8b9924932
+  author:
+    name: Zkeymn
+    lang: en
+    email:
+      value:
+        encrypted: ZjBiMGEwYmM3MGQ0YjYyZjJmMDgzM2Y2NGJkNzljNGJiMTc1OGM=
+        algorithm: aes-256-gcm
+        iv: 12c7dab746fe3bc075e19f18
+        version: "1"
+      hash:
+        sha256: fd07ac0ccaed5f4e4b24fb0a90f0c72f408203c69be7c60cedd0e53a9789d017
+  published: 2025-01-29T22:25:00.201Z
+  content: "<a href=https://1win-colombia-co-bonus.com>1win</a>\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: MWI2MGFjNjNmYmY0OTVmYmQ0MzMyNzE2NzBjYjYx
+    algorithm: aes-256-gcm
+    iv: 15920b76614ca523d7f2ec0c
+    version: "1"
+  spam:
+    score: 8.26
+    marked: true
+  status: rejected
