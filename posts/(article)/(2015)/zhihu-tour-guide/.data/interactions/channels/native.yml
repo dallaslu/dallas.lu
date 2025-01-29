@@ -3974,3 +3974,30 @@
     score: 7.93
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0e4a2574c575b7542b89beacff3af00ac3c0f4ab
+  author:
+    name: Williamdut
+    lang: en
+    email:
+      value:
+        encrypted: MjcwYjY1MzZiMzg0ZTlkOGQ3NjdlNWU1OWIzOWI1MGM1NWEw
+        algorithm: aes-256-gcm
+        iv: 5c01f018af493316ffa50e06
+        version: "1"
+      hash:
+        sha256: e06a267cfd8ee5a98f66a4212cf5669a9293b826ff5c704a7ef3e0d510c1bfbe
+  published: 2025-01-29T16:36:08.450Z
+  content: Доменная почта — корпоративный почтовый сервис email для организаций
+    2025 <a href="https://email4domain.ru">почта со своим доменом</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZmE3ZjRjZDI3M2UzMmQzYjJlOWMzOTYwMDk2Zg==
+    algorithm: aes-256-gcm
+    iv: b84b8128ab857147091df282
+    version: "1"
+  spam:
+    score: 9.35
+    marked: true
+  status: rejected
