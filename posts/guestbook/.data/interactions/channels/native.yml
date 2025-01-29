@@ -2379,3 +2379,29 @@
   spam:
     score: 3.4
   status: auditing
+- type: reply
+  channel: native
+  id: edd27d69b95f643751a0a3dbccac8c8215f97aa1
+  author:
+    name: End L.
+    lang: zh-CN
+    email:
+      value:
+        encrypted: YzQzMzhlYTVlZmY0YzdmYWMyYzk0MWQxZTkwM2U4ODBhZA==
+        algorithm: aes-256-gcm
+        iv: 3a44f1ea30110eed4ab8c1c1
+        version: "1"
+      hash:
+        sha256: 4ca6059e7b6e42e7c72961c1aa5bc5fc3e0511271a5af039f3047c2ee9125740
+  published: 2025-01-29T11:43:53.921Z
+  content: "卢先生，您好！\r
+
+    请问，您可以推荐一个简单好用的免费内网穿透工具吗？谢谢！"
+  lang: zh-CN
+  ip:
+    encrypted: ZWQyMjJiZmYxOGZhNmVjNjg4ZjRjOWNhMGU3YWNlMmVhZTcyMjhhZWJhNWQzZGE0Y2YzMDRmYzFiNmM1ZjcxODVkNjQ2ZDE4ZjlkYTI5
+    algorithm: aes-256-gcm
+    iv: a136790dc27787290a85097f
+    version: "1"
+  spam:
+    score: 0.11
