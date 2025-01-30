@@ -4027,3 +4027,34 @@
     score: 8.26
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 55ad9a833b625b79d229ed6c2f792706dacfa12c
+  author:
+    name: DouglasCam
+    lang: en
+    email:
+      value:
+        encrypted: MmI1Mjg5Njc0MmJmMzc2ZjM1MjgzNDNkNjMwOTRlYTcxNDJm
+        algorithm: aes-256-gcm
+        iv: 58b02d09be65bdf34fd8f743
+        version: "1"
+      hash:
+        sha256: 9bfcaeaf43538a93c36736604dfbf2b79f38177910a3cecdc952264908a543ad
+  published: 2025-01-30T01:14:37.804Z
+  content: "Функциональное тестирование программного обеспечения: как мобильные
+    приложения, сайты и веб-сервисы проверяют на соответствие требованиям
+    бизнеса и пользователей? Виды, задачи, этапы и примеры сценариев тестов,
+    которые позволяют исправить ошибки разработчиков:
+    https://vc.ru/u/3791103-infa-v-dele/1777821-funkcionalnoe-testirovanie-na-p\
+    rimerah-celi-vidy-instrumenty-i-trudnosti"
+  lang: zh-CN
+  ip:
+    encrypted: YjM3NjRiYmU3ZjQyN2Q2YjJmYjIyZmE4NTRhZQ==
+    algorithm: aes-256-gcm
+    iv: 25c1108be621fc3565fdf94c
+    version: "1"
+  spam:
+    score: 8.42
+    marked: true
+  status: rejected
