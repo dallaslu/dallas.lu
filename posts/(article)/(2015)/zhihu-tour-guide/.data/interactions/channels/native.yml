@@ -4122,3 +4122,29 @@
     score: 8.27
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 24449cb6cdee4f9b6ce9e8ae92b96985d5a0f751
+  author:
+    name: Zkeymn
+    lang: en
+    email:
+      value:
+        encrypted: ZjVmNzY4ZjcwNTEwYmJkOTQyMmIwMTY2YzkxOTY4ODVkN2Y4ZmE=
+        algorithm: aes-256-gcm
+        iv: 3cf486ac8538343268c3c039
+        version: "1"
+      hash:
+        sha256: b6bf6b024d27fc13045746a319b269c52d247f2eddf58b8a7aba2d1aecb692ec
+  published: 2025-01-30T18:26:40.151Z
+  content: "<a href=https://bcgame-japan-jp-bonus.com>Bc game login Japan</a>\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: Y2YxOWI5ZTI1NmZmMTk3Y2FmMGJmY2FkMzRhMDEy
+    algorithm: aes-256-gcm
+    iv: 86be542daa6c693ef5c7e0ee
+    version: "1"
+  spam:
+    score: 7.62
+    marked: true
+  status: rejected
