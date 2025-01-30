@@ -4176,3 +4176,34 @@
     score: 9.55
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 48cdc208369d1b4895acb73a326dc0c7715659d9
+  author:
+    name: RobertRar
+    lang: en
+    email:
+      value:
+        encrypted: MGNkNzNkMTFlN2QwNzcxODc1ZTNmMWI1YjNlMDk3NDJiYjM1
+        algorithm: aes-256-gcm
+        iv: edc5fe197391418bc9a6f28a
+        version: "1"
+      hash:
+        sha256: ee398536832a0f769eac3a2aa4e5499836c20cede1ffd9758fd4aa317b4295ad
+  published: 2025-01-30T19:07:03.349Z
+  content: Когда включаешь «Однажды в сказке 1 сезон», попадаешь в удивительный
+    мир, где реальность сплетается с фантазией так тесно, что невозможно сразу
+    понять, где заканчивается одно и начинается другое. Сюжет первой главы этой
+    истории строится вокруг Эммы Свон, обычной на первый взгляд женщины с
+    непростым прошлым <a
+    href="https://odnazhdy-v-skazke-1-sezon.ru/">https://odnazhdy-v-skazke-1-sezon.ru/</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZTgzZmQ5ODgwYmU4ZDhiZGUwNDY0ZDQzZjdiNw==
+    algorithm: aes-256-gcm
+    iv: 414dbd3f1f6489ae4eb0631b
+    version: "1"
+  spam:
+    score: 9.17
+    marked: true
+  status: rejected
