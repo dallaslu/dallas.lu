@@ -2405,3 +2405,45 @@
     version: "1"
   spam:
     score: 0.11
+- type: reply
+  channel: native
+  id: cac172b9dc3cf82d9b1532b0452afe45782c83f4
+  author:
+    name: Joshuahoaby
+    lang: en
+    email:
+      value:
+        encrypted: ZDcyOTRiZWUzNGE4MTQwNDI2OGJjZTI5YmI1YmEzNjk3NmQz
+        algorithm: aes-256-gcm
+        iv: 5fb58f3bf552833f29c2f7fa
+        version: "1"
+      hash:
+        sha256: a63f22d3e41d3469d9a2eacb7228db3ef35a831bc64f2e168fdd18b2638f52a4
+  published: 2025-01-30T13:18:01.633Z
+  content: "1xbet apk code promo - utilisez-le pour vous inscrire et obtenir un
+    bonus de 130% sur le montant de votre premier depot, pouvant aller jusqu'a
+    130$. Ces fonds doivent etre mises dans la section sportive, ou vous devez
+    placer des paris avec une cote minimale de 1,4 et un wager x5. \r
+
+    <h1 style=\"text-align: center;\">Code Promo 1xBet</h1> \r
+
+    <h2 style=\"text-align: center;\"><a
+    href=https://astra-hotel.ch/articles/code_promo_5.html>https://astra-hotel.\
+    ch/articles/code_promo_5.html</a></a></span></h2> \r
+
+    Code promo de 1xBet - l'utilisation de ce code vous permettra d'obtenir un
+    bonus de 30% supplementaire, allant jusqu’a 100$. Le bonus est accorde sous
+    la forme de 130% du montant de votre premier depot. Cette offre est reservee
+    aux nouveaux utilisateurs majeurs apres leur inscription. Profitez du code
+    promo pour augmenter votre bonus de bienvenue de 100% a 130%. Les fonds
+    seront credites sur votre solde de jeu, et le bonus devra etre mise sur des
+    paris sportifs. Ce code promo est valable jusqu'au 31 decembre 2025."
+  lang: en
+  ip:
+    encrypted: OTY5MTMwMjAzZTc2NzYzZDQ4YTNjMzUzOGY=
+    algorithm: aes-256-gcm
+    iv: 06dd711acfcb5dbb6a0ec6c7
+    version: "1"
+  spam:
+    score: 3.37
+  status: auditing
