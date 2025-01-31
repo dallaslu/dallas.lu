@@ -4371,3 +4371,29 @@
     score: 9.38
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 47c32f14303fd1fe7056ce875a1ab0b7f643135b
+  author:
+    name: Zkeymn
+    lang: en
+    email:
+      value:
+        encrypted: NDlkYmIyZmE0NTkzY2JiZjA4N2Q0ZWQwYzVmMTQ2MjFmNjc0OTU=
+        algorithm: aes-256-gcm
+        iv: 4aa7b7812e56444fa7130df5
+        version: "1"
+      hash:
+        sha256: 9ee07c8cd4b1f95ff595ba7e82226e126f7d40b248314d74d780a5887aaf6ed2
+  published: 2025-01-31T18:30:16.778Z
+  content: "<a href=https://bcgame-nigeria-ng-bonus.com>download bc game</a>\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: NjRhNTU4OTkwYzNiNjFhZWMwMTEzYjMxZmFjYWNl
+    algorithm: aes-256-gcm
+    iv: 205ee15397cff7d09227fc9d
+    version: "1"
+  spam:
+    score: 7.75
+    marked: true
+  status: rejected
