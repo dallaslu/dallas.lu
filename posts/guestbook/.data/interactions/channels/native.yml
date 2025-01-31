@@ -2466,3 +2466,72 @@
   content: 我只用过 FRP/ngrok/Cloudflare Tunnel。都免费，配合 docker 也是简单好用
   lang: zh-CN
   target: edd27d69b95f643751a0a3dbccac8c8215f97aa1
+- type: reply
+  channel: native
+  id: 97dd9e47f826deb78d914d1fd7f909d5a06cecd0
+  author:
+    name: Michaeldug
+    lang: en
+    email:
+      value:
+        encrypted: NGMzYWM5OWNmZDdhOTAxOTZmZWE1YTJjNDAwOTQ1ZjY4M2Jm
+        algorithm: aes-256-gcm
+        iv: 3dd3f8a87ae3175cb861f9ff
+        version: "1"
+      hash:
+        sha256: a63f22d3e41d3469d9a2eacb7228db3ef35a831bc64f2e168fdd18b2638f52a4
+  published: 2025-01-31T06:38:44.137Z
+  content: "Чтобы активировать промокод Ramenbet ?BONUSMEN?? при регистрации,
+    выполните следующие действия: \r
+
+    \ \r
+
+    Перейдите на официальный сайт Ramenbet. \r
+
+    \ \r
+
+    При регистрации или входе в личный кабинет найдите специальное поле для
+    промокода. \r
+
+    \ \r
+
+    Введите промокод Ramenbet ?BONUSMEN?? в это поле. \r
+
+    \ \r
+
+    Перейдите в раздел подтверждения регистрации и выберите способ
+    подтверждения: по электронной почте или SMS. \r
+
+    \ \r
+
+    Заполните все обязательные поля с персональными данными. \r
+
+    Подтвердите номер мобильного телефона или адрес электронной почты. \r
+
+    \ \r
+
+    После выполнения этих шагов на ваш счёт будут начислены дополнительные 30
+    бесплатных вращений для игры в слот Gates of Olympus. \r
+
+    <h1>Ramenbet промокод</h1> \r
+
+    <h2 style=\"text-align: center;\"><a
+    href=https://drim-gaz.ru/includes/pgs/promokod_ramenbet_2024_bonus_200_230_\
+    fs.html>https://drim-gaz.ru/includes/pgs/promokod_ramenbet_2024_bonus_200_2\
+    30_fs.html</a></span></h2> \r
+
+    На сайте представлены около 4500 слотов, которые находятся в разделе
+    «Казино». Азартные игры распределены по категориям на панели навигации. Они
+    позволяют выводить на экран топовые слоты, новинки, автоматы Megaways, Hold
+    and Win, c функцией покупки бонусов или с джекпотом. Также в любой выбранной
+    категории можно воспользоваться дополнительными фильтрами."
+  lang: en
+  ip:
+    encrypted: Nzk2MTJjMDg4NWRhYTJiMjczZGU3NzEwMzc=
+    algorithm: aes-256-gcm
+    iv: f4af11c5955b55d8af6bc15c
+    version: "1"
+  spam:
+    score: 6.32
+    marked: true
+  status: rejected
