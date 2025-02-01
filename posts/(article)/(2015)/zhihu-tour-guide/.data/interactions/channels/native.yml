@@ -4525,3 +4525,33 @@
     score: 8.87
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: de6e7a348e5c9804c2221ff3037c609b5cf8d4e3
+  author:
+    name: Michaelrab
+    lang: en
+    email:
+      value:
+        encrypted: MzE2NTk1M2ZkZjlhMzNlYjFhMjc0MzU2ZWJiNDEyM2NjZWQ5
+        algorithm: aes-256-gcm
+        iv: bfe65c62a9f0722cc318a005
+        version: "1"
+      hash:
+        sha256: 315c3a7bb0305ec9f78217625fae8809d7db04503c2a460448d4ec50bd4260b5
+  published: 2025-02-01T18:19:46.777Z
+  content: 7к casino – это новое онлайн казино, которая работает на игровом рынке
+    с 2023 года. Игровой оператор предлагает развитую бонусную систему,
+    оперативный вывод выигрышей, широкое разнообразие слотов и бесперебойный
+    доступ к своему ресурсу за счет развитой системы рабочих зеркал <a
+    href="https://aisummit2023.ru/">7К Казино</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTQ4ZmFhYjQ1MGJmMTdkZTMxNTU0YzlmYjYwZA==
+    algorithm: aes-256-gcm
+    iv: 7a4abf49e66b2e8996fa932f
+    version: "1"
+  spam:
+    score: 8.86
+    marked: true
+  status: rejected
