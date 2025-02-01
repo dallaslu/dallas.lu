@@ -4495,3 +4495,33 @@
     score: 8.94
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 46e2425a4696af043c3c62edeefc2dc81efb9a73
+  author:
+    name: Kennethrex
+    lang: en
+    email:
+      value:
+        encrypted: NWZiZTE0OGE0Zjg5NmEzODliN2MyY2VkZTEwMGVkMGNiMzZk
+        algorithm: aes-256-gcm
+        iv: f9429e42acad53650bc5fea5
+        version: "1"
+      hash:
+        sha256: 59ef2c7810c5a2298c4cd82c913db4a3ad6995640cfbfc71d8f990dd1e659af2
+  published: 2025-02-01T15:18:49.128Z
+  content: 7К казино представляет собой новый уникальный проект, запущенный в 2023
+    году. На его официальном сайте пользователей ожидает более двух сотен
+    лицензионных игр, выгодные бонусы и несколько проверенных платежных сервисов
+    для проведения денежных переводов <a href="https://cakemuseum.ru/">казино
+    7K</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTlmNGRiMjAxY2NhOTQ1ZDgxYmRmMmIzMzFhOA==
+    algorithm: aes-256-gcm
+    iv: 5c963755e148ddc866450d6b
+    version: "1"
+  spam:
+    score: 8.87
+    marked: true
+  status: rejected
