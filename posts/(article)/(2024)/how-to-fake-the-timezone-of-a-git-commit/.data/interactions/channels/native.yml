@@ -1,0 +1,16 @@
+- type: reply
+  channel: native
+  id: 35fb2a8e97c9471f93d3ffeb424241231eac6a87
+  author:
+    lang: en
+  published: 2025-02-01T12:16:32.005Z
+  content: git 不允许在hooks设置GIT_COMMITTER_DATE，Gabriel Birke 在他的文章中也提到了
+  lang: zh-CN
+  ip:
+    encrypted: ZGNlZmM2ODIzZDVlNWM0ZjQzOGM3Mzg3ZmI1YzZmZmEzNzZhYzMyYzI3M2YwMjE0ZjQ2ZTBmNGNjMTc0NWNkNGJiYzlkYWZjZWFjOA==
+    algorithm: aes-256-gcm
+    iv: f1b5245d3e2e21768f1940df
+    version: "1"
+  spam:
+    score: 2.87
+  status: auditing
