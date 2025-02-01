@@ -4555,3 +4555,30 @@
     score: 8.86
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 1c279cffa969595a2764233e1a127e78189bfcb6
+  author:
+    name: JeffreyElome
+    lang: en
+    email:
+      value:
+        encrypted: NjIzNmZjMTY1Y2I2YjRiN2Q1ODM3NjdlYWU2MzkzZTUyMGE0Yzk1M2FmODQ3OGE5YmFjM2MyZmJlZWQ3YWUxODlhMDI5OTMyZjQ5NTgzMTI5Nzg2NDI5Zg==
+        algorithm: aes-256-gcm
+        iv: d5efd496dfa762feee347454
+        version: "1"
+      hash:
+        sha256: a998ef3c0873b1713ac59c804f0206aad239bdb84d911740dd154851f8811909
+  published: 2025-02-01T22:06:14.582Z
+  content: <a
+    href="http://b42.ru/bitrix/redirect.php?goto=https://t.me/s/bonus_za_registratsiyu_bez_depa">http://b-2-0.com/bitrix/click.php?goto=https://t.me/s/bonus_za_registratsiyu_bez_depa</a>
+  lang: zh-CN
+  ip:
+    encrypted: N2JlOWY3N2JjNjBjZjNjNWVjZDE0MzNi
+    algorithm: aes-256-gcm
+    iv: 68662280d46b47016802561c
+    version: "1"
+  spam:
+    score: 9
+    marked: true
+  status: rejected
