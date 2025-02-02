@@ -4611,3 +4611,32 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e1e53262961343263abcfdc68138bcf18777b8ca
+  author:
+    name: KennethSuery
+    lang: en
+    email:
+      value:
+        encrypted: OGNkMWJmMWFiNDgwOTljOTRmNDNkODhlY2UyZTgxNDBlY2Qz
+        algorithm: aes-256-gcm
+        iv: f6e9635b5440a9cba4cee0fa
+        version: "1"
+      hash:
+        sha256: 2651569706b4c1f1d5eb7b3aa7eca52cf98d59e1c041e7e807a0a2b19eb6dea8
+  published: 2025-02-02T12:51:56.429Z
+  content: Гизбо Казино ориентировано на игроков с различными предпочтениями и
+    бюджетами. В казино представлены игры с различными ставками, что позволяет
+    выбирать развлечения в соответствии с индивидуальными возможностями <a
+    href="https://xn--50-6kci7eg.xn--p1ai/">Гизбо Казино</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZDg1NjIwZWRiZTI5NjM1NzAwMjc0OWY2YjlmYw==
+    algorithm: aes-256-gcm
+    iv: c3c8cfe31f0af1f8d9e66b85
+    version: "1"
+  spam:
+    score: 6.02
+    marked: true
+  status: rejected
