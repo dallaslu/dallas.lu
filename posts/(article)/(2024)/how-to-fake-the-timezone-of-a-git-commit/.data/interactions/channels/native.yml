@@ -13,4 +13,4 @@
     version: "1"
   spam:
     score: 2.87
-  status: auditing
+  status: ok
