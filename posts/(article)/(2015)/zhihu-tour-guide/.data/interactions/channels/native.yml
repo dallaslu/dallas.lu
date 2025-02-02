@@ -4640,3 +4640,36 @@
     score: 6.02
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: fd1b62f78b163c8ea68ef672360d8425d5ad9b09
+  author:
+    name: LoveXXlove
+    lang: en
+    email:
+      value:
+        encrypted: ZTZmOGZiMzgyODI0ZjU5M2M5YjNkZGFjNzIxOGZiNDdmYzlmZjliM2IzZWFhNw==
+        algorithm: aes-256-gcm
+        iv: 5278e4707ba43b7b151c5ab6
+        version: "1"
+      hash:
+        sha256: 8f6871932ce436f6f52253583aac0d0a994e1a444c5927b233c838a2df2a7c6b
+  published: 2025-02-02T18:56:29.867Z
+  content: "Loveshop Снова Работает !!!!! \r
+
+    \ \r
+
+    \ \r
+
+    \   Подробнее  https://telegra.ph/NFT-kotorye-ocharovyvayut-Pushistye-ldink\
+    i-na-Shop1-biz-vzryvayut-rynok-01-08     "
+  lang: zh-CN
+  ip:
+    encrypted: Zjc4ZjgwMDQyMGE1MjcyODg3NGFkMDMyNjI=
+    algorithm: aes-256-gcm
+    iv: ceb897eb7c8d25d73febc83c
+    version: "1"
+  spam:
+    score: 6.45
+    marked: true
+  status: rejected
