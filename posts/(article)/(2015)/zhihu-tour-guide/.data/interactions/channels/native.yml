@@ -4732,3 +4732,33 @@
     score: 5.98
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 2477a4ebd67eb28366358aa8a005d985a7232c6e
+  author:
+    name: CalvinPiord
+    lang: en
+    email:
+      value:
+        encrypted: N2U2YTkwYzE4Mzc3ODUzOTk0MjBiYTY0NjIyZTQ0ZmY5OTQx
+        algorithm: aes-256-gcm
+        iv: a31b61a76830619eb6daad96
+        version: "1"
+      hash:
+        sha256: 9b674d1b5d1f5a048ab8061b479c038b59d6e73c8020229d6b3cc60e0b4bd644
+  published: 2025-02-03T14:30:40.311Z
+  content: Наслаждайтесь игрой в любое время и в любом месте – Olymp Casino
+    адаптирован под мобильные устройства. Удобный интерфейс и высокая
+    производительность позволяют комфортно играть как со смартфона, так и с
+    планшета без потери качества <a href="https://shopster.kz/">olimp casino
+    бонус</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzE2MzAyZWE5ODUzZjkyNjhjYWU4YmRkZWIyNw==
+    algorithm: aes-256-gcm
+    iv: bf3c05078f99874265fcf500
+    version: "1"
+  spam:
+    score: 5.87
+    marked: true
+  status: auditing
