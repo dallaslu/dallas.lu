@@ -4800,3 +4800,34 @@
     score: 5.26
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: e8e6576f263c282c83a9f551d892567f96830fe8
+  author:
+    name: AaronMunse
+    lang: en
+    email:
+      value:
+        encrypted: ZWRlNGQyMjgxYmY1ZjA4OGZiNTFmZGY4YTQ5ZjM5YWQyMWJl
+        algorithm: aes-256-gcm
+        iv: 1a6b4fb3b0a2f487963a5eb0
+        version: "1"
+      hash:
+        sha256: f0a947c1b7cc628e9a1ce10c6b39a2180a4f2b4d200bcafed86242bff415ed62
+  published: 2025-02-04T00:42:46.898Z
+  content: When it comes to gambling online, understanding the legality and
+    security of platforms like Royal Reels Casino is crucial for players. Royal
+    Reels operates under Australian regulations, ensuring compliance with local
+    laws. Additionally, their advanced encryption technology safeguards your
+    personal and financial information <a
+    href="https://royalreels101.com/">https://royalreels101.com/</a>
+  lang: zh-CN
+  ip:
+    encrypted: OGEwMmVjMzU0ZmUxOGFiYjc0NmJiMTMwYjE2Nw==
+    algorithm: aes-256-gcm
+    iv: fbf259a70fb32039ba2713a5
+    version: "1"
+  spam:
+    score: 6.01
+    marked: true
+  status: rejected
