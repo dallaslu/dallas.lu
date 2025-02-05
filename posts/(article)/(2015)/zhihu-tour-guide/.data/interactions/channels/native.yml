@@ -4984,3 +4984,33 @@
     score: 6.91
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 793c375c7d77f3e4887165a80126719275e9d3a1
+  author:
+    name: SamuelTen
+    lang: en
+    email:
+      value:
+        encrypted: NzNhMDA5NDZhZmRhYjdjOGUyZTYwODFhNmQ5NTY5ZDFiMWZh
+        algorithm: aes-256-gcm
+        iv: 90d1ce424a516c3cc231893b
+        version: "1"
+      hash:
+        sha256: 1813b5b8641eef40371e01ef5b6b83e5e59913d1ae737152ea18f81360963773
+  published: 2025-02-05T20:14:40.524Z
+  content: 'Промокод MelBet при Регистрации: FreeBonus777 укажите это код в поле
+    во время регистрации и вы получите бонус до 19 500р, а также автоматически
+    активируете все промо акции мелбет 2025. Зарабатывайте больше с melbet
+    промокодом актуальным сегодня <a
+    href="http://www.newlcn.com/pages/news/joker_kazino_promokod.html">http://www.newlcn.com/pages/news/joker_kazino_promokod.html</a>'
+  lang: zh-CN
+  ip:
+    encrypted: OGM4OGMwNDk3YzYyZjZkOGQ2MGNhYjU5YTMzMQ==
+    algorithm: aes-256-gcm
+    iv: 8fcd39a82520c6e0c65e8190
+    version: "1"
+  spam:
+    score: 6.56
+    marked: true
+  status: rejected
