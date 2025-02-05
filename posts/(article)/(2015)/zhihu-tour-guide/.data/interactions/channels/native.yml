@@ -4925,3 +4925,32 @@
     score: 9.43
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 88668a18f2f955901729e639e407e45158cda6e5
+  author:
+    name: Samuelfut
+    lang: en
+    email:
+      value:
+        encrypted: ZmRmYjA4N2M2MjgzNDM4NWM2ZjQyZjhkZWI3MjZiMGMxNDJh
+        algorithm: aes-256-gcm
+        iv: ab7d15d79d6e44a505f4e3db
+        version: "1"
+      hash:
+        sha256: e40ba87b2586b9e3aae4fc866baccf2d0e3823fbd6badd90371ab926b81affaf
+  published: 2025-02-05T07:42:17.077Z
+  content: Комплекты видеонаблюдения – важный элемент системы безопасности дома,
+    офиса, а также других помещений и уличных территорий <a
+    href="https://videonabludenie35.ru/">Камеры видеонаблюдения для
+    автостоянки</a>
+  lang: zh-CN
+  ip:
+    encrypted: NGVhZWEwM2JmZGVkODNkMzVlNDY5YzhjNjM4OA==
+    algorithm: aes-256-gcm
+    iv: f476260379e0757575f4fe70
+    version: "1"
+  spam:
+    score: 9.14
+    marked: true
+  status: rejected
