@@ -4954,3 +4954,33 @@
     score: 9.14
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: dcb6d46db7337076db37cf9ed44130479068077e
+  author:
+    name: Dannyhen
+    lang: en
+    email:
+      value:
+        encrypted: ODIxZGM3NjVhZjMwYzI1YmE4MTM0MzRiYzBmODJlYjYzZjJj
+        algorithm: aes-256-gcm
+        iv: ce664bb6752efb9995cb38b0
+        version: "1"
+      hash:
+        sha256: 04f59406e3287f7a8ebeca38c2b32413b03080e46d548582c42ea1f37ccb4986
+  published: 2025-02-05T14:38:53.261Z
+  content: 'Use the 1xBet promo code: 1XGIFT130 to receive a welcome bonus in
+    2025. New players will be eligible for a VIP bonus of 100% up to $130. Once
+    you have obtained the promo code, make sure to use it during the
+    registration process <a
+    href="http://shop.motocross.ua/images/inc/1xbet_promokod_pri_registracii_na_segodnya_besplatno.html">http://shop.motocross.ua/images/inc/1xbet_promokod_pri_registracii_na_segodnya_besplatno.html</a>'
+  lang: zh-CN
+  ip:
+    encrypted: MmM2ZWVlZjYzYzU2Nzg4OTQxZDYxYjRmMTQ2Ng==
+    algorithm: aes-256-gcm
+    iv: 107b08b9b766d53077425d8a
+    version: "1"
+  spam:
+    score: 6.91
+    marked: true
+  status: rejected
