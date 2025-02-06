@@ -5014,3 +5014,32 @@
     score: 6.56
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8ee3cb70790930b881904418be8483d381bb9812
+  author:
+    name: GeraldPredy
+    lang: en
+    email:
+      value:
+        encrypted: MTkxZTg2Y2UwYTU4OTUxN2M3NGQ2MDJiZGQ0MmE3OTIzMzY2
+        algorithm: aes-256-gcm
+        iv: b7ee636b75b9ae8aefd62ec6
+        version: "1"
+      hash:
+        sha256: a57600022e89ccac520187bfe43939126f420d77d5e51087d1c5af5b1a805129
+  published: 2025-02-06T02:02:56.622Z
+  content: Промокоды - это специальные коды, которые предоставляются игрокам в
+    качестве поощрения за их активность. Они позволяют увеличить стартовый
+    выигрыш в два раза и получить дополнительные средства на игровой счет <a
+    href="http://www.extreme-centre.com/bin/promokod_1xbet_2021_na_segodnya_rabochiy.html">http://www.extreme-centre.com/bin/promokod_1xbet_2021_na_segodnya_rabochiy.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: MjcxODMwYTU4YmQ4YjlhMzFkOGZmYzE3M2QwZQ==
+    algorithm: aes-256-gcm
+    iv: e7652be0565a9f920b84e016
+    version: "1"
+  spam:
+    score: 6.86
+    marked: true
+  status: rejected
