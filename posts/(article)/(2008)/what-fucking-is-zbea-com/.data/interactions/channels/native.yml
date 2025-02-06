@@ -193,3 +193,31 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 91c6ce6115963712cf3c294ab5385be828063227
+  author:
+    name: JesseNiz
+    lang: zh-CN
+    email:
+      value:
+        encrypted: OTNhNDA0MTYyNGExYWYwOTZhNDI2M2QyZjk3MTA4
+        algorithm: aes-256-gcm
+        iv: b9718ff80d1bd78853779b31
+        version: "1"
+      hash:
+        sha256: ae5fc1ea2eb4ee1d05ba4bbfcfc49b7d03b15628677866b32d6ba21f76092cc9
+  published: 2025-02-06T20:03:51.062Z
+  content: " \r
+
+    <a href=http://registr-a.ru>Производство регистров отопления</a> "
+  lang: zh-CN
+  ip:
+    encrypted: ZmMyM2U5MjM4YTJkNjg2YmFlMzVlMjEyMDQ=
+    algorithm: aes-256-gcm
+    iv: 4881dba0017226790878b66c
+    version: "1"
+  spam:
+    score: 9.5
+    marked: true
+  status: rejected
