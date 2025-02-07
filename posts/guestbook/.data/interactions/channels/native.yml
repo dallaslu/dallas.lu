@@ -939,3 +939,34 @@
   spam:
     score: 3.34
   status: auditing
+- type: reply
+  channel: native
+  id: 91cf3dfcfe9a98eef5731957b7b524f33f63f891
+  author:
+    name: Cazrawq
+    lang: en
+    email:
+      value:
+        encrypted: YzZiOTBiMDNlMjRhYmEyYTYzM2VjZDAyYzg4NGIzZDEyYmE5ZDgwNzI0NWQ0ZGJlOGI2NTIw
+        algorithm: aes-256-gcm
+        iv: dda457c3e24604562f46e694
+        version: "1"
+      hash:
+        sha256: 7afc688fcf6cf1eabb469818ddf7255bc5e9e18c4a1cc40eea95806fa9e05273
+  published: 2025-02-07T11:52:01.907Z
+  content: " \r
+
+    <a
+    href=http://zakaz-na-diplom.ru/kupit-diplom-rgteu-rossijskogo-gosudarstvenn\
+    ogo-torgovo-ekonomicheskogo-universiteta-2/>Официальное получение диплома
+    техникума с упрощенным обучением в Москве</a>"
+  lang: en
+  ip:
+    encrypted: MWYxNzBkNTNlYjY0MjU4OTIwOWY0ZDNjZGY=
+    algorithm: aes-256-gcm
+    iv: 9188e89047cad889bba33eab
+    version: "1"
+  spam:
+    score: 9.7
+    marked: true
+  status: rejected
