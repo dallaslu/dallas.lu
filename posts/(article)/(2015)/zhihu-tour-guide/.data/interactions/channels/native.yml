@@ -5162,3 +5162,31 @@
     score: 6.49
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 252e8265a29a046befb900b29a73e2f0a7b2a756
+  author:
+    name: CharlesNessy
+    lang: en
+    email:
+      value:
+        encrypted: YTJkY2IyMWMyNWQxMWY2MzAyZDA2NDUzZTQzM2MzMmQ5NWJj
+        algorithm: aes-256-gcm
+        iv: 1030aa5906c70314bbb52a2f
+        version: "1"
+      hash:
+        sha256: b238f5d2db5640b95487aac4cb74e5d7ec81c0d44699ece5fe52960891c51d23
+  published: 2025-02-07T01:52:35.719Z
+  content: Интернет - магазин керамический плитки и керамогранита, для любых
+    поверхностей и помещений <a href="https://plitka-work.ru">Керамогранит для
+    пола</a>
+  lang: zh-CN
+  ip:
+    encrypted: MWJlMDUwNzI5ZDk3ZDk5NGY1MTVkY2I2YmQ3OQ==
+    algorithm: aes-256-gcm
+    iv: 89c1a8e525855299811ae557
+    version: "1"
+  spam:
+    score: 9.24
+    marked: true
+  status: rejected
