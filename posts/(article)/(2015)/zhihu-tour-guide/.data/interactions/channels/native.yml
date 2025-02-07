@@ -5131,3 +5131,34 @@
     score: 7.05
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 05fb4b1b84d82836837548577b89b122d4991d34
+  author:
+    name: NormanLoazy
+    lang: en
+    email:
+      value:
+        encrypted: MzA4ZTYwNjc3MmM4ZGExNmY3MTA0NzQ1ZWNhMDg0ZjA3YjBh
+        algorithm: aes-256-gcm
+        iv: 09ddd1670f9dbb341f2ca1ec
+        version: "1"
+      hash:
+        sha256: 5373d9b49afc0566131655301fb93a85747c3d39a91d12e38855b52bc3f6f0d4
+  published: 2025-02-07T01:28:07.137Z
+  content: 1xBet provides a wide array of bonuses and promotions for its customers
+    in 2025. These offerings include welcome bonuses, reload bonuses, cashback
+    bonuses, and more. The welcome bonus is typically available to new customers
+    making their first deposit, while reload bonuses cater to existing customers
+    who make additional deposits <a
+    href="http://www.waltbabylove.com/upload/image/inc/?1xbet_india_promo_codes.html">http://www.waltbabylove.com/upload/image/inc/?1xbet_india_promo_codes.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: MDNlNjBiZGI4NTIyZDc0MzI3MDUwZWExNTllNw==
+    algorithm: aes-256-gcm
+    iv: c85ab980979d62a477f1d06f
+    version: "1"
+  spam:
+    score: 6.49
+    marked: true
+  status: rejected
