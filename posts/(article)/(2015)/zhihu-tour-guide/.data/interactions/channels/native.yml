@@ -5260,3 +5260,31 @@
   spam:
     score: 2.57
   status: auditing
+- type: reply
+  channel: native
+  id: 4fe6b51b7de69c7e3f07e536fbbc28f2138b51af
+  author:
+    name: BeckyWep
+    lang: en
+    email:
+      value:
+        encrypted: NzJkYTA0YTQ0N2FmMWJiNzE4YjI3ZDFjZWYxYjU4YjdiOWE2NDRhZmQ2
+        algorithm: aes-256-gcm
+        iv: 95e7aedbb276a602d87c3538
+        version: "1"
+      hash:
+        sha256: 9cfca90f063d805fe684e0fafd28ae083f7dd2325cf8254b7acdcdba98c4f674
+  published: 2025-02-09T21:09:17.620Z
+  content: "Buy traffic to the site [url=https://traftop.biz/]traftop.biz[/url]
+    cheap. Traftop traffic exchange is effective and 100% positive promotion of
+    web resource\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: NGEzNTc5OWUwZDgyYmQwZTFiZjlmOGU3ZmVkZDlk
+    algorithm: aes-256-gcm
+    iv: 91ed0e50b6661611b441ef72
+    version: "1"
+  spam:
+    score: 5.23
+    marked: true
+  status: auditing
