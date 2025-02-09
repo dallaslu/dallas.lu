@@ -5215,3 +5215,48 @@
   spam:
     score: 2.5
   status: auditing
+- type: reply
+  channel: native
+  id: 21c26d87e5c9c9e6e5b9489a1eb8dc88339f39f4
+  author:
+    name: LarryDom
+    lang: en
+    email:
+      value:
+        encrypted: MWZiY2U2YTE2YjNjNzIxZDk1YWYzNDJlOTJiNDFiZmQ4ZDk2MDQ5NWQyOTVjNTJmYzllZjcwYzQ3OQ==
+        algorithm: aes-256-gcm
+        iv: fbc574ecd49926633237fbb9
+        version: "1"
+      hash:
+        sha256: e1eea07ca21405359e3bd75334d242a89ebee74d045e6bea2d0821b13451795f
+  published: 2025-02-09T17:53:33.174Z
+  content: "Antipublic.net - The best database for data leaks \r
+
+    Top1 in data: With over 20 billion collected passwords \r
+
+    Top1 in search speed: Allows easy and super fast search of any user or
+    domain. \r
+
+    Free: \r
+
+    - Check if any personal account has ever been leaked \r
+
+    - Check if any company, domain has ever been leaked and the scale of the
+    leak (by the number of accounts) \r
+
+    Moreover: \r
+
+    - Can view all passwords in the database at low cost \r
+
+    - Can view passwords in milions of accounts: Netflix, Spottify, Math,
+    Onlyfan, Pornhub, ... including Google, Facebook and countless other
+    websites."
+  lang: zh-CN
+  ip:
+    encrypted: ZWRhZjBiNWE5NzFiZTc2Nzc4NmQ0ODYxNWExZg==
+    algorithm: aes-256-gcm
+    iv: 68799db8bd33327b6f30e30a
+    version: "1"
+  spam:
+    score: 2.57
+  status: auditing
