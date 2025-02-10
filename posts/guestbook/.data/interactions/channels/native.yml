@@ -970,3 +970,30 @@
     score: 9.7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: d30133826b7c93bfcfa3780bac8d618464d6b5cf
+  author:
+    name: <a href="https://aclf.ru/">selector casino zerkalo</a>
+    lang: en
+    email:
+      value:
+        encrypted: ZWM3NTEzOWFmYTlhZWVkNjdmNDlmNDQ0ZmYyMDYxZWU2ZmIyYzg=
+        algorithm: aes-256-gcm
+        iv: 0dc85307107c2a2ed659ed7c
+        version: "1"
+      hash:
+        sha256: bb260b8819c4689a06a9c2fd5e20349718d8ba386fc5b11dd028945f4acab6d2
+  published: 2025-02-10T11:57:14.922Z
+  content: Проверенное и надежное казино - <a href="https://aclf.ru/">selector
+    casino</a>
+  lang: en
+  ip:
+    encrypted: ZWRlYjk5MTUzZWI5MTkwMGNkNDE=
+    algorithm: aes-256-gcm
+    iv: 2d8e5edf5aa849b23cac6d82
+    version: "1"
+  spam:
+    score: 8.31
+    marked: true
+  status: rejected
