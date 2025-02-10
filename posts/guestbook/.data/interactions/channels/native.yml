@@ -1039,3 +1039,34 @@
   spam:
     score: 3.17
   status: auditing
+- type: reply
+  channel: native
+  id: 6540961b2d0622f8de5bcc3879fd8002b1060e7d
+  author:
+    name: Cazrkni
+    lang: en
+    email:
+      value:
+        encrypted: YTdkN2ViMmJjN2EwZWMxMDUxODY1NDlhNzkzYWRiODcxMDI0ZmU4NmFjZDljZGNjOTAxMjVi
+        algorithm: aes-256-gcm
+        iv: 9d1e7b5367e04a366cc6b06a
+        version: "1"
+      hash:
+        sha256: c6296db54ff6be08ca52e651f8d9f2d34103934c7791182fe386a967ac130d09
+  published: 2025-02-10T17:53:57.612Z
+  content: " \r
+
+    <a
+    href=http://diplom-profi.ru/kupit-diplom-gosudarstvennogo-muzikalno-pedagog\
+    icheskogo-instituta-imeni-m-m-ippolitova-ivanova-2/>Как купить аттестат 11
+    класса с официальным упрощенным обучением в Москве</a>"
+  lang: en
+  ip:
+    encrypted: YjZjMmY0OTc5NjM4ZGE5ZGQ4NjMyNWFjNDY=
+    algorithm: aes-256-gcm
+    iv: 1beed4d94b003ad14899a91e
+    version: "1"
+  spam:
+    score: 9.63
+    marked: true
+  status: rejected
