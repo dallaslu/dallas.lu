@@ -5378,3 +5378,31 @@
     score: 9.98
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 90eecdbc098938dec60f3704f2400f0889140315
+  author:
+    name: Iyannashoft
+    lang: en
+    email:
+      value:
+        encrypted: NTRmNjAyZWE0MDZiZDI2ZmU3NWRmYjRjN2RkNDRhYjk2MTBmNTQ0YjVhN2E3YzU4OGEyMDAyN2JlZWFmOTc1ZTk2YjZlN2YzZjBhZGZkMDZkNGNlMzk3ZDYwYzMwZTI1OWRhMA==
+        algorithm: aes-256-gcm
+        iv: ae72128bd16e2ce5a7542d4e
+        version: "1"
+      hash:
+        sha256: f9f6d66206ca6771cb199d841a0aaea0cb504fbbc2f5272c4a24ebd04bc15fdb
+  published: 2025-02-11T07:20:25.296Z
+  content: "лучшая онлайн школа покера \r
+
+    <a href=\"https://t.me/s/onlayn_shkola_pokera\">интернет школа покера</a>"
+  lang: zh-CN
+  ip:
+    encrypted: N2FmM2E5MGVhYWJhZDFhYjk0OTZmMGUzM2I=
+    algorithm: aes-256-gcm
+    iv: 2716cdaa2f6abe44b8e298c8
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
