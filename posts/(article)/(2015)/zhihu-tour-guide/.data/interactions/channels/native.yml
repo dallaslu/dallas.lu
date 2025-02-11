@@ -5349,3 +5349,32 @@
     score: 4.89
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 7f371670a214b11e1fa10042be91f61e6885f5eb
+  author:
+    name: JamesTug
+    lang: en
+    email:
+      value:
+        encrypted: NzI1MjM5N2E1ZWMxYzliY2UxNTNiOTRiZTEwNzk4Nzc0NGMz
+        algorithm: aes-256-gcm
+        iv: 4ac6a5f690b6f4316da72368
+        version: "1"
+      hash:
+        sha256: 8030873ad5ae02d6880ccf6741579d1f8f2b996b82667edbf37f3af94ac1818d
+  published: 2025-02-11T06:18:49.784Z
+  content: После того как вы получили виртуальный номер, откройте приложение
+    Telegram и начните процесс регистрации. Введите ваш новый номер телефона, и
+    вам придёт SMS с кодом подтверждения <a
+    href="https://dezkontrolkzn.ru/kak-zaregistrirovatsya-v-whatsapp-s-virtualnym-nomerom/">https://dezkontrolkzn.ru/kak-zaregistrirovatsya-v-whatsapp-s-virtualnym-nomerom/</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZGFmMDI5ZWI4Y2U2MDE2Mjc0ZTZlZTdmMGI1NQ==
+    algorithm: aes-256-gcm
+    iv: 3fb52b6f0e1aa5434c5bd5db
+    version: "1"
+  spam:
+    score: 9.98
+    marked: true
+  status: rejected
