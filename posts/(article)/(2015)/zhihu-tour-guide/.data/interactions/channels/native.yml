@@ -5406,3 +5406,195 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 72e3de17d66fa1691d4fad0f32f0d8ca17a239a6
+  author:
+    name: DonaldScurl
+    lang: en
+    email:
+      value:
+        encrypted: NjI5MTk2MTAzMWE0MGViNzU4YjU5NzQ0OGZlOGIxODNkZGJi
+        algorithm: aes-256-gcm
+        iv: 8f1de0f50f2ab916a1c84788
+        version: "1"
+      hash:
+        sha256: df8e62a4267b1c3f8e0656ff447dc4bf67b5f2488ae3f3b9402da4857624177a
+  published: 2025-02-17T14:38:05.092Z
+  content: Вы можете купить справку в клинике https://med-analysis.ru/ по Москве с
+    бесплатной доставкой до любой станции метро.
+  lang: zh-CN
+  ip:
+    encrypted: NDdhNmYwOWJjMThmMjMxMjgyNjgyZDk0NWY2OA==
+    algorithm: aes-256-gcm
+    iv: f3211cba0107058d61273878
+    version: "1"
+  spam:
+    score: 8.12
+    marked: true
+  status: rejected
+- type: reply
+  channel: native
+  id: 1623d1dd389af2a65cb3bf82f98f656771c4860d
+  author:
+    name: KennethDig
+    lang: en
+    email:
+      value:
+        encrypted: OGMzY2I3YmYwNWEwYWM0YzIzMGU2NDZkYTdmNjc0MTFjMzA2
+        algorithm: aes-256-gcm
+        iv: 15486b8508082dbc9147c8bc
+        version: "1"
+      hash:
+        sha256: ad92f1da1ef6b4673cb3c68ded320e24a7a187a377ef4ed9a71c13281c54c35f
+  published: 2025-02-18T01:50:33.057Z
+  content: Гизбо Казино — это платформа, которая привлекает внимание игроков
+    широким ассортиментом азартных развлечений и выгодными бонусами. Здесь вы
+    найдете слоты с прогрессивными джекпотами, настольные игры, а также турниры,
+    которые проходят на регулярной основе <a href="https://zaoknomekb.ru/">Гизбо
+    Казино</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTU0YmNkYWNmYjMyYzBhMTg0MjQ4YmYwNWJjMA==
+    algorithm: aes-256-gcm
+    iv: c8ccd96f7007e9560ab75a00
+    version: "1"
+  spam:
+    score: 8.87
+    marked: true
+  status: rejected
+- type: reply
+  channel: native
+  id: eafe3bc16e883090672cd009e19b8cfbdfd89087
+  author:
+    name: DonaldScurl
+    lang: en
+    email:
+      value:
+        encrypted: YjdiOWI3NTczZmY5NzQ2NGYzOGIyNzk1MTc4YmQwM2M5M2Qx
+        algorithm: aes-256-gcm
+        iv: 698674ff4247ba0a804fe1ec
+        version: "1"
+      hash:
+        sha256: cbe4975cbfc21920c0b9e0f5e90ba2e443158f9c93f4eb9c0f1159aec225991c
+  published: 2025-02-18T02:19:22.140Z
+  content: Вы можете купить справку в поликлинике https://medlady.ru/ по Москве с
+    доставкой до станции метро.
+  lang: zh-CN
+  ip:
+    encrypted: Yzg0ZTI0MTFkNTE5ZmJjMjI0ZjcyYjE3MzE0OQ==
+    algorithm: aes-256-gcm
+    iv: c3f07b57ab4e3d1da00c13fa
+    version: "1"
+  spam:
+    score: 8.08
+    marked: true
+  status: rejected
+- type: reply
+  channel: native
+  id: e32cbefe4b7eacdc0e3c1077a7af3baacf47bd0b
+  author:
+    name: EverettHak
+    lang: en
+    email:
+      value:
+        encrypted: NGQxNTdjZmY3MGI3NWY2ZWI0NGExM2IxZGZjMmVjNGQ1YTNj
+        algorithm: aes-256-gcm
+        iv: fd3df9d3b450cce0b36fd99c
+        version: "1"
+      hash:
+        sha256: c0aa19c9459293edfdc66329e514b95b187d7877aaa059ee0df8e64b5301d26f
+  published: 2025-02-18T11:54:31.183Z
+  content: Вы можете купить справку в медицинском центре https://dentaleclinic.ru/
+    в Москве без прохождения врачей.
+  lang: zh-CN
+  ip:
+    encrypted: YjNhOTkyMmI3ZDYwNGU2NTY0MmViNTBlMDBhNw==
+    algorithm: aes-256-gcm
+    iv: c6ccfa53179053988bfe9ffb
+    version: "1"
+  spam:
+    score: 8.22
+    marked: true
+  status: rejected
+- type: reply
+  channel: native
+  id: f51ac1f6d8523867ad1e455dba96758cbd6bfc4a
+  author:
+    name: DavidRor
+    lang: en
+    email:
+      value:
+        encrypted: MzQ5ODljZDRlNDFiYTI5NjkyNGU5YzQ2NTIzNTA2NGQzMzQx
+        algorithm: aes-256-gcm
+        iv: 4bf676dc4c11c42aaae94c58
+        version: "1"
+      hash:
+        sha256: 3048c62c9869f7bebe662603ca341c0c6f8cc185dc1510c91d157d99e6bb6967
+  published: 2025-02-18T13:39:52.074Z
+  content: Играть онлайн в Гизбо Казино. Каждый посетитель Гизбо Казино может
+    воспользоваться системой поддержки, которая работает круглосуточно <a
+    href="https://xn---74-5cdtz8afiwl4c8g.xn--p1ai/">казино Gizbo</a>
+  lang: zh-CN
+  ip:
+    encrypted: YzVjNzQ2ZjRlZjA2MjhlMzE2ZmEyZTgxZGQ1NQ==
+    algorithm: aes-256-gcm
+    iv: c91c3dc6df92b6232bf1b3ca
+    version: "1"
+  spam:
+    score: 6.33
+    marked: true
+  status: rejected
+- type: reply
+  channel: native
+  id: 8a9c9e80f411945a87733e7d3b18b7144843ede0
+  author:
+    name: Lewisreila
+    lang: en
+    email:
+      value:
+        encrypted: NGYxNDRmZTY2OTAyMzVhYmMyZGQ0NDZmNjhkMzBlNDBlNjE0
+        algorithm: aes-256-gcm
+        iv: a9f53cf66fb138322178febd
+        version: "1"
+      hash:
+        sha256: e6313c5e342b5de50e6653f62d115661b55d7961b2b2ddd5a08bd2bc54226f94
+  published: 2025-02-18T22:46:53.815Z
+  content: Вы можете купить справки в Москве в нашей клинике https://medcenterpenza.ru/.
+  lang: zh-CN
+  ip:
+    encrypted: MGI1YjhiYzlhZGZiNzU2YzVmZDU1NWU4MjAxYQ==
+    algorithm: aes-256-gcm
+    iv: 0004d9ac57a85c1fb39f0684
+    version: "1"
+  spam:
+    score: 8.55
+    marked: true
+  status: rejected
+- type: reply
+  channel: native
+  id: 4ffeac10c39ec07edebc54fa65b93114542c5fde
+  author:
+    name: KennethRaw
+    lang: en
+    email:
+      value:
+        encrypted: ZGE2Mzg4YWEyMzQwMzZkNGZlNGFlNTQzZDJjMzlhMzg1YjQ1
+        algorithm: aes-256-gcm
+        iv: cca54d756bbc0f5c38309c40
+        version: "1"
+      hash:
+        sha256: 2d5c0bae2a7bc762a0a8a707f401c5df7a4948b0ba1ca5401c2725e657f4e237
+  published: 2025-02-19T01:42:29.578Z
+  content: Вы можете купить справку в медцентре https://diagnoz-med.ru/ с
+    доставкой по Москве.
+  lang: zh-CN
+  ip:
+    encrypted: ZWE0MzAzOWIwYTI0YzYwZjliZWMwZmZhZWI1NA==
+    algorithm: aes-256-gcm
+    iv: ada0a1a04dac2012286f278f
+    version: "1"
+  spam:
+    score: 8.33
+    marked: true
+  status: rejected

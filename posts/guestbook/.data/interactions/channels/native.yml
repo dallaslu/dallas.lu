@@ -1070,3 +1070,73 @@
     score: 9.63
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 42d89808009b2bc550165da363f0b9bfa9769fab
+  author:
+    name: Cazrqhb
+    lang: en
+    email:
+      value:
+        encrypted: MzljYWZiZTBlYTRlNzE3YmI3MGRkYTEzYWE3NGVhYjQwYzIyNjlhYTU4ZjRiYjhkYmRkODA2
+        algorithm: aes-256-gcm
+        iv: bfc3b3bf61b49e34e7ee0d95
+        version: "1"
+      hash:
+        sha256: ba245df152a5b9c8990b4a72ca2070929c00bd0bf84d31644fc4e38b80d0cdae
+  published: 2025-02-19T02:24:19.022Z
+  content: " \r
+
+    <a
+    href=http://institute-diplom.ru/kupit-diplom-instituta-ekonomiki-i-predprin\
+    imatelstva-2/>Процесс получения диплома стоматолога: реально ли это сделать
+    быстро?</a>"
+  lang: en
+  ip:
+    encrypted: ZDYwNGE0MmMxNmMxOWI1MDk1Y2U2YWNlOWU=
+    algorithm: aes-256-gcm
+    iv: c9d7fe1a83398c127473e71b
+    version: "1"
+  spam:
+    score: 9.47
+    marked: true
+  status: rejected
+- type: reply
+  channel: native
+  id: c16c73c3ae884e3acaddc87f8237154c974c99e6
+  author:
+    name: Rent Bicrypto Bum
+    lang: en
+    email:
+      value:
+        encrypted: OTRlYzYxMGRmZWFkYjhiNjk5ZTkyYzNhN2VhMDA3MWM4YzQxNWJjOQ==
+        algorithm: aes-256-gcm
+        iv: c540b7aba5e8af96ed83ec0a
+        version: "1"
+      hash:
+        sha256: ac58dbd376393cb206073c65c542094be0d2f4527e783af603e6cff795f9685a
+  published: 2025-02-19T16:29:46.839Z
+  content: "[b]Rent Bicrypto (latest) with All Plugins + Hosting for Bicrypto = 40
+    Euro[/b] \r
+
+    \ \r
+
+    Super offer from Phoenix.lol: rent the Bicrypto script and all plugins +
+    hosting! \r
+
+    After 1 year, the licenses become your property! \r
+
+    \ \r
+
+    [url=https://phoenix.lol/index.php?/topic/693-rent-bicrypto-latest-with-all\
+    -plugins-hosting-for-bicrypto-40-euromonth/]Rent Bicrypto (latest) with All
+    Plugins + VPS Xeon[/url]"
+  lang: en
+  ip:
+    encrypted: N2NmMzgyZDM2ODA0OTExMzdhMGYyMWQwZTQxMA==
+    algorithm: aes-256-gcm
+    iv: 7c16097658d520b5481164b3
+    version: "1"
+  spam:
+    score: 2.97
+  status: auditing
