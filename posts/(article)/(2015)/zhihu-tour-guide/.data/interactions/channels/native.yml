@@ -5652,3 +5652,31 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f3cea5691d05cea8ed19710a55e440031757493f
+  author:
+    name: Charlesexcaw
+    lang: en
+    email:
+      value:
+        encrypted: NjJhYjE0ZDY5ZmVhODhhYjc5ODE1MGQ4NjVkZGM4Njc2NTA3
+        algorithm: aes-256-gcm
+        iv: a36c8e1ba2a903a288c01872
+        version: "1"
+      hash:
+        sha256: 532e499fe7cdd7416acaf59e9aa6106358ed9ac3ea14e7a986b8f773969f2e9f
+  published: 2025-02-20T22:24:57.745Z
+  content: Чат Рулетка — самый популярный видеочат во всем мире. Наш чат не имеет
+    аналогов и принципиально отличается от других видеочатов <a
+    href="https://sexocams.ru/">https://sexocams.ru/</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZjI5ZTNkM2Y5YmJiODYyMTQ0YWMyMjUzMDNjZQ==
+    algorithm: aes-256-gcm
+    iv: 0915adc7334a635303cc34f8
+    version: "1"
+  spam:
+    score: 9.4
+    marked: true
+  status: rejected
