@@ -5625,3 +5625,30 @@
     score: 6.74
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a7a94a42735d8dbfed9af33324831661d1d27815
+  author:
+    name: JeffreyElome
+    lang: en
+    email:
+      value:
+        encrypted: Njc1MTZjYWQ1ODRlOGEyODNlZjA2YTQyN2M1YTU5ZTA4NTZhYWIwMTYzZTVjMzQ4MDBlYTRlM2QwMjQ2YzAyNWY1YmUxMDZmMjg4MmNmMWFiOTQ4ZDc=
+        algorithm: aes-256-gcm
+        iv: 52f88e21bb5fb894a7f328c9
+        version: "1"
+      hash:
+        sha256: ad3e714e9fb021648058674f7b9988c2b330d5d3b108877ba2ab9451355f57ac
+  published: 2025-02-20T21:49:27.106Z
+  content: <a
+    href="http://clients1.google.it/url?q=https%3A%2F%2Ft.me/s/bonus_za_registratsiyu_bez_depa">http://clients1.google.jo/url?q=https%3A%2F%2Ft.me/s/bonus_za_registratsiyu_bez_depa</a>
+  lang: zh-CN
+  ip:
+    encrypted: NTdiZmFiODg5NDRmN2I1NTViYjIwYTdk
+    algorithm: aes-256-gcm
+    iv: 24696fe61004446a73f4a672
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
