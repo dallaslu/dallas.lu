@@ -5710,3 +5710,33 @@
     score: 5.98
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 50f979e46149ebe49aa3930f37b701e1246325fa
+  author:
+    name: LeonardPloma
+    lang: en
+    email:
+      value:
+        encrypted: MDRjZWE1NWE1YzJlYTkyODlkNTE0OTAyZTRjMzU2OWUzN2Nm
+        algorithm: aes-256-gcm
+        iv: 9c101fd76280ae584e7d351c
+        version: "1"
+      hash:
+        sha256: a58b743b5fad1bd5f5012fea6493b0c548b30b79b4fa8063537484dbc5df6026
+  published: 2025-02-22T17:03:19.790Z
+  content: Частенько Fonbet раздаёт эксклюзивные коды на фрибеты – бесплатная
+    ставка, которая не требует, чтобы на балансе были деньги. Если выполните все
+    условия букмекерской конторы и выиграете, тогда кеш зачислится уже в виде
+    реальных денег. Их получится перевести на карточку или e-кошелёк <a
+    href="https://girls-media.com/wp-content/pgs/code_promo_du_bookmaker_1xbet.html">https://girls-media.com/wp-content/pgs/code_promo_du_bookmaker_1xbet.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTA1OTQyNGIxZjA2ZTIwZDJlNDE0ODE0YmE5MQ==
+    algorithm: aes-256-gcm
+    iv: be654635d04be2463d027ebf
+    version: "1"
+  spam:
+    score: 6.59
+    marked: true
+  status: rejected
