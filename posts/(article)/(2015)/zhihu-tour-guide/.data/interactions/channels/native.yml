@@ -5800,3 +5800,33 @@
     score: 8.87
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5c3a37ddad91f468e68f77dc10a1465fe7f1e2f9
+  author:
+    name: Kelvinswelo
+    lang: en
+    email:
+      value:
+        encrypted: NmJjMDUxNzFjMjUyMGFhYmQ1MTFiMzFjZmExYzg1
+        algorithm: aes-256-gcm
+        iv: 4ad05c0bcdbc9d349e09babc
+        version: "1"
+      hash:
+        sha256: 31280f3da4bdc3aeee1a0c317d0cec964e4888fa91b50647712aa14fb46db568
+  published: 2025-02-23T18:11:59.175Z
+  content: Существует множество способов накрутки лайков. Некоторые из них
+    легитимны и позволяют вам получить настоящую аудиторию, а другие могут
+    привести к бану аккаунта. Важно выбирать правильные методы, чтобы избежать
+    негативных последствий <a href="https://ttlaikovc.ru">скачать накрутка
+    лайков в ТТ</a>
+  lang: zh-CN
+  ip:
+    encrypted: Mzk0ODA5N2YyYTY2NWJhNDNkZTZjNjJlYTAyNQ==
+    algorithm: aes-256-gcm
+    iv: 28aa74fba3aa4b8315083108
+    version: "1"
+  spam:
+    score: 8.85
+    marked: true
+  status: rejected
