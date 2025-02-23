@@ -5771,3 +5771,32 @@
     score: 6.23
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5c34c4760485d377b70d7f94584d35a4a3b147eb
+  author:
+    name: GregoryTax
+    lang: en
+    email:
+      value:
+        encrypted: YTBjZjk4MjY2ZWJiYTk2OTFjYmNjOTUwNTMzNzdm
+        algorithm: aes-256-gcm
+        iv: ad318f3cd86872a09553c539
+        version: "1"
+      hash:
+        sha256: ae41b7251855734a67fa02f5214f2eeb7e7a2ec1eb1cda87d1c6f427618245a2
+  published: 2025-02-23T04:09:15.725Z
+  content: Зачем же нужна накрутка лайков? Прежде всего, это способ привлечь
+    внимание к вашему контенту. У пользователей сложилось мнение, что видео с
+    большим количеством лайков более качественное и интересное <a
+    href="https://ttlaivc.ru">лайк накрутка в Тик Ток бесплатно</a>
+  lang: zh-CN
+  ip:
+    encrypted: YjNjMTJmY2Q5MGQwYzM0OTlhYmY0YzlmYTMyNg==
+    algorithm: aes-256-gcm
+    iv: 55fe9a53d10e49c81e215660
+    version: "1"
+  spam:
+    score: 8.87
+    marked: true
+  status: rejected
