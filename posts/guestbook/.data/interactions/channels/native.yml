@@ -1140,3 +1140,34 @@
   spam:
     score: 2.97
   status: auditing
+- type: reply
+  channel: native
+  id: 7e59e0aca09066c712c31e42517e85daaa91d6c3
+  author:
+    name: Cazrgeu
+    lang: en
+    email:
+      value:
+        encrypted: ODE3NTg4NTI1Yzg2OWUxZGI0Yzg1YzIwNWU3Nzk4OGFlZDU3ZWNmMzU2OTE2ZWUzMjQ1NjBk
+        algorithm: aes-256-gcm
+        iv: 4dcb53d45675f634f662f7bb
+        version: "1"
+      hash:
+        sha256: d4c2ade9dc521a2b0ca1c7b9a19517ae4732c177afa78315a9616ed57d67ff2a
+  published: 2025-02-23T21:46:47.444Z
+  content: " \r
+
+    <a
+    href=http://diplommy.ru/kupit-diplom-natsionalnij-issledovatelskij-universi\
+    tet-mei-2/>Аттестат 11 класса купить официально с упрощенным обучением в
+    Москве</a>"
+  lang: en
+  ip:
+    encrypted: YmYzMGVjYzcyMzFjNjJmZWY4N2I5ZTg1MDM=
+    algorithm: aes-256-gcm
+    iv: 473ead651fa9d93151799109
+    version: "1"
+  spam:
+    score: 9.43
+    marked: true
+  status: rejected
