@@ -5740,3 +5740,34 @@
     score: 6.59
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 668d3c8dea8d88f1d6a6a9e7b8ec8135fecfcde4
+  author:
+    name: DavidkaT
+    lang: en
+    email:
+      value:
+        encrypted: OTAzMTFlNWQ0ZmVkZTc1ZjdmOGJkZTJjOTY1OWNkMzQyODRi
+        algorithm: aes-256-gcm
+        iv: f53faa03deac184a26d254ad
+        version: "1"
+      hash:
+        sha256: 5af49d71efbc3014cecc448f0cf625dfdde13f71886e514eb2ea964ddf8b6e8f
+  published: 2025-02-23T00:55:55.849Z
+  content: Обладает тонизирующим и антиоксидантным свойствами, лифтинг эффектом,
+    улучшает упругость, предотвращает старение кожи, помогает избежать
+    преждевременного появления большого количества морщин, уменьшает
+    пигментацию, способствует уменьшению проявлений сосудистой сеточки на лице,
+    способствует устранению воспалительных процессов на коже, эпителизации <a
+    href="https://bioquant-garyaev.com/product/biomatritsa/">https://bioquant-garyaev.com/product/biomatritsa/</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTk3MGRiZjU0MDUyZjc1YTFhOTRlZTlkMmE=
+    algorithm: aes-256-gcm
+    iv: c5800c6db6e4161abf38ac88
+    version: "1"
+  spam:
+    score: 6.23
+    marked: true
+  status: rejected
