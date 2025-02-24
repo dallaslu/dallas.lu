@@ -5830,3 +5830,32 @@
     score: 8.85
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f4de74db5f30c46027f8c65be0f3b6bcf9f1c6a6
+  author:
+    name: VincentSap
+    lang: en
+    email:
+      value:
+        encrypted: ZDY4YzE3MjAxZDQ2MmU0M2UyMDNlNjAyMTJlYTZm
+        algorithm: aes-256-gcm
+        iv: 4c19ce7398389d6a24652646
+        version: "1"
+      hash:
+        sha256: 73f1459ec425c28f735ebed0e15dbf205573afe8daa95086b26a3664ca50b1bb
+  published: 2025-02-24T03:55:24.278Z
+  content: 'Официальный сайт Vodka Casino: регистрация и вход в Водка Казино
+    онлайн. Vodka Casino предлагает пользователям уникальные возможности для
+    игры в онлайн-казино <a href="https://1000sovetov-receptov.ru">Vodka Casino
+    регистрация</a>'
+  lang: zh-CN
+  ip:
+    encrypted: OWNhMDdmYTQzNGM3M2Y3MTQ5ZmRmZWU5YTM0MA==
+    algorithm: aes-256-gcm
+    iv: 9ef359c05f2bf14e78edf579
+    version: "1"
+  spam:
+    score: 9.1
+    marked: true
+  status: rejected
