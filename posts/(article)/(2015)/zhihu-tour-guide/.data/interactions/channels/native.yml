@@ -5889,3 +5889,35 @@
     score: 7.82
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c0f5d85ab14afbb0d646f1c00d8bb046efc82726
+  author:
+    name: BobbyBolve
+    lang: en
+    email:
+      value:
+        encrypted: YzVhYTBmNTY0NjQ4NjEzOWZmZDY0ODU2ZjAxOTkz
+        algorithm: aes-256-gcm
+        iv: 9d6db925db187baf109fe5fe
+        version: "1"
+      hash:
+        sha256: ed3c034beeafc6b2f622d0e3a9fcfbb29c112a9c270b92c63108466494908797
+  published: 2025-02-24T22:24:47.910Z
+  content: Если вы ищете волнение и азарт, предлагаем обратить внимание на Banda
+    Casino. Онлайн-казино представляет большой перечень игр, среди которых
+    каждый найдет что-то интересное. Благодаря безопасным транзакциям и
+    современной мобильной версии, вы можете насладиться игрой в любом месте, где
+    имеется интернет <a
+    href="https://mazda-demio.ru/forums/index.php?autocom=gallery&req=si&img=6149">Banda
+    Casino официальный сайт</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZGM2ZTM5NzQ5YjZlMzlmMDk4Y2I0YTg3ZTc=
+    algorithm: aes-256-gcm
+    iv: 44eeef6998a60883f165fd8c
+    version: "1"
+  spam:
+    score: 7.62
+    marked: true
+  status: rejected
