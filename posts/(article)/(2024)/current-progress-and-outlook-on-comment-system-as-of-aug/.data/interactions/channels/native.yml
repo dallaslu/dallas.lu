@@ -214,3 +214,29 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a9aa046b5728592d4cbb337582688123663dd078
+  author:
+    name: Timothycrync
+    lang: en
+    email:
+      value:
+        encrypted: MWZhNjhhNzk1YWNiZTE2NzljMzJkMzIwNWFjMTM5MmY5MTdhODQ=
+        algorithm: aes-256-gcm
+        iv: cb128db1a9ea54a6221fd018
+        version: "1"
+      hash:
+        sha256: 86662f41fbdd5a18a5072b43b4afe55b0f2aebbb37e43e2cd1c5dae0b958db00
+  published: 2025-02-24T22:48:23.349Z
+  content: "https://www.cake.me/me/winnitalycom\r\n"
+  lang: en
+  ip:
+    encrypted: ZTRkYjI2N2JjOWYyM2VmY2MyZDRhOWIwNWE=
+    algorithm: aes-256-gcm
+    iv: 3f690e88ee1187077f8866b3
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
