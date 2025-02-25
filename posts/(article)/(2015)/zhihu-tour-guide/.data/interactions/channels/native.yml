@@ -5952,3 +5952,34 @@
     score: 7.9
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 908e2c723d0b44fde2eb2dac89e644482f4417c9
+  author:
+    name: WillieHer
+    lang: en
+    email:
+      value:
+        encrypted: MjFkZDk3NGJjMmQ2OWUzOWMxMjdjYWI3MjgyNzgyMWE=
+        algorithm: aes-256-gcm
+        iv: 84fe3b25cbe57c1248e6acc0
+        version: "1"
+      hash:
+        sha256: dd10440180dda8aa1f309b9142c22dbb69b3b0f47dbca26b31fd71b8218aad20
+  published: 2025-02-25T12:04:19.194Z
+  content: Casino Starda предлагает доступ к сертифицированным игровым автоматам
+    от популярных провайдеров, гарантируя честный игровой процесс. Для удобства
+    посетителей создана надежная система. Казино обеспечивает полную защиту
+    данных и выполнение обязательств перед клиентами <a
+    href="https://wiki.nikiforov.ru/index.php/%D0%9A%D0%B0%D0%B7%D0%B8%D0%BD%D0%BE_Starda">Сайт
+    Старда Казино</a>
+  lang: zh-CN
+  ip:
+    encrypted: N2VlZDVjZTY4NTg5ZGFhNjc1MTYyYzZkYTU=
+    algorithm: aes-256-gcm
+    iv: c54376c5bca90b2e24f34e7f
+    version: "1"
+  spam:
+    score: 7.74
+    marked: true
+  status: rejected
