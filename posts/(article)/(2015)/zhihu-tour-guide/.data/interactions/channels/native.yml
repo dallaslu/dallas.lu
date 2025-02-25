@@ -5921,3 +5921,34 @@
     score: 7.62
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2405c7fa95912c1ed9c35e620dbe4afd781a529f
+  author:
+    name: JamesLomiz
+    lang: en
+    email:
+      value:
+        encrypted: OThmZDRiMjIzZTZjZGQ2ZWQ4YzA1NWFhODBkMWMwYWU=
+        algorithm: aes-256-gcm
+        iv: e1bd8569eb6ed87398dbc121
+        version: "1"
+      hash:
+        sha256: a608c55ab14277234a20a1a371ba2f6919de3b670090b692a60df76d61cdd89a
+  published: 2025-02-25T01:34:20.671Z
+  content: Казино Раменбет - это прогрессивная онлайн-площадка для развлечений,
+    которая очень быстро завоевала популярность благодаря щедрым бонусам,
+    разнообразию игр и приятным условиям. Лицензированное казино обеспечивает
+    комфорт и безопасность на каждом этапе взаимодействия <a
+    href="https://www.kadrovik-praktik.ru/communication/forum/forum1/topic36895/message355386/?result=new#message355386">Ramenbet
+    Casino зеркало</a>
+  lang: zh-CN
+  ip:
+    encrypted: MThhNTM1ZjMzMjU3YjEwNzA3YjRjZjY1OWE5Mw==
+    algorithm: aes-256-gcm
+    iv: 24314bdd46843c7731c00d3a
+    version: "1"
+  spam:
+    score: 7.9
+    marked: true
+  status: rejected
