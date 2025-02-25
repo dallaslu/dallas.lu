@@ -5983,3 +5983,34 @@
     score: 7.74
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ac31ffb7adf04dfef7cfbe24ae280737c27e3dad
+  author:
+    name: DavidCag
+    lang: en
+    email:
+      value:
+        encrypted: MWIzMzUzNjAwYjFiN2I3NmZhN2VlYWVjODcwODFlZDA=
+        algorithm: aes-256-gcm
+        iv: 2b7d9d35223fd4fe86d09b6b
+        version: "1"
+      hash:
+        sha256: 56d0dfa5e8d9d158d89c2c29aa6b43ea08fed066a4da6797865ce87e26e14d3a
+  published: 2025-02-25T16:00:24.885Z
+  content: Мы предоставляем аренду автомобилей для крупных компаний и частных лиц,
+    а также для малого и среднего бизнеса. Наша компания предлагает широкий
+    выбор автомобилей, включая эконом-класс, бизнес-класс, минивэны и
+    коммерческие авто, чтобы каждый клиент мог подобрать машину, соответствующую
+    его требованиям <a href="https://avtocar5.ru/">Новые автомобили для
+    проката</a>
+  lang: zh-CN
+  ip:
+    encrypted: N2JlMTIxMDg5Yzc2MGI0OTYzNWY2ZWYzOGUwMQ==
+    algorithm: aes-256-gcm
+    iv: 26c84e3bc6314a5258fd8e2d
+    version: "1"
+  spam:
+    score: 8.79
+    marked: true
+  status: rejected
