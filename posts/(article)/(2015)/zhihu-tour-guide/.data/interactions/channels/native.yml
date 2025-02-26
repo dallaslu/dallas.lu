@@ -6155,3 +6155,32 @@
     score: 6.1
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e9b735801678e64381df7a8f2b5c009bfffdd220
+  author:
+    name: ElmerMardy
+    lang: en
+    email:
+      value:
+        encrypted: MjdlNzhjM2NmNTMzYWZjYjc3NzVlMmY5NTU2M2QzMmI=
+        algorithm: aes-256-gcm
+        iv: f7584a08454e3d48cbd7350b
+        version: "1"
+      hash:
+        sha256: 6db34d8cea8cce8bf9061667ecb4a1cba836c89092832822eac3a25545dc42fd
+  published: 2025-02-26T15:53:05.733Z
+  content: Казино Гама работает по лицензии Кюрасао, предоставляет большой выбор
+    качественных игр и надежные способы платежей. Пользователям доступны счета в
+    рублях <a href="https://xn--o1acss.xn--p1ai">Gama Casino зеркало на
+    сегодня</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZjNhMDhkY2ExZWNiMjIzYWE3NTI5YThlMTZjMw==
+    algorithm: aes-256-gcm
+    iv: 07951a60ff5fab69d523770c
+    version: "1"
+  spam:
+    score: 6.06
+    marked: true
+  status: rejected
