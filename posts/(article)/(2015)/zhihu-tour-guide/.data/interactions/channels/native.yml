@@ -6098,3 +6098,32 @@
     score: 5.99
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 82ad2778e4aedcf12935dfae1775164c8fd2beed
+  author:
+    name: HenryStulp
+    lang: en
+    email:
+      value:
+        encrypted: OWNmOWZlNTIxNjhmYWFkYWMwZGMyZjI1NzcwODBjNTI=
+        algorithm: aes-256-gcm
+        iv: 2bd800b8a22848688a0765ec
+        version: "1"
+      hash:
+        sha256: a5e769da36aa96db0dc2386307c531de919d259eb69ff0df081b08eb67a7f3d1
+  published: 2025-02-26T02:02:19.203Z
+  content: Kometa casino – новое развлекательное развлекательное казино,
+    предлагает вашему вниманию свыше 5 600 онлайн-игр от ведущих брендов,
+    регулярные бонусы, промо <a href="https://vrn-sms.ru">Комета Казино
+    скачать</a>
+  lang: zh-CN
+  ip:
+    encrypted: YjMyMDgxNjhiNWQxYzliYzU0Nzc3ZThlZWM4MQ==
+    algorithm: aes-256-gcm
+    iv: 3b85b6b5d6ba62759228baad
+    version: "1"
+  spam:
+    score: 8.97
+    marked: true
+  status: rejected
