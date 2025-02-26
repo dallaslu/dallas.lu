@@ -6127,3 +6127,31 @@
     score: 8.97
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3dedc3dcf527ae242dac4460ef7b817bd5236f04
+  author:
+    name: Albertkix
+    lang: en
+    email:
+      value:
+        encrypted: NTg3NWEyNDViY2Q2YzY3NDZmZDFlN2NiOTliNjYzOGI=
+        algorithm: aes-256-gcm
+        iv: 0fd5230de171164e014e1be7
+        version: "1"
+      hash:
+        sha256: 63f6364f88506637e08d8f9eb04311ea86ac32ed128fe9ecfa27f9a814d2975e
+  published: 2025-02-26T12:55:54.811Z
+  content: Kometa Casino – новое онлайн-казино, запущенное в России в 2024 году.
+    Платформа работает по лицензии Кюрасао, обеспечивая безопасный игровой
+    процесс <a href="https://xn--o1acss.xn--p1ai">Сайт Kometa Casino</a>
+  lang: zh-CN
+  ip:
+    encrypted: YWQ1YmJmYjQyYjdmNTc1ZjgzMmEyZTZjMzk=
+    algorithm: aes-256-gcm
+    iv: 8ad173657754965b47b2ae43
+    version: "1"
+  spam:
+    score: 6.1
+    marked: true
+  status: rejected
