@@ -1237,3 +1237,36 @@
   spam:
     score: 2.99
   status: auditing
+- type: reply
+  channel: native
+  id: 75a839ee31967c40bb00afda7b1b686e02877ca0
+  author:
+    name: Cazrkzw
+    lang: en
+    email:
+      value:
+        encrypted: MjM0NGZmNGQ3ZTkxZWEzNjg4N2UwYTZiOTk0ZDc4MmJjYmE5YjdlZDU1MDVkNjE5MThlNjM3
+        algorithm: aes-256-gcm
+        iv: e600271fa8a1ff8702e29e8f
+        version: "1"
+      hash:
+        sha256: 38bcabccd5ef2a95d0f30a1f979c811f19e2a6976584913fcffafb25b6a9391f
+  published: 2025-02-27T16:33:34.859Z
+  content: "Привет! \r
+
+    Без наличия диплома очень трудно было продвинуться вверх по карьерной
+    лестнице. Сегодня же документ не дает никаких гарантий, что удастся получить
+    престижную работу. Намного более важны навыки и знания специалиста, а также
+    его опыт работы. Именно по этой причине решение о заказе диплома следует
+    считать рациональным.  Заказать диплом об
+    образовании   [url=http://babygirls012.copiny.com/question/details/id/10527\
+    60]  babygirls012.copiny.com/question/details/id/1052760[/url]"
+  lang: en
+  ip:
+    encrypted: YzczYjkwMmYyMzc4ZThkZjEwYzIwYjIxODc=
+    algorithm: aes-256-gcm
+    iv: 12bb86673ce619141aaeeea9
+    version: "1"
+  spam:
+    score: 3.95
+  status: auditing
