@@ -6259,3 +6259,33 @@
     score: 6.36
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: dd21f92f818e5c68cb750cd984df369d243b05e9
+  author:
+    name: GrantEstib
+    lang: en
+    email:
+      value:
+        encrypted: ZjI5YzMyNDRmYmI2N2MxMDA4NGYzMmIwZjEyNGFiMzY=
+        algorithm: aes-256-gcm
+        iv: 6b2d5d755fb9cdf92e59a00a
+        version: "1"
+      hash:
+        sha256: c68fc4ae7eb4137ad6d27d74154f3f70dfb6c057236358f1d936bf9936e3ac72
+  published: 2025-03-02T01:44:12.952Z
+  content: 'В ассортименте качественные электронные сигареты многоразовые от
+    ведущих производителей: Brusko, Voopoo, Elf, Smoant, Vaporesso, Pasito,
+    Smok, GeekVape <a
+    href="https://vse-sigarety.ru/search/РњРЅРѕРіРѕСЂР°Р·РѕРІС‹Р№">многоразовые
+    электронные сигареты</a>'
+  lang: zh-CN
+  ip:
+    encrypted: ZjY2YjQzNWUxNjdlYzA1MWIyNGQ1NjA2NTliNg==
+    algorithm: aes-256-gcm
+    iv: b2e02738e832d969d69a2fcd
+    version: "1"
+  spam:
+    score: 9.32
+    marked: true
+  status: rejected
