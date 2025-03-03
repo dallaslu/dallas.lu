@@ -6380,3 +6380,31 @@
     score: 7.16
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9d5ee0f521ca359640f5cf50be571b2db208fb88
+  author:
+    name: Dustindidly
+    lang: en
+    email:
+      value:
+        encrypted: NTgzMmY4ZGFlOTNjZGExODdkYjM1ZWQ3ZDc2ZGM1MzU=
+        algorithm: aes-256-gcm
+        iv: f739debf33621812905e1d04
+        version: "1"
+      hash:
+        sha256: 500e57cb2005610c7400b2bf1774226faf93d16165d192d89d70284602b559a8
+  published: 2025-03-03T23:21:46.278Z
+  content: Играйте в самые популярные слоты, блэкджек, рулетку и многое другое в
+    1Го Казино. Зарегистрируйтесь сейчас и получите доступ к бонусам для новых
+    <a href="https://1go-cazino.su">1Go Casino регистрация</a>
+  lang: zh-CN
+  ip:
+    encrypted: MmU3MGJhNjkxZDA3NzQwMTQxYTI3OTcyYWU4MA==
+    algorithm: aes-256-gcm
+    iv: 0ad2a27b9ca17f76fa46efc2
+    version: "1"
+  spam:
+    score: 6.03
+    marked: true
+  status: rejected
