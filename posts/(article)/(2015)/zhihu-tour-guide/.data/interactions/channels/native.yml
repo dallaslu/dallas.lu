@@ -6317,3 +6317,38 @@
     score: 6.84
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9df3ac406876b6882bbafc354dd33762fd631f64
+  author:
+    name: Cazrywu
+    lang: en
+    email:
+      value:
+        encrypted: ZGU2MmEwMTJiMmI0MjJjMjJlOGU2NTU2ZTYyNDQ0OWU2Mzg4MmViNzk2ZTcwMzg0MzY3NDNl
+        algorithm: aes-256-gcm
+        iv: 7e6344714295ac626b0220fd
+        version: "1"
+      hash:
+        sha256: 95ab51391f5e73a44afe694da12d50df77ba86fb832683d53605cf6922786834
+  published: 2025-03-03T13:24:21.382Z
+  content: "Здравствуйте! \r
+
+    Без института очень нелегко было продвигаться вверх по карьерной лестнице.
+    Сегодня же документ не дает абсолютно никаких гарантий, что удастся найти
+    привлекательную работу. Куда более важное значение имеют профессиональные
+    навыки и знания специалиста, а также его опыт работы. В связи с этим решение
+    о покупке диплома стоит считать выгодным и целесообразным.  Быстро купить
+    диплом
+    института   [url=http://zoofortunakz.5nx.ru/viewtopic.php?f=96&t=6325]  zoo\
+    fortunakz.5nx.ru/viewtopic.php?f=96&t=6325[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: YjFkMzJjNTA3YmJkMWQwYjdmYjhlZWVhZGE=
+    algorithm: aes-256-gcm
+    iv: a5814a6078168c01715c6f0d
+    version: "1"
+  spam:
+    score: 6.42
+    marked: true
+  status: rejected
