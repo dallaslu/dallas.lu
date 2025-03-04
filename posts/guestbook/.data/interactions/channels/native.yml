@@ -1425,3 +1425,28 @@
     algorithm: aes-256-gcm
     iv: 08be1ef69971a08876dca3fa
     version: "1"
+- type: reply
+  channel: native
+  id: bf93a0483f0b4c61d1937932091296323244b70b
+  author:
+    name: Test
+    lang: zh-CN
+    email:
+      value:
+        encrypted: MzhmNDBmZjQ4MzBhNjFiNDg0YWI4NWU4
+        algorithm: aes-256-gcm
+        iv: ab85f108c65e1cc198db6d42
+        version: "1"
+      hash:
+        sha256: 3ca1d1e967ac0e30f166d9eb9045fc40416882373a827379a05865090fb64bc5
+  published: 2025-03-04T04:24:23.230Z
+  content: 测试邮件测试邮件
+  lang: zh-CN
+  target: 77965d9c2af0f760a8c2725b87095828879ef164
+  ip:
+    encrypted: NTAyM2Q5YWIzYjVmN2ZiZTkxYzE5MA==
+    algorithm: aes-256-gcm
+    iv: cc338c85dd83ed2a176e9274
+    version: "1"
+  spam:
+    score: 0.2
