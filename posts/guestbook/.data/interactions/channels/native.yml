@@ -1378,3 +1378,50 @@
   spam:
     score: 2.75
   status: auditing
+- type: reply
+  channel: native
+  id: 1fc6f4cfe762823f99804b69aa696f419b802006
+  author:
+    name: Test
+    lang: zh-CN
+    email:
+      value:
+        encrypted: Y2Y0NTcxNDMxYTFlMzI1OTVmY2YwM2M2
+        algorithm: aes-256-gcm
+        iv: a077b6a5af5026c632894fff
+        version: "1"
+      hash:
+        sha256: 3ca1d1e967ac0e30f166d9eb9045fc40416882373a827379a05865090fb64bc5
+  published: 2025-03-04T01:59:07.482Z
+  content: Test mail
+  lang: zh-CN
+  ip:
+    encrypted: MDZiYTQ5NDkxNDRjN2ViNGE5YjAwMg==
+    algorithm: aes-256-gcm
+    iv: b9844d4f2b6015177510e6b2
+    version: "1"
+  spam:
+    score: 2.1
+  status: auditing
+- type: reply
+  channel: native
+  id: 77965d9c2af0f760a8c2725b87095828879ef164
+  author:
+    name: Test
+    lang: zh-CN
+    email:
+      value:
+        encrypted: MzRkMDg2ZjJmZjA5NmE2OTM3MWVhMzZm
+        algorithm: aes-256-gcm
+        iv: 991242456992964c05909607
+        version: "1"
+      hash:
+        sha256: 3ca1d1e967ac0e30f166d9eb9045fc40416882373a827379a05865090fb64bc5
+  published: 2025-03-04T01:59:35.047Z
+  content: 你好你好！！！！！！
+  lang: zh-CN
+  ip:
+    encrypted: OGQxYzA5NTVjNDZhZGFjODdkMTQxOA==
+    algorithm: aes-256-gcm
+    iv: 08be1ef69971a08876dca3fa
+    version: "1"
