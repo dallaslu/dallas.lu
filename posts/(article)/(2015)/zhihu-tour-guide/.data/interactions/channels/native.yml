@@ -6498,3 +6498,63 @@
     score: 5.75
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 7c5f93e964b9a4895357dc87c3adba3673bfa65d
+  author:
+    name: HerbertBum
+    lang: en
+    email:
+      value:
+        encrypted: OGI1ZDIwMDFjNGI3M2I1YWQ3NmYzNTJhN2NiOTExMDU=
+        algorithm: aes-256-gcm
+        iv: 90ae28d99fe6eb3a6c530b34
+        version: "1"
+      hash:
+        sha256: ce2ff332c2190e63dfe526093680aabb22519527193eb805cbf2efc33d7ea3bd
+  published: 2025-03-05T02:00:10.442Z
+  content: 1xBet es una de las mejores casas de apuestas del mercado para los
+    usuarios <a
+    href="https://www.alairelibre.cl/noticias/deportes/apuestas/codigo-promocional-1xbet-fwvip/2024-05-15/085145.html">1xcasino
+    promo code Colombia</a>
+  lang: zh-CN
+  ip:
+    encrypted: YWVlMzVhYjgwMjNmZDI2MWY4MTllNWU3NmY=
+    algorithm: aes-256-gcm
+    iv: 20c18a315663d302a0465771
+    version: "1"
+  spam:
+    score: 7.12
+    marked: true
+  status: rejected
+- type: reply
+  channel: native
+  id: 29375272ef0ba569bccc5b52522a9b0b19b47297
+  author:
+    name: Tommyned
+    lang: en
+    email:
+      value:
+        encrypted: YWQ2ZDMwNjkzODUzNWQ5Njg3ZmY3YWFiOTZmNzg3MWQ=
+        algorithm: aes-256-gcm
+        iv: 84beb0a39478a1edd77cc277
+        version: "1"
+      hash:
+        sha256: fe782ae77e41210c309fb51d3677a012fc755633d4729327067ba109170130c6
+  published: 2025-03-05T02:00:46.661Z
+  content: Casino 1xbet is available to players on the website of the famous
+    bookmaker, founded in 1997. The section with video slots and other gambling
+    games appeared several years ago, but quickly attracted users thanks to the
+    established customer base <a
+    href="https://oddspedia.com/es/casas-de-apuestas/1xbet/bonos">Código
+    promocional 1xcasino Benín</a>
+  lang: zh-CN
+  ip:
+    encrypted: YjA1OTg2OWZiYWNkMjYzOTA1OWU4NmZmMjJhZQ==
+    algorithm: aes-256-gcm
+    iv: b7f68ab330fe24033e6ab2f8
+    version: "1"
+  spam:
+    score: 6.1
+    marked: true
+  status: rejected
