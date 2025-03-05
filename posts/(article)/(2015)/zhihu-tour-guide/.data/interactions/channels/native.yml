@@ -6610,3 +6610,38 @@
     score: 4.62
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 938e1e7368fca30e3dbd8db4eccf6a4ad39956b8
+  author:
+    name: Cazrtpw
+    lang: en
+    email:
+      value:
+        encrypted: YWU5ZTI4MGRiOGJmODg2NThmMzU2NDdiOTBjZTYzNGJlZGFjMjBjM2IzNDIzOTA1MGZmODky
+        algorithm: aes-256-gcm
+        iv: 8dd036498985a74722e46301
+        version: "1"
+      hash:
+        sha256: 1f4532ffc19de01af102650c22678c7461f0c00f9b002227ba9e304018deddc0
+  published: 2025-03-05T05:59:08.201Z
+  content: "Здравствуйте! \r
+
+    Без института сложно было продвигаться по карьере. Сейчас этот документ не
+    дает гарантий, что удастся найти хорошую работу. Более важны
+    профессиональные навыки и знания специалиста, а также его постоянный опыт.
+    Именно из-за этого решение о заказе диплома стоит считать мудрым и
+    рациональным.  Приобрести диплом об
+    образовании   [url=http://palkwall.com/read-blog/31246_kupit-attestat-za-9-\
+    klass.html]  palkwall.com/read-blog/31246_kupit-attestat-za-9-klass.html[/u\
+    rl]"
+  lang: zh-CN
+  ip:
+    encrypted: NWVhZDllOTk5YWRjMDM3YzI1NmUzNzk3MDk=
+    algorithm: aes-256-gcm
+    iv: 23c79e3f7332389609496905
+    version: "1"
+  spam:
+    score: 5.05
+    marked: true
+  status: auditing
