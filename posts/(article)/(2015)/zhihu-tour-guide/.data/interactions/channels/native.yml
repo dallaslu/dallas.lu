@@ -6645,3 +6645,33 @@
     score: 5.05
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: b2f50e0d5fc07ffeb27dcd943b0f3dc2ad5f811f
+  author:
+    name: Andressiz
+    lang: en
+    email:
+      value:
+        encrypted: NWE5NDA3Mjg5ZTg5MzZjNjYzOWM0OWY4NzdlOTczZmM=
+        algorithm: aes-256-gcm
+        iv: 63ea74360e4499f32916ccba
+        version: "1"
+      hash:
+        sha256: d4978439018aa2efad3a52e45a2cc3fb75c0fbb18061a7517ed3188a0f3d1ba6
+  published: 2025-03-05T13:26:17.738Z
+  content: План эвакуации документ предназначенный для определения первичных
+    средств пожаротушения и эвакуационных выходов. Поэтому, доверять разработку
+    только профессионалом своего дела <a
+    href="http://malahov-consultant.ru/plan-evakuatsii-partnery/">Заказать план
+    эвакуации</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTUzY2E1YTc4OTIzMGYxNzFiNWE5MzJiZThjZA==
+    algorithm: aes-256-gcm
+    iv: 9360a66b1712d551f34dfb31
+    version: "1"
+  spam:
+    score: 9.27
+    marked: true
+  status: rejected
