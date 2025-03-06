@@ -1474,3 +1474,46 @@
     version: "1"
   spam:
     score: 0.5
+- type: reply
+  channel: native
+  id: edaea6bd9199897de4c9a57e8dbba43d51c855df
+  author:
+    name: Williammus
+    lang: en
+    email:
+      value:
+        encrypted: ZjA3NGNmZDk2MGYwYmU0OWQwN2VkMmM0ZmIzNDEyOTIxZWRi
+        algorithm: aes-256-gcm
+        iv: ac0757d79827c161f45cef84
+        version: "1"
+      hash:
+        sha256: a63f22d3e41d3469d9a2eacb7228db3ef35a831bc64f2e168fdd18b2638f52a4
+  published: 2025-03-06T14:28:44.290Z
+  content: "Приветственные бонусы и промоакции 1xBet 2025 \r
+
+    \ \r
+
+    <a
+    href=https://lepidopterolog.ru/media/pgs/1xbet-promokod-pri-registracii.htm\
+    l>промокод 1xbet действующие</a> дает эксклюзивный бонус до 32500 рублей для
+    ставок на спорт. Нужно будет взять этот код из нашего источника и ввести его
+    при регистрации. Платформа дает 4 способа авторизации на выбор, и пополнить
+    счет на сумму от 100 RUB, после чего на игровой баланс поступит 130% от
+    суммы первого депозита, их нужно будет отыграть в разделе ставок на спорт с
+    вейджером х5, цепочка событий должна состоять не менее чем из 3-х с
+    коэффициентом от 1,4. На отыгрыш Вам дается 30 дней, от дня активации кода.
+    Почему этот бонус нужно использовать без раздумий? \r
+
+    При его вводе, Вам деньги начисляет именно букмекер 1xBet, тоесть играете Вы
+    за его счет, и заработать кругленькую сумму можно без вложения своих
+    средств."
+  lang: en
+  ip:
+    encrypted: ZDU4MmQ4MzUzMDg3YTgzN2U3ZGE0MzVj
+    algorithm: aes-256-gcm
+    iv: 9daf4c1ef99642e24ea9883f
+    version: "1"
+  spam:
+    score: 6.31
+    marked: true
+  status: rejected
