@@ -6751,3 +6751,37 @@
     score: 4.59
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: e592a33b310c4850164521baf6a93da1e7c38466
+  author:
+    name: Cazrscv
+    lang: en
+    email:
+      value:
+        encrypted: MWY3YjUzYzVjNzUxY2RjODFmYTJmY2VjZTg1YjY2MGM4MjYxNGMyYzE2YzVlMTJiYzM4YzJl
+        algorithm: aes-256-gcm
+        iv: 63055df011c0a1b0fd27df49
+        version: "1"
+      hash:
+        sha256: ff67653d3eb9b624b45850c4a59a24c464cdf95c44139163845361a8d1a1b3c9
+  published: 2025-03-07T22:08:52.500Z
+  content: "Здравствуйте! \r
+
+    Без института очень сложно было продвигаться вверх по карьерной лестнице.
+    Сегодня же документ не дает никаких гарантий, что получится получить
+    престижную работу. Более важны практические навыки специалиста и его опыт.
+    Именно из-за этого решение о заказе диплома следует считать выгодным и
+    рациональным.  Купить диплом любого
+    ВУЗа   [url=http://soft-key.uz/read-blog/4_skolko-stoit-kupit-attestat.html\
+    ]  soft-key.uz/read-blog/4_skolko-stoit-kupit-attestat.html[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: Y2Y2OWU0OWE0OTM5MTgzY2FiMDQ1Mjg1Zjc=
+    algorithm: aes-256-gcm
+    iv: 4bd1c4a86f3416142851f7df
+    version: "1"
+  spam:
+    score: 5.02
+    marked: true
+  status: auditing
