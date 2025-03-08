@@ -7063,3 +7063,33 @@
     score: 5.6
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: a2b9b1773f31f0bfa91e3ac138c5a7a8569e8e89
+  author:
+    name: Timothyenhap
+    lang: en
+    email:
+      value:
+        encrypted: NTdjOGY0NDA0MTNiMzMwOTcxY2FlZWVlOGI4M2ZhN2E=
+        algorithm: aes-256-gcm
+        iv: 33ff97e2a5a96f28d23fab92
+        version: "1"
+      hash:
+        sha256: a4d9f651c15146bf2f9022da0c8a6f878ec80610818186a18e9400d863346586
+  published: 2025-03-08T13:43:29.488Z
+  content: Виртуальный номер создаёт впечатление солидности и профессионализма.
+    Клиенты и партнёры воспринимают компании с городскими или бесплатными
+    номерами (например, формата 800) как надёжные и серьёзные организации <a
+    href="https://minermag.ru/biznes-idei/postoyannyj-virtualnyj-nomer-dlya-sms-preimushhestva-i-ispolzovanie/">виртуальный
+    номер навсегда</a>
+  lang: zh-CN
+  ip:
+    encrypted: MGVhNWE1Mzk4Nzg5Y2MyN2NlYWQ0OWUwOWVmNA==
+    algorithm: aes-256-gcm
+    iv: a977ea39b8a3a9e19cd61ae9
+    version: "1"
+  spam:
+    score: 9.49
+    marked: true
+  status: rejected
