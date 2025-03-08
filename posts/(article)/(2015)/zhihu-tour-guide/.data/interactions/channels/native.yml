@@ -6785,3 +6785,33 @@
     score: 5.02
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: cb7bd75cfb5f5afd7d7f15182218f18f9afa9375
+  author:
+    name: MarcosJof
+    lang: en
+    email:
+      value:
+        encrypted: YzU3MmZmYzQwM2M2NWNkYWU1ZDY2YTBkN2VmMmJhYWQ=
+        algorithm: aes-256-gcm
+        iv: 201da44197a1e3cb20719374
+        version: "1"
+      hash:
+        sha256: 1b773debcfbd7d50cd9a6cbfab1cdb5c6583b6b21189ed06c4ecb4a3917777c8
+  published: 2025-03-08T02:48:31.211Z
+  content: DID предоставляет номера с кодами более чем 150 стран. Это позволяет
+    выбрать номер, соответствующий вашему текущему местоположению или
+    бизнес-целям <a
+    href="https://samjogo.ru/sravnenie-virtualnyh-nomerov-preimuschestva-raznyh-provayderov/">купить
+    номер навсегда</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTc3NjI3YzIzZDUzZmE3ZTg2NzExOTYwNjVhNQ==
+    algorithm: aes-256-gcm
+    iv: fcfeaf5df118d11dd3302861
+    version: "1"
+  spam:
+    score: 9.59
+    marked: true
+  status: rejected
