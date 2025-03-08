@@ -17,3 +17,32 @@
     encrypted: NjcwNzg3NjZiZmU1ODc1MjJiNDRmYTdhM2M=
     algorithm: aes-256-gcm
     iv: 66c56f3716a4e7eaeb09dbd7
+- type: reply
+  channel: native
+  id: 77516b520fa8eaafd5324045fcd25929330c57e1
+  author:
+    name: Keithpries
+    lang: en
+    email:
+      value:
+        encrypted: ZTNmMDIyN2U3Y2I0NDQ4OGQzN2JiNDU0MTQxYjU4NWU=
+        algorithm: aes-256-gcm
+        iv: 78823e94c93530428884b2a5
+        version: "1"
+      hash:
+        sha256: d05280a7eaee06b55c4e9e59d0a821600ee7895dba483cac3bcebd506d4ba494
+  published: 2025-03-08T15:14:19.376Z
+  content: Это лучшие продукты и слоты, которые заслужили свое место в топе.
+    Ссылки на вход с их официальных сайтов с телефона или компьютера — в нашем
+    канале <a href="https://t.me/proverennye_onlajn_kazino_russia">лучшие казино
+    для игры на смартфоне с бонусами</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZDM4NTI2NWU1OGNjMTQ1ZjlhOTY5YzI5NmI=
+    algorithm: aes-256-gcm
+    iv: 48c0e879130b5e9203169c4a
+    version: "1"
+  spam:
+    score: 6.21
+    marked: true
+  status: rejected
