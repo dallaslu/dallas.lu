@@ -46,3 +46,33 @@
     score: 6.21
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: cd19e63d1fb548f32d9aebdae1a499dafc5df973
+  author:
+    name: Donaldtiede
+    lang: en
+    email:
+      value:
+        encrypted: Yzc5ZWZlODlmNDYzNDVlMjJmNTE1ZWM5NDEwNDc1ZDY=
+        algorithm: aes-256-gcm
+        iv: 94f86f1be9a5eb3347445ee5
+        version: "1"
+      hash:
+        sha256: bf631365658d885997bcdfc8ee6c3ee869db6a734f1dfc2e3fa26a6bd7507a26
+  published: 2025-03-09T00:40:02.379Z
+  content: Нужен по настоящему красивый номер, но нет большой суммы для разового
+    платежа? Подключите номер и просто вносите ежемесячную плату за
+    использование <a
+    href="https://getbits.info/novosti/19032-plyusy-virtualnogo-nomera-udobstvo-i-ekonomiya-dlya-sovremennogo-biznesa-i-chastnyh-licz.html">виртуальный
+    номер телефона</a>
+  lang: zh-CN
+  ip:
+    encrypted: NDU4YTA1NGQ2ZjdhYWViMDc1MWE0M2ZkOTdhYQ==
+    algorithm: aes-256-gcm
+    iv: a764f99c98edcad0ad92fca5
+    version: "1"
+  spam:
+    score: 6.85
+    marked: true
+  status: rejected
