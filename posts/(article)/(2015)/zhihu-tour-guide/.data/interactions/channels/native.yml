@@ -156,3 +156,37 @@
     score: 4.62
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 6f83125b815b0dd57875a42ae6191494a06a0e99
+  author:
+    name: Cazrshz
+    lang: en
+    email:
+      value:
+        encrypted: ZGNiOTRjOTNjNWE1ZGIzNDI0ZWRmMzc5ODk3YTYwZjU0NjQ2MmIzNGU3ZjMyMzE5ZDQ2YmVm
+        algorithm: aes-256-gcm
+        iv: b1f50b0c549563e6afc23327
+        version: "1"
+      hash:
+        sha256: ca22b328b99637fdde2c76e71337efde277196545f8da7fe2fc8bce611237166
+  published: 2025-03-09T18:25:15.803Z
+  content: "Добрый день! \r
+
+    Без ВУЗа очень непросто было продвигаться вверх по карьерной лестнице. В
+    наше время этот документ не дает практически никаких гарантий, что удастся
+    найти выгодную работу. Намного более важны практические навыки специалиста,
+    а также его опыт. Именно из-за этого решение о покупке диплома стоит считать
+    рациональным.  Быстро приобрести диплом
+    университета   [url=http://polegasm.net/index.php/forum/welcome-mat/152226]  \
+    polegasm.net/index.php/forum/welcome-mat/152226[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: M2FiNWU3MmRmZTQwZWRlZTc0YjVlODZhYzY=
+    algorithm: aes-256-gcm
+    iv: 4b06e688122e293bbc4432fd
+    version: "1"
+  spam:
+    score: 4.97
+    marked: true
+  status: auditing
