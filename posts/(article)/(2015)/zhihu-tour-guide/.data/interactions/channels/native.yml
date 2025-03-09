@@ -190,3 +190,33 @@
     score: 4.97
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 39be8e1569dd14662e3bd6f836ea104d00833a73
+  author:
+    name: RogerNed
+    lang: en
+    email:
+      value:
+        encrypted: NWJmOGUyMmE1ZWY4MmQ4OTM2N2I1MDA0ODZlNjUxOTc=
+        algorithm: aes-256-gcm
+        iv: 2a83590c22e9a05d82c27b2e
+        version: "1"
+      hash:
+        sha256: 2c053229c53e3645f4751eee7eb5e802e4054a55c6daeeeecec8dd5a5b69a87b
+  published: 2025-03-09T20:22:50.487Z
+  content: "Le code promo 1xBet valide: BONUS1X200 – recevez un bonus de bienvenue
+    de 100% jusqu'a 130€ en utilisant ce code code promo 1xbet abidjan lors de
+    votre inscription sur le site 1xBet <a
+    href=\"https://ozodagon.com/user/dorsonodmu\">https://ozodagon.com/user/dor\
+    sonodmu</a>"
+  lang: zh-CN
+  ip:
+    encrypted: ZTZmYzg2MGM3Njc2MWU1ZjZmODQzMjA5YTMxMA==
+    algorithm: aes-256-gcm
+    iv: 0afad7f8ad8f446a6134ecfc
+    version: "1"
+  spam:
+    score: 6.47
+    marked: true
+  status: rejected
