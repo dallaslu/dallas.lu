@@ -270,3 +270,30 @@
     score: 4.62
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 4b3dec9070bc0d11b5f9ce672da81d3227af2684
+  author:
+    name: JeffreyElome
+    lang: en
+    email:
+      value:
+        encrypted: NjlkZDVjOTg3MDI2ZDExMjYxMjlkMmVkZGRlZDZmMzFkZWU4OGMxZTRkNzhiODBmMDg2ZGVlODNkMDdiNmVhODYyMmY4ODljZDI=
+        algorithm: aes-256-gcm
+        iv: 21bcbd69a71e5daa02b25c20
+        version: "1"
+      hash:
+        sha256: 307a61e8b52b3db5173743e737607dad9e90cd0a0246ba47effb344f6fb9cb30
+  published: 2025-03-10T14:52:29.735Z
+  content: <a
+    href="http://luxe-condoms.ru/bitrix/redirect.php?event1=click_to_call&event2=&event3=&goto=https://t.me/s/bonus_za_registratsiyu_bez_depa">http://lyricstraining.com/app?nr=1&~channel=web&~feature=redirect&~campaign=none&ref=https://t.me/s/bonus_za_registratsiyu_bez_depa</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZTgwZDkwNDI2MGRlMmYzYWMxMDc0Nzli
+    algorithm: aes-256-gcm
+    iv: 1900a5d4c19e80ea24d13509
+    version: "1"
+  spam:
+    score: 9.1
+    marked: true
+  status: rejected
