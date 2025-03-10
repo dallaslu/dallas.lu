@@ -297,3 +297,32 @@
     score: 9.1
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0cfb7a5dcb6b5a20ce8e98c0b1015baf32ffcfca
+  author:
+    name: Ernestcet
+    lang: en
+    email:
+      value:
+        encrypted: ODdjYTZiNWE0NDY1ZTA0MThkMjBhZDdjODg4NTMwNDk=
+        algorithm: aes-256-gcm
+        iv: 64d02c1891e3a7e59eddbbdf
+        version: "1"
+      hash:
+        sha256: 3214d01b0380af96cf0223b22d2c65648e35e134be122b364f2bfca3181e845e
+  published: 2025-03-10T20:22:26.409Z
+  content: This iconic hotel, renowned for its rich history, exquisite
+    architecture, and world-class amenities, offers guests an unparalleled
+    experience of comfort and elegance <a
+    href="https://www.hotel-details.com/hotels/taj-connemara">taj connemara</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZDU2MWE0Y2RhZjM5MTMzM2I2ZDU4Yzc4MTk5MA==
+    algorithm: aes-256-gcm
+    iv: ebe9a7402527b0c78b6d4d25
+    version: "1"
+  spam:
+    score: 6.3
+    marked: true
+  status: rejected
