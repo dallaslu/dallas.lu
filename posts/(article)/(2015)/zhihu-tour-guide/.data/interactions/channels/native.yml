@@ -439,3 +439,33 @@
     score: 4.62
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 024d1223cb28b95cec0d02929f52e16145260499
+  author:
+    name: KennethNen
+    lang: en
+    email:
+      value:
+        encrypted: YWVlYTZjNTQyZmU2NDk3ZDFiZGQ3ZTBlNmVmOGRjMmI=
+        algorithm: aes-256-gcm
+        iv: 8438f57f913be8b1be2e5d45
+        version: "1"
+      hash:
+        sha256: a34b55445d9c12bdb6e36de93101ad2e26f2519b72cb5303425278c2c8910d09
+  published: 2025-03-11T20:13:42.326Z
+  content: Выбирайте платформер с разнообразием уровней и механик. Игры,
+    предлагающие уникальные задачи и элементы, удерживают интерес. Обратите
+    внимание на истории и персонажей – хорошая нарративная составляющая
+    усиливает вовлеченность <a
+    href="http://forums.btbooks.ru/viewtopic.php?f=12&t=7561">http://forums.btbooks.ru/viewtopic.php?f=12&t=7561</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTFkOGZlOTE3ZjdmNjdmNDIzOTE0NDhmMjk=
+    algorithm: aes-256-gcm
+    iv: 5c4ffbd12550a97e56d3c697
+    version: "1"
+  spam:
+    score: 8.01
+    marked: true
+  status: rejected
