@@ -355,3 +355,37 @@
     score: 6.23
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 76f858dc7df346d18631174034d5909b394d9cf8
+  author:
+    name: Cazrfqc
+    lang: en
+    email:
+      value:
+        encrypted: MDhiYTljOGM1Y2FiZDM5YjkxM2VjMjU0MjcxYzdlNGZjZGE2MTM5MzMxMTljNzVhNzAwNWUy
+        algorithm: aes-256-gcm
+        iv: ef53019ef7bd930675a4189b
+        version: "1"
+      hash:
+        sha256: 4781ac2cd24bd01eb083406e36cc815a2cf80ee2fe4885d653956daa68979b84
+  published: 2025-03-11T12:02:34.355Z
+  content: "Привет! \r
+
+    Без университета очень трудно было продвигаться вверх по карьере. На
+    сегодняшний день документ не дает совершенно никаких гарантий, что удастся
+    найти хорошую работу. Более важное значение имеют практические навыки и
+    знания специалиста, а также его опыт. По этой причине решение о заказе
+    диплома можно считать целесообразным.  Заказать диплом
+    университета   [url=http://bdfeu.ukraine7.com/login]  bdfeu.ukraine7.com/lo\
+    gin[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: NzliZWJiYjAwMDAyZWMyMmRiNzk2MGEyOTU=
+    algorithm: aes-256-gcm
+    iv: 3dfa766a614e740956f8d3dc
+    version: "1"
+  spam:
+    score: 4.8
+    marked: true
+  status: auditing
