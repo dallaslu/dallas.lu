@@ -84,3 +84,29 @@
     version: "1"
   spam:
     score: 2
+- type: reply
+  channel: native
+  id: 262d9c1777f8dad834a4afb3b93c7655016d642e
+  author:
+    name: RichardWah
+    lang: en
+    email:
+      value:
+        encrypted: N2RhNTBlYTA4MjUyNjY3MWQ0OWI0YmQzMWQ2NTZkODk1YjE1
+        algorithm: aes-256-gcm
+        iv: f101fa83aa80f409d00b11f7
+        version: "1"
+      hash:
+        sha256: 74899c06a8caff03932ab6d0645dcca2c962f7d6a3e3849c8e3788b39997544c
+  published: 2025-03-13T14:28:26.179Z
+  content: https://1xbetnplogin.com/
+  lang: en
+  ip:
+    encrypted: N2E3NzVkZGQ5MzliNjJiZjlkNzdkOGNhNzI=
+    algorithm: aes-256-gcm
+    iv: 9a3280acd81e96eba5272836
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
