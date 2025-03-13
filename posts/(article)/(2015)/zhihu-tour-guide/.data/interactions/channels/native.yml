@@ -666,3 +666,32 @@
     score: 4.62
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 714a3c8b46de6afc324b3b70aa88c6af624f694d
+  author:
+    name: Daviddix
+    lang: en
+    email:
+      value:
+        encrypted: ZGMxMWRkM2QyMjA1ZjM0Mjk5ODlhYTU1YjQyNzM5Yzc=
+        algorithm: aes-256-gcm
+        iv: 40d5d9ad3fcff4d15205342f
+        version: "1"
+      hash:
+        sha256: 6dc910e48f86408ddad0785b29a4b6c897711a51d048e4d7db25b45227f38807
+  published: 2025-03-13T14:06:57.285Z
+  content: В 2025 году российский туризм продолжает активно развиваться, предлагая
+    путешественникам новые направления и обновлённые достопримечательности. Ниже
+    представлены ключевые события и тенденции в сфере туризма и культуры России
+    <a href="https://vokrugo.ru/turizm-rossija/moskva">Туристическая москва</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTE4NTM3ZGJjNDZlYWYyMTBjYzQ3Y2ZjNDA=
+    algorithm: aes-256-gcm
+    iv: 5e3d3786d1ab967fbae8833f
+    version: "1"
+  spam:
+    score: 9.05
+    marked: true
+  status: rejected
