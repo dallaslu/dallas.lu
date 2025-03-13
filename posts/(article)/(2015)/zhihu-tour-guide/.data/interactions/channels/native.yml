@@ -578,3 +578,39 @@
     score: 8.94
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 881c89112c1f89370cf4c16bd108b37a503e1c06
+  author:
+    name: Cazrhjt
+    lang: en
+    email:
+      value:
+        encrypted: Njc0OWNlMWVlZGQ0YzQzN2VjODkxMmU4ODIzZmE2ZTM5OWQ1ZDhmOGM1ODI0ZjQzYzFkYzkx
+        algorithm: aes-256-gcm
+        iv: a902d4fa3e9bed2a26bcfb26
+        version: "1"
+      hash:
+        sha256: 1ed234c57d07da564d0744fc8d587d0df9dcb5469902c69a27a1a6e9f89edc8e
+  published: 2025-03-13T04:51:50.638Z
+  content: "Здравствуйте! \r
+
+    Без института сложно было продвигаться вверх по карьерной лестнице. На
+    текущий момент этот документ не дает никаких гарантий, что удастся найти
+    престижную работу. Более важное значение имеют практические навыки и знания
+    специалиста и его опыт. Именно из-за этого решение о покупке диплома стоит
+    считать выгодным и рациональным.  Приобрести диплом
+    университета   [url=http://silkhunter.com/index.php?title=Р”РёРїР»РѕРј_РІСѓ\
+    Р·РѕРІ_РїРѕРґ_Р·Р°РєР°Р·_СЃ_РіР°СЂР°РЅС‚РёРµР№_РїРѕРґР»РёРЅРЅРѕСЃС‚Рё]  sil\
+    khunter.com/index.php?title=Р”РёРїР»РѕРј_РІСѓР·РѕРІ_РїРѕРґ_Р·Р°РєР°Р·_СЃ_Рі\
+    Р°СЂР°РЅС‚РёРµР№_РїРѕРґР»РёРЅРЅРѕСЃС‚Рё[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: M2Y4ZmE5YTNiNDFjNmJiN2I0MDY3ZmM3ZGU=
+    algorithm: aes-256-gcm
+    iv: d067e4b014e988a66c2472df
+    version: "1"
+  spam:
+    score: 5.2
+    marked: true
+  status: auditing
