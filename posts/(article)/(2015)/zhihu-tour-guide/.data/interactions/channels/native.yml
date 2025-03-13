@@ -549,3 +549,32 @@
     score: 6.86
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 4ff52d70d3b353bef9363a8d2d07ea9c9fb2f9cf
+  author:
+    name: WalterShelp
+    lang: en
+    email:
+      value:
+        encrypted: YTBmYmYwNWNlZjlhNjU5NDBhYWNlZGM1MzQ4YmE1OWM=
+        algorithm: aes-256-gcm
+        iv: f1ef4fc5ddc33f7d33104e48
+        version: "1"
+      hash:
+        sha256: 5e19ee413f2bde02d533cdacd959ba406255b7a39acf36cb74c9936311c3c3b3
+  published: 2025-03-13T02:59:40.720Z
+  content: В нашем салоне можно продать новые модели швейцарских часов, в таком
+    случае сумма выплаты будет более привлекательная. Гарантируем быструю
+    возможность купить в каталоге или продать за 1 день <a
+    href="https://mir-watch.ru">оценка часов</a>
+  lang: zh-CN
+  ip:
+    encrypted: MzAzODI3ZWE4Y2NiNWE4MDVlY2RmOWQ5OTI=
+    algorithm: aes-256-gcm
+    iv: 9dcad842ab3fa0f192148236
+    version: "1"
+  spam:
+    score: 8.94
+    marked: true
+  status: rejected
