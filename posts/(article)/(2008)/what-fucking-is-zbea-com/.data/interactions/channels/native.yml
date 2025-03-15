@@ -166,3 +166,32 @@
     encrypted: ZDRlZmQ5N2RjYTY2YWFjOGU0MTJhNTlh
     algorithm: aes-256-gcm
     iv: 3be00e996028a6a89ee43840
+- type: reply
+  channel: native
+  id: 62b5f44c21b191b61db5a53f7c890d083f8ff996
+  author:
+    name: AlfredVex
+    lang: zh-CN
+    email:
+      value:
+        encrypted: YmM5MjFmZmU4MjEzYmM1MjFjYTQ2NThjOGVlNTU0NzNkYWRmYjQ=
+        algorithm: aes-256-gcm
+        iv: 5382bbe61cd3d00085307dc6
+        version: "1"
+      hash:
+        sha256: 813525db2863ba48589223a2d852e0e25241b2ad719885550ecc89cb4a99e055
+  published: 2025-03-15T11:51:37.574Z
+  content: "<a
+    href=https://vkorzinu.com.ua/literatura-ta-istorija/misjac-na-nebi-zironki-\
+    sjajut-chitati-skachati-2.html>https://vkorzinu.com.ua/literatura-ta-istori\
+    ja/misjac-na-nebi-zironki-sjajut-chitati-skachati-2.html</a>\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: YWQ5ZTdkOWE0YWQ3YTZkM2M0NDg1ZDRlOTU3ZA==
+    algorithm: aes-256-gcm
+    iv: c9962001f17ceff64e051fde
+    version: "1"
+  spam:
+    score: 8
+    marked: true
+  status: rejected
