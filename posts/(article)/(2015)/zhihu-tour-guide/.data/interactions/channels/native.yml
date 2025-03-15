@@ -720,3 +720,33 @@
   spam:
     score: 2.5
   status: auditing
+- type: reply
+  channel: native
+  id: 8ff4a3400bd16877b2cae5d09912d63cc392baba
+  author:
+    name: Grahamoblip
+    lang: en
+    email:
+      value:
+        encrypted: YzZhYWJkZmJhMGQ5Mzc3YmRhODY5MmY5ZDg1NjVjZmM=
+        algorithm: aes-256-gcm
+        iv: 8857ec9f1c0b7b2a5346537f
+        version: "1"
+      hash:
+        sha256: 352cb2c26aa7e4e715b8c5d3becce828f18fabb1050b296a042fbfd7649ad0a1
+  published: 2025-03-15T13:45:31.390Z
+  content: Одноразовые номера не предназначены для голосового общения. С их
+    помощью разрешено лишь получать или же быстро отправлять СМС в течение
+    определенного отрезка времени. Они не привязаны ни к абонентам, ни к
+    конкретным устройствам <a
+    href="https://www.7152.kz/list/415493">https://www.7152.kz/list/415493</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODgxYjhhMWQ3OTM4Y2VjZGZhYWM4NjhmODE=
+    algorithm: aes-256-gcm
+    iv: e3b6a606f6c7e69041b141ea
+    version: "1"
+  spam:
+    score: 6.26
+    marked: true
+  status: rejected
