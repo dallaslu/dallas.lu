@@ -806,3 +806,32 @@
     score: 9.43
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c195ff0616ca350c573c144b71af629627f974dc
+  author:
+    name: Donaldaburn
+    lang: en
+    email:
+      value:
+        encrypted: NDE0ZTk2NWViZWFlOTlhYjA5ZWJlOGQ3NzJjODc4NTA=
+        algorithm: aes-256-gcm
+        iv: 51dacb64546c8d892f595f64
+        version: "1"
+      hash:
+        sha256: dce1f314a2dcc805baf308e1f8cab0415eff55b1f163bebbd2ed110603d226f0
+  published: 2025-03-16T03:47:05.567Z
+  content: Букмекерская контора и онлайн-казино Mostbet приветствует вас на
+    официальном сайте своего бесплатного приложения для Android телефонов. Здесь
+    вы можете скачать <a
+    href="https://jetairlines.kz/">https://jetairlines.kz/</a>
+  lang: zh-CN
+  ip:
+    encrypted: NjliMDJjMzdhMmVhMWI2NGIzZjRjY2M4MmU=
+    algorithm: aes-256-gcm
+    iv: 16dd5b7727e52fc0522e548a
+    version: "1"
+  spam:
+    score: 6.33
+    marked: true
+  status: rejected
