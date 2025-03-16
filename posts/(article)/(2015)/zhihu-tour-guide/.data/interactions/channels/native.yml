@@ -835,3 +835,33 @@
     score: 6.33
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: fcc6cddaacce3d45d4e2a23d48f9627f9c554a3d
+  author:
+    name: Hubertshoup
+    lang: en
+    email:
+      value:
+        encrypted: MWI4YzcxMmQ3NDVlYWIxYjEwMTYwMTc2ODE0M2UxYjk=
+        algorithm: aes-256-gcm
+        iv: cd2356b2ed47a424b76502ac
+        version: "1"
+      hash:
+        sha256: ff010d154fbdf6f3a90a2bf723b325c757aa56cb71cafc8ed8b7809dbb08ec1f
+  published: 2025-03-16T14:09:11.352Z
+  content: Casino Mostbet успешно объединяет БК и слоты, занимая топовые позиции
+    на рынке много лет. Каталог с игровым софтом на сайте содержит
+    высококачественный контент, включая разнообразные слоты, Live, карточные и
+    настольные развлечения <a
+    href="https://mebel-komfort.kz/">https://mebel-komfort.kz/</a>
+  lang: zh-CN
+  ip:
+    encrypted: YjY1YjQ0ZGM2NGNiMzE1NTJlZDE2ZDM4NTU4Mw==
+    algorithm: aes-256-gcm
+    iv: f3494d0a35e0799ef8aba352
+    version: "1"
+  spam:
+    score: 6.16
+    marked: true
+  status: rejected
