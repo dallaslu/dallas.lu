@@ -865,3 +865,32 @@
     score: 6.16
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 492ee3ff8cb3788b8e33b2e9d0427c18404dff75
+  author:
+    name: Alfredgob
+    lang: en
+    email:
+      value:
+        encrypted: ZWI1YjcyNDYyYTIzZjc1MTQwMDlhNGUwM2FjNDQxN2Y=
+        algorithm: aes-256-gcm
+        iv: cd3f9d30f5230fd452703526
+        version: "1"
+      hash:
+        sha256: f64db2c320cfbfbae78309d59c5c29297391a25dea67b12e747375bffc165f5d
+  published: 2025-03-17T12:47:53.429Z
+  content: Если вы ищете надежную платформу для спортивных ставок, обратите
+    внимание на 1вин. Этот сервис предлагает широкий выбор спортивных событий и
+    различных рынков, что делает ставку не только интересной, но и прибыльной <a
+    href="http://susungmetals.com/bbs/board.php?bo_table=free&wr_id=328907">http://susungmetals.com/bbs/board.php?bo_table=free&wr_id=328907</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTUwMTM5ZDU5YzUxMmNjZWQ4MWViZjYyMzBmYQ==
+    algorithm: aes-256-gcm
+    iv: c7dfdb377717411a7682c038
+    version: "1"
+  spam:
+    score: 6.7
+    marked: true
+  status: rejected
