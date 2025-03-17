@@ -894,3 +894,31 @@
     score: 6.7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5d3d1ff13019f3db69e455d91101e10fb7aa0f7c
+  author:
+    name: Jerryhes
+    lang: en
+    email:
+      value:
+        encrypted: M2YwOTU1YTk4YWQwMzlhNzNhNjYwODBiMjJkY2YwMzlkYw==
+        algorithm: aes-256-gcm
+        iv: 39df49331c245ede7274a4bc
+        version: "1"
+      hash:
+        sha256: 107a68d81bd3c76dc054403a0c5c49d32a8db275688d9b3adb5dc5995d38233b
+  published: 2025-03-17T22:23:16.091Z
+  content: Широкая линия и LIVE-события. Онлайн ставки на спорт с бонусами и
+    акциями. Высокие коэффициенты топовое онлайн-казино Казахстана <a
+    href="https://regulator.kz/">https://regulator.kz/</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZGJhMmU0MDUwOTljM2EyMDZiNDIzMTBkMjc=
+    algorithm: aes-256-gcm
+    iv: 6be822cf60268e7430767ffe
+    version: "1"
+  spam:
+    score: 6.42
+    marked: true
+  status: rejected
