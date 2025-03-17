@@ -1161,3 +1161,52 @@
     score: 6.34
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3061bb5c62aa529d5d01472a807b5671ddfe9a4b
+  author:
+    name: test
+    lang: zh-CN
+    email:
+      value:
+        encrypted: YjE1MjY4MTNlODYyY2M2OTQxNGQ5MGFhYzQwNQ==
+        algorithm: aes-256-gcm
+        iv: 6e28afd061e949d6673a08c5
+        version: "1"
+      hash:
+        sha256: c143c027618ab2642893ab8e75d98fbc6cac85c91dd8b3629122ef8b65a64365
+  published: 2025-03-17T02:59:42.500Z
+  content: test email
+  lang: zh-CN
+  ip:
+    encrypted: NmNiZGM0YTcyMWNiNzFlNDg0MmU1Zg==
+    algorithm: aes-256-gcm
+    iv: 07d8fd915814e3705e6d5da4
+    version: "1"
+  spam:
+    score: 2
+  status: auditing
+- type: reply
+  channel: native
+  id: 93b04f781257fd4c0cfd07c6558c7fbe558f90b6
+  author:
+    name: test
+    lang: zh-CN
+    email:
+      value:
+        encrypted: Y2Q0NmY3OTU2ZDM5ZDYxZmQyOTc0MTRmMWUwMw==
+        algorithm: aes-256-gcm
+        iv: 6884666d3b14446c33dd6651
+        version: "1"
+      hash:
+        sha256: c143c027618ab2642893ab8e75d98fbc6cac85c91dd8b3629122ef8b65a64365
+  published: 2025-03-17T03:00:00.306Z
+  content: 测试发送邮件
+  lang: zh-CN
+  ip:
+    encrypted: YjU0NTZjYTMwOGJhY2JjNmVhNmY2NA==
+    algorithm: aes-256-gcm
+    iv: 8f0322d9cda8e5a20a047893
+    version: "1"
+  spam:
+    score: 0.4
