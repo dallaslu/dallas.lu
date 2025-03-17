@@ -1210,3 +1210,27 @@
     version: "1"
   spam:
     score: 0.4
+- type: reply
+  channel: native
+  id: 9b336fb38b079134154510d93d74c146f3cda5a7
+  author:
+    name: test
+    lang: zh-CN
+    email:
+      value:
+        encrypted: MWUxOTljZDk0NWM5Yjk5ZWFiZDQ2OWMzNDYzNg==
+        algorithm: aes-256-gcm
+        iv: ebb30d7e6fee0eea33575ef8
+        version: "1"
+      hash:
+        sha256: c143c027618ab2642893ab8e75d98fbc6cac85c91dd8b3629122ef8b65a64365
+  published: 2025-03-17T03:33:31.320Z
+  content: 测试发送邮件2
+  lang: zh-CN
+  ip:
+    encrypted: OWJlZThkNGI0MzEwMmY4ZGY2MTZiZQ==
+    algorithm: aes-256-gcm
+    iv: e66f9765e4613d44eb2591d8
+    version: "1"
+  spam:
+    score: 0.49
