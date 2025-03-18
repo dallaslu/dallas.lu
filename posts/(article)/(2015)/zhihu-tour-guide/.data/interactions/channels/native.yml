@@ -978,3 +978,32 @@
     score: 8.09
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 09ef2b46363f6836a272fe5db58949f24bf867fc
+  author:
+    name: DonaldExoma
+    lang: en
+    email:
+      value:
+        encrypted: YmM3MjBhZTBkNGI4MWU5ZmYwMDJkN2I2MjFmNGM0NGY=
+        algorithm: aes-256-gcm
+        iv: 831e13f8ee17f77665398d8a
+        version: "1"
+      hash:
+        sha256: e7b8321cd6a119f341226157403cb5c5ab5c1c4192c01b2e3dbcb755399d8832
+  published: 2025-03-18T22:14:12.071Z
+  content: Осуществите Мечту о Идеальном Ремонте с Эксперт ремонта - Без
+    Предоплаты! Доверьте Нам Свою Квартиру <a
+    href="https://ekspert-remonta.blizko.kz/">ремонт квартир отзывы русский
+    ремонт Алматы</a>
+  lang: zh-CN
+  ip:
+    encrypted: YzEwNTJiODlmMDI4OWQ5ODlhMGVmM2QxZTM=
+    algorithm: aes-256-gcm
+    iv: a459c064b1e733da676601d0
+    version: "1"
+  spam:
+    score: 6.26
+    marked: true
+  status: rejected
