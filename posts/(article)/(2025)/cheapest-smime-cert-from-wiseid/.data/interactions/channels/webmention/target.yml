@@ -1,15 +1,15 @@
 - target: https://www.ssl.com/certificates/basic-email-smime-certificates/buy/
   status: unsupported
-  updated: 2025-03-19T07:11:07.264Z
+  updated: 2025-03-19T07:14:59.575Z
 - target: https://www.sectigo.com/ssl-certificates-tls/email-smime-certificate
   status: unsupported
-  updated: 2025-03-19T07:10:22.324Z
+  updated: 2025-03-19T07:14:15.033Z
 - target: https://shop.certum.eu/certum-s-mime-mailbox.html
   status: unsupported
-  updated: 2025-03-19T07:11:03.544Z
+  updated: 2025-03-19T07:14:59.533Z
 - target: https://wiseid.com/
   status: unsupported
-  updated: 2025-03-19T07:11:03.434Z
+  updated: 2025-03-19T07:14:59.461Z
 - target: http://public.wisekey.com/crt/wcidpersgbca4.cer
   status: unsupported
-  updated: 2025-03-19T07:10:22.221Z
+  updated: 2025-03-19T07:14:15.009Z
