@@ -195,3 +195,32 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b49346d4dc3d4f456f4210e0d705fcc872664b54
+  author:
+    name: AlfredVex
+    lang: zh-CN
+    email:
+      value:
+        encrypted: ZGViMGFmMjAxMDllMmI2ZjNkZGZhMDZlNjMyNTNjOGEyM2E3MzM=
+        algorithm: aes-256-gcm
+        iv: e53f9bb5398b2dba375de28e
+        version: "1"
+      hash:
+        sha256: 813525db2863ba48589223a2d852e0e25241b2ad719885550ecc89cb4a99e055
+  published: 2025-03-19T20:39:18.142Z
+  content: "<a
+    href=https://vkorzinu.com.ua/literatura-ta-istorija/mihajl-semenko-cikavi-f\
+    akti.html>https://vkorzinu.com.ua/literatura-ta-istorija/mihajl-semenko-cik\
+    avi-fakti.html</a>\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: MzJiOGM5NDNkMDcwNjc0NjAxYzI4OGJiMGZhOA==
+    algorithm: aes-256-gcm
+    iv: 2e6bf320c9e0903416b0e2e5
+    version: "1"
+  spam:
+    score: 8
+    marked: true
+  status: rejected
