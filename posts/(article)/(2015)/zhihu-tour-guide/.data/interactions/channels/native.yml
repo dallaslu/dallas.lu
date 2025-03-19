@@ -1066,3 +1066,40 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 64b12f26ceaf0a2346d700f21dea1834aa8f5e9b
+  author:
+    name: AngelTob
+    lang: en
+    email:
+      value:
+        encrypted: MjM2MmM5NmIwYzc5MjY5ODFmN2EyOWM0YWY3NDMyNjQwYTc3MThjNWQ2ZjU0MDE5YjkxNg==
+        algorithm: aes-256-gcm
+        iv: ecec9708e6c922450fcd31fd
+        version: "1"
+      hash:
+        sha256: e393674ee6c367a0486acf7c649a584ae8abece1dfd5bfc109cdaafc32b72d8e
+  published: 2025-03-19T10:24:44.220Z
+  content: "Great post! \r
+
+    I really appreciate how your posts consistently offer both insight and
+    clarity. Have you thought about diving into how these concepts might connect
+    with emerging tech like blockchain or the future of remote work? It would be
+    fascinating to hear your perspective on their wider societal impact. Thanks
+    for always providing such thought-provoking content—looking forward to
+    more!  \r
+
+    \ \r
+
+    Site - <a href=\"https://gpt4geeks.com\">https://gpt4geeks.com</a>"
+  lang: zh-CN
+  ip:
+    encrypted: NTM5ZTJlNzY0OWZjM2JjNjU2NTg5ZGRiNTdjNDVi
+    algorithm: aes-256-gcm
+    iv: 0ff8232fe6ee4a80fdd9338e
+    version: "1"
+  spam:
+    score: 5.87
+    marked: true
+  status: auditing
