@@ -1132,3 +1132,32 @@
     score: 6.21
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0c20b9b1af4d8c97795d1629e5b91ac64717b61d
+  author:
+    name: WayneExaps
+    lang: en
+    email:
+      value:
+        encrypted: OWVhNDFiNGNmODJlY2Q3NTE4ODMxMjAxOTE0NTE3ZjQ=
+        algorithm: aes-256-gcm
+        iv: a4a34395f79b635f83af06f3
+        version: "1"
+      hash:
+        sha256: c7617194276ee1bb2b961395b8eab073b52ea2d6dee8184625ed74f805d5a424
+  published: 2025-03-19T18:48:57.457Z
+  content: Частенько бонусные коды раздаются и во время значимых событий. Вся
+    актуальная информация публикуется на канале в Telegram и её можно найти на
+    тематических ресурсах, посвящённых беттингу <a
+    href="https://podarishans.uz">https://podarishans.uz</a>
+  lang: zh-CN
+  ip:
+    encrypted: YmE3NzA3NDM4ZDQ4OTkzMjQ5OGEyYWY4YzU2Nw==
+    algorithm: aes-256-gcm
+    iv: b3fe6faad447ea249e0e4ef0
+    version: "1"
+  spam:
+    score: 6.22
+    marked: true
+  status: rejected
