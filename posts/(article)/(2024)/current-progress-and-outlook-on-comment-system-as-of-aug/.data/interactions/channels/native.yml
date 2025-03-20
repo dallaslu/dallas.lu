@@ -136,3 +136,29 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8e0318d42dc6b60db532495e93401d8bfbfd6f41
+  author:
+    name: Richardchell
+    lang: en
+    email:
+      value:
+        encrypted: OWM1MmJiZTk5MDA3NWU3YWE5ZDJlN2FhNmVlZGY3YzU0Ng==
+        algorithm: aes-256-gcm
+        iv: 820116f666fc5dcb904d64dc
+        version: "1"
+      hash:
+        sha256: e6c3bebc2382a7ce1a056ec744693c615bb800a3870b67ed7017a687a5c4fbc5
+  published: 2025-03-20T14:12:39.607Z
+  content: "https://superogorod.ucoz.org/forum/2-2898-1\r\n"
+  lang: en
+  ip:
+    encrypted: YmYyZTFhMTUxMmE5NTc3MDAwNGM4Yzc5MDk=
+    algorithm: aes-256-gcm
+    iv: d37c57491ab7723c683b5526
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
