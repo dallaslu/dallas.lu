@@ -1161,3 +1161,31 @@
     score: 6.22
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 92a13a6b8c193e8d57a6f843de72ade93d0a14e7
+  author:
+    name: DavidRaimb
+    lang: en
+    email:
+      value:
+        encrypted: YzUwMjgwNjFlMDEwM2FkZDExZTliZjI5YTRiOTI5NjE=
+        algorithm: aes-256-gcm
+        iv: c82b484773d28a836b82409c
+        version: "1"
+      hash:
+        sha256: 958b4962e1ff911dd04ae6b0d192cf40bc010d2d4782ff9792d7ddf15704e20b
+  published: 2025-03-20T01:13:19.168Z
+  content: Современные веб-приложения требуют не только красивого интерфейса, но и
+    надежного, масштабируемого backend-а. Именно он отвечает за хранение данных,
+    бизнес-логику <a href="https://shkolnie.ru/">https://shkolnie.ru/</a>
+  lang: zh-CN
+  ip:
+    encrypted: NjkzZDc1MmQ5NmZmMzRjODgwMDhmMmU5ZWM=
+    algorithm: aes-256-gcm
+    iv: 6c8298269f7e3308b3a10338
+    version: "1"
+  spam:
+    score: 9.26
+    marked: true
+  status: rejected
