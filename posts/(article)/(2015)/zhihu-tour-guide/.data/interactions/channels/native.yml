@@ -1336,3 +1336,32 @@
     score: 7.12
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e506474dbb7dea72249d0c60e350b6254f932780
+  author:
+    name: WilliamCex
+    lang: en
+    email:
+      value:
+        encrypted: NmYwYjU5MjI3OTBkNTU3MmM5ZGRlOGY5NzcxNDEzNDk=
+        algorithm: aes-256-gcm
+        iv: d94da5832d6b0f48de04ebed
+        version: "1"
+      hash:
+        sha256: c68df30c2e340965bb6fd343b93a6fb583c31c3805c8e0e67f036a8ac31b7fd2
+  published: 2025-03-21T14:09:18.128Z
+  content: Одним из преимуществ 1Го Казино является простота и доступность.
+    Регистрация аккаунта на сайте занимает несколько минут <a
+    href="http://extaz.gtaserv.ru/viewtopic.php?f=12&t=2593">1Го Казино
+    официальный сайт</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZmNhODBhZWFiNDVhNDBjYThlZjVkOWRkMDQ=
+    algorithm: aes-256-gcm
+    iv: 177c433c6db7525f713034d6
+    version: "1"
+  spam:
+    score: 7.91
+    marked: true
+  status: rejected
