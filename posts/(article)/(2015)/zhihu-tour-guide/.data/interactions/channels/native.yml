@@ -1307,3 +1307,32 @@
     score: 5.96
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 74dc79687722f8ab6f910b7a4a05ce3d2dc8f70a
+  author:
+    name: JamesBuist
+    lang: en
+    email:
+      value:
+        encrypted: N2QyZjI5ZWM2ZmQwNGM2ZGMwNWNkMDgxOWY1Y2U2YWU=
+        algorithm: aes-256-gcm
+        iv: 8ae9e5716c4383d91a859585
+        version: "1"
+      hash:
+        sha256: dfb922baa9977423ddb5c733c2df40023a955b11e2cf96f630363011b05bbfc4
+  published: 2025-03-21T13:03:52.135Z
+  content: For users who prefer to place bets and play casino games from mobile
+    devices, the issue of using a promo code in the 1XBET mobile application
+    (APK) is relevant <a
+    href="https://ritmohost.com/cpanel/nelp/index.php?1xbet_today_promo_code_bonus_up_to_130.html">https://ritmohost.com/cpanel/nelp/index.php?1xbet_today_promo_code_bonus_up_to_130.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: MWY2MDMyN2I3ZTU4MWJkMzViY2Y1YjNiZTQzNg==
+    algorithm: aes-256-gcm
+    iv: 3a951f909560beb4a647696e
+    version: "1"
+  spam:
+    score: 7.12
+    marked: true
+  status: rejected
