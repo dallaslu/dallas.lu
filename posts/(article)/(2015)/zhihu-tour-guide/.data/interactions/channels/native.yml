@@ -1365,3 +1365,33 @@
     score: 7.91
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 674753a2b6f820d106c34046757fdb045aa71b73
+  author:
+    name: Normanamock
+    lang: en
+    email:
+      value:
+        encrypted: MDNkMWEzYTYzY2EzMGNhYTdlY2MyOGJjZWIzZDNkMTc=
+        algorithm: aes-256-gcm
+        iv: 9b09193c82ee1d94b8f58563
+        version: "1"
+      hash:
+        sha256: 575d23a9934ef5ae30e9fc32a2c418856971c71c08fd14df1ca594f6397c39fd
+  published: 2025-03-22T00:05:27.421Z
+  content: В ассортименте Банда Казино представлен широкий выбор развлечений.
+    Здесь имеются и популярные краш-игры, завоевавшие признание огромного
+    количества игроков <a
+    href="http://sokhranschool.ru/forum/messages/forum1/topic474/message474/?result=new#message474">Казино
+    Banda официальный сайт</a>
+  lang: zh-CN
+  ip:
+    encrypted: MjJhOGM1NjhhMjAzNjY4YWZkMzlhNTAyM2YwZQ==
+    algorithm: aes-256-gcm
+    iv: 898196b9648082594bf7a82c
+    version: "1"
+  spam:
+    score: 9.57
+    marked: true
+  status: rejected
