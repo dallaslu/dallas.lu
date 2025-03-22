@@ -1453,3 +1453,32 @@
     score: 6.48
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7b3d130a90c4d9ecb216517703d3e274afb1cb19
+  author:
+    name: Donaldhok
+    lang: en
+    email:
+      value:
+        encrypted: YTNhMTMyMTY3NzhhOGM0MWU5YTkyNDA3NzI1NzhlMDk=
+        algorithm: aes-256-gcm
+        iv: e0216f524c79c4e9e7dce786
+        version: "1"
+      hash:
+        sha256: 3e85a3dbee6201420c643374900d15f65708c65580d0bc1b1b1200ae2b8d9996
+  published: 2025-03-22T17:17:09.398Z
+  content: Kometa Casino – это игровая среда, где азартные игры сочетаются с
+    новейшими разработками, обеспечивая гостям удобство и стабильность <a
+    href="https://odessamama.net/forum.php?mod=viewthread&tid=349412&extra=">Казино
+    Kometa официальный сайт</a>
+  lang: zh-CN
+  ip:
+    encrypted: MGJjZDFlZmY4MDhiNDMyMjdjNDhjMjdiZGE=
+    algorithm: aes-256-gcm
+    iv: 10ea70ba88b2e3dfa7e089ca
+    version: "1"
+  spam:
+    score: 6.49
+    marked: true
+  status: rejected
