@@ -224,3 +224,32 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e6cd84ea92d5054cc8102f95e843a05a54540cd0
+  author:
+    name: AlfredVex
+    lang: zh-CN
+    email:
+      value:
+        encrypted: Y2IzMTA4YmE4NDFlMzBmOGMyOTIwM2Y0ODJkMWE0ZWYyZGZjZTM=
+        algorithm: aes-256-gcm
+        iv: a2a44919361d05bff18b2152
+        version: "1"
+      hash:
+        sha256: 813525db2863ba48589223a2d852e0e25241b2ad719885550ecc89cb4a99e055
+  published: 2025-03-22T08:48:30.063Z
+  content: "<a
+    href=https://vkorzinu.com.ua/literatura-ta-istorija/kiiv-tradicija-analiz-p\
+    asport-tvoru.html>https://vkorzinu.com.ua/literatura-ta-istorija/kiiv-tradi\
+    cija-analiz-pasport-tvoru.html</a>\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: YTY2YTRiMDg3ZmYxODI0NTdmYmRmYzJmNWNiOQ==
+    algorithm: aes-256-gcm
+    iv: 99b26b5ac045651563b2925d
+    version: "1"
+  spam:
+    score: 8
+    marked: true
+  status: rejected
