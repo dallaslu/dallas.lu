@@ -1510,3 +1510,31 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a6e69f01ba25fa1c2b597da99c09fea107f01a9a
+  author:
+    name: MatthewBab
+    lang: en
+    email:
+      value:
+        encrypted: NDJmYTlhZjYzMmMzOGQ1MjBjMjQwNjAzOGYxZTg4NTU=
+        algorithm: aes-256-gcm
+        iv: 232a18fb2a136377d7a07e38
+        version: "1"
+      hash:
+        sha256: afcf33d4a6ff38dbd8ed4380c132da2da53aa32e352ee92dc477c531246e74e8
+  published: 2025-03-23T01:46:22.548Z
+  content: Пневмозаглушки  используются для надежного перекрытия трубопроводов
+    диаметром от 40 до 2000 мм  <a
+    href="https://xn--80aaefhnxhfhoh5dwd.xn--p1ai">пневмозаглушки ПЗУ</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTg3MmZhYjZmMjgwYjM4NGIzYjNhNmM0NDI4OQ==
+    algorithm: aes-256-gcm
+    iv: fc110209e7b047278f157398
+    version: "1"
+  spam:
+    score: 6.46
+    marked: true
+  status: rejected
