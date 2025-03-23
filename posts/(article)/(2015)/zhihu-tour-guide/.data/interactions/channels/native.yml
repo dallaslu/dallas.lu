@@ -1567,3 +1567,32 @@
     score: 7.12
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5740906451e5a2c95dcbc992755e5c82e87a0049
+  author:
+    name: DonaldbeF
+    lang: en
+    email:
+      value:
+        encrypted: Y2U2ZDRkOTM3NmRiYjViN2NlY2VhMGJhNWZmMzQ5YzM=
+        algorithm: aes-256-gcm
+        iv: 3cb400ea0709651682c6d692
+        version: "1"
+      hash:
+        sha256: 80f354cb779884cb6a5e1dc9e412ac770f215e555f4dad432eda4726672fdd1f
+  published: 2025-03-23T12:59:35.521Z
+  content: Владение загородным домом открывает неограниченные возможности для
+    экспериментов с дизайном и оформлением, особенно когда речь заходит о ванной
+    комнате <a
+    href="https://spb-sovtrans.ru/novosti/31179-preimuschestva-dushevyh-ograzhdeniy-na-zakaz-po-sravneniyu-s-kabinami-iz-magazina.html">https://spb-sovtrans.ru/novosti/31179-preimuschestva-dushevyh-ograzhdeniy-na-zakaz-po-sravneniyu-s-kabinami-iz-magazina.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: NDYwMzJkOTJhMjk3ZjM3MGJhODM2NTM3MWFmMQ==
+    algorithm: aes-256-gcm
+    iv: c3a94e5be811e32dc9ff34d0
+    version: "1"
+  spam:
+    score: 8.9
+    marked: true
+  status: rejected
