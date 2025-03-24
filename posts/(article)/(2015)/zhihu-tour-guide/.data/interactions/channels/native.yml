@@ -1654,3 +1654,32 @@
     score: 7.34
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 226ca13472ec50b382afbdd5037dd90a29b1451c
+  author:
+    name: Ronaldtah
+    lang: en
+    email:
+      value:
+        encrypted: M2Y1ZDE3NmM1NDdiMDgyNTkzOWQzOTZmNmQwY2RjMDI=
+        algorithm: aes-256-gcm
+        iv: 94969e9dc9e9a7b9f0c3194b
+        version: "1"
+      hash:
+        sha256: 74f4629501dc41d09b890729df804d41a045c5536e39dcb56184c20f1e4110fc
+  published: 2025-03-24T01:25:11.646Z
+  content: Прежде чем принять решение о покупке автомобиля, определите его
+    рыночную стоимость и техническое состояние. Сравните цены аналогичных
+    моделей в интернете и внимательно изучите мнения владельцев <a
+    href="http://myomija.com/bbs/board.php?bo_table=free&wr_id=108076">http://myomija.com/bbs/board.php?bo_table=free&wr_id=108076</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTViYmNiZTUyZjQ0MzZmZjY3ZGI4MzNkMGU=
+    algorithm: aes-256-gcm
+    iv: 39399541bf1003528ffaafd8
+    version: "1"
+  spam:
+    score: 6.72
+    marked: true
+  status: rejected
