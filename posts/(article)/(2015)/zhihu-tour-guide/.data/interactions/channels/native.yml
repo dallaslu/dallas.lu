@@ -17,3 +17,32 @@
     encrypted: NjcwNzg3NjZiZmU1ODc1MjJiNDRmYTdhM2M=
     algorithm: aes-256-gcm
     iv: 66c56f3716a4e7eaeb09dbd7
+- type: reply
+  channel: native
+  id: 38c2ecd80aacbff9894c06d57510122bd9346726
+  author:
+    name: MichaelDeple
+    lang: en
+    email:
+      value:
+        encrypted: YTMzYjk0MjkwY2FlZTljZDFmMWFmNjgzZTBjMGY0MDU0YTQyMGM=
+        algorithm: aes-256-gcm
+        iv: f508296818427fe503803064
+        version: "1"
+      hash:
+        sha256: e3bed05226701f54ef07039b88ecfb985c2573eb3eab7d052fb4b1a3bad2ed65
+  published: 2025-03-24T06:13:01.160Z
+  content: "<a
+    href=\"https://waldenfelser-nachtschreck.de/warum-deutsche-spieler-immer-ha\
+    ufiger/\">https://waldenfelser-nachtschreck.de/warum-deutsche-spieler-immer\
+    -haufiger/</a> \r\n"
+  lang: zh-CN
+  ip:
+    encrypted: MTM0NjRiNDY4MmFlZjViYzM5ZDliNGI1MGZhZTdk
+    algorithm: aes-256-gcm
+    iv: 05fcec65f485bb444300c90a
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
