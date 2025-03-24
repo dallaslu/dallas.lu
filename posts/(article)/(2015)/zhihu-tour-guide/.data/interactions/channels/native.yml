@@ -132,3 +132,33 @@
     score: 9.18
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f67b55c4f65daaeac95295da0e9057051d417070
+  author:
+    name: KennethSlefs
+    lang: en
+    email:
+      value:
+        encrypted: ZjEyMTE5MWJhY2E5ZDU5YTM3OGNiNDc1ODY0ZmI4NTJkMQ==
+        algorithm: aes-256-gcm
+        iv: c8806e20c70dc06a7e2d694b
+        version: "1"
+      hash:
+        sha256: 93e0b1856a29b02a921c4ec9cffbb0e23b9239880b286f632a09377de428e7c3
+  published: 2025-03-24T23:56:44.799Z
+  content: Cat Casino — это отличная платформа для любителей азартных игр, которая
+    предлагает множество бонусов и акций. Промокоды Cat Casino позволяют
+    увеличить свои шансы на выигрыш и получить дополнительные преимущества <a
+    href="http://www.baikal-biz.ru/forum/viewtopic.php?f=17&t=75137">промокод
+    кэт казино как получить</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTI2YTI3YjdhMDY5NDZjYjU5NDNkYjc4OWI=
+    algorithm: aes-256-gcm
+    iv: 27b416edcadd9b376a4d6a6b
+    version: "1"
+  spam:
+    score: 7.18
+    marked: true
+  status: rejected
