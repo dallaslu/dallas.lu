@@ -257,3 +257,31 @@
     score: 5.89
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 3e8b09fccc8ec91f78998dd3ea5b985dc2832188
+  author:
+    name: AnthonyRip
+    lang: en
+    email:
+      value:
+        encrypted: YThjMDM1Mzk4ODg2YWMyZDg0NjIzZGFlNjkyODk5YTRhOA==
+        algorithm: aes-256-gcm
+        iv: 8252b2d2d9a26b7fafbe3197
+        version: "1"
+      hash:
+        sha256: 988745c9ed1a0b5f202af62df3d0982fbe80699714b8bb424aec34544d1ee708
+  published: 2025-03-25T16:18:49.061Z
+  content: Комплексная УЗИ-диагностика всех органов и тканей в»
+    Санкт-Петербургском центре Узи –диагностике»  на оборудовнии экспертного
+    класса <a href="https://uzi-diagnostica.ru/">Хороший узист</a>
+  lang: zh-CN
+  ip:
+    encrypted: YzU5NWQwMTk1YWFiMGNmMmU4MmRmMTI1M2U=
+    algorithm: aes-256-gcm
+    iv: 00b6a8d1d9bce3797c96017d
+    version: "1"
+  spam:
+    score: 9.17
+    marked: true
+  status: rejected
