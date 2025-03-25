@@ -285,3 +285,33 @@
     score: 9.17
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 4a6a663425432fcf6d3c3cc278ab2c72e16ee9c6
+  author:
+    name: Brianber
+    lang: en
+    email:
+      value:
+        encrypted: OGRlMmUxYTZhZGQ1OTNlMTU5ZWExNWY0MDBmZGNlNjAyZA==
+        algorithm: aes-256-gcm
+        iv: df8738ed9f08de1c241bb9a3
+        version: "1"
+      hash:
+        sha256: 93f7afafba1db4f07c65b915a68dd07348f51dbaab9104604f89a18b73b7c6ca
+  published: 2025-03-25T19:13:55.304Z
+  content: Рефинансирование микрозаймов становится важным инструментом для тех, у
+    кого имеется плохая кредитная история. Этот процесс позволяет объединить
+    существующие долги в один займ с более выгодными условиями <a
+    href="https://www.fermerbezhlopot.ru/news/poluchit_zaymu_na_kartu_pod_zalog_pts.html">money
+    x casino зеркало</a>
+  lang: zh-CN
+  ip:
+    encrypted: M2VlN2U2ZWQ5OTMzOGE2YjU5ZTQ0YmY1OTUyMA==
+    algorithm: aes-256-gcm
+    iv: 572f307c972f9802c917f2a3
+    version: "1"
+  spam:
+    score: 7.88
+    marked: true
+  status: rejected
