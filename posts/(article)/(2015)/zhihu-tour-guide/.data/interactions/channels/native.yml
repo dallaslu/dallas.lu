@@ -162,3 +162,33 @@
     score: 7.18
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 229c5507de5af731163bbc2c5abfe75b44accff9
+  author:
+    name: DavidTrels
+    lang: en
+    email:
+      value:
+        encrypted: Yjg1ZGNjMzQ0MDlmZWMzYjkyZGNjYzAwMjkyMTk4MGE3MTkwODA0ZA==
+        algorithm: aes-256-gcm
+        iv: f048ae8cb92fdd38b5b0b30e
+        version: "1"
+      hash:
+        sha256: fb88d3fd759530c18b2b20b55b3f798ca8ee8e4b038fff1f264729b5c14e4fcf
+  published: 2025-03-25T01:09:27.693Z
+  content: "Купить антенны TV Flat HD \r
+
+    \ \r
+
+    [url=http://antenka-tv.ru/] антенны[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: MGY5NDQzNjVmZDcyYzU4MTAzZjA4NTM3
+    algorithm: aes-256-gcm
+    iv: 6ba1b4d7cbf82e653f7d9d19
+    version: "1"
+  spam:
+    score: 8.42
+    marked: true
+  status: rejected
