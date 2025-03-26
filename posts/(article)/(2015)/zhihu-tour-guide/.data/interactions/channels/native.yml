@@ -374,3 +374,32 @@
     score: 9.08
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 78a5e25f8d445a140293a51de2ac0dfb518e3c20
+  author:
+    name: JamesSlarm
+    lang: en
+    email:
+      value:
+        encrypted: NTI3OWIyMjUxN2RlZDJkZjU5OTc2Njk0YTdjY2U0OWJmNg==
+        algorithm: aes-256-gcm
+        iv: e87ac278076d34b0654f1723
+        version: "1"
+      hash:
+        sha256: a7d90428ab763757b255d60e22a912e724c3f17a46e8466ba548a69caf253c72
+  published: 2025-03-26T14:25:56.731Z
+  content: Капитал Икс Игральный клуб — это эксклюзивная платформа, которая
+    обеспечивает клиентам фантастические возможности для успеха мани х казино <a
+    href="https://www.spairkorea.co.kr:443/gnuboard/bbs/board.php?bo_table=as_inquire&wr_id=1701094">money
+    x casino бонус</a>
+  lang: zh-CN
+  ip:
+    encrypted: YjgyMThhNTgzZmViMWNiZjIzMGYwNDA3ODk=
+    algorithm: aes-256-gcm
+    iv: 73d08fad04d0b77082fdc091
+    version: "1"
+  spam:
+    score: 6.69
+    marked: true
+  status: rejected
