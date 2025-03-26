@@ -344,3 +344,33 @@
     score: 6.58
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2980de0d52c1db07f6cf8c28ae3022981f3e7f0c
+  author:
+    name: MichaelJah
+    lang: en
+    email:
+      value:
+        encrypted: YzkzNTY2ZmQ3ZDI2OWVmYzliZTI5ZTU4OWNmZjk4MGY0Nw==
+        algorithm: aes-256-gcm
+        iv: 4f2bfd4f544c43737c7086db
+        version: "1"
+      hash:
+        sha256: c73684d1dab02c862efe615eaa73ca33ce4498c60d60db63281cf9aeffdc6574
+  published: 2025-03-26T12:03:57.057Z
+  content: Ирвин Казино - это место, где азартные игры становятся действительно
+    увлекательными и безопасными. Под брендом Irwin Casino скрывается надежная и
+    проверенная платформа для тех, кто хочет окунуться в мир азарта и
+    развлечений <a href="https://1abakan.ru/forum/showthread-365258/">вход в
+    казино Irwin,</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODU1ZmU3Nzk4OWEyN2I0M2VlY2VlOTkxMjMzMw==
+    algorithm: aes-256-gcm
+    iv: 45ae3ecb2d48b89f03c2ae5e
+    version: "1"
+  spam:
+    score: 9.08
+    marked: true
+  status: rejected
