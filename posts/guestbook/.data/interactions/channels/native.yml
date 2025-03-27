@@ -1393,3 +1393,46 @@
     score: 6.28
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 646cb511b9372afc30a5815d146992946dd15435
+  author:
+    name: DennisCog
+    lang: en
+    email:
+      value:
+        encrypted: ODVjMTYwMjY0MmEyMjcyZjMwZDBjNGZmNjU4MmJiZjdkM2Zl
+        algorithm: aes-256-gcm
+        iv: a4f3c718e7aa1adfaea438b8
+        version: "1"
+      hash:
+        sha256: a63f22d3e41d3469d9a2eacb7228db3ef35a831bc64f2e168fdd18b2638f52a4
+  published: 2025-03-27T15:26:28.859Z
+  content: "Приветственные бонусы и промоакции 1xBet 2025 \r
+
+    \ \r
+
+    <a
+    href=https://www.daikin-info.ru/img/pgs/1xbet___promokod_bonus.html>бонусные
+    промокоды в 1хбет</a> дает эксклюзивный бонус до 32500 рублей для ставок на
+    спорт. Нужно будет взять этот код из нашего источника и ввести его при
+    регистрации. Платформа дает 4 способа авторизации на выбор, и пополнить счет
+    на сумму от 100 RUB, после чего на игровой баланс поступит 130% от суммы
+    первого депозита, их нужно будет отыграть в разделе ставок на спорт с
+    вейджером х5, цепочка событий должна состоять не менее чем из 3-х с
+    коэффициентом от 1,4. На отыгрыш Вам дается 30 дней, от дня активации кода.
+    Почему этот бонус нужно использовать без раздумий? \r
+
+    При его вводе, Вам деньги начисляет именно букмекер 1xBet, тоесть играете Вы
+    за его счет, и заработать кругленькую сумму можно без вложения своих
+    средств."
+  lang: en
+  ip:
+    encrypted: MDQ5NjVmNjY5NjNkYzdkOWEwNGNlZTQz
+    algorithm: aes-256-gcm
+    iv: c9a3a72acca131ccf0391a6a
+    version: "1"
+  spam:
+    score: 5.79
+    marked: true
+  status: auditing
