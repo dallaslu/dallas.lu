@@ -432,3 +432,31 @@
     score: 8.27
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ad472305f2828c67f5a89c918cfe37d1ed253163
+  author:
+    name: Dannyshimb
+    lang: en
+    email:
+      value:
+        encrypted: YTg3NjI2MDhlNmFiYWI1ZjVlMTUxMjZmNzFjMjIyMzcxODg5NDY0NzlkNzAzNTA4NzRkOTNiMmEwOTc0ODlhOWNiNGFkNDZhNDk=
+        algorithm: aes-256-gcm
+        iv: ef37797e7a718bd61252d824
+        version: "1"
+      hash:
+        sha256: 69b1227f8656229dc6ddcd59f1c8346fbbf980c6188241b0fae8e1ea80af988a
+  published: 2025-03-27T06:27:28.853Z
+  content: смотреть здесь
+    [url=https://megamoriartyc09o3seyehpnpnfnv7xo.lol/]магазин мега
+    мориарти[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NmU1ZThhMTc1NWRiZmM0NjVlMDhlMjU5ZmQ=
+    algorithm: aes-256-gcm
+    iv: c7c5a5a9bbac1fe16a21f9cd
+    version: "1"
+  spam:
+    score: 6.21
+    marked: true
+  status: rejected
