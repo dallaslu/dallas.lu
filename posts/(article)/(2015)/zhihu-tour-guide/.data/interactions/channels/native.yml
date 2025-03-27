@@ -403,3 +403,32 @@
     score: 6.69
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 593256d50190b5f2847f32c06fd9a3742795e054
+  author:
+    name: WendellTug
+    lang: en
+    email:
+      value:
+        encrypted: YmRhNGNkOGNmZjA3MTRkN2M0NmE3NjE2NGY5NjUwZDJmMA==
+        algorithm: aes-256-gcm
+        iv: bfab2826b052ceddce9dd585
+        version: "1"
+      hash:
+        sha256: 092628f720f5d5db4b00f629196c0637c5c9cd8a20aaa9e34907c73a209e4918
+  published: 2025-03-27T00:42:41.147Z
+  content: 'На официальном сайте Мотор Казино любой игрок найдет широкий выбор
+    развлечений: от классических игровых автоматов до современных видеослотов,
+    настольных игр и живых дилеров <a
+    href="http://www.ru-fisher.ru/forum/thread441766-1.html">Казино Motor</a>'
+  lang: zh-CN
+  ip:
+    encrypted: NTQ4NTI3NWY3OGRmZTU4MTc4MDZlYzVjMGEwZA==
+    algorithm: aes-256-gcm
+    iv: 133258073924db72af482898
+    version: "1"
+  spam:
+    score: 8.27
+    marked: true
+  status: rejected
