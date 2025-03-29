@@ -1134,3 +1134,32 @@
     score: 6.99
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 04ef9badf6a4deb585e1cdeec7e7e6d5b4b8e97b
+  author:
+    name: MichaelDeple
+    lang: en
+    email:
+      value:
+        encrypted: NmQzMjNhNDc1MzE5MTJkN2YwNzAzMWQ5YTEzYTczNjllNDdmNzI=
+        algorithm: aes-256-gcm
+        iv: ac071c1560353810e14735d2
+        version: "1"
+      hash:
+        sha256: e3bed05226701f54ef07039b88ecfb985c2573eb3eab7d052fb4b1a3bad2ed65
+  published: 2025-03-29T22:06:43.805Z
+  content: "<a
+    href=\"https://gsolarroof.eu/come-scegliere-la-slot-machine-giusta-per-te-c\
+    ome-2-2/\">https://gsolarroof.eu/come-scegliere-la-slot-machine-giusta-per-\
+    te-come-2-2/</a> \r\n"
+  lang: zh-CN
+  ip:
+    encrypted: NzY3MTdlMGNjMGE2ZGYwODY3NDVhYzYzMzJlZjc2
+    algorithm: aes-256-gcm
+    iv: b32f5bdd8585b194b8a98c65
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
