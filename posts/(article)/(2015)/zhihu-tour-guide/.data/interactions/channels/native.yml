@@ -1077,3 +1077,32 @@
     score: 4.37
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 00b89463393e0a2132446733a0732d00e4801342
+  author:
+    name: MichaelDeple
+    lang: en
+    email:
+      value:
+        encrypted: Mjg4NDdkNzg4ZWU4M2YyMDhkODlkMmZmZjk4ODNjNmVmNzFkYjY=
+        algorithm: aes-256-gcm
+        iv: b48304cf8e772bfa6e55b54e
+        version: "1"
+      hash:
+        sha256: e3bed05226701f54ef07039b88ecfb985c2573eb3eab7d052fb4b1a3bad2ed65
+  published: 2025-03-29T02:31:22.621Z
+  content: "<a
+    href=\"http://triangle-equity-partners.com/2025/03/25/la-storia-delle-slot-\
+    machine-in-europa-e-il-loro/\">http://triangle-equity-partners.com/2025/03/\
+    25/la-storia-delle-slot-machine-in-europa-e-il-loro/</a> \r\n"
+  lang: zh-CN
+  ip:
+    encrypted: N2JjNzQ2YTNhNDk1Nzg3MGUyNTRiZjQ1YzEzNzcx
+    algorithm: aes-256-gcm
+    iv: f75df6b06231d3436f323d79
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
