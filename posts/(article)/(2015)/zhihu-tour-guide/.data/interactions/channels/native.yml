@@ -1106,3 +1106,31 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 26de6dc528bb98cf002225a8d1a0ef90f9379635
+  author:
+    name: RichardKit
+    lang: en
+    email:
+      value:
+        encrypted: NDhlMzZkMDA4ODFhMGViY2U5NjFiMTM2MjRlYzkxNjViNA==
+        algorithm: aes-256-gcm
+        iv: e6d201ab9972bf376032501b
+        version: "1"
+      hash:
+        sha256: 8a7b169d6295f43bdb2012f60b6d92714618f893c776d373d13eda16dcdb25f6
+  published: 2025-03-29T11:08:31.514Z
+  content: How does it work? A virtual number forwards calls to your primary
+    device, allowing you to communicate as if you were using a regular phone <a
+    href="https://ruki.com.ua/video/2010708472-dvuspalnaya-krovat-ikea/">https://ruki.com.ua/video/2010708472-dvuspalnaya-krovat-ikea/</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTA0NTk5YzQxYjQ3MjQ1MzUyMDRkYThjYzE3ZA==
+    algorithm: aes-256-gcm
+    iv: 8297129c91e2e2910b911552
+    version: "1"
+  spam:
+    score: 6.99
+    marked: true
+  status: rejected
