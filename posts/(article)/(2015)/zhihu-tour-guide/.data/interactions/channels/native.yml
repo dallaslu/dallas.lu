@@ -1193,3 +1193,33 @@
     score: 6.25
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0b16effe8c7428aa3639f0481c05661442bcfb88
+  author:
+    name: Jamestup
+    lang: en
+    email:
+      value:
+        encrypted: ODI1NWNlYjgyOTQ3ZGEyMzBhYmVjNTlhOTg1NzM0OWY3Nw==
+        algorithm: aes-256-gcm
+        iv: efb9a1f9431353dce9e32335
+        version: "1"
+      hash:
+        sha256: 729e4be6ace57dbec0ae18bb12dc268611a59bfc034b356417fd4e2b19343a4a
+  published: 2025-03-29T23:46:25.452Z
+  content: в грядущем году открывает двери ко множеству возможностей для играющих.
+    Используя его, вы можете весьма повысить свои шансы на выигрыш, получать
+    добавочные бонусы и чаще наслаждаться увлекающими играми <a
+    href="http://poznanie.gtaserv.ru/viewtopic.php?f=9&t=3921">промокод кент
+    казино</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZTNiMTI3NzM0MGI2N2JkNjBjNzY4MGZhN2Y=
+    algorithm: aes-256-gcm
+    iv: 2c3623382d6b43c56e148f87
+    version: "1"
+  spam:
+    score: 7.69
+    marked: true
+  status: rejected
