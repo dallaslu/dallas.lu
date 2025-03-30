@@ -1280,3 +1280,30 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: cee88cd02feaa442cd655ad779b5fdc273f8cb93
+  author:
+    name: Bernardsap
+    lang: en
+    email:
+      value:
+        encrypted: ZDc4NDhiMDdjOWVlZDU3ZmE1MTUzNDI1MDQ5NGFjNjcyNw==
+        algorithm: aes-256-gcm
+        iv: 6718697aba3c3f95aa707946
+        version: "1"
+      hash:
+        sha256: 1ee3fa5fc3d57b2cce41ec535ae9e119dfef259195b5e46bb5d357020e032ca1
+  published: 2025-03-30T18:55:06.447Z
+  content: The Rent Killer is the main antagonist from the 2020 slasher film The
+    Rental <a href="https://cjseg.com">hire a hitman</a>
+  lang: zh-CN
+  ip:
+    encrypted: MmNhNmEzYzI0NjVmMjljODkzZWM1YmJjYmQ=
+    algorithm: aes-256-gcm
+    iv: dfdc3da97d176bb776db2ab8
+    version: "1"
+  spam:
+    score: 6.29
+    marked: true
+  status: rejected
