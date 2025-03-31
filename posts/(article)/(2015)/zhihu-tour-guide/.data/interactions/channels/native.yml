@@ -1307,3 +1307,31 @@
     score: 6.29
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8e78ff49de8603683e3ada83e10f9aa4973caf3d
+  author:
+    name: JustinCib
+    lang: en
+    email:
+      value:
+        encrypted: NjJmNmFjYjA2ZTI3NTQ1OTQ1MjdiN2U0NWI4ZWMxMmMxYw==
+        algorithm: aes-256-gcm
+        iv: a37b566734fe9661f649f9aa
+        version: "1"
+      hash:
+        sha256: 12258ac9cfa8a6fd394ec9f08c36c7f0e2b7f8d4769c81189fbbcfec1b68c5bb
+  published: 2025-03-31T03:37:30.598Z
+  content: As the credits wrap up, we see the masked killer rush out of a closet
+    to kill the first unsuspecting victim as they sleep <a
+    href="https://cjseg.com">hire a hitman</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzRjMDkwOTE2NzUyZDkzZjUzYzE1MWNkMzA=
+    algorithm: aes-256-gcm
+    iv: 29802ac2fea24470646fdbdc
+    version: "1"
+  spam:
+    score: 6.07
+    marked: true
+  status: rejected
