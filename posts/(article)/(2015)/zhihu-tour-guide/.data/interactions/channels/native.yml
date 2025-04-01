@@ -1393,3 +1393,31 @@
     score: 6.69
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7c60fd587764020f55a3c09a9ae32d6fa78590cc
+  author:
+    name: Melvinfesse
+    lang: en
+    email:
+      value:
+        encrypted: ZGRhM2EwMmU0MGRiMTNjZmRmYmJkMDc3NmQ4ZWY2OGVhYw==
+        algorithm: aes-256-gcm
+        iv: d0a4efff96eb19e369276559
+        version: "1"
+      hash:
+        sha256: 4ce2fe73d26e5523bdd5308ad67488f170ec1dbfcb87234b8c818940bec46693
+  published: 2025-04-01T15:56:51.497Z
+  content: 'Enter the 1xBet promo code: 1XWAP. In the special field during
+    registration, enter your unique promo code. Confirm activation <a
+    href="http://hotel-golebiewski.phorum.pl/viewtopic.php?p=553305#553305">http://hotel-golebiewski.phorum.pl/viewtopic.php?p=553305#553305</a>'
+  lang: zh-CN
+  ip:
+    encrypted: ZjM5OGNlNTBkNTlkNWM1ZDkzMmFjYzRlNzc=
+    algorithm: aes-256-gcm
+    iv: 2f23aaac30f0dbd6a8ecc9cc
+    version: "1"
+  spam:
+    score: 7.09
+    marked: true
+  status: rejected
