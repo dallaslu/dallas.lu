@@ -1364,3 +1364,32 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: de3452d1a7dc9d9d87ade8928a16eebd97e07d5d
+  author:
+    name: Rolandtet
+    lang: en
+    email:
+      value:
+        encrypted: MWM5ODE0MjY1YjczMGMzZTI4NzE5N2E0NmY3M2RiMWU1NQ==
+        algorithm: aes-256-gcm
+        iv: 606e2ea79f91dff968e13291
+        version: "1"
+      hash:
+        sha256: 13928804c8f4363c31f06458c16dac14713776d5ff4c6d928d1b875b91eb4719
+  published: 2025-04-01T09:04:20.650Z
+  content: The CoinsBar resource offers one of the most favorable exchange rates
+    on the market <a
+    href="http://mixsystems.com.ua/News/finances/kak-obmenivat-kriptu.html">купить
+    тезер за usd наличные в Киеве</a>
+  lang: zh-CN
+  ip:
+    encrypted: NTEzMzY0MTg0OTg4MjQ0ZWI2M2Y2ZWU5NTM0Yg==
+    algorithm: aes-256-gcm
+    iv: ef41268b6749cdc364e17c06
+    version: "1"
+  spam:
+    score: 6.69
+    marked: true
+  status: rejected
