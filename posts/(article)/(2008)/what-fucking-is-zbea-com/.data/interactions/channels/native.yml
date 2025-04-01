@@ -253,3 +253,33 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0889f5fbcc064b0345dc3f5ac4acb0f72d0b7e7c
+  author:
+    name: Hevimetig
+    lang: zh-CN
+    email:
+      value:
+        encrypted: ZmVjNjkxMDY1NWJkMmZjMDFjZGI0NTI1MWZjMjNlMjIyOGI5MjUwYzVlMmE=
+        algorithm: aes-256-gcm
+        iv: daaf3a48e5bc96181b61d3e3
+        version: "1"
+      hash:
+        sha256: 8be625654c7f9d70b3fc6a8b5e09c491c357051c06eb607feb2385f22d6c69e5
+  published: 2025-04-01T02:27:31.984Z
+  content: Ищете топливные карты для юридических лиц и ИП? Обратите внимание на
+    единую топливную карта ЛИОТЭК для бизнеса. Узнайте на сайте <a
+    href=https://liotec.ru/>https://liotec.ru/</a> все преимущества выгодной
+    карты Лиотек и какие огромные преимущества она дает, по сравнению с другими
+    картами. Подробнее на сайте.
+  lang: zh-CN
+  ip:
+    encrypted: NjJjNjlkOGVkMTAxYjEyNjQyZTc4MjNiMjkxMGVm
+    algorithm: aes-256-gcm
+    iv: c4172d8df3630bc81ba77a7d
+    version: "1"
+  spam:
+    score: 8.48
+    marked: true
+  status: rejected
