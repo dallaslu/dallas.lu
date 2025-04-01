@@ -1421,3 +1421,33 @@
     score: 7.09
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ca79e90cc0eb37ab471a94a39630d5c199c13622
+  author:
+    name: Wilsonbleaw
+    lang: en
+    email:
+      value:
+        encrypted: M2Q4NmFlNjU0YTViYmY2ODY2NTAyN2NkY2EwMDNmMTFmYQ==
+        algorithm: aes-256-gcm
+        iv: 80df020c50697642784a5457
+        version: "1"
+      hash:
+        sha256: 4eb38f5f9a07e47b47f9fa0a75b049a2ad09fd698842ccb0555d63ea9c53b4ba
+  published: 2025-04-01T22:50:21.884Z
+  content: Bonuses and promotions in the bookmaker 1xBet are a great opportunity
+    to get additional benefits from your bets. The showcase of promo codes can
+    offer a variety of promo codes that can be exchanged for prizes or free bets
+    in the game <a
+    href="https://tdmclub.ru/tdm-forum/viewtopic.php?f=24&t=4056">https://tdmclub.ru/tdm-forum/viewtopic.php?f=24&t=4056</a>
+  lang: zh-CN
+  ip:
+    encrypted: MDJiYzNlZmJkOTNiYTk0MTY0ZTBiOWVhOTA=
+    algorithm: aes-256-gcm
+    iv: 05119edca79d10493df8e63e
+    version: "1"
+  spam:
+    score: 8.03
+    marked: true
+  status: rejected
