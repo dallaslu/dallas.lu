@@ -1622,3 +1622,32 @@
     score: 6.12
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 1b69ce6adf610c1947fff2e55c4fadd3d0461b6c
+  author:
+    name: Jefferycog
+    lang: en
+    email:
+      value:
+        encrypted: MTVhOGM0NmVjZTEwZmU1OTIwMjA4NThiYWIwOGIxMzBlYg==
+        algorithm: aes-256-gcm
+        iv: 29dcb2dfff79e1944f9dbaae
+        version: "1"
+      hash:
+        sha256: b383c2bf67f0f4a28474e096263b86d21a4a4bdd0e64f05e0d1e36cfb863b3cf
+  published: 2025-04-02T23:52:24.117Z
+  content: In the online gambling environment, promo codes have become an integral
+    part, offering insiders unique opportunities to receive prizes and
+    promotions <a
+    href="https://mamapoltava.listbb.ru/viewtopic.php?f=11&t=13234">https://mamapoltava.listbb.ru/viewtopic.php?f=11&t=13234</a>
+  lang: zh-CN
+  ip:
+    encrypted: YzhkZTBjMWFmYzIxYWM3YWQ5NDhmYjRlMWMwZA==
+    algorithm: aes-256-gcm
+    iv: 5d4cdc2b24f6be0851f9f017
+    version: "1"
+  spam:
+    score: 8.38
+    marked: true
+  status: rejected
