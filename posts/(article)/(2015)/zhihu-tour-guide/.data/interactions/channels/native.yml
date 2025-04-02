@@ -1506,3 +1506,32 @@
     score: 9.66
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2edb212db694897f1660e17e03707df376916579
+  author:
+    name: BradleyRep
+    lang: en
+    email:
+      value:
+        encrypted: YTdjNWE2ZmNjMDc1YTA3MGQyOTlkNDMxNjVjZmI1NTBhOQ==
+        algorithm: aes-256-gcm
+        iv: 1b2a997255c8b6680f043a38
+        version: "1"
+      hash:
+        sha256: f330b03cc4ec01cc9671a950750ddf8248baa9d6a2c83e0390c92b725cf5ff6c
+  published: 2025-04-02T10:43:26.422Z
+  content: A Cat Casino promo code is a special code that allows participants to
+    receive additional bonuses. This can be a free bet, additional free spins, a
+    deposit increase or even cashback <a
+    href="https://pp.build2.ru/viewtopic.php?id=7523#p20689">https://pp.build2.ru/viewtopic.php?id=7523#p20689</a>
+  lang: zh-CN
+  ip:
+    encrypted: MzAzNDFhMWQwZTk1NTY0YWIyYWUxNjQ1Yzk5Mg==
+    algorithm: aes-256-gcm
+    iv: cb78adc71a122638bc7c8978
+    version: "1"
+  spam:
+    score: 8.15
+    marked: true
+  status: rejected
