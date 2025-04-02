@@ -1712,3 +1712,64 @@
     score: 6.3
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 54e3f6f242e12b59aa96a8d7faf1704bd5b2c42a
+  author:
+    name: BrockTriaw
+    lang: en
+    email:
+      value:
+        encrypted: ZTM2OWZlNGQwMmNiNzI2MzMwZGYxMDc5ZjY2NTQ4Y2ZkOWNiNGQ=
+        algorithm: aes-256-gcm
+        iv: 2f1c808fb07bf053b053b7d5
+        version: "1"
+      hash:
+        sha256: f00449a137b33decfd3c285274d5929af27a2cca78f31f0b9200cc8588014d3f
+  published: 2025-04-02T13:10:47.537Z
+  content: "Kraken официальный сайт \r
+
+    \ \r
+
+    Ищете надежную платформу для торгов и инвестиций в криптовалюту?
+    Познакомьтесь с Kraken! Это один из самых известных и безопасных криптобирж
+    в мире. \r
+
+    \ \r
+
+    Почему стоит выбрать Kraken? \r
+
+    \ \r
+
+    - Безопасность: Ваши средства защищены передовыми технологиями. \r
+
+    - Широкий выбор: Более 50 криптовалют для торговли, включая биткойн и эфир.
+    \r
+
+    - Удобный интерфейс: Простая навигация и интуитивно понятные инструменты для
+    анализа. \r
+
+    - Низкие комиссии: Конкурентные ставки на торговлю для максимизации ваших
+    доходов. \r
+
+    - Поддержка: Круглосуточная помощь от профессионалов. \r
+
+    \ \r
+
+    Зарегистрируйтесь на официальном сайте Kraken сегодня и получите доступ к
+    премиальной платформе для торговли! \r
+
+    Присоединяйтесь к миллионам пользователей и начните свою крипто-приключение
+    прямо сейчас!<a  \r
+
+    <a href=https://kra--31.cc>kraken market</a>"
+  lang: en
+  ip:
+    encrypted: YWFiMDk5MGM2NDkzNThhYjMxYTcyN2MwOTc2NQ==
+    algorithm: aes-256-gcm
+    iv: f760f96627da3dcfbc165938
+    version: "1"
+  spam:
+    score: 4.66
+    marked: true
+  status: auditing
