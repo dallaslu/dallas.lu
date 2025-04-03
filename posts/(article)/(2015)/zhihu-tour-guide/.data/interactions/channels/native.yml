@@ -1797,3 +1797,32 @@
     score: 6.06
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2b91105ee2023eca024de54b9688dcc81b534396
+  author:
+    name: CharlieNen
+    lang: en
+    email:
+      value:
+        encrypted: MWE1MjE1NTc5Njk2ZTJjY2RkNGFiMDRlYjRjOWFiMGE0Mw==
+        algorithm: aes-256-gcm
+        iv: c3a154f32f378256e9aafe3b
+        version: "1"
+      hash:
+        sha256: 9a2360984be693e4deb8026757ae8116019f3aa14ef6bfc1557cbb0f5d685b74
+  published: 2025-04-03T11:04:36.603Z
+  content: In the world of online betting and gambling, promo codes have become an
+    integral part of the strategy of players looking for maximum benefit from
+    their bets <a
+    href="https://school33-perm.ru/media/pgs/?promokodu_na_segodnya_mostbet_pri_registracii_bonus_do_25_000_rub.html">https://school33-perm.ru/media/pgs/?promokodu_na_segodnya_mostbet_pri_registracii_bonus_do_25_000_rub.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: NDE2ZjQyYTc1MDVlYWFhODlkYjlhOWIx
+    algorithm: aes-256-gcm
+    iv: e1305aa096004c5c2ce1af33
+    version: "1"
+  spam:
+    score: 8.77
+    marked: true
+  status: rejected
