@@ -1736,3 +1736,32 @@
     score: 6.28
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e2b5e289f9745c917bce39d143a96b982d607b93
+  author:
+    name: Ronaldround
+    lang: en
+    email:
+      value:
+        encrypted: Nzc1N2VlMGM2YTNmYzhhZjBkNmJmNjc2ZGRmMjAxMWEwMg==
+        algorithm: aes-256-gcm
+        iv: 813d007801ef0c9d6414a94c
+        version: "1"
+      hash:
+        sha256: 91685e923997f17d4e27f8de5fcabbcdb77559a35a2928f41ba1c30c4d07e202
+  published: 2025-04-03T10:36:59.732Z
+  content: 'Автоматизация ресторанов: увеличиваем прибыль и сокращаем затраты.
+    Программа для автоматизации кафе и ресторанов под ключ <a
+    href="https://vc.ru/life/1860698-kak-my-otkryvali-kofeinyu-so-slaboumiem-otvagoi-i-sedymi-volosami">система
+    для ресторанов</a>'
+  lang: zh-CN
+  ip:
+    encrypted: ZDZkM2VkODAxN2ZmNjE4NDU1OWFlZGE1ZDU3ZA==
+    algorithm: aes-256-gcm
+    iv: b30feb0144191abc4838b86f
+    version: "1"
+  spam:
+    score: 9.78
+    marked: true
+  status: rejected
