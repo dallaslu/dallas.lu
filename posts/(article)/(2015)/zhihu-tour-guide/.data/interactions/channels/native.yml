@@ -1765,3 +1765,35 @@
     score: 9.78
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0e01f046f7fb428d916e3c33aa33629b48b439ce
+  author:
+    name: JamesCer
+    lang: en
+    email:
+      value:
+        encrypted: MGI4MjliNzlmYjU1ZDZiNGUyN2VlZDhhMzJkYTJjNDY1Mw==
+        algorithm: aes-256-gcm
+        iv: f97689ff4482ee4c00da4088
+        version: "1"
+      hash:
+        sha256: d83e632f110f70dca88b00bdc488e403ea4ee06f2d0ccb1e51390bb4c08c3ced
+  published: 2025-04-03T10:48:05.227Z
+  content: 'Use 1XBET promo code: 1XTAX200 for VIP bonus up to €1950 + 150 free
+    spins on casino and 100% up to €130 to bet on sports. Register on the 1xbet
+    platform and get a chance to earn even more Rupees using bonus offers and
+    special bonus code from 1xbet. Make sports bets, virtual sports or play at
+    the casino <a
+    href="https://billi-walker.jp/chat/art/1xbet_promo_code_new_1.html">1xbet
+    promo code ethiopia</a>'
+  lang: zh-CN
+  ip:
+    encrypted: ZDk0NTE4ODEyNGRlYjZlMTZjNTNmNWYzNjQ=
+    algorithm: aes-256-gcm
+    iv: 464bbb2c129edd3e7c2801e7
+    version: "1"
+  spam:
+    score: 6.06
+    marked: true
+  status: rejected
