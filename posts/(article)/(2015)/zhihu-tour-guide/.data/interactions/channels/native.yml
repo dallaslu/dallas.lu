@@ -1710,3 +1710,29 @@
     score: 6.63
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0b377ad04cc973e8000af34b97fe0d923a830d43
+  author:
+    name: Lady246
+    lang: en
+    email:
+      value:
+        encrypted: MDMzNDAxM2NhZGYwZTA4MWFmYWMzYzFiYTgwY2U4ZDA5Y2M1
+        algorithm: aes-256-gcm
+        iv: 5dbb0cbc83b0d968ecde9e54
+        version: "1"
+      hash:
+        sha256: 2e23801ff5f85615e3b7da927bd87765d07eca2e98721230492659fef98fa233
+  published: 2025-04-03T08:04:48.674Z
+  content: Напиши мне скорей >>> https://camila34.kiskasgirls.com
+  lang: zh-CN
+  ip:
+    encrypted: OWY2YmU2N2EzNzE2NmU4MmFjMWEyNDc4ZTg=
+    algorithm: aes-256-gcm
+    iv: cd1c702f03db77520c8f9ecb
+    version: "1"
+  spam:
+    score: 6.28
+    marked: true
+  status: rejected
