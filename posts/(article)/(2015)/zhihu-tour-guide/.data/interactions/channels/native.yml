@@ -1651,3 +1651,33 @@
     score: 8.38
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 350d4195e709e36c4b0282f76728676b67231f3e
+  author:
+    name: DarrelGob
+    lang: en
+    email:
+      value:
+        encrypted: YTNiZjQ2MmYyNjUwYTQyOTEzMTg4ZDY0NjFjMWE1ZjFhMA==
+        algorithm: aes-256-gcm
+        iv: 70c81efe0cb619b392527bac
+        version: "1"
+      hash:
+        sha256: e21ea8e89a3006a69e042b7438326349382fb955a92f1de602f7cd192a17d68c
+  published: 2025-04-03T00:52:55.878Z
+  content: 1xBet is a well-known online betting platform that is famous for its
+    generous bonuses and attractive offers. If you are looking for a unique
+    gaming experience and additional chances of success, then 1xBet bonuses will
+    be an excellent choice for you <a
+    href="https://naydem-vam.ru/viewtopic.php?id=46967#p93345">https://naydem-vam.ru/viewtopic.php?id=46967#p93345</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZDBiOGRiN2ZjZmEyMDljZTk2ZTU3ZjY5ZWU=
+    algorithm: aes-256-gcm
+    iv: 2a11cf6adc77d0ad4c975a2c
+    version: "1"
+  spam:
+    score: 7.96
+    marked: true
+  status: rejected
