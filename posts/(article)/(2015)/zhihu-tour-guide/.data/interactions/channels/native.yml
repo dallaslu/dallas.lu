@@ -1917,3 +1917,32 @@
     score: 9.67
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: d81b5b986782a09091702ea33cfe78ef9a047de7
+  author:
+    name: Samuelmug
+    lang: en
+    email:
+      value:
+        encrypted: NDU1OWE4YTNlNzBhMWI3MzEyYmI5ODM1OGUwMzE4MmRhMg==
+        algorithm: aes-256-gcm
+        iv: 72399090161118994ffa6f37
+        version: "1"
+      hash:
+        sha256: f1fb03bd2c08f0941d4f3d10f3a42c48e46c122c1b87e0a6bca21dcacd2ba873
+  published: 2025-04-04T09:43:40.014Z
+  content: Les plateformes de paris sportifs francaises proposent principalement
+    trois categories de bonus de bienvenue, chacune presentant des avantages
+    specifiques selon votre profil de parieur <a
+    href="https://anotepad.com/notes/gyx54pkm">https://anotepad.com/notes/gyx54pkm</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZGYxNjczMmU5Njc2YjFkOTE0NDBmNzZmODE=
+    algorithm: aes-256-gcm
+    iv: 2f559a0a23ea4a6e6e7021f6
+    version: "1"
+  spam:
+    score: 6.44
+    marked: true
+  status: rejected
