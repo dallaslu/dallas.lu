@@ -1946,3 +1946,36 @@
     score: 6.44
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 4627a9d11ec160e413480219664dea459b7eee8e
+  author:
+    name: Melvinstera
+    lang: en
+    email:
+      value:
+        encrypted: Njk0OTEwMDk2M2Q1NWQ5MTlmYTEwMjA3ZDkwNzdjODA2Zg==
+        algorithm: aes-256-gcm
+        iv: b874901da2795950cb532da5
+        version: "1"
+      hash:
+        sha256: 39efe4a05c955deeceedb0cf76d0a0306bff2af74173c2cf8bf61c7bbc32ef9b
+  published: 2025-04-04T09:51:36.752Z
+  content: Современный подход к созданию рефератов предлагает нейросеть —
+    инструмент, позволяющий студентам за считанные минуты получать уникальные и
+    грамотно структурированные тексты. Вместо самостоятельного поиска информации
+    и её длительной обработки, учащиеся могут сразу использовать готовые
+    материалы для решения учебных задач любой сложности. Высвободившееся
+    благодаря этому время студенты направляют на углубление знаний и
+    совершенствование аналитических способностей <a
+    href="http://alshkola1.ru/">gpt для написания реферата</a>
+  lang: zh-CN
+  ip:
+    encrypted: NjBhZTkzOTI5ZTM2OTdiOGI5ODc4MjY4ZWM0NQ==
+    algorithm: aes-256-gcm
+    iv: 2b34a5c08cf8ee0fb79ba141
+    version: "1"
+  spam:
+    score: 8.7
+    marked: true
+  status: rejected
