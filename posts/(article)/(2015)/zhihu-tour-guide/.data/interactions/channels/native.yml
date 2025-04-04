@@ -1826,3 +1826,36 @@
     score: 8.77
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 50b82dfbd32df3ebe820d55274b35d437afa733a
+  author:
+    name: Alfreddix
+    lang: en
+    email:
+      value:
+        encrypted: MWI4MDdlOWQ4OGU5OTU3MjgyMDhiZDU0ZjAyMjhhYzY1Mg==
+        algorithm: aes-256-gcm
+        iv: 8f5ff333ddde325521622ddd
+        version: "1"
+      hash:
+        sha256: 58b8dc6d715111897f7ebcef8c9c769209b22641fda5cc702eb9f662d6116b02
+  published: 2025-04-04T00:54:45.773Z
+  content: Нейросеть для написания реферата – это удобный и современный
+    инструмент, который помогает студентам быстро и легко готовить работы по
+    любым учебным дисциплинам. С её помощью можно получить структурированный,
+    грамотный и уникальный текст всего за несколько минут, значительно экономя
+    время на поиске информации и её обработке. Благодаря этому студенты могут
+    уделять больше внимания развитию своих аналитических навыков и освоению
+    новых знаний <a href="http://alstudy.ru/">написать реферат нейросеть
+    онлайн</a>
+  lang: zh-CN
+  ip:
+    encrypted: MzFhNTEyYTBhNGE5NWQyYmNiNGIzZmNkNjU=
+    algorithm: aes-256-gcm
+    iv: 59ca809591bb9fd8dc8c6fde
+    version: "1"
+  spam:
+    score: 8.69
+    marked: true
+  status: rejected
