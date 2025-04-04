@@ -1859,3 +1859,33 @@
     score: 8.69
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 08067d4b6e0603b68699e59d45485d111c9074d2
+  author:
+    name: Bernardhedge
+    lang: en
+    email:
+      value:
+        encrypted: MjEyNjllYTEyYzM3MTRjYTJiNTA4YTRjMWE4MGVjZWMxZQ==
+        algorithm: aes-256-gcm
+        iv: 6715e29adccf9ac5b106d206
+        version: "1"
+      hash:
+        sha256: d5794bf12bd536a57befa7c8069725e8646f6eef4cc645fcd7151f2be54cc521
+  published: 2025-04-04T01:31:03.081Z
+  content: Is there a catch in the Kent Casino bonus program? Or can I safely
+    register? I want to create an account, but I am afraid of hidden conditions.
+    For example, restrictions on games or sudden changes in the rules. Maybe
+    someone has already encountered unexpected nuances <a
+    href="https://postroimsami.net/viewtopic.php?t=10738">https://postroimsami.net/viewtopic.php?t=10738</a>
+  lang: zh-CN
+  ip:
+    encrypted: MGIyODRiNDg4YjRkNzc2ZDQ4NjRkZTlkZGQ4Nw==
+    algorithm: aes-256-gcm
+    iv: 81313d2a5f2fafc38974f2b9
+    version: "1"
+  spam:
+    score: 6.36
+    marked: true
+  status: rejected
