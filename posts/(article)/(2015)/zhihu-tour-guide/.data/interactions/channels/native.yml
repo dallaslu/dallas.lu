@@ -2122,3 +2122,32 @@
     score: 8.45
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ce6c5468d27afc5e44b2345bdb0af69184dc62a8
+  author:
+    name: HowardJak
+    lang: en
+    email:
+      value:
+        encrypted: YzhhZGQyMGNkNDA4ZmYxMDJkMGZkY2NiYzQxYTM3MWQ3Mw==
+        algorithm: aes-256-gcm
+        iv: defb04b9d35ef8d8ded7276a
+        version: "1"
+      hash:
+        sha256: 8627bebb666993ff6c137b6e34d7dc71b91f9da706e25271d639a86a903e8b20
+  published: 2025-04-05T23:03:01.430Z
+  content: French sports betting platforms mainly offer three categories of
+    welcome bonuses, each with specific benefits depending on your betting
+    profile <a
+    href="https://inscription1xbet.weebly.com/">https://inscription1xbet.weebly.com/</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZDE4YmMyZTI4Yzg5YzkyNmYzNGFlZTkwMGE=
+    algorithm: aes-256-gcm
+    iv: 483ce7b8dc9be5248ebf7bc0
+    version: "1"
+  spam:
+    score: 6.63
+    marked: true
+  status: rejected
