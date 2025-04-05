@@ -2038,3 +2038,30 @@
     score: 6.41
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 090c3bcd573004c3626c9e7415512989b0ee8d97
+  author:
+    name: Howardalads
+    lang: en
+    email:
+      value:
+        encrypted: ZWJjMzAzZThmNmQ4OWM1MmY2NWM3MDk3MzM1ZjFlYzgxOQ==
+        algorithm: aes-256-gcm
+        iv: 0f8b1c4f20acc86c9557eb0c
+        version: "1"
+      hash:
+        sha256: e2b4af8afd8e563554ae057215e28cd8fce9d744ce87c236a58b4a9f370a93bf
+  published: 2025-04-05T10:01:24.376Z
+  content: Current link BlackSprut Marketplace 2025 <a
+    href="https://bs2beast.cc">bs2best</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZTk4OWI1MzJjODllMWQ2NmI0Mzk0OTEyMjMzNA==
+    algorithm: aes-256-gcm
+    iv: 913919e45d1b8aef4a3e11bb
+    version: "1"
+  spam:
+    score: 6.74
+    marked: true
+  status: rejected
