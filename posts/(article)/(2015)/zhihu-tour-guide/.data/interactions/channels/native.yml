@@ -2009,3 +2009,32 @@
     score: 7.94
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e33dde894921b8f72d8d597d4751761f111251f0
+  author:
+    name: Josephbib
+    lang: en
+    email:
+      value:
+        encrypted: NWQ0MzFkYzg5OTllZmIwODY4ZWY3YmM3MWU4ZTY3NTljMQ==
+        algorithm: aes-256-gcm
+        iv: 468dbfc10b260bfa45a565c0
+        version: "1"
+      hash:
+        sha256: 2b38530f90c349fde144945ea99f1167a2f7b48f77d21f1816e481994fed46b6
+  published: 2025-04-05T09:56:55.385Z
+  content: Look, for quite a long time I was interested in a question about Payout
+    models in the MostBet affiliate program, so that you do not have any
+    problems I can safely say that now the best conditions are on this site <a
+    href="https://kinnoman.store/user/juhumItera/">https://kinnoman.store/user/juhumItera/</a>
+  lang: zh-CN
+  ip:
+    encrypted: Yjc4NTVkODlkNzA4MmZmZWM0N2I2NjhjMDg=
+    algorithm: aes-256-gcm
+    iv: ee1c3222abd1b0f25358ec28
+    version: "1"
+  spam:
+    score: 6.41
+    marked: true
+  status: rejected
