@@ -240,3 +240,29 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 44ec228ad66e0a3f3e3a340e50b0c3bd20d537d8
+  author:
+    name: Richardchell
+    lang: en
+    email:
+      value:
+        encrypted: OGNkZDYyZjZjYjRmYzdkYTZiZDkxMWVlZDhkYzczMWY=
+        algorithm: aes-256-gcm
+        iv: 1a2e25e2a5fbbbacd7f44e65
+        version: "1"
+      hash:
+        sha256: 5e95ae640aa9f0484c85e53e32c7e32edfbd22a63b790178a5f332725c2ce10a
+  published: 2025-04-06T23:04:38.255Z
+  content: "https://mixgreet.com/how-to-start-playing-on-1xbet/\r\n"
+  lang: en
+  ip:
+    encrypted: MTRiOTE5ZTlmNDRlYTA0Zjk5ZGU5OTZmOTU=
+    algorithm: aes-256-gcm
+    iv: ed2a950fdafd6f027677c828
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
