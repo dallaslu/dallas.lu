@@ -2151,3 +2151,31 @@
     score: 6.63
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5669c713a8f0ab1130f4e1a28924e97f10631470
+  author:
+    name: Terryedics
+    lang: en
+    email:
+      value:
+        encrypted: NjU4YzI3ZmI4NTQwOGJmMWFiMTdjYjYwZDNhZjgzNWYyMA==
+        algorithm: aes-256-gcm
+        iv: bdd7a7753aee2826c869c270
+        version: "1"
+      hash:
+        sha256: 8627bebb666993ff6c137b6e34d7dc71b91f9da706e25271d639a86a903e8b20
+  published: 2025-04-06T09:17:33.999Z
+  content: The 1xBet welcome bonus is one of the most generous offers in the
+    online betting market <a
+    href="https://eguidemagazine.com/wp-content/pages/1xbet_promo_code_for_registration_20.html">https://eguidemagazine.com/wp-content/pages/1xbet_promo_code_for_registration_20.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: M2Q0NDFjM2M3NWQ3MWE0ZTE4ODZhNTVmMWQwOQ==
+    algorithm: aes-256-gcm
+    iv: 2c949cb8c5671c90a20cbc40
+    version: "1"
+  spam:
+    score: 7.53
+    marked: true
+  status: rejected
