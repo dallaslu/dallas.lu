@@ -44,7 +44,7 @@ nostr:
 
 IPRoyal 提供 20 多个国家和地区的家宽 IP，并有静态和非静态两款产品。其中非静态是按流量收费，2 GB 流量的价格大约是 \$12。为了「一步到位」，最好还是静态家宽IP，价格是 90 天 \$10.8。基本都是买得越多折扣越大[^iproyal-pricing-static]。就权当是 ChatGPT Plus 涨价了几美元吧。
 
-访问 IPRoyal：[https://iproyal.com/?r=dallaslu](https://iproyal.com/?r=dallaslu) (Aff) (或者 [https://iproyal.com/](直接访问) )，点击 `Register` 按钮注册。注册时填写的手机号和国家等，建议与注册时所用 IP 保持一致，以确保最后能购买成功。验证邮箱后，就算注册成功了。
+访问 IPRoyal：[https://iproyal.com/?r=dallaslu](https://iproyal.com/?r=dallaslu) (Aff) (或者 [直接访问](https://iproyal.com/))，点击 `Register` 按钮注册。注册时填写的手机号和国家等，建议与注册时所用 IP 保持一致，以确保最后能购买成功。验证邮箱后，就算注册成功了。
 
 不过要购买静态家宽(`Static Residential`) IP 还需要做身份认证（KYC），这一点大家可能有疑虑，不过也很好理解，使用周期内该 IP 为你一人独占，如果你拿去做些访问儿童色情之类的敏感行为，FBI 免不了要找到你 Warning 一下吧。其使用 Identy 平台的认证服务，支持大陆身份。
 
