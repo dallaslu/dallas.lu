@@ -2207,3 +2207,33 @@
     score: 7.54
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: dbe4aa75db40991b3da04f7770fbe4f60c93aa17
+  author:
+    name: Keithtob
+    lang: en
+    email:
+      value:
+        encrypted: ODkwMWNmZDE1ZDQ2NjMzZTI2ZGYxYjI1YzdlNzY3NjMzZg==
+        algorithm: aes-256-gcm
+        iv: 8f3e1dead03f90e69b980094
+        version: "1"
+      hash:
+        sha256: be3078028629f92b68157d22011ddfa26b2fa7563bf0646f68283ec87baf0030
+  published: 2025-04-08T00:14:39.795Z
+  content: A phone number in the modern world is a second passport. A huge number
+    of services, messengers, social networks, banking are tied to a phone
+    number, and telephone communication is an integral part of business
+    development <a
+    href="https://millioner-otvet.ru/virtualnyj-nomer-telefona-indonezii-udobstvo-i-vozmozhnosti-dlya-biznesa/">https://millioner-otvet.ru/virtualnyj-nomer-telefona-indonezii-udobstvo-i-vozmozhnosti-dlya-biznesa/</a>
+  lang: zh-CN
+  ip:
+    encrypted: Yjk1ZDIxYzQ3ZWNlN2M4NTQyMmE4YjAwOWM=
+    algorithm: aes-256-gcm
+    iv: 11fe4468672aeef251ed95b6
+    version: "1"
+  spam:
+    score: 9.98
+    marked: true
+  status: rejected
