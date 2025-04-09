@@ -2295,3 +2295,32 @@
     score: 5.91
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: c0f52b46b635cf5d53c6c51bd13d9259e6e6600b
+  author:
+    name: Justinprula
+    lang: en
+    email:
+      value:
+        encrypted: MzgzNmM5N2EzMDY0Yjc5ZjczYTk0NGU0Yzk3ZDI4NmJkNg==
+        algorithm: aes-256-gcm
+        iv: 13d071f1e308a90d107be8f9
+        version: "1"
+      hash:
+        sha256: 14359832113653b88bfb0fbd38f6d1cb5ae314921473c87d95ca4d6742555cbf
+  published: 2025-04-09T23:47:38.845Z
+  content: Не знаете, что подарить на день рождения, юбилей или праздник? Сайт <a
+    href="http://mylnye-grezi.ru/chto-podarit-na-den-rozhdeniya-zheny-interesnye-idei/">http://mylnye-grezi.ru/chto-podarit-na-den-rozhdeniya-zheny-interesnye-idei/</a>
+    предлагает готовые решения — от практичных до креативных подарков. Подберите
+    идеальный вариант за пару кликов!
+  lang: zh-CN
+  ip:
+    encrypted: M2I5MzFjM2RmOGU4MDA0NjI4ZjM4YTY2ZDk=
+    algorithm: aes-256-gcm
+    iv: b64a33c1f4e33045f7f3753d
+    version: "1"
+  spam:
+    score: 9.95
+    marked: true
+  status: rejected
