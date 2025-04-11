@@ -2411,3 +2411,31 @@
     score: 6.19
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: aa208167ee32c687fc19ebe37c26cd3b845a4b18
+  author:
+    name: Danielcrype
+    lang: en
+    email:
+      value:
+        encrypted: YmQzYzdlY2M1ZGQ1ZGI2OWU1MDM3NTllOTllOWVjMjljZg==
+        algorithm: aes-256-gcm
+        iv: 3d559c65d7bc9f797249ec5f
+        version: "1"
+      hash:
+        sha256: 0c8f2bd8fb17b1ee2fc0f43a3ef05a6640beba80b61f335a93379cce83410fe0
+  published: 2025-04-11T09:15:07.615Z
+  content: Baltour — блог о путешествиях с характером. Исследуем города, природу,
+    маршруты и неожиданные места — по Балтике и не только. Без шаблонов, с душой
+    и реальными впечатлениями <a href="https://baltour.ru/">отдых</a>
+  lang: zh-CN
+  ip:
+    encrypted: MzVhN2IzYjM4ZjdkMDI1MjBlZWJhZmFl
+    algorithm: aes-256-gcm
+    iv: 8c581b865753c13215f44137
+    version: "1"
+  spam:
+    score: 8.98
+    marked: true
+  status: rejected
