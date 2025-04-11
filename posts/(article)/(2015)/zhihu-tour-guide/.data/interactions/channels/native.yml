@@ -2497,3 +2497,34 @@
     score: 9.07
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 67d1e01b6723989ead049ea877f517b9cce65808
+  author:
+    name: Vincentspami
+    lang: en
+    email:
+      value:
+        encrypted: MTA5YTAxYmY1NjUwZGVlNDY5MDI5MTcwYTFmZjBiZmIwZg==
+        algorithm: aes-256-gcm
+        iv: f9786ad57f4f465fbdc721e9
+        version: "1"
+      hash:
+        sha256: 66e8d15043b55f5bfe51145db9635325e6d62e653e99bdc561edc8e3d6387dc4
+  published: 2025-04-11T22:17:46.695Z
+  content: The application is available for Android and iOS, providing quick
+    access to the gameplay. Simple installation and user-friendly interface will
+    make the game comfortable, and the mobile version will allow you to enjoy
+    gambling entertainment anywhere <a
+    href="https://www.studiomazzoncini.it/2025/04/10/%f0%9f%8e%b0-%d0%ba%d0%b0%d0%b7%d0%b8%d0%bd%d0%be-banda-%d0%b8%d0%b3%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d1%8b-%d1%82%d0%be%d0%bf-%d1%81%d0%bb%d0%be/">Казино
+    Banda игровые автоматы</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzJhYTc3MThlMjg4MDY4MjVjZmRiYmRlYzIzOQ==
+    algorithm: aes-256-gcm
+    iv: 835cc8cd77a433ee9f70fa0a
+    version: "1"
+  spam:
+    score: 6.9
+    marked: true
+  status: rejected
