@@ -2469,3 +2469,31 @@
     score: 6.47
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 76f8cf81aba7754e7ee9def5d141f511a42270d3
+  author:
+    name: OscarUnsem
+    lang: en
+    email:
+      value:
+        encrypted: N2MyMjE1MTMwYzE5YmVmMTRkNzllMDMwMjY3ODAyNTI2NQ==
+        algorithm: aes-256-gcm
+        iv: 6e3bd7ec394340fd3510b3f7
+        version: "1"
+      hash:
+        sha256: cf6302dc1cc6641f34612690b9586eb3a56ccef0ffb5d16d168c16aead186416
+  published: 2025-04-11T17:22:19.913Z
+  content: ТОП-10 лучших сервисов для WhatsApp-рассылки WhatsApp является одним из
+    самых популярных мессенджеров в мире, с миллиардами активных пользователей
+    <a href="https://marketing-i.ru/">онлайн сервисы</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTZkMThiZjhmZTI1NDNiNmI1MGQzOGY3
+    algorithm: aes-256-gcm
+    iv: b39ed3c6cbe525af2a5ffa0d
+    version: "1"
+  spam:
+    score: 9.07
+    marked: true
+  status: rejected
