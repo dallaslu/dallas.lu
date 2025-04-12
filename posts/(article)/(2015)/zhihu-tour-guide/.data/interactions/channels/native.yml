@@ -2557,3 +2557,33 @@
     score: 7.2
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: fd5963db3790c54b442e2110fc142aae577e6a0d
+  author:
+    name: WillieLib
+    lang: en
+    email:
+      value:
+        encrypted: NmRhOGEwMmJiZWEyN2YyOWIyZmNlYjUwNzcxY2E0NWQ0MA==
+        algorithm: aes-256-gcm
+        iv: 06769fee16144954f8504d3d
+        version: "1"
+      hash:
+        sha256: c221372e61ec959fe5f7671b01749a147947bd9b23efd96a2d7fba138ca5d4bc
+  published: 2025-04-12T11:25:17.873Z
+  content: Jetton Casino pleases its users with a variety of bonuses. For
+    newcomers, there are welcome packages, including deposit incentives and free
+    spins <a
+    href="https://www.fimscorporation.com/news/%d0%b4%d0%b6%d0%b5%d1%82%d1%82%d0%be%d0%bd-%d0%ba%d0%b0%d0%b7%d0%b8%d0%bd%d0%be-jetton-casino-%d0%bf%d1%80%d0%be%d0%bc%d0%be%d0%ba%d0%be%d0%b4-%d0%b1%d0%be%d0%bd%d1%83%d1%81%d1%8b-%d0%b8/">Jetton
+    Casino промокод</a>
+  lang: zh-CN
+  ip:
+    encrypted: Y2ZhMzI2Yzg4MmE2NWVlMTYyZWJkZWRjODExMQ==
+    algorithm: aes-256-gcm
+    iv: f6d938778e8f2e9cdba23085
+    version: "1"
+  spam:
+    score: 7.26
+    marked: true
+  status: rejected
