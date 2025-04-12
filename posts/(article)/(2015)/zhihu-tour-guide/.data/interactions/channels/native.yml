@@ -2617,3 +2617,31 @@
     score: 6.87
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: da8df2d9318101b9a317799e64ffc90c1c2c7d62
+  author:
+    name: AnthonyNug
+    lang: en
+    email:
+      value:
+        encrypted: OGE2MWExYjU2NzQ1Mzk2MmU4MmQxZTU3ZmExMjk0YTMxNA==
+        algorithm: aes-256-gcm
+        iv: 707bc3a80e47bf5084e640b9
+        version: "1"
+      hash:
+        sha256: df8889ad803c67f48020ad2cfbd3ed60e2dbbdbe898614371478cd31056c78c6
+  published: 2025-04-12T19:35:48.759Z
+  content: детективное агентство экспертного уровня, при этом мы гарантируем
+    одинаково внимательный подход как корпоративным клиентам, так и частным
+    лицам <a href="http://justkidding-me.com">услуги детектива</a>
+  lang: zh-CN
+  ip:
+    encrypted: N2M4NTQwMTFlN2RiNWM5YmI1YjhlZTQ3YWI4NA==
+    algorithm: aes-256-gcm
+    iv: 8c63579ae66eae856184f12e
+    version: "1"
+  spam:
+    score: 6.1
+    marked: true
+  status: rejected
