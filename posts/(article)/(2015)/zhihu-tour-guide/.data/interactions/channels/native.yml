@@ -2528,3 +2528,32 @@
     score: 6.9
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 4f92b0acf5cbe4f8ff95ce123409ac23afdfd286
+  author:
+    name: Jamesnaw
+    lang: en
+    email:
+      value:
+        encrypted: YzBiNWQzZGVjNzVhYzIwNWRmYTE5NjA3OTllZjRkMTRlNg==
+        algorithm: aes-256-gcm
+        iv: f9b3f0ed32df24b9d7e11259
+        version: "1"
+      hash:
+        sha256: 2a018a92df6e06cceb0c36b341111d9410bd1502aa5b9dd34a13db7f7389cad9
+  published: 2025-04-12T09:33:28.760Z
+  content: Mobile phone numbers in South Korea also follow a specific structure.
+    South Korean mobile phone numbers usually start with 010 and consist of 11
+    digits in total <a
+    href="https://insideoyo.com/how-to-get-an-american-phone-number-your-guide-to-buying-usa-virtual-numbers">https://insideoyo.com/how-to-get-an-american-phone-number-your-guide-to-buying-usa-virtual-numbers</a>
+  lang: zh-CN
+  ip:
+    encrypted: NGI2OWI5OTcyOGFmYTc1MDdlYWJhOTcxNDQ=
+    algorithm: aes-256-gcm
+    iv: f41b1c95663a7106cb27dd0f
+    version: "1"
+  spam:
+    score: 7.2
+    marked: true
+  status: rejected
