@@ -2645,3 +2645,32 @@
     score: 6.1
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a67631a0de252ff710d2f291a4e13db622fdc833
+  author:
+    name: WalterCox
+    lang: en
+    email:
+      value:
+        encrypted: MjhjODFlMzY4ZDI1YzdkMDIxZjliZDZkMmU0YmUwMDZjOA==
+        algorithm: aes-256-gcm
+        iv: 734c8e74f7edb7fb2b6bd8ad
+        version: "1"
+      hash:
+        sha256: 03413c52a62959acc925d3897cba0cb811d4b950970366f35a965b35f5592916
+  published: 2025-04-13T10:43:08.878Z
+  content: Официальный сайт казино Monro. Регистрация и вход в личный кабинет. В
+    этом казино разрешается играть без регистрации, если использовать демо-режим
+    <a href="https://xn---365-43d6bhnrkegbfx.xn--p1ai">зеркало казино монро на
+    сегодня</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZjI1ZGEwZWI4MzQ4MTAwNDc0MmU4YmRlMWU4MA==
+    algorithm: aes-256-gcm
+    iv: 2dba63832b2e8de10a7f79a2
+    version: "1"
+  spam:
+    score: 6.21
+    marked: true
+  status: rejected
