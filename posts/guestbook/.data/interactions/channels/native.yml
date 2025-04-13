@@ -2003,3 +2003,32 @@
     score: 5.91
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: e286ca26b46c8adc6699a343738b31acc9b6d681
+  author:
+    name: BrianHom
+    lang: en
+    email:
+      value:
+        encrypted: M2RjM2M5MWNiNThiNzU4M2IyNjc1NjYzN2NiYzI5N2Q0NmEzNzc=
+        algorithm: aes-256-gcm
+        iv: ea0fa430e6efaad6c184d596
+        version: "1"
+      hash:
+        sha256: e3bed05226701f54ef07039b88ecfb985c2573eb3eab7d052fb4b1a3bad2ed65
+  published: 2025-04-13T17:16:01.041Z
+  content: "<a
+    href=\"https://ideianopapel.pt/2025/04/06/no-deposit-bonusangebote-bei-fatf\
+    ruit-fur-deutsche-2/\">https://ideianopapel.pt/2025/04/06/no-deposit-bonusa\
+    ngebote-bei-fatfruit-fur-deutsche-2/</a> \r\n"
+  lang: en
+  ip:
+    encrypted: ZWVmMTEwYzQ5ZWFlYjQzNGYzOWQzYWI0ZTQ1YWU3
+    algorithm: aes-256-gcm
+    iv: 46475cdccfd23756517ae8bc
+    version: "1"
+  spam:
+    score: 8
+    marked: true
+  status: rejected
