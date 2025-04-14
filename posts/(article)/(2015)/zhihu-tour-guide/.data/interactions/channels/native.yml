@@ -2765,3 +2765,30 @@
     score: 7.27
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7113d7ec02553481db6d8c7e0292facf1c8d052a
+  author:
+    name: Andrewelard
+    lang: en
+    email:
+      value:
+        encrypted: ZjAwYmQxYjM1NzdmMDk0ODVmMDhmMWYzOWI0M2FlMDA4NQ==
+        algorithm: aes-256-gcm
+        iv: 59c9a65845806ae46b3bc765
+        version: "1"
+      hash:
+        sha256: 836f4768a83f0e97f538dd0ea50afdb5ccecef411c62d034b5380d501387a245
+  published: 2025-04-14T18:23:31.964Z
+  content: Оптовый интернет - магазин керамический плитки и керамогранита <a
+    href="https://alliance-plitka.ru">Плитка опт</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZWRhZDcwOTgzMWM3YzhjYjZlNjlmMWViOThhNg==
+    algorithm: aes-256-gcm
+    iv: 03215df957d7b015dbb862a9
+    version: "1"
+  spam:
+    score: 9.58
+    marked: true
+  status: rejected
