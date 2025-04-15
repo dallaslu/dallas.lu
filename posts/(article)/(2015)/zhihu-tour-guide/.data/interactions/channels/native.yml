@@ -2792,3 +2792,31 @@
     score: 9.58
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 104e49b0142fb6b74f3c5b7eb7ce1184e0ebade4
+  author:
+    name: StevenVen
+    lang: en
+    email:
+      value:
+        encrypted: M2ExODYyZjQyMTcyMWYzNjg5ZTdmZjRjZWUyODUxOGFiNA==
+        algorithm: aes-256-gcm
+        iv: d190826bcf2b6ab4c95c0384
+        version: "1"
+      hash:
+        sha256: 6e662359392d3e16d227f4884b5e1829ab22e5ffade190b67a0e8e217eae9beb
+  published: 2025-04-15T00:28:00.821Z
+  content: 'Promo Code Use: Promo codes provide additional chances to win but may
+    have wagering requirements and time limitations <a
+    href="https://damgaarddelacruz69.wixsite.com/tanner/post/1xbet-promo-code-use-1xrun200-to-get-bonus-130">https://damgaarddelacruz69.wixsite.com/tanner/post/1xbet-promo-code-use-1xrun200-to-get-bonus-130</a>'
+  lang: zh-CN
+  ip:
+    encrypted: YzFkYzQzM2Q4MWUwNjNiNDQ3Y2MwYjMzNzc=
+    algorithm: aes-256-gcm
+    iv: 27ec7cfdb0a4902da91be978
+    version: "1"
+  spam:
+    score: 7.42
+    marked: true
+  status: rejected
