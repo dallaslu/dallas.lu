@@ -2847,3 +2847,30 @@
     score: 7.18
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 63eadf0c7c0c705159f18b91188a8608459fc794
+  author:
+    name: BrianFoobe
+    lang: en
+    email:
+      value:
+        encrypted: YTZhZGUyNmY5OWFkMTgzNGUyYjkzNGNhZDM1Mzg4MzE1YQ==
+        algorithm: aes-256-gcm
+        iv: 287bfeaf8fa93c27b66bc111
+        version: "1"
+      hash:
+        sha256: 311daeddb9a281333ff6d7f881f5e1de75f218538efb5c70c6d5f1a390c3591b
+  published: 2025-04-16T01:08:24.910Z
+  content: Оптовый интернет - магазин керамический плитки и керамогранита
+    alliance-plitka <a href="https://alliance-plitka.ru">alliance-plitka.ru</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTVlNjFmMzJkYTZiNGQyMjYyYjAwNzAzMzY=
+    algorithm: aes-256-gcm
+    iv: 9f46736d13c0c3b067c42856
+    version: "1"
+  spam:
+    score: 9.59
+    marked: true
+  status: rejected
