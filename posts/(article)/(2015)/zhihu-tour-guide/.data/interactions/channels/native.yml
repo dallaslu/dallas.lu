@@ -2874,3 +2874,31 @@
     score: 9.59
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5492ab8b36c29bc7023f191a8c52b48447078f83
+  author:
+    name: Victorpen
+    lang: en
+    email:
+      value:
+        encrypted: MjkzOWYxNDAzZGFlYTIyOTMzNmFjNTY1YTNhNWI4NzViNg==
+        algorithm: aes-256-gcm
+        iv: d8cffc0ba5fa799d000f4437
+        version: "1"
+      hash:
+        sha256: 8e1c70766a242ce954af950b22eab349ffa59fc7c3c41ae42df6385b866f51ac
+  published: 2025-04-16T09:21:42.501Z
+  content: All links are in the description! (that mean - here) Valve want us to
+    use Steam Guard Mobile Authenticator at all cost <a
+    href="https://sdasteam.com/">https://sdasteam.com/</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTYyN2M2OTQ3MmY0MDVkZDUzMGMwOTg0YWE5MA==
+    algorithm: aes-256-gcm
+    iv: 1a5fa4b3e6809918546260a3
+    version: "1"
+  spam:
+    score: 6.47
+    marked: true
+  status: rejected
