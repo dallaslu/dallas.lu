@@ -3104,3 +3104,60 @@
     score: 6.59
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 60068ba95c0ce4fcb7934fc9c44d2d53656014f6
+  author:
+    name: BrianHom
+    lang: en
+    email:
+      value:
+        encrypted: MjlmYWZlZDY3Y2U4ZmU4MWU5NTM0NzYyNzA4MDNkNGY3NjJkNDc=
+        algorithm: aes-256-gcm
+        iv: 68607167042fcc121d860a03
+        version: "1"
+      hash:
+        sha256: e3bed05226701f54ef07039b88ecfb985c2573eb3eab7d052fb4b1a3bad2ed65
+  published: 2025-04-17T23:35:46.038Z
+  content: "<a
+    href=\"https://vigase.com/2025/04/14/consigli-sul-blackjack-quando-e-il-mom\
+    ento-giusto-4/\">https://vigase.com/2025/04/14/consigli-sul-blackjack-quand\
+    o-e-il-momento-giusto-4/</a> \r\n"
+  lang: zh-CN
+  ip:
+    encrypted: NTUwZGM2NTgzNjRhODc1MDVkYzdmNzgxNGQ3MjQw
+    algorithm: aes-256-gcm
+    iv: 58bb3beea3076f327efdfa89
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
+- type: reply
+  channel: native
+  id: 2199a9394f8f9aa917f0f0b4614ece309af58ad7
+  author:
+    name: WilliamDut
+    lang: en
+    email:
+      value:
+        encrypted: MGEwMGVjZTFkZjFiMmZjOTY5MGQyMzNhNzQzZTY4MDRlNQ==
+        algorithm: aes-256-gcm
+        iv: 7b8ce538cfce3b30d28a4701
+        version: "1"
+      hash:
+        sha256: 6450df080667aacd13a81021f449d1f9e47dba5c50a04c329db980bcc43d6060
+  published: 2025-04-17T23:35:46.442Z
+  content: Whether you’re eyeing a Premier League upset or chasing jackpots on
+    vibrant slots, this exclusive offer sets you up for success <a
+    href="https://faceout.mn.co/posts/83195704?utm_source=manual">https://faceout.mn.co/posts/83195704?utm_source=manual</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzFiM2RmZTI3NWJkNjc1NjBhYThjNmIzOTI=
+    algorithm: aes-256-gcm
+    iv: ca66f7f030413d02cb4bf7b3
+    version: "1"
+  spam:
+    score: 6.97
+    marked: true
+  status: rejected
