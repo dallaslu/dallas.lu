@@ -3075,3 +3075,32 @@
     score: 7.42
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 272a1ebb4f935b6dc8899345d0fd0eda8ff8e3fa
+  author:
+    name: JamesMus
+    lang: en
+    email:
+      value:
+        encrypted: YzIxZDQ1YzE2M2FjZDc3MTg2ODAzNWUyNGQyM2JiYTY0MQ==
+        algorithm: aes-256-gcm
+        iv: 3120e01d7a8ac2c41a93758b
+        version: "1"
+      hash:
+        sha256: edcf188b46ce395ce3398072d07c2f983413f15ebe4a784a55490f015a873eae
+  published: 2025-04-17T23:31:37.914Z
+  content: This promo code grants new players a 100% bonus on their first deposit,
+    up to 15,600 BDT. This offer is designed to enhance your betting experience,
+    allowing you to get extra funds as soon as you make your initial deposit <a
+    href="https://phat4life.mn.co/posts/83168714?utm_source=manual">https://phat4life.mn.co/posts/83168714?utm_source=manual</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZWNmYWZkOTc5ZGNhYjU0MDliMzUxYzYwMDViMQ==
+    algorithm: aes-256-gcm
+    iv: 67896c64ceccac920aecc3b4
+    version: "1"
+  spam:
+    score: 6.59
+    marked: true
+  status: rejected
