@@ -2989,3 +2989,32 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 411a6e5832c1fd59f52a1b04ac519c77bb4507c1
+  author:
+    name: Donaldvex
+    lang: en
+    email:
+      value:
+        encrypted: OTMyYjIwYjRkMDJjZTgzMGM4ZmFiNWI4N2EyOGU2MzEwYg==
+        algorithm: aes-256-gcm
+        iv: cd4ac86eb2d24082242f0b2a
+        version: "1"
+      hash:
+        sha256: 84b1f0fbd6c69f65fcd0096b6d02498fdad6e5b8db1dd28d05535a3f0f81258e
+  published: 2025-04-17T00:43:50.772Z
+  content: SteamGuard mobile authenticator authorization codes directly in your
+    browser! Now you do not need to reach for your phone whenever Steam requests
+    authorization <a href="https://sdasteam.com/">скачать steam desktop
+    authenticator</a>
+  lang: zh-CN
+  ip:
+    encrypted: MDZlOTA5OThjYTlkMGVhZDFmYzU2ZTIwNDdmNw==
+    algorithm: aes-256-gcm
+    iv: fdb09ead51369df417278c06
+    version: "1"
+  spam:
+    score: 5.97
+    marked: true
+  status: auditing
