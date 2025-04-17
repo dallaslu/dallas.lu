@@ -3018,3 +3018,32 @@
     score: 5.97
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 631bf685059d370644ca9945941280c2518cac75
+  author:
+    name: JosephAmore
+    lang: en
+    email:
+      value:
+        encrypted: MWQyYTg3ODg1ZjI5YzA3NTdjYzQyMjE0M2IyOTVlYmFmMg==
+        algorithm: aes-256-gcm
+        iv: d9a306498b2906027a867141
+        version: "1"
+      hash:
+        sha256: 600c53243e625d8d21cf11761bac5e3e6d558c2e0fe2d845b6fcbc6a2b864d41
+  published: 2025-04-17T09:51:04.996Z
+  content: Если вы планируете поездку в Италию, первым шагом становится
+    определение необходимой визы. Для граждан стран, не входящих в Шенгенскую
+    зону, обязательно оформлять визу для въезда <a
+    href="http://www.new.jesusaction.org/bbs/board.php?bo_table=free&wr_id=6594115">http://www.new.jesusaction.org/bbs/board.php?bo_table=free&wr_id=6594115</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzQwZTEwNjhlYzMyYjAyNWFlNGZlZTEwYTYyNQ==
+    algorithm: aes-256-gcm
+    iv: 6334315c1fdbb9cd9e1c612f
+    version: "1"
+  spam:
+    score: 6.91
+    marked: true
+  status: rejected
