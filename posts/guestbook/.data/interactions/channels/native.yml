@@ -2032,3 +2032,43 @@
     score: 8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: dd364a9d13060e00c323628446bb8e1ec5e3b31c
+  author:
+    name: GarretWaK
+    lang: en
+    email:
+      value:
+        encrypted: YmFhNWE2ZjA4OGQ0NmYzYTY0ODc4MGUzZWIxYTFjZGNmM2E3ODdmMThhODhlOA==
+        algorithm: aes-256-gcm
+        iv: 6820b7cf602976c81c4e080a
+        version: "1"
+      hash:
+        sha256: c0a09177266a297d7ad7db9f5ed581fa37b7bdb4fca6f5c46ff7c43f308546f6
+  published: 2025-04-18T20:51:09.953Z
+  content: "Доброго времени суток! \r
+
+    Добро пожаловать на нашу страницу, где мы рассказываем о \r
+
+    финансовой грамотности и управлении личными финансами. Ознакомьтесь с нашими
+    полезными советами и \r
+
+    стратегиями, которые помогут вам строить успешный бюджет, накапливать и
+    инвестировать средства. Не \r
+
+    пропустите возможность улучшить свое финансовое положение и сделать шаг
+    навстречу финансовой \r
+
+    независимости! \r
+
+    Смотреть здесь: https://talkline.co.in/read-blog/50918"
+  lang: en
+  ip:
+    encrypted: OTFhOTkzNGI3MDI0MjhjN2E0NTJhYmM1OWMwOA==
+    algorithm: aes-256-gcm
+    iv: 1d3e48c8b4aa9d36de85443a
+    version: "1"
+  spam:
+    score: 3.92
+  status: auditing
