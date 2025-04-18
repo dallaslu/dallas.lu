@@ -3161,3 +3161,35 @@
     score: 6.97
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: cea7385c128dfbb3180e3a9fac6b796b73932b9b
+  author:
+    name: Clydewhose
+    lang: en
+    email:
+      value:
+        encrypted: NGQwYzZiNDRkNjMyNThhM2QzNWJhZTk2ZjViMTNiNDFhYw==
+        algorithm: aes-256-gcm
+        iv: a98cdcd7fcbb4e46be761e5d
+        version: "1"
+      hash:
+        sha256: 9a454fbb74770b0ccf3ef3d2bf453945e77c19db959b6e1be6bb9cb344e1f1e1
+  published: 2025-04-18T19:33:02.707Z
+  content: 'Джойказино: мир азарта и больших возможностей!Погрузитесь в атмосферу
+    ярких эмоций! Сотни слотов, live-игры с реальными дилерами, турниры с
+    призами — выбирайте развлечения по вкусу. Регистрация за пару кликов, бонусы
+    для всех игроков и моментальные выплаты. Лицензия гарантирует честность, а
+    поддержка работает круглосуточно. Удобный интерфейс и мобильная версия
+    оценят даже новички <a
+    href="https://www.noifias.it/read-blog/48272_evolyuciya-igrovyh-avtomatov-kak-prostye-mehanizmy-prevratilis-v-cifrovye-miry.html">https://www.noifias.it/read-blog/48272_evolyuciya-igrovyh-avtomatov-kak-prostye-mehanizmy-prevratilis-v-cifrovye-miry.html</a>'
+  lang: zh-CN
+  ip:
+    encrypted: NGVkNWZjN2FlNWM5NTUxODM4ZDJmNDVkMjZiYQ==
+    algorithm: aes-256-gcm
+    iv: 197b6ca0a67375872ce2d4d0
+    version: "1"
+  spam:
+    score: 6.71
+    marked: true
+  status: rejected
