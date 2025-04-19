@@ -3221,3 +3221,32 @@
     score: 6.29
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 42a77b4f5397576fb83145f1893f05f21ead235c
+  author:
+    name: Williamcen
+    lang: en
+    email:
+      value:
+        encrypted: YzllNzQzY2Y2ZjM4MGU4ZDdkYjdlNjFlZTg2NzQ3NTA1Nw==
+        algorithm: aes-256-gcm
+        iv: 214d12e993e971311487db9d
+        version: "1"
+      hash:
+        sha256: 5da09de4853a8a7d3b1a0397ff1b9bfb0d377a06e796fbe8a7028e7d77c30fab
+  published: 2025-04-19T14:20:38.967Z
+  content: 'Promo Code Use: Promo codes provide additional chances to win but may
+    have wagering requirements and time limitations <a
+    href="https://asdcbn.bigcartel.com/product/1xbet-promo-code-use-1xbro200-bonus-130">1xbet
+    promo code today sri lanka</a>'
+  lang: zh-CN
+  ip:
+    encrypted: OWE0OGI4YjdmZTk0MGJmZGQwOWFhMDdmNjY=
+    algorithm: aes-256-gcm
+    iv: 972c0e7eb68a404a3137fd1b
+    version: "1"
+  spam:
+    score: 6.63
+    marked: true
+  status: rejected
