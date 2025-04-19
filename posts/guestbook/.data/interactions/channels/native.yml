@@ -2072,3 +2072,45 @@
   spam:
     score: 3.92
   status: auditing
+- type: reply
+  channel: native
+  id: 1d5ea48d4083a23111f2d14e2a9a4cb711a778ac
+  author:
+    name: RobertMop
+    lang: en
+    email:
+      value:
+        encrypted: NzRhMWZkYTdjNmRlNzhkNTZjOWZlOTJhOTZmZmRiYjA5OWVl
+        algorithm: aes-256-gcm
+        iv: 5d4c27bf01f0e16ff7f212ed
+        version: "1"
+      hash:
+        sha256: a63f22d3e41d3469d9a2eacb7228db3ef35a831bc64f2e168fdd18b2638f52a4
+  published: 2025-04-19T14:01:50.358Z
+  content: "Приветственные бонусы и промоакции 1xBet 2025 \r
+
+    \ \r
+
+    <a href=https://magicmag.net/image/pgs/?1xbet_promokod_55.html>рабочий
+    промокод 1xbet бонус</a> дает эксклюзивный бонус до 32500 рублей для ставок
+    на спорт. Нужно будет взять этот код из нашего источника и ввести его при
+    регистрации. Платформа дает 4 способа авторизации на выбор, и пополнить счет
+    на сумму от 100 RUB, после чего на игровой баланс поступит 130% от суммы
+    первого депозита, их нужно будет отыграть в разделе ставок на спорт с
+    вейджером х5, цепочка событий должна состоять не менее чем из 3-х с
+    коэффициентом от 1,4. На отыгрыш Вам дается 30 дней, от дня активации кода.
+    Почему этот бонус нужно использовать без раздумий? \r
+
+    При его вводе, Вам деньги начисляет именно букмекер 1xBet, тоесть играете Вы
+    за его счет, и заработать кругленькую сумму можно без вложения своих
+    средств."
+  lang: en
+  ip:
+    encrypted: Nzg4OWYyMzMzNDk5N2Q5NTExZGFjMTkx
+    algorithm: aes-256-gcm
+    iv: a2183b9f6ff2042f32c1e65c
+    version: "1"
+  spam:
+    score: 4.75
+    marked: true
+  status: auditing
