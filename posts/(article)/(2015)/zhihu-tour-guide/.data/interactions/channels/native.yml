@@ -3250,3 +3250,32 @@
     score: 6.63
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: cc0145dcc36cb0d42ab8d428a8fb45abdf3f4473
+  author:
+    name: Michealcaf
+    lang: en
+    email:
+      value:
+        encrypted: M2UxMDA3ZjM0Mzk1NTMwYTk4OWZmYjlkMGRjM2E1NzA4MA==
+        algorithm: aes-256-gcm
+        iv: d82a111c229f25c929b5c666
+        version: "1"
+      hash:
+        sha256: 42a0400ca899980a9dbcf619d97b192ebb3fa1223c7027daadfb04ac1bb0853e
+  published: 2025-04-19T19:05:35.388Z
+  content: 'Promo Code Use: Promo codes provide additional chances to win but may
+    have wagering requirements and time limitations. Ensure to check the terms
+    and conditions <a
+    href="https://payhip.com/b/wDHmn">https://payhip.com/b/wDHmn</a>'
+  lang: zh-CN
+  ip:
+    encrypted: YTYyOGFiODRmMTZmYWMzMTlhNmIzMzY5ZGE=
+    algorithm: aes-256-gcm
+    iv: 318f330ab3e9b7a50b44e4dc
+    version: "1"
+  spam:
+    score: 6.39
+    marked: true
+  status: rejected
