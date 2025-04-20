@@ -3336,3 +3336,31 @@
     score: 7.49
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 556b1af625d6a379d75334862f9ec6d39e016a33
+  author:
+    name: TylernuM
+    lang: en
+    email:
+      value:
+        encrypted: MDk5OTQxMDM4ZmE2MjIyODJhMjdmMGQ2Yjk5MDczMzAwNA==
+        algorithm: aes-256-gcm
+        iv: fa14c0b43fcfebdfa631d08b
+        version: "1"
+      hash:
+        sha256: 13d7f7f4d2796d092da8a78fc516d3ec6aab6b97ebfdf11e979f1ee6af189394
+  published: 2025-04-20T02:27:03.425Z
+  content: 1xCasino welcome bonus is a package active across your first four
+    deposits. New customers will claim up to €2205/$2420 <a
+    href="https://theplayoffs.news/en/1xbet-bonus-code/">1xcasino promo kodu</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTdiZmFmOTYwN2ViMzZjZjk3NDZhMzBl
+    algorithm: aes-256-gcm
+    iv: ff82103a48be576b00ce525f
+    version: "1"
+  spam:
+    score: 6.41
+    marked: true
+  status: rejected
