@@ -3393,3 +3393,30 @@
     score: 6.2
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 036342f1af78d21386c1b0db058a2fea60835e4a
+  author:
+    name: RobertTiels
+    lang: en
+    email:
+      value:
+        encrypted: MTM5Mzc4NzZhNzM5ODQ1M2Y1M2MyOTg0YjUzMzcxMjQwZg==
+        algorithm: aes-256-gcm
+        iv: dd1d3a90556264395f28fd0c
+        version: "1"
+      hash:
+        sha256: 8201747231d783c69193ff066d4df0cf0c2e0eb75c74e32945032bfa3f81f9f7
+  published: 2025-04-20T22:41:50.178Z
+  content: Это довольно короткий рассказ о девушке с необычной профессией. Марго –
+    профессиональный киллер <a href="http://stickyday.com">робота для кілера</a>
+  lang: zh-CN
+  ip:
+    encrypted: NTI5Y2UzMWRjNjgxNWM1MjlhNjM0MTg3NTQwYg==
+    algorithm: aes-256-gcm
+    iv: 10dc5d8212569bedba203181
+    version: "1"
+  spam:
+    score: 6.21
+    marked: true
+  status: rejected
