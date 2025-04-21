@@ -3448,3 +3448,32 @@
     score: 7.29
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 970b4e04b68fbe71a9eedb28eb54ecd3e1f123da
+  author:
+    name: RogerBrina
+    lang: en
+    email:
+      value:
+        encrypted: MTExODRhNjg2ZGQ4MThjNjcxNmM2MzIxNjE0MjU4NDc4OA==
+        algorithm: aes-256-gcm
+        iv: db3bebcdbbc185d4ab0f4b2a
+        version: "1"
+      hash:
+        sha256: 53aac4ed132e483d723a706dbe3244aca30793d07cb923b8a575dfa079f96a69
+  published: 2025-04-21T09:51:28.187Z
+  content: What if you double your funds before even placing your first bet? With
+    the 1xBet promo code 1XBRO200, new players can kick-start their adventure
+    with a 100% welcome bonus <a
+    href="https://oregon-swing-netork.mn.co/posts/83270655?utm_source=manual">https://oregon-swing-netork.mn.co/posts/83270655?utm_source=manual</a>
+  lang: zh-CN
+  ip:
+    encrypted: N2M1OGM3NWVmMjFmMzcwNTRlNmQ3ZGZkNmE=
+    algorithm: aes-256-gcm
+    iv: f30dca08c33c79fc03a4c701
+    version: "1"
+  spam:
+    score: 6.89
+    marked: true
+  status: rejected
