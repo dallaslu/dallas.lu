@@ -3565,3 +3565,32 @@
     score: 6.9
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e5341c4c1516ee6bb2a7ee129210045829f34a08
+  author:
+    name: CharlesMes
+    lang: en
+    email:
+      value:
+        encrypted: NzRmYWIxM2QzOWIwNDFkZWIzZjM3NDRhYTUwNzE0YWUyYg==
+        algorithm: aes-256-gcm
+        iv: 89db1b44af58782e3be66aa9
+        version: "1"
+      hash:
+        sha256: 658a73eaf4f5685cc167e9ae8d9791f600163bf170bdb1f59401c036f78911bd
+  published: 2025-04-22T09:51:19.088Z
+  content: 1xBet — download the app for Android and iOS. The 1xBet app allows
+    millions of players from all over the world to place sports bets as quickly
+    as possible <a
+    href="https://www.finlandmlbforum.com/read-blog/18797">https://www.finlandmlbforum.com/read-blog/18797</a>
+  lang: zh-CN
+  ip:
+    encrypted: YjhjNDE5YTFmYTNmMTUwNWNiODIwNDIwZjQ=
+    algorithm: aes-256-gcm
+    iv: a67c70a37c382fc5be753846
+    version: "1"
+  spam:
+    score: 6.74
+    marked: true
+  status: rejected
