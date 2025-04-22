@@ -3594,3 +3594,31 @@
     score: 6.74
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c92e40abd4f9bead2da93cfe250a675f185221e5
+  author:
+    name: DavidSicky
+    lang: en
+    email:
+      value:
+        encrypted: M2JlZDdjMTRkOTAzNWMyZjI4MzBiODZjN2JjZDFhNjMxZA==
+        algorithm: aes-256-gcm
+        iv: 5050edeb16943f05287add42
+        version: "1"
+      hash:
+        sha256: 899f42658cd8dc01e9c21c3b67bb349145135b718a9974da0ae824b10f7d7124
+  published: 2025-04-22T10:36:08.167Z
+  content: 'Melbet is not just a casino, but also a bookmaker platform with bets
+    on popular sports: football, basketball, tennis, hockey and others <a
+    href="https://webhitlist.com/profiles/blogs/code-promo-melbet-pour-bonus-gratuit-jusqu-130">https://webhitlist.com/profiles/blogs/code-promo-melbet-pour-bonus-gratuit-jusqu-130</a>'
+  lang: zh-CN
+  ip:
+    encrypted: NzdmYWMyMzAxMGU0YmI1NTllYjE3ZTdlZWJmOA==
+    algorithm: aes-256-gcm
+    iv: e2655ed5dfcfffd460bc42f6
+    version: "1"
+  spam:
+    score: 7.22
+    marked: true
+  status: rejected
