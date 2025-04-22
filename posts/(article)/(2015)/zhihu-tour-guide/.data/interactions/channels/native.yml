@@ -3622,3 +3622,31 @@
     score: 7.22
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2e79a927c00aa82bc7aa73db5463b8ae9e5abe0b
+  author:
+    name: DarrelSef
+    lang: en
+    email:
+      value:
+        encrypted: ODAxNDEzMGRjNGE3NjMyZGJlMDFlNmI1MTFlZTNkZjMwNw==
+        algorithm: aes-256-gcm
+        iv: fc3fb444f5a803eaf21e1c11
+        version: "1"
+      hash:
+        sha256: 80188fc593015b4369426d6889629a15787d8a9287c8c471c84b9db261c1d5af
+  published: 2025-04-22T19:28:56.524Z
+  content: Производитель прозрачных силиконовых скатертей гибкое стекло на
+    современном оборудовании с доставкой по всей России <a
+    href="https://dj-shop.ru/category/zhidkoe-steklo/">жидкое стекло на стол</a>
+  lang: zh-CN
+  ip:
+    encrypted: YWI3Y2I2ZWY4YzA2NDM1OWE0NzM1ZGFhMTM=
+    algorithm: aes-256-gcm
+    iv: 7af8f6096b45cf797609efea
+    version: "1"
+  spam:
+    score: 9.39
+    marked: true
+  status: rejected
