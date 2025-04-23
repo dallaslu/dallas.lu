@@ -3677,3 +3677,30 @@
     score: 6.76
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: dc7dada23269db462cbf62399783ff8e3925c9b1
+  author:
+    name: AlbertAvess
+    lang: en
+    email:
+      value:
+        encrypted: ZmQ4ZDQzZDU2NGExMzQ1NGFhMTU4MjViZDE5ZTNkYzI2Ng==
+        algorithm: aes-256-gcm
+        iv: eba5d4e27c23d3e35577e78b
+        version: "1"
+      hash:
+        sha256: 510943f72cb49ae30a049fe3ece598fbf4eff2b68ab1b294681c5742bfb9264b
+  published: 2025-04-23T09:29:41.247Z
+  content: Скатерть из силикона от производителя является абсолютно безопасной.
+    Она не испаряет токсичных соединений <a href="https://dj-shop.ru/">Тут</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTY0MzZmNDBlNjg1ZDFkOTFlMTgzZjQ2Zjk=
+    algorithm: aes-256-gcm
+    iv: b416602c603f9d716c63fe49
+    version: "1"
+  spam:
+    score: 9.21
+    marked: true
+  status: rejected
