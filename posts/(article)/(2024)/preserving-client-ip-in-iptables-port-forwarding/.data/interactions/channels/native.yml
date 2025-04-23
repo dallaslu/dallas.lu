@@ -41,3 +41,20 @@
     iv: de388dab25d2dc02212eeb06
     version: "1"
   target: ae642fe3c96e6bd92c55e0e82521f1add63208f3
+- type: reply
+  channel: native
+  id: 7e292e31ce7231fae03a64f6561f421c6a1dee07
+  author:
+    name: Tony
+    lang: zh-CN
+  published: 2025-04-23T21:00:49.107Z
+  content: 你好，作者这篇文章很受用。但我目前的场景是，Proxy 1.1.1.1 是Debian系统，而Server 2.2.2.2
+    是Windows系统。Debian和Windows之间利用WireGuard进行隧道连接，按照你您的教程，无法转发端口成功（还未进行到是否能收到源IP这一步）。在网上查了很多资料也问了很多AI，始终无法转发端口。您是否有空出一篇Linux转发端口到Win的教程？谢谢。
+  lang: zh-CN
+  ip:
+    encrypted: OGQ3NGJlYjE3NTQ1NDNmMWY2MjY0Ng==
+    algorithm: aes-256-gcm
+    iv: 02e046e0b4cb090954ef1276
+    version: "1"
+  spam:
+    score: 1.34
