@@ -3761,3 +3761,32 @@
     score: 6.57
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2ba1c5856720212d0c93a1bb07bbcb23e9d1957e
+  author:
+    name: JeffryWab
+    lang: en
+    email:
+      value:
+        encrypted: NGRjODFkZDJhYWY3ZjY5MDBjMjNlNWVmYmVjODJhY2U4OQ==
+        algorithm: aes-256-gcm
+        iv: ea95c697e29c267a7d0e4be9
+        version: "1"
+      hash:
+        sha256: 334fbe8087bbd036e8d66920331eb37468c6e9c95e006619cb67c426c90572c3
+  published: 2025-04-24T16:51:38.169Z
+  content: Нужен срочный вызов сантехника в Алматы? Профессиональные мастера
+    оперативно решат любые проблемы с водопроводом, отоплением и канализацией.
+    Доступные цены, выезд в течение часа и гарантия на все виды работ <a
+    href="https://vyzov-santehnika-almaty.kz/">сантехник на дом алматы</a>
+  lang: zh-CN
+  ip:
+    encrypted: MmJjNDkzYjRhMGI2YjZiZjY3NTYyZWQzZGM4NQ==
+    algorithm: aes-256-gcm
+    iv: a56e375e95e4b1008988f41d
+    version: "1"
+  spam:
+    score: 6.04
+    marked: true
+  status: rejected
