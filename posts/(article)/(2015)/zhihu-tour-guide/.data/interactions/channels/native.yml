@@ -3790,3 +3790,31 @@
     score: 6.04
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3060cb76c0d6b7492a364882bd175a4f48ddf860
+  author:
+    name: Anthonyfaf
+    lang: en
+    email:
+      value:
+        encrypted: NzM5ZTIxZmMzNTdiNDE5OTk1NjcxZjQ4YWY0ZDIwZWU0Mg==
+        algorithm: aes-256-gcm
+        iv: 4e6485a5a9fa32662c75abd9
+        version: "1"
+      hash:
+        sha256: 646ae1dcc38485cbfbacee37560b26f92b1cbffbfaf5806fa743e12409a58aa6
+  published: 2025-04-25T07:44:36.755Z
+  content: Цены на сантехнические услуги формируются в зависимости от сложности
+    работ, типа оборудования, объема и времени выезда <a
+    href="https://vyzov-santehnika-almaty.kz/">сантехник на дом</a>
+  lang: zh-CN
+  ip:
+    encrypted: NmMxNjZhMTc3OTBlMTQ3YTY3NTI1ZGExMTUwOQ==
+    algorithm: aes-256-gcm
+    iv: b349455cf1cfd8f48f74cc02
+    version: "1"
+  spam:
+    score: 6.31
+    marked: true
+  status: rejected
