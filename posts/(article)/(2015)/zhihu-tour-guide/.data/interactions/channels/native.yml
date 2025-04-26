@@ -3908,3 +3908,30 @@
     score: 6.79
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a474579dd16231a2a3773b773604804f510754a1
+  author:
+    name: FrankMob
+    lang: en
+    email:
+      value:
+        encrypted: NGQwNTg1YjZkNzYxMGYzZTdkMDQyOWY5YjRiMGQyOTQwZQ==
+        algorithm: aes-256-gcm
+        iv: 024f94eb24bea332ddb27eb6
+        version: "1"
+      hash:
+        sha256: 5ed1bffd01ee0a8e341eda84e3d130d3f5038a727859ef01bafd7771fa05f145
+  published: 2025-04-26T23:38:14.856Z
+  content: Hitman World of Assassination brings together the best elements of
+    Hitman <a href="https://justpaste.it/gsbpk">how to take revenge</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTFkNjY3NTJjNDkzNTg1MmNlZjFjMmNhOWY=
+    algorithm: aes-256-gcm
+    iv: d10d8b0524516769f962777b
+    version: "1"
+  spam:
+    score: 6.42
+    marked: true
+  status: rejected
