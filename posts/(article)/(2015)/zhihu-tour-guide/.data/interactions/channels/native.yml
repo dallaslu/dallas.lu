@@ -3880,3 +3880,31 @@
     score: 6.03
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f0aef98bbfdadb3d7bcde06c4be6497f20c9be37
+  author:
+    name: MarioClorb
+    lang: en
+    email:
+      value:
+        encrypted: MzMxYzdhMjM3YTUyYmIzOWI0MTBlZmI3ZDQxZmI3NDgzZg==
+        algorithm: aes-256-gcm
+        iv: 01f903ae49a06824528ca92b
+        version: "1"
+      hash:
+        sha256: 92cb90cd6c0ed09eb83dc4016ba9ec3bd80bbee2562983ec0495ab822663f3d8
+  published: 2025-04-26T01:05:06.754Z
+  content: Услуги сантехника Алматы. Все виды сантехнических услуг. Получите
+    бесплатную консультацию по ремонту за 5 минут <a
+    href="https://vyzov-santehnika-almaty.kz/">https://vyzov-santehnika-almaty.kz/</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzRiYTVjNDE2ODA4NzBlNTllMmNlMDk0NTM=
+    algorithm: aes-256-gcm
+    iv: e8ba839c5b32f76324f12633
+    version: "1"
+  spam:
+    score: 6.79
+    marked: true
+  status: rejected
