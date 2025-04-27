@@ -337,3 +337,31 @@
     score: 5.04
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 9e5d56657f5820ea11b11feeade83787a7088275
+  author:
+    name: Donaldsed
+    lang: en
+    email:
+      value:
+        encrypted: MDg4ZDk3ZDY2NGUxOThlYzk3MDBkNzIwZGY2OWUzMzc=
+        algorithm: aes-256-gcm
+        iv: 0c8548214f34f78a158e941d
+        version: "1"
+      hash:
+        sha256: 8db399599330eaa68bdabc6960c5cc668633e674f1cd8f4f21d6992e2907adfe
+  published: 2025-04-27T04:08:55.770Z
+  content: "<a
+    href=\"https://virtual-local-numbers.com/virtualnumber/virtual-sms-number.h\
+    tml\">get virtual phone number for sms</a>\r\n"
+  lang: en
+  ip:
+    encrypted: YTYyNjIzN2ZlYTkzZTQ2MWY0MmVkMjYwNDM=
+    algorithm: aes-256-gcm
+    iv: 2ae58ee31cd32cb08a67893f
+    version: "1"
+  spam:
+    score: 5.19
+    marked: true
+  status: auditing
