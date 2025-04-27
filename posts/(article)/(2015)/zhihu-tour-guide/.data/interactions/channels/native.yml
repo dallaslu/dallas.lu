@@ -3964,3 +3964,30 @@
     score: 5.41
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: e204bf6ade7e2dfdec83a4e0f92bfc1b1fcd8249
+  author:
+    name: Jeremyfat
+    lang: en
+    email:
+      value:
+        encrypted: M2U2ZTNlZmFkYTY0NzdhZGE5MzQzMDJmYjJmZDAyODU5Y2I2
+        algorithm: aes-256-gcm
+        iv: bb8029355216cc449526601f
+        version: "1"
+      hash:
+        sha256: 62450a4e4d5e1a5eebd36d67334a55a20036324af50819ae1aad618a964a5eb8
+  published: 2025-04-27T10:55:38.239Z
+  content: The Assassin seeks a path to peace, although he himself allows murder
+    <a href="https://pastelink.net/lvv3vqyc">Hire an assassin</a>
+  lang: zh-CN
+  ip:
+    encrypted: OWJiYzNmNjEzZjJhMDVhM2YzYmNmYjE0NzE=
+    algorithm: aes-256-gcm
+    iv: 5ec6360f15c01f3b39a3fd36
+    version: "1"
+  spam:
+    score: 6.53
+    marked: true
+  status: rejected
