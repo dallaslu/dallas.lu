@@ -4048,3 +4048,31 @@
     score: 7.29
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 6f6398eae6d55c4df36ecf4ab16701d5e3bb1700
+  author:
+    name: ErnestObemo
+    lang: en
+    email:
+      value:
+        encrypted: ZTBjMGU1YTJmZmFiZTBiNDY2ZTYxZGMzYTNjMDliY2FlN2Uy
+        algorithm: aes-256-gcm
+        iv: 4637ac75ae2fd89eeb0bf9d2
+        version: "1"
+      hash:
+        sha256: 28626b02cc5ceae2d4778d5428c7d67133a1bceb8ac9f43b31b8867824492b9e
+  published: 2025-04-27T23:50:35.578Z
+  content: Melbet isn’t just a betting site—it’s a global leader trusted by
+    millions of players worldwide <a
+    href="https://www.gabitos.com/eldespertarsai/template.php?nm=1745235741">https://www.gabitos.com/eldespertarsai/template.php?nm=1745235741</a>
+  lang: zh-CN
+  ip:
+    encrypted: N2Q2Njc1ZjkyNmYzMWZjMjkyYzdmMjA2NzUyZQ==
+    algorithm: aes-256-gcm
+    iv: 1b822023c6163fe1a41b2e3d
+    version: "1"
+  spam:
+    score: 7.31
+    marked: true
+  status: rejected
