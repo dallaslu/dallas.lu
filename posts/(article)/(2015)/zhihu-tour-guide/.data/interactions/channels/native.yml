@@ -3991,3 +3991,32 @@
     score: 6.53
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: eb5f8839e46bd387cf4616d1076aa9fa91923164
+  author:
+    name: Stevenneida
+    lang: en
+    email:
+      value:
+        encrypted: NWFjMjZjM2E1ZmM0ZGQ4MGFiMjllZjkwOWI1YWRmMjZiZWI0
+        algorithm: aes-256-gcm
+        iv: 175e41d86d0094dd0896ba3a
+        version: "1"
+      hash:
+        sha256: 768a64106dc4d9867fef548ceb4e1fc031bc59540e93b58d79c12445e8d4eb04
+  published: 2025-04-27T14:48:53.769Z
+  content: 'Promo Code Use: Promo codes provide additional chances to win but may
+    have wagering requirements and time limitations. Ensure to check the terms
+    and conditions <a
+    href="https://telegra.ph/Code-Promo-1xBet-Comores--50000-KMF-de-bonus-04-21">https://telegra.ph/Code-Promo-1xBet-Comores--50000-KMF-de-bonus-04-21</a>'
+  lang: zh-CN
+  ip:
+    encrypted: ZGYzM2U0YTZhNWE1NTMyOGFhNDBjNWMxOTFlNw==
+    algorithm: aes-256-gcm
+    iv: dc6171dc14771208f17a422b
+    version: "1"
+  spam:
+    score: 6.97
+    marked: true
+  status: rejected
