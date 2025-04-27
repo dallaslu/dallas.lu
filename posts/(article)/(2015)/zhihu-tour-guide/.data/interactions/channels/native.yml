@@ -4020,3 +4020,31 @@
     score: 6.97
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 02af8d5fea1cb573fecb0d0c30447e984963fa17
+  author:
+    name: Stevenhak
+    lang: en
+    email:
+      value:
+        encrypted: MzVjNjJiY2ZhNjRjODA3ZDYzZjNlYTUwMmU1YTY0MGFiZmZh
+        algorithm: aes-256-gcm
+        iv: d9a23a2482a810934b4ee555
+        version: "1"
+      hash:
+        sha256: 598048b836ac86eb126b13b4b654b999d3afb40ca6674c64ca3100b954353658
+  published: 2025-04-27T18:57:11.034Z
+  content: This bonus applies to both sports betting and casino games, offering
+    complete flexibility to new players <a
+    href="https://www.bipko.net/code-promo-1xbet-senegal-bonus-jusqua-80-000-xof">https://www.bipko.net/code-promo-1xbet-senegal-bonus-jusqua-80-000-xof</a>
+  lang: zh-CN
+  ip:
+    encrypted: NjExMGVhMGQxYjBkN2VmMmU1NDIxNzQyOTY=
+    algorithm: aes-256-gcm
+    iv: 2cc0018fbfc44d5044163a24
+    version: "1"
+  spam:
+    score: 7.29
+    marked: true
+  status: rejected
