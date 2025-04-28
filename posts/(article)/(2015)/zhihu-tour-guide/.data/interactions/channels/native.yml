@@ -4162,3 +4162,32 @@
     score: 6.99
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 52a449b8ec88684cb99bdab54c676c6ae4d282e2
+  author:
+    name: RobertFouri
+    lang: en
+    email:
+      value:
+        encrypted: YjUyZTI5MTllMzlhOGE0ZmE4MDhiODUzNjM5NjA0ZGMwZTlj
+        algorithm: aes-256-gcm
+        iv: e2bb8ced25cd4cc7b4ca78f4
+        version: "1"
+      hash:
+        sha256: 15b7a139d00d45fb1548620cccc67980ab7717cee44f245af49997185bfe417f
+  published: 2025-04-28T17:35:19.944Z
+  content: French sports betting platforms mainly offer three categories of
+    welcome bonuses, each with specific benefits depending on your betting
+    profile <a
+    href="https://magicmag.net/image/pgs/?promokod_pokerdom_pri_registracii_1.html">https://magicmag.net/image/pgs/?promokod_pokerdom_pri_registracii_1.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzM2YTg2MzhmY2YzZjk0ZWI0MDRiOTc5YzE3ZQ==
+    algorithm: aes-256-gcm
+    iv: 3b187fc194b2a422c437b3ac
+    version: "1"
+  spam:
+    score: 7.07
+    marked: true
+  status: rejected
