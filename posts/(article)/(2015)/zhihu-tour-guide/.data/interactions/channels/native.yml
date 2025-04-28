@@ -4076,3 +4076,32 @@
     score: 7.31
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 6cd659e168421023a8f1250e6018b46b4b24deec
+  author:
+    name: GeorgeToora
+    lang: en
+    email:
+      value:
+        encrypted: NjZjZDBkY2IzYTJlNmE5NThjMDc1YTEyNGM5ZTRlMWUwN2U3
+        algorithm: aes-256-gcm
+        iv: 0e079b28f72925286669d672
+        version: "1"
+      hash:
+        sha256: c39f232ea4b17b625cb27168fb3f7a5fe3f15970a61db94ac0c40a4bffafc153
+  published: 2025-04-28T00:08:36.034Z
+  content: Active players can earn promotional points through gameplay and
+    exchange them for additional codes, offering further opportunities for
+    bonuses <a
+    href="https://xbetindia.bandcamp.com/merch/1xbetwelcome">https://xbetindia.bandcamp.com/merch/1xbetwelcome</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZmQ1MTI5NDE0ZTNkMmQ1NjE0NGNjMzI4OGQ=
+    algorithm: aes-256-gcm
+    iv: e339bb1d3fd92bb18a557d73
+    version: "1"
+  spam:
+    score: 6.82
+    marked: true
+  status: rejected
