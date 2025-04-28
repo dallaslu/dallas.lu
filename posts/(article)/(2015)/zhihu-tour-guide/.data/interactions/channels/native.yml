@@ -4191,3 +4191,32 @@
     score: 7.07
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: cfba7ec1acc895d44470e47b52bd9b250e80477a
+  author:
+    name: Danieljorry
+    lang: en
+    email:
+      value:
+        encrypted: ZGYxODhiZjZiZjA2OGIwYzFkNGViNDdhNTcyMjA1NWFmMWVk
+        algorithm: aes-256-gcm
+        iv: 0e5804584914f434abffcc53
+        version: "1"
+      hash:
+        sha256: dc79c5e897ae65a4b003e3c6e8e12a622b78346251c09187cf080d323a4d6eab
+  published: 2025-04-28T21:19:30.889Z
+  content: Looking for an exceptional online betting experience? Use the 1xBet
+    promo code 1XRUN200 <a
+    href="https://lukasaxqe86760.ampedpages.com/code-promo-1xbet-maroc-100-jusqu-%C3%A0-1000-dh-61612585">code
+    promo 1xbet haГЇti</a>
+  lang: zh-CN
+  ip:
+    encrypted: NWNlMjc3YmM0NjFmZmQyY2I3Njk0YjZkZDQ=
+    algorithm: aes-256-gcm
+    iv: 13c6fa8a32bf8dc80d035c6c
+    version: "1"
+  spam:
+    score: 6.99
+    marked: true
+  status: rejected
