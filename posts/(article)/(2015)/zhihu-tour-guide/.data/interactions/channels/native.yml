@@ -4133,3 +4133,32 @@
     score: 7.41
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 6192af0465d9f24a8d4a64b4cf89a8b67676eb7e
+  author:
+    name: Edwardowema
+    lang: en
+    email:
+      value:
+        encrypted: MmUwOGJlYjZjMzZmNTU0YTNjN2QzNmMxOGYwY2MwZWY1NzQ4
+        algorithm: aes-256-gcm
+        iv: cc645ad7be0f4661e16f9711
+        version: "1"
+      hash:
+        sha256: 909af2c17ed693d696ed46b2dffe5bfbcb2c581c23c546800f62bdb7a99af8d9
+  published: 2025-04-28T14:15:43.438Z
+  content: Active players can earn promotional points through gameplay and
+    exchange them for additional codes, offering further opportunities for
+    bonuses <a
+    href="https://va4wind.com/1xbet-promo-code-for-free-bonus-up-to-e130/">https://va4wind.com/1xbet-promo-code-for-free-bonus-up-to-e130/</a>
+  lang: zh-CN
+  ip:
+    encrypted: NWE3Mzc1YTQyMThhYzA4ZWE3MTEzYTkwODc=
+    algorithm: aes-256-gcm
+    iv: 7a14684c819442a47300108c
+    version: "1"
+  spam:
+    score: 6.99
+    marked: true
+  status: rejected
