@@ -365,3 +365,30 @@
     score: 5.19
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: aab3d0eb3017e75d33ccf2ce5ebf2466f2384425
+  author:
+    name: MichaelCoarl
+    lang: en
+    email:
+      value:
+        encrypted: MDVlMjM0ODQ5NWViNmNlOWQwMmE1ZThjOWVkYzc3ZDk0OWM0ZGZiMQ==
+        algorithm: aes-256-gcm
+        iv: 83313f3a5efc138e48f6a753
+        version: "1"
+      hash:
+        sha256: 984ca68eb23f13150bed8ae5a0ee3f31b8ccc57b90c485506915d25115c2452a
+  published: 2025-04-28T15:08:43.029Z
+  content: "<a href=\"https://eurosegeln.com/yachtcharter-frankreich\">segelboot
+    mieten sudfrankreich</a>\r\n"
+  lang: en
+  ip:
+    encrypted: YThmMTBjM2Q1NWJlODk5M2IyZDhiNjQ4MTE=
+    algorithm: aes-256-gcm
+    iv: 5eafbbf2f4e3105a5eb483e0
+    version: "1"
+  spam:
+    score: 5.01
+    marked: true
+  status: auditing
