@@ -4279,3 +4279,31 @@
     score: 8.97
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9adc278cbfc5f610ae671b69adcb4be8a0c69e07
+  author:
+    name: JosephAbity
+    lang: en
+    email:
+      value:
+        encrypted: MTY2NzM3NWE1OWNmMTQxMmExMGFjNmQ5YTVkNzhmZWFiYWE3
+        algorithm: aes-256-gcm
+        iv: 6c4ee8c8b91f6b4851d58500
+        version: "1"
+      hash:
+        sha256: f3dc2683c68112fb60738459078566e2fc8ad6c0c7b2f196605350e584124bf2
+  published: 2025-04-29T10:11:46.303Z
+  content: Virtual used numbers for Telegram verification are available instantly
+    and can be accessed from any location <a
+    href="https://www.gift-me.net/blogs/326463/1xBet-Code-Promo-Aujourd-hui-Bonus-de-130">https://www.gift-me.net/blogs/326463/1xBet-Code-Promo-Aujourd-hui-Bonus-de-130</a>
+  lang: zh-CN
+  ip:
+    encrypted: MGVlMTkzZjIyYzRiOWQ2ZTdjY2U2NjBiOGFmYQ==
+    algorithm: aes-256-gcm
+    iv: 7e26c7e2a572fe7b7cc99ee7
+    version: "1"
+  spam:
+    score: 7.33
+    marked: true
+  status: rejected
