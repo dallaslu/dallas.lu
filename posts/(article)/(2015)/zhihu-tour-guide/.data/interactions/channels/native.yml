@@ -4220,3 +4220,32 @@
     score: 6.99
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a0516558875a6edd168224225573a8ba08150e15
+  author:
+    name: Danielhip
+    lang: en
+    email:
+      value:
+        encrypted: OWY2NzU0NTAyODA5ZjBlODc4MTE3ZDc4ZDUxOWNjYTY3MTJj
+        algorithm: aes-256-gcm
+        iv: 169d0bcce61b6bfdf8686c7e
+        version: "1"
+      hash:
+        sha256: d71b5a847e9ca728a0136d8c284aea7c4c3dcbfd9112256da4db1125be4adcdd
+  published: 2025-04-29T00:54:15.855Z
+  content: Наши эксперты с академическим опытом подготовят дипломную работу любой
+    тематики «под ключ» — от исследования до оформления по ГОСТ. Гарантируем
+    полную уникальность, соответствие всем требованиям и точное соблюдение
+    сроков <a href="https://dplm24.ru/">диплом заказать</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZWVlZmUwZjVhNDUyNTc3N2Y2NTAzZThlMWFiZQ==
+    algorithm: aes-256-gcm
+    iv: 16996fc65bec397ec4af8f3d
+    version: "1"
+  spam:
+    score: 8.87
+    marked: true
+  status: rejected
