@@ -4249,3 +4249,33 @@
     score: 8.87
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0b9f06cd90897dd6a247e9927a8b4c87a4247e92
+  author:
+    name: Robertodum
+    lang: en
+    email:
+      value:
+        encrypted: NzVjZDY5OTk1YTAzZWM2NjA5ZDMwZGYyZWEzMDNhZGE4YzFl
+        algorithm: aes-256-gcm
+        iv: 839161f6e2bd93075016f823
+        version: "1"
+      hash:
+        sha256: cd3c6a1bc602f9bfd5f249efe592789cf24b82af3b62181af6d4048f8190c493
+  published: 2025-04-29T09:28:53.486Z
+  content: Многолетний опыт наших специалистов позволяет выполнить курсовую работу
+    по любому направлению с учётом всех требований вашего вуза. Гарантируем
+    индивидуальный подход, соблюдение сроков и стопроцентную уникальность <a
+    href="https://rgutis-postupi-online.ru/">стоимость курсовой работы на заказ
+    средняя цена</a>
+  lang: zh-CN
+  ip:
+    encrypted: MWQ3OGMxN2FkZjViMDhlY2ZkZmU0YmY4ODI=
+    algorithm: aes-256-gcm
+    iv: a21350c5d253d6faa82a07a4
+    version: "1"
+  spam:
+    score: 8.97
+    marked: true
+  status: rejected
