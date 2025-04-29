@@ -418,3 +418,30 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ed0f96aa8dc410f2df30b1ea1433c03c1213ba41
+  author:
+    name: Travistep
+    lang: en
+    email:
+      value:
+        encrypted: Zjg0ZTcxOTQwZDM0MDJkZGI1NGE1NWJjNTMxODAxYTA=
+        algorithm: aes-256-gcm
+        iv: 201ed6dec12e06eaaebb6aeb
+        version: "1"
+      hash:
+        sha256: 2e59d835dab4695e5d433f417458b1663e46122934048f0de3a30d6536b899af
+  published: 2025-04-29T16:20:44.464Z
+  content: "https://www.ezega.com/Communities/Forums/ShowThread/34763/Recommend-s\
+    ports-betting-where-to-bet-\r\n"
+  lang: en
+  ip:
+    encrypted: Njg2ZmIxYWM4ODIwMjdjM2Y4YWJkZDcyZWM=
+    algorithm: aes-256-gcm
+    iv: d126971c7c03153e32ecddb5
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
