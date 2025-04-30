@@ -4363,3 +4363,31 @@
     score: 7.23
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3ddd39f892a0dbd599364e42551da100c58ca8a1
+  author:
+    name: Jasonbeege
+    lang: en
+    email:
+      value:
+        encrypted: N2M2ZTE5Yjg5YjI4ZWNhZDU1M2I2MDBhMzFlMTk4YTE0NGE4
+        algorithm: aes-256-gcm
+        iv: 789b353533f1b2eb62628b92
+        version: "1"
+      hash:
+        sha256: 4f79db5fd4abd608d0e38e72a70fc9da4737af2ea458f5ca475c981e3932d8c7
+  published: 2025-04-30T00:44:05.408Z
+  content: Команда опытных авторов разработает дипломную работу любой дисциплины с
+    учётом методических указаний вашего вуза <a
+    href="https://topdiploms.ru/">написание дипломной</a>
+  lang: zh-CN
+  ip:
+    encrypted: MGEwZmFhNzIwOGI5ZTcyNmMzNWQ5MjllZjYyOQ==
+    algorithm: aes-256-gcm
+    iv: 0d0e7029ced760bee42d3011
+    version: "1"
+  spam:
+    score: 9.16
+    marked: true
+  status: rejected
