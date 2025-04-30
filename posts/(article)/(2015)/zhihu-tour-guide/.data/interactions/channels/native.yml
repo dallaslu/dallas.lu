@@ -4419,3 +4419,32 @@
     score: 7.3
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a53ab0009e8b6a4f9d513810091fcc73d718a185
+  author:
+    name: Philipfax
+    lang: en
+    email:
+      value:
+        encrypted: MmEwMTJiYWM5ZDEwN2QxOTg5NTZmOGM2ZDg3NWM0MzAwZWVl
+        algorithm: aes-256-gcm
+        iv: 543bd4b66bf706a5a9008a1f
+        version: "1"
+      hash:
+        sha256: 598536cdd2c2c76088d589bd6bec875a1a6bf257a8ff9fa901d23288c59e7900
+  published: 2025-04-30T12:39:00.033Z
+  content: Жилищные споры в Алматы — не редкость. Ошибки в квитанциях,
+    некачественные услуги, затопления, конфликты с управляющими компаниями — всё
+    это требует юридической поддержки <a
+    href="http://www.pxltw.com/home.php?mod=space&amp;uid=425572&amp;do=profile">http://www.pxltw.com/home.php?mod=space&amp;uid=425572&amp;do=profile</a>
+  lang: zh-CN
+  ip:
+    encrypted: YjIwYWNjODk5NjM3ZTYxNzkyMDQwNTQ1
+    algorithm: aes-256-gcm
+    iv: 1e35f6bec8953a47a16c5301
+    version: "1"
+  spam:
+    score: 6.92
+    marked: true
+  status: rejected
