@@ -4335,3 +4335,31 @@
     score: 6.91
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 1338461d25f60f62acb1c98cb81eb4683189973a
+  author:
+    name: WilliammeT
+    lang: en
+    email:
+      value:
+        encrypted: M2YxZTIzMTY0YTJjNDA4MjU3M2RiZDhmNDU3MWYyYjYzZmE3
+        algorithm: aes-256-gcm
+        iv: 4bd8432e33fac84f1b85d30c
+        version: "1"
+      hash:
+        sha256: e622e9a5c4f8e11c3aded107f11307f89ee48bde915e38317b64bc36c12f5e34
+  published: 2025-04-30T00:17:09.923Z
+  content: Bookmakers very often hold various promotions to attract new customers,
+    offering them bonuses upon registration <a
+    href="https://m120.com/themes/pages/1xbet_promo_code_india_today_bonus.html">https://m120.com/themes/pages/1xbet_promo_code_india_today_bonus.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: MGI2MThjNmRiZWUxZjVkMzc1NTUxZWUx
+    algorithm: aes-256-gcm
+    iv: a6707cfb15b325ca073da6a0
+    version: "1"
+  spam:
+    score: 7.23
+    marked: true
+  status: rejected
