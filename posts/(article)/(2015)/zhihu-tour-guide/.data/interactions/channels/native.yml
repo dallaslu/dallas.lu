@@ -4536,3 +4536,31 @@
     score: 8.99
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b1c9e3fe1a66725a51fe5cb562dc232ef5884f0a
+  author:
+    name: BrianSwora
+    lang: en
+    email:
+      value:
+        encrypted: YWYwMzUwYzAwZDI3YTY1MGFmNzJlODk4ZGQ1N2YxZDM5YTc2
+        algorithm: aes-256-gcm
+        iv: 1a11d2462e0429592397b6be
+        version: "1"
+      hash:
+        sha256: 8ce0422177557a469c973fe5ebb212d533f2ec1be760f33bb1300d6f4a6da377
+  published: 2025-05-01T11:34:34.170Z
+  content: Все Фрибеты за регистрацию без депозита 2025 и бонусы от букмекерских
+    контор (БК) на одном сайте. Жми <a href="https://fribety.ru">фрибет за
+    регистрацию в букмекерских конторах</a>
+  lang: zh-CN
+  ip:
+    encrypted: NmQ0ZTI4ZTZkMzE1NTk4MmFiOTIxYTlkNThkYw==
+    algorithm: aes-256-gcm
+    iv: 8bc0e79176583e0127eebb24
+    version: "1"
+  spam:
+    score: 9.05
+    marked: true
+  status: rejected
