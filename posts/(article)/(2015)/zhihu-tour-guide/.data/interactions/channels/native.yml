@@ -4592,3 +4592,29 @@
     score: 6.98
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a9030a96910838054cb0c985a90b7dd710c9be09
+  author:
+    name: getbonus4759
+    lang: en
+    email:
+      value:
+        encrypted: OTQyMjIxNjc2MzU1Y2IxNDk1ZmUxMDE1M2UxNjM4
+        algorithm: aes-256-gcm
+        iv: c28124d45a5adb8e332f2e44
+        version: "1"
+      hash:
+        sha256: fafb3e08df98f48562d476b42f07de2ed06f95977394050e0b6e7c0f066bd5eb
+  published: 2025-05-01T20:34:27.887Z
+  content: Cash bonus inside — play now! https://get1860usd.cashroll.bet
+  lang: zh-CN
+  ip:
+    encrypted: NjRmOTJjMTEwNjE2Nzc3MmYyMGUzNWMzMWVlYQ==
+    algorithm: aes-256-gcm
+    iv: b2a30a3afcda62c0eec64f67
+    version: "1"
+  spam:
+    score: 6.02
+    marked: true
+  status: rejected
