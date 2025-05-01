@@ -4507,3 +4507,32 @@
     score: 6.85
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 74ede9cdb14af3f7240397564f731c836a1dfd65
+  author:
+    name: JosephTer
+    lang: en
+    email:
+      value:
+        encrypted: NmIxMThkNDg1NTkwZmE3MGQwYzg4MzdlNTEwNmM5YmQ0MjM5
+        algorithm: aes-256-gcm
+        iv: 3bcb6ac8c5bb7ae891f881dc
+        version: "1"
+      hash:
+        sha256: 433ae7b594c10ef968a93212939302a7c01ca6583058453bdf79c893c8360595
+  published: 2025-05-01T00:13:56.300Z
+  content: Каталог готовых фирм - купите юр лицо ООО в Москве недорого с историей
+    и оборотами, расчетным счетом и без долгов, в продаже 1500+ готовых фирм <a
+    href="https://biznesfirma.ru">купить строительную компанию с сро и
+    историей</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTljOTg0YmZiYmNjNjU3M2MwN2RkMTZkZjQ0Zg==
+    algorithm: aes-256-gcm
+    iv: 6b58e321bcc94d5a1a6356ca
+    version: "1"
+  spam:
+    score: 8.99
+    marked: true
+  status: rejected
