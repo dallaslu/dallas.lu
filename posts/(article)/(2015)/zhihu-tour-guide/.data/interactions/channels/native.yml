@@ -4646,3 +4646,31 @@
     score: 8.95
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5fcbf09683c618ed3c9f4596505c5e9e28d3a859
+  author:
+    name: Kennethteemo
+    lang: en
+    email:
+      value:
+        encrypted: ZDM1ZjA1OTJjZjczMmQ3NDFiMDY5OWYzNmUwNjM2N2MxMDRk
+        algorithm: aes-256-gcm
+        iv: 0b31ee4599cd74f3cbc93cc1
+        version: "1"
+      hash:
+        sha256: cd745b5636a788e9e7adb38c18f7554a952eb8d539a4533cb090d9ef122633c9
+  published: 2025-05-02T01:39:30.338Z
+  content: Заказать корпоративные, сувенирные или памятные значки можно на сайте
+    https://znaknazakaz.ru/ — профессиональное производство и индивидуальный
+    подход.
+  lang: zh-CN
+  ip:
+    encrypted: MjUxMGZjZTQwOTk2ZTA3YTA1N2MyNDYy
+    algorithm: aes-256-gcm
+    iv: 2d4de8ebaae63fb5f3811a95
+    version: "1"
+  spam:
+    score: 7.96
+    marked: true
+  status: rejected
