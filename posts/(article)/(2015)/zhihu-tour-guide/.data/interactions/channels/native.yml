@@ -4824,3 +4824,31 @@
   spam:
     score: 2.5
   status: auditing
+- type: reply
+  channel: native
+  id: 9e3b3953bd0461d17a5c834da3d24ec1c3d03cf2
+  author:
+    name: Vincentpierm
+    lang: en
+    email:
+      value:
+        encrypted: M2ZlMWUxZGM5NWNhYjkzMTg2MDBkZTcxYmY1NmNkNzY5YTkw
+        algorithm: aes-256-gcm
+        iv: 329b72d9a4d6fcef27105ad1
+        version: "1"
+      hash:
+        sha256: f51bbe456f9ee6e88962e17ddfa256a745051130d6e1220e76e88ff14c01945f
+  published: 2025-05-02T10:48:30.351Z
+  content: The cleanliness of cats has become proverbial. They can spend hours
+    licking their fur, keeping it in perfect condition <a
+    href="https://www.mctb.org/wp-content/pgs/tipy_sovremennyh_medicinskih_endoskopov.html">https://www.mctb.org/wp-content/pgs/tipy_sovremennyh_medicinskih_endoskopov.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: YzhkMzFiY2JmMGU5OGFmMjAxNWRkMzU1ZWIzOQ==
+    algorithm: aes-256-gcm
+    iv: b5f255f4fb987f044d11aea5
+    version: "1"
+  spam:
+    score: 7.29
+    marked: true
+  status: rejected
