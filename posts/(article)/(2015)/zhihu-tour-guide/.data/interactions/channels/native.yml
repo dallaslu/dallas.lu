@@ -4793,3 +4793,34 @@
     score: 5.57
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: b25b0eca9f5b0de6d1cd854c50525c901613c4ce
+  author:
+    name: EnriqueBouse
+    lang: en
+    email:
+      value:
+        encrypted: NTNhZjQyYWI5YTgwZGQzMTdiY2QxMmNjMGJiNDMwYjFkOGQwMzQyNmNlYjE4NzJlNzQ=
+        algorithm: aes-256-gcm
+        iv: 11b2919c302ea2e08a5d8390
+        version: "1"
+      hash:
+        sha256: 1b1baf53bf67b6ee12ebafa5f5761efe37d611b70c8c8f2ebfd2025c7cd0d620
+  published: 2025-05-02T10:46:07.434Z
+  content: "Do you want to prank your friends? \r
+
+    Do you want to punish the offender or the boss? \r
+
+    Do you want to kill any phone? \r
+
+    This way for you >>> [url=]@killsms225_bot[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: YTI0ODQxMjFkNjc1NzhkNmNmNTdkN2Q4
+    algorithm: aes-256-gcm
+    iv: 511bf3dbc6449494816afe00
+    version: "1"
+  spam:
+    score: 2.5
+  status: auditing
