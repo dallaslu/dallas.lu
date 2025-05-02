@@ -4880,3 +4880,31 @@
     score: 7.46
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 81fd2ca8e2845d949cd104304eca53b12e82d57b
+  author:
+    name: MartinRoady
+    lang: en
+    email:
+      value:
+        encrypted: MDgzZTFjZTY2ZjMyMThlMjhjMGJmNGQwOTUxNTU3MmVjNDM2
+        algorithm: aes-256-gcm
+        iv: e3df40c1e437a49fcd7db991
+        version: "1"
+      hash:
+        sha256: 74a0afa65425f7b01486a3536924bb37c1610140f0b4015211a7143cf53c014b
+  published: 2025-05-02T17:57:03.079Z
+  content: Горизонт - апарт отель бизнес класса, главным достоинством которого
+    является расположение на первой береговой линии Черного моря <a
+    href="https://xn-----6kcnufck5ahccutn7f.xn--p1ai">жк горизонт адлер</a>
+  lang: zh-CN
+  ip:
+    encrypted: YzFlM2ZjZDE2ZTM3NjQyMWMxY2Q3NmM4ZGQ2Yg==
+    algorithm: aes-256-gcm
+    iv: f038c297716bff744033ef39
+    version: "1"
+  spam:
+    score: 6.34
+    marked: true
+  status: rejected
