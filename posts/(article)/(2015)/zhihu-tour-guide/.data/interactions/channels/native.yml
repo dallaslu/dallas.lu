@@ -4937,3 +4937,31 @@
     score: 5.95
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 87834d6d6608296272376d46167d09528bc9fb29
+  author:
+    name: CharlesToicy
+    lang: en
+    email:
+      value:
+        encrypted: NTVhOGU2MDhiOTI0MzdkNjM3M2NlOTMzMjAzZDFjM2FhZTFm
+        algorithm: aes-256-gcm
+        iv: 2962d58e576b394f085eb2cc
+        version: "1"
+      hash:
+        sha256: af0e73268dbbc4557ca107a8695435099939bfe678d20beaec80485a3c913f63
+  published: 2025-05-03T00:13:42.584Z
+  content: A virtual number for VK is a unique technology that allows you to
+    register and confirm your account without using your personal phone <a
+    href="https://v.kr.ua/virtualnye-nomera-ukrainy-komu-i-kogda-mogut-byt-interesny.html">https://v.kr.ua/virtualnye-nomera-ukrainy-komu-i-kogda-mogut-byt-interesny.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: NWVlOWJkOTgwYzViNmQwNWMzZDQyNDcw
+    algorithm: aes-256-gcm
+    iv: cfb129bcfb102f69ae16a040
+    version: "1"
+  spam:
+    score: 7.19
+    marked: true
+  status: rejected
