@@ -5138,3 +5138,31 @@
     score: 5.1
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: af45638f9d95e625fb78054f714d8a15742a35b1
+  author:
+    name: MarvinAloms
+    lang: en
+    email:
+      value:
+        encrypted: ZGNlMjMyYTEwNDM3OTBhZDVjNDQ1YzgyNmJjYmU0ZWFmMDFlYzE=
+        algorithm: aes-256-gcm
+        iv: 540053d1065e7ce42abfa929
+        version: "1"
+      hash:
+        sha256: 7715b156e46050ff02c383494fef95e5b6987b078f2b18383a6a3b1c6079db46
+  published: 2025-05-04T08:02:22.131Z
+  content: Предлагаем приобрести диссертацию в Москве напрямую у профильных
+    кандидатов наук, без посредников и скрытых доплат <a
+    href="https://nauchnaya-statya24.ru/">сайт диссертант</a>
+  lang: zh-CN
+  ip:
+    encrypted: Njk4ZDM2NzA2ZjE4Yzk5OWYyMWU4ZjU4NjQ4Mw==
+    algorithm: aes-256-gcm
+    iv: 180dc742878da2a07a77b9f5
+    version: "1"
+  spam:
+    score: 9.27
+    marked: true
+  status: rejected
