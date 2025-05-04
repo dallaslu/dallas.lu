@@ -5364,3 +5364,32 @@
     score: 9.02
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8843a0eab7b6ca4b288ae46c526275c0a0191667
+  author:
+    name: Carlosstent
+    lang: en
+    email:
+      value:
+        encrypted: N2FmOTY3NWVhMzk1OTIxZWM5OTMxMTA0ZjhjOTUxMTYwYg==
+        algorithm: aes-256-gcm
+        iv: af84f2753d505549b2ce6af0
+        version: "1"
+      hash:
+        sha256: c7c56057da53d05f56d4b97be2a231bd1be3bc35839a75d9a4700a2bf09acc40
+  published: 2025-05-04T23:52:03.026Z
+  content: Not a struggle, but a conscious choice Understanding the reasons for
+    cravings for sweets helps to shift the focus from an exhausting struggle to
+    a conscious approach <a
+    href="https://modernplace.ru/wp-content/pages/podgotovka_mughchiny_k_zachatiyu_ne_tolyko_ghenskaya_zabota.html">https://modernplace.ru/wp-content/pages/podgotovka_mughchiny_k_zachatiyu_ne_tolyko_ghenskaya_zabota.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: Mjc1MTUyOTllZGEyZmE5NGU3ODUzMjRiMWFjMQ==
+    algorithm: aes-256-gcm
+    iv: f930a4974e455c67cf49cf0e
+    version: "1"
+  spam:
+    score: 8.72
+    marked: true
+  status: rejected
