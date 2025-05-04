@@ -5251,3 +5251,32 @@
     score: 8.93
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 60f39626ce8b309906951f4e68bd4bd6515b1643
+  author:
+    name: Andrewelard
+    lang: en
+    email:
+      value:
+        encrypted: ZjAyNzFlNDZkZDI3Mjk1NjlhZWI5NjQyM2Q1MGYxY2QzNTcxYzE=
+        algorithm: aes-256-gcm
+        iv: b114ef1da7dd713463910b7c
+        version: "1"
+      hash:
+        sha256: 407a44671ad56c2e103cade9b33ba62981ee581c901e71a3598f9d7ead72fc05
+  published: 2025-05-04T10:48:21.888Z
+  content: Подготовим магистерскую диссертацию с нуля — от фундаментального
+    исследования и анализа источников до оформления по ГОСТ и проверки
+    уникальности <a href="https://magisterskaya24.ru/">магистральная
+    диссертация</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZGExYTM0MDBhNWUxYzBlNTM0MTYyMjVlM2M=
+    algorithm: aes-256-gcm
+    iv: 786c843eb88ddae9192f628b
+    version: "1"
+  spam:
+    score: 9.09
+    marked: true
+  status: rejected
