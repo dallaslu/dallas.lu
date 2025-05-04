@@ -5166,3 +5166,31 @@
     score: 9.27
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ff0c88ceee09a6bf8340a5e1a10c26b3414fd671
+  author:
+    name: Johnnycek
+    lang: en
+    email:
+      value:
+        encrypted: OTRmYWNlODRmMzM1ZDE5YTBkYWM5ZDlhN2U3NzAzOWVlY2Ri
+        algorithm: aes-256-gcm
+        iv: 97cc9805e2cdff0e84dadc57
+        version: "1"
+      hash:
+        sha256: fa5c0101a005e33a7a424cef5dc51fb615fb7b31c554850be407f83627410cc7
+  published: 2025-05-04T08:15:16.077Z
+  content: Looking for the best welcome bonus in online betting? 1xBet, a global
+    gambling leader, gives new players an unbeatable 100% first deposit bonus <a
+    href="https://to-portal.com/read-blog/64410">https://to-portal.com/read-blog/64410</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzE0ZTRiMzVjYjNmYWM0N2E0ZTY2ZWQ4
+    algorithm: aes-256-gcm
+    iv: 43779f39961d6b43f7f67bf6
+    version: "1"
+  spam:
+    score: 6.65
+    marked: true
+  status: rejected
