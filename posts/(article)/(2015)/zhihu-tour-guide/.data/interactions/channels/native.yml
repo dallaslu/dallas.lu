@@ -5222,3 +5222,32 @@
     score: 7.42
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2e59e38869fe63134779ea0654ff8fd04f9a2ccc
+  author:
+    name: Shawnmib
+    lang: en
+    email:
+      value:
+        encrypted: Y2EwMDE1ZTcwOGM5ZDFlOTM3NDU5ZjlkNjIyNmQ4YTUyMTEz
+        algorithm: aes-256-gcm
+        iv: a4b77fcf416f970889869176
+        version: "1"
+      hash:
+        sha256: b8b21686a28240192b4bcbb5e6d12355042847035706536c31b886e1108226aa
+  published: 2025-05-04T10:13:37.896Z
+  content: Цена рассчитывается индивидуально после оценки темы и методических
+    требований, включает глубокое исследование, оформление по ГОСТ, проверку
+    уникальности и бесплатное сопровождение до защиты — без скрытых доплат и с
+    чёткими сроками <a href="https://kandidatskaya24.ru/">кандидатская заказ</a>
+  lang: zh-CN
+  ip:
+    encrypted: NmMwOTZiZGI2MmNkZmY5MmFkZjk4NzhjYTU=
+    algorithm: aes-256-gcm
+    iv: 711bc91ad26683636fa3901f
+    version: "1"
+  spam:
+    score: 8.93
+    marked: true
+  status: rejected
