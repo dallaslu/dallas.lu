@@ -5336,3 +5336,31 @@
     score: 7.54
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7982de7179de38a04eb8fc46ea336480516dbb6d
+  author:
+    name: PatrickGaipt
+    lang: en
+    email:
+      value:
+        encrypted: MjcyYjBiMDE5OTIxMGViMmI0ZWYyOGQyMTUyMDJlOTVlODU2NjE=
+        algorithm: aes-256-gcm
+        iv: 37c7c582726664cc0bf10f59
+        version: "1"
+      hash:
+        sha256: 936aa78426cfcd150c5f1763dc5f7904bd2924277ebe809c93f424b9f284be69
+  published: 2025-05-04T20:35:49.883Z
+  content: Spring! It would seem that nature is waking up, the sun is shining
+    brighter, the birds are singing – live and be happy <a
+    href="http://autoboots.ru/images/pages/sovety_i_idei_po_remontu_balkona_kak_obustroity_balkon_v_mnogokvartirnom_dome.html">http://autoboots.ru/images/pages/sovety_i_idei_po_remontu_balkona_kak_obustroity_balkon_v_mnogokvartirnom_dome.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzQ0ZWQ0ZjZjZjllNzEzMzRhZmFkZmQ5
+    algorithm: aes-256-gcm
+    iv: ace6601ddd4b4e3e7f8e326e
+    version: "1"
+  spam:
+    score: 9.02
+    marked: true
+  status: rejected
