@@ -5645,3 +5645,30 @@
     score: 9.06
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 6449d2284321ab8e2b32d013d94a884071b19d59
+  author:
+    name: Dominiccig
+    lang: en
+    email:
+      value:
+        encrypted: N2RhYjFkMWY4ODc1MjkzYzBkZmFkMWJlMDRmYzBlYmM5Yw==
+        algorithm: aes-256-gcm
+        iv: a51976ffa2730a945fd3aaee
+        version: "1"
+      hash:
+        sha256: 3e6100d9d642a9c248bea5d0e8e55422be60e06c96cc33df87c0c36d098c2cae
+  published: 2025-05-05T15:57:40.703Z
+  content: Подбираем актуальные источники, пишем рефераты строго по методичке
+    вашего вуза <a href="https://buhu5.ru/">купить реферат онлайн</a>
+  lang: zh-CN
+  ip:
+    encrypted: OWNiYTExNGRkYmU0ZGJhMTFjYTM0NTA5YzI0MA==
+    algorithm: aes-256-gcm
+    iv: 6c84f9bcbf1b5c5c37fc86de
+    version: "1"
+  spam:
+    score: 9.23
+    marked: true
+  status: rejected
