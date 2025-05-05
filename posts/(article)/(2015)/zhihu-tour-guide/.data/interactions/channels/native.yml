@@ -5672,3 +5672,31 @@
     score: 9.23
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0db3d01a13715af8dd5ef08f5ca1018611ffc925
+  author:
+    name: Delbertnex
+    lang: en
+    email:
+      value:
+        encrypted: YTExMjE4MGIxNTRiMzYyZmI3NjFjOGQ3OTUzY2JjMzI4MzBhYzQ=
+        algorithm: aes-256-gcm
+        iv: 18353e71fcf03c0d719cadd0
+        version: "1"
+      hash:
+        sha256: 3816b8cebca30801cef6f83eb81df2e34f8068942b010362ee9b7b891dff6fce
+  published: 2025-05-05T17:55:57.410Z
+  content: Сочетаем экспертный опыт и возможности GPT, чтобы быстро подготовить
+    курсовую работу с глубокой аналитикой <a
+    href="https://forumgpt.ru/">нейросеть для курсовых работ</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTlhYjI5Y2ZkNzgyNDdjMDE1MzRhNjhiMzM=
+    algorithm: aes-256-gcm
+    iv: 22f70763f713f78f6667a047
+    version: "1"
+  spam:
+    score: 9.12
+    marked: true
+  status: rejected
