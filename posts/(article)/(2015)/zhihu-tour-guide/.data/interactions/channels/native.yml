@@ -5728,3 +5728,31 @@
     score: 6.19
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 47c1dafe538cf10657ba1d4674752d5c46acafc0
+  author:
+    name: GroverDup
+    lang: en
+    email:
+      value:
+        encrypted: MWI1Nzg0MzE0ZTVlZDEyMDJhYTc3ODA3OGU4ZDc0NmQ5ZDNh
+        algorithm: aes-256-gcm
+        iv: 6a2a796eabbc0a23cb388ef5
+        version: "1"
+      hash:
+        sha256: 468e12e95815d17cd9f268fe9d2b29e0ced7a138a7919ed4c0f40d222bfac479
+  published: 2025-05-05T18:07:52.906Z
+  content: Выполним контрольную работу любой сложности — от точных расчётов и
+    развернутых ответов до оформления по ГОСТ <a
+    href="https://matematiku5.ru/">Тут</a>
+  lang: zh-CN
+  ip:
+    encrypted: N2QxYTAwOTg4Yjg1YmY5NzdhMWNjZjZhZWE=
+    algorithm: aes-256-gcm
+    iv: 5eae14825642879ead96d035
+    version: "1"
+  spam:
+    score: 9.26
+    marked: true
+  status: rejected
