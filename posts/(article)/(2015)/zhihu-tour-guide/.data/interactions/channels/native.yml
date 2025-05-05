@@ -5784,3 +5784,32 @@
     score: 7.55
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2d86f6ed320528fcc46c5583a83901d777c4162d
+  author:
+    name: JacobFoppy
+    lang: en
+    email:
+      value:
+        encrypted: ODY1MThjNTM1MGE1YTIwNDFlOWVjYmQ4ZWRmODM4M2NhNA==
+        algorithm: aes-256-gcm
+        iv: 92dcf7914734816d20287a8c
+        version: "1"
+      hash:
+        sha256: 0cfae231569df51b075a469feed6a005ab1a36a1a462fc2befea29cd110d8743
+  published: 2025-05-05T22:51:48.912Z
+  content: Выполним курсовую «под ключ» — от подбора темы и анализа источников до
+    оформления по ГОСТ и проверки уникальности, строго соблюдая сроки и
+    предоставляя бесплатные правки <a href="https://juristu5.ru/">курсовые
+    работы готовые</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTFkMWIxMWUxNTdhM2I0NWU5NzcxYjM5ZWRkMQ==
+    algorithm: aes-256-gcm
+    iv: eefc7e198caf444dcef53c22
+    version: "1"
+  spam:
+    score: 8.96
+    marked: true
+  status: rejected
