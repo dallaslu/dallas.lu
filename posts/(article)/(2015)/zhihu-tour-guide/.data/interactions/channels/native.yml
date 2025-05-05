@@ -5421,3 +5421,31 @@
     score: 7.2
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9948c12022633b6aaefbcd0a6c33ec4e95480d05
+  author:
+    name: RichardHof
+    lang: en
+    email:
+      value:
+        encrypted: NGMzMWIxYWZjODNlZjI5MDQ1OTJmOWJlOTM4NDBlZTY2NzYwYzE=
+        algorithm: aes-256-gcm
+        iv: de79a2f24050faaccfc38d99
+        version: "1"
+      hash:
+        sha256: 2c4cac260b0e5b5782117c87e7d41e3a90496cddb38a0ed2265d668e6b0a3b90
+  published: 2025-05-05T01:06:44.827Z
+  content: Оцениваем объём и сложность темы до старта, сразу фиксируем цену и
+    готовим диссертацию «под ключ» с высокой уникальностью, оформлением по ГОСТ
+    <a href="https://dissertaciyapro.ru/">диссертация заказать москва</a>
+  lang: zh-CN
+  ip:
+    encrypted: MDNjNWJhNzQ0NDAxMzAxNGFhZDI2NjE0
+    algorithm: aes-256-gcm
+    iv: 6c318899bf29b9382bd8d5a1
+    version: "1"
+  spam:
+    score: 9.09
+    marked: true
+  status: rejected
