@@ -5588,3 +5588,32 @@
     score: 9.29
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 80fe00773c208612fb62ba216ad092093f9deee5
+  author:
+    name: JesseSelia
+    lang: en
+    email:
+      value:
+        encrypted: MDRlMzcyN2M4YTdmZWUxZGExOWRhZjAzNTQyYTM4NGI3ZmRjMWQ=
+        algorithm: aes-256-gcm
+        iv: 3e437ff7a7bab9b8d731b6c1
+        version: "1"
+      hash:
+        sha256: 94efe1489961e50e01eb6598164de7784cbf257e4d47e3f67bf38ed6227da7de
+  published: 2025-05-05T10:31:14.196Z
+  content: Используем нейросетевые алгоритмы для мгновенного подбора источников,
+    генерации черновика и анализа уникальности, а команда методистов приводит
+    материал к требованиям вашего вуза, оформляет по ГОСТ <a
+    href="https://aifranch.ru/">нейросеть курсовая работа для студентов</a>
+  lang: zh-CN
+  ip:
+    encrypted: YzcxNDBlYTlmNjhhMDNmMjEyNDdkYThmYTA=
+    algorithm: aes-256-gcm
+    iv: 6bd9df59c4acf01c3548d483
+    version: "1"
+  spam:
+    score: 8.89
+    marked: true
+  status: rejected
