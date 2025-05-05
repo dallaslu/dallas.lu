@@ -5617,3 +5617,31 @@
     score: 8.89
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f97867da97fdf306fb25a157ad5e19f81ea1fd3f
+  author:
+    name: Thomasgliny
+    lang: en
+    email:
+      value:
+        encrypted: ZTZhOWMzZmViMTJhZWIxMzA0ZjIwZTYxYzFmOTA2MmQ5ZTc2
+        algorithm: aes-256-gcm
+        iv: 8601e6eab6bf2a871eb7cc75
+        version: "1"
+      hash:
+        sha256: 95585ce0846ab2e8a718e3afec7e834836b551a840307ef3d777ee80a3b43a71
+  published: 2025-05-05T10:47:14.426Z
+  content: Продвинутые нейросети помогают оперативно собирать источники и
+    формировать основу курсовой, а опытные редакторы завершают работу <a
+    href="https://gptgetsmm.ru/">нейросеть написать курсовую</a>
+  lang: zh-CN
+  ip:
+    encrypted: YjEwMmRlOGE1NWU0Njk3MzEzZjYyYWUwNzE=
+    algorithm: aes-256-gcm
+    iv: e8ae9b2da9bf0ae12c4720dd
+    version: "1"
+  spam:
+    score: 9.06
+    marked: true
+  status: rejected
