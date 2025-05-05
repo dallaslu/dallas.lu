@@ -5813,3 +5813,33 @@
     score: 8.96
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 914190342dd1d5e81ba90807796c8b7607199ad8
+  author:
+    name: Josephvom
+    lang: en
+    email:
+      value:
+        encrypted: MjRhN2U0ZTYxODJjMjlmOGNmMzdmN2E4NjRjM2ExZWNiZTI1NzI=
+        algorithm: aes-256-gcm
+        iv: 5ae910f8b8b742a6dce5c8ff
+        version: "1"
+      hash:
+        sha256: c20c405d14b8848ad3739ed01e1953be2d8caa274c141932de0fadf991450116
+  published: 2025-05-05T23:21:52.482Z
+  content: Выполним дипломные работы любого профиля под ключ, учитывая
+    методические требования вуза, обеспечим высокую уникальность, детальные
+    расчёты и оформление по ГОСТ, соблюдём сроки и бесплатно внесём правки до
+    полной защиты <a href="https://ekonomistu5.ru/">написание дипломной
+    работы</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTFkZDIwM2RjNmE3OTZkOTllNGE5ODBkNTE=
+    algorithm: aes-256-gcm
+    iv: d3b82de99b00a06bd75c8be1
+    version: "1"
+  spam:
+    score: 8.9
+    marked: true
+  status: rejected
