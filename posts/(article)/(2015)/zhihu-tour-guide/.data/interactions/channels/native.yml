@@ -5449,3 +5449,31 @@
     score: 9.09
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 1dde9ee0a39172b52dc40aff00609215b909a7f2
+  author:
+    name: Francisstums
+    lang: en
+    email:
+      value:
+        encrypted: MjhlNWZlNWU4YTc0ODhjNTYwYjc2ZDU1OTk5ZjJlN2FiNjRkYWY=
+        algorithm: aes-256-gcm
+        iv: 9d756b04083f96b175b513b9
+        version: "1"
+      hash:
+        sha256: a36173b97b809e6ffd3445b273527e9022a7088735f05a301090f315974b4c2f
+  published: 2025-05-05T01:25:14.410Z
+  content: Цена рассчитывается индивидуально после оценки темы и методических
+    требований, включает глубокое исследование, оформление по ГОСТ <a
+    href="https://bc-sfedu.ru/">диссертации на заказ</a>
+  lang: zh-CN
+  ip:
+    encrypted: NmY0OGY1ODBjZTI5MjE2NDZmYTBmOTdkZGM=
+    algorithm: aes-256-gcm
+    iv: 806febf0989a12bb32522cb4
+    version: "1"
+  spam:
+    score: 9.07
+    marked: true
+  status: rejected
