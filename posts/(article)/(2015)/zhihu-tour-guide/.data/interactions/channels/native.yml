@@ -5477,3 +5477,32 @@
     score: 9.07
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a5fcb99adf261d57cfcc6bfce67c50deda54d622
+  author:
+    name: Shanewella
+    lang: en
+    email:
+      value:
+        encrypted: NjUzNWQ3N2Q3M2E2NDg1YzFkYzFiOTdiN2RkNzMwZmMwMWUw
+        algorithm: aes-256-gcm
+        iv: b83a7a5e15b4281250beba85
+        version: "1"
+      hash:
+        sha256: fc3bdb5073608e281510611214c3a304460d98cc38a1c7c5faffab0180b9c989
+  published: 2025-05-05T01:50:37.843Z
+  content: Сочетаем мощь современных нейросетей и опытных редакторов, чтобы
+    оперативно собрать источники, сформировать структурированный текст, оформить
+    по ГОСТ и обеспечить высокую уникальность <a
+    href="https://gpt-content.ru/">нейросеть курсовая работа для студентов</a>
+  lang: zh-CN
+  ip:
+    encrypted: NGFjZmU5NjcwNmM4NTdiNjMyYTA5MzQ1MDQ=
+    algorithm: aes-256-gcm
+    iv: eab712dddc079039fbbce905
+    version: "1"
+  spam:
+    score: 8.94
+    marked: true
+  status: rejected
