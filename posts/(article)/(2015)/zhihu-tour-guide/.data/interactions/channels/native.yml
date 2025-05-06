@@ -6128,3 +6128,31 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ba5aba3b98590486d79a7e130c2d569ee8ce063f
+  author:
+    name: Peterbax
+    lang: en
+    email:
+      value:
+        encrypted: ZTBiNGE5NTJjOWQ2ZWI4MjkyOWFmYWZmNmRjNjU3ZmVmN2U2ZDU=
+        algorithm: aes-256-gcm
+        iv: 329aec2e84a16da1e704f84e
+        version: "1"
+      hash:
+        sha256: 683f5d80a17b3a831361ff4cd19f0a450298b4e8c4de15abb93e0a30a9c8edfb
+  published: 2025-05-06T21:37:27.898Z
+  content: Долгие годы мы готовим дипломные проекты для студентов технических,
+    гуманитарных и экономических вузов, обеспечивая высокую оригинальность <a
+    href="https://interactiveideas.ru/">дипломную работу заказать</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzlkOWM2NDExYWU4OWVlYzMzNjI5Y2Uz
+    algorithm: aes-256-gcm
+    iv: 58f7b70f30661622acad2b99
+    version: "1"
+  spam:
+    score: 9.12
+    marked: true
+  status: rejected
