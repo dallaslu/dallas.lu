@@ -5929,3 +5929,31 @@
     score: 7.27
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 6b65cc9de179ab33976619b5fa9fc37ff85ef64c
+  author:
+    name: HectorSmede
+    lang: en
+    email:
+      value:
+        encrypted: NjM3YTBjMTk3ZDM2N2M2ZmM5NzJjMjVjNDU3ZDJhZThhMThm
+        algorithm: aes-256-gcm
+        iv: 66af9ddbd59248fefc2b122a
+        version: "1"
+      hash:
+        sha256: 2467f7fb6b1b4d6a9d94eb53fcb53e9fcbcf6d9c1f92d9d5e7e767215fd60754
+  published: 2025-05-06T07:11:13.886Z
+  content: 'Proven 1xBet casino bonuses: no deposit for registration, free spins,
+    current codes, and promo codes for today <a
+    href="https://blogger-mania.mn.co/posts/83975018?utm_source=manual">https://blogger-mania.mn.co/posts/83975018?utm_source=manual</a>'
+  lang: zh-CN
+  ip:
+    encrypted: NDI5MjAxYTkxNTczZWVmMzMwNTI4MWRiNTU=
+    algorithm: aes-256-gcm
+    iv: 5de4ce39f5b728f79c0f27eb
+    version: "1"
+  spam:
+    score: 7.15
+    marked: true
+  status: rejected
