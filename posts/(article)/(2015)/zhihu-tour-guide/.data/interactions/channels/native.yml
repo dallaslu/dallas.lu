@@ -6156,3 +6156,31 @@
     score: 9.12
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 68c799b3e8404a3ae58548c28d40325ed36c3cc8
+  author:
+    name: Kerrybef
+    lang: en
+    email:
+      value:
+        encrypted: ZGFlMjkzNjQ4M2ZmNmY0ZTVlZmMwMmVmNzcxYTkxZTQxNzFl
+        algorithm: aes-256-gcm
+        iv: 2fb994d764169fcce92b7758
+        version: "1"
+      hash:
+        sha256: c590b8fd1e43057131c18ff436bd259ba35866427c0abed2a90fa2c5ab9ea9c3
+  published: 2025-05-06T23:16:14.060Z
+  content: Current 1xBet Casino bonus offers are collected here <a
+    href="https://hallbook.com.br/blogs/556522/C%C3%B3digo-Promocional-y-Bonos-1xBet-V%C3%A1lidos-Hoy">codigo
+    promocional 1xbet sin deposito</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTA2YmRhZWY3MzY0Y2EyODM3YjcwZjEwMzI=
+    algorithm: aes-256-gcm
+    iv: 7bdabbaa7f04df1578a20d5e
+    version: "1"
+  spam:
+    score: 7.12
+    marked: true
+  status: rejected
