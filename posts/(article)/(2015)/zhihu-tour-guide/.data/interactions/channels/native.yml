@@ -6015,3 +6015,32 @@
     score: 9.03
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e9973f68b8aa5785c3801479ebad5b23ecdca803
+  author:
+    name: MichaelAmona
+    lang: en
+    email:
+      value:
+        encrypted: ZjBhNGFkZDE1OTg3ODRmZTcyYWFmNmZkNDE1NzUyYmVjODlm
+        algorithm: aes-256-gcm
+        iv: d2f9c0bd05f35ab7722f7445
+        version: "1"
+      hash:
+        sha256: b23ddd758f42fbc6c5e80132dee741c7f10e1c56004fdbefa74061a43ba2f77b
+  published: 2025-05-06T10:11:59.563Z
+  content: Оперативно пишем рефераты под ключ, точно соблюдая методические
+    требования вуза и форматирование, гарантируем высокую оригинальность,
+    бесплатные правки и сдачу в оговорённый срок <a
+    href="https://referatlira.ru/">Подробнее</a>
+  lang: zh-CN
+  ip:
+    encrypted: N2ZhNjFlMGYzNjJiNjdiNjk3MTA2YjVj
+    algorithm: aes-256-gcm
+    iv: f29af753ac37e65e49d1b18c
+    version: "1"
+  spam:
+    score: 9
+    marked: true
+  status: rejected
