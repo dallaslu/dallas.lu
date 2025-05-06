@@ -5872,3 +5872,32 @@
     score: 5.96
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: cf2184ea3a8a21caeedf49120ad42c1324a80eff
+  author:
+    name: MichaelCuppy
+    lang: en
+    email:
+      value:
+        encrypted: NWEzNzdlOTQ1ODE1YTk5MzM4NmQ1NTdkNDUyYmY4MTQ2MTViOWY=
+        algorithm: aes-256-gcm
+        iv: 2765ed286b529259e7383d22
+        version: "1"
+      hash:
+        sha256: f200354b668725307fbc2861be481db8279377165e586859ccb00b28ab19d251
+  published: 2025-05-06T00:00:56.675Z
+  content: Подготовим дипломную работу «под ключ» — от разработки структуры и
+    сбора данных до защиты, обеспечив оригинальность, оформление по ГОСТ,
+    бесплатные доработки и строгое соблюдение дедлайна <a
+    href="https://eurekamag.ru/">дипломная работа написать на заказ</a>
+  lang: zh-CN
+  ip:
+    encrypted: YzE1NzBiNDExNTdhYzg0ZWRjYjExNDNi
+    algorithm: aes-256-gcm
+    iv: 89f61f68427532b5c7be94ec
+    version: "1"
+  spam:
+    score: 8.92
+    marked: true
+  status: rejected
