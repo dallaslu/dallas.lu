@@ -6212,3 +6212,32 @@
     score: 6.2
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e93ce7c98aee3abc9093b6b59668715219533d86
+  author:
+    name: Kennethtus
+    lang: en
+    email:
+      value:
+        encrypted: ZjgzMTMzZDNiM2FmOWM4MmE2MzdmZjFlOGM1Nzk4MjBjYzFkZDA=
+        algorithm: aes-256-gcm
+        iv: 940b151237062c747234da4a
+        version: "1"
+      hash:
+        sha256: 5545705e451844be75cbfa7d6b383a9a95ad9c79335100316274339688c057eb
+  published: 2025-05-06T23:30:27.967Z
+  content: It is available to all beginners who want to become professional
+    players <a
+    href="https://www.diigo.com/item/note/b05aq/h9ri?k=140270ce7956a42866d48daf6abccbb9">comment
+    utiliser le code promo 1xbet</a>
+  lang: zh-CN
+  ip:
+    encrypted: NWFhMWRmM2VjOWUyODk3MTUwNWFiM2U5ZGM=
+    algorithm: aes-256-gcm
+    iv: a1973e3dc3fc23ffdfb56c91
+    version: "1"
+  spam:
+    score: 6.87
+    marked: true
+  status: rejected
