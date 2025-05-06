@@ -5957,3 +5957,32 @@
     score: 7.15
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: cae3d70d143572b96eb2db6a588326a879f66371
+  author:
+    name: LarryHab
+    lang: en
+    email:
+      value:
+        encrypted: NmVkM2U3MmFmOGVjYWE0ZWQ3MGIzMjNjODUwMTcwMzNkNA==
+        algorithm: aes-256-gcm
+        iv: 19ce103f5995ab6dd13df724
+        version: "1"
+      hash:
+        sha256: e58f1416fcc62678b79b4f617ff64ed1f078e9838f46c41e0928268d292d33ff
+  published: 2025-05-06T09:02:22.020Z
+  content: Берём на себя подготовку дипломной работы — от выбора темы и поиска
+    литературы до расчётов, оформления по ГОСТ и проверки уникальности,
+    гарантируя качественный результат точно в срок <a
+    href="https://fiziku5.ru/">сколько стоит написать диплом</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTYzOGE0YmE2ZjMxYzA5OGI4MTk0MDI1NWI0Ng==
+    algorithm: aes-256-gcm
+    iv: 2916a8f2d0a9fe20311b770b
+    version: "1"
+  spam:
+    score: 8.91
+    marked: true
+  status: rejected
