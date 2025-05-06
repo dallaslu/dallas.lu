@@ -6072,3 +6072,32 @@
     score: 7.48
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9bb2550e8a63cc9b68e9b3835d1f7ba8f1313879
+  author:
+    name: Leonardted
+    lang: en
+    email:
+      value:
+        encrypted: YmUxZjkyODA4NWI2YWMwMTZjZjc3ZjdhZDU5OGY1ZTEwNGE2
+        algorithm: aes-256-gcm
+        iv: 75eb48488860cefe00961ff4
+        version: "1"
+      hash:
+        sha256: d75f940aac350cfe59dcc8a0aab57542eddf53f8f7e059d39614ee9b32181bf4
+  published: 2025-05-06T14:39:13.421Z
+  content: Мы разрабатываем дипломы«под ключ» — от выбора темы и глубокой
+    аналитики до оригинального текста с проверкой Антиплагиат и бесплатными
+    доработками, строго соблюдая сроки и требования вашего вуза <a
+    href="https://prof-elita.ru/">написать диплом на заказ</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTQzZjA3NGY0MTM1ZmVjZTcxMjU4NDUzMDA=
+    algorithm: aes-256-gcm
+    iv: d0e32f380f2ce625ae991cf9
+    version: "1"
+  spam:
+    score: 8.93
+    marked: true
+  status: rejected
