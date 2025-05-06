@@ -5986,3 +5986,32 @@
     score: 8.91
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 54fd628087639b33ad506d1dcdba35f5e0127d07
+  author:
+    name: HerbertImpek
+    lang: en
+    email:
+      value:
+        encrypted: ZWQyN2IzN2QyYWZlMGIyZDZlZDliOTRkMDA2MzZhNzM4YjBkMDI=
+        algorithm: aes-256-gcm
+        iv: ee572a49572795ee64fb23e7
+        version: "1"
+      hash:
+        sha256: f7b98c9dd97ee5d41dbeeb723369f11421deb51259a10a7856cd0c29c3716797
+  published: 2025-05-06T09:34:48.879Z
+  content: Создаём рефераты любой сложности с грамотной структурой, актуальными
+    источниками и гарантией оригинальности; выполняем срочные заказы и бесплатно
+    вносим правки до полного принятия <a
+    href="https://textreferatov.ru/">реферат</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTRhMjlhNWI5NWRiYzk0ZWE3MGFiZjk4
+    algorithm: aes-256-gcm
+    iv: 40df32580c053a777b8fce01
+    version: "1"
+  spam:
+    score: 9.03
+    marked: true
+  status: rejected
