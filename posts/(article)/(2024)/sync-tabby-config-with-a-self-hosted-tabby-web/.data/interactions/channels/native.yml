@@ -39,3 +39,29 @@
   content: 这个插件我用过的，用的是 WebDav 的同步方式，经过 Nextcloud 来同步，不太好用，经常提示不能同步。看来是我当时选错了同步方式啊！
   lang: en
   target: a3c1b5a0b05d33fd375e13e50435dbccbc97bceb
+- type: reply
+  channel: native
+  id: d0f998a3fc0d5dcc97b235928cecd5f055365ab4
+  author:
+    name: topnec
+    lang: en
+    url: topnec.org
+    email:
+      value:
+        encrypted: ZDYxNzBhMjFkNDNmNGIyODcyM2UzYzVi
+        algorithm: aes-256-gcm
+        iv: 5634dbb10e69b8351187308a
+        version: "1"
+      hash:
+        sha256: 70607437edb52f719c64ba4ae6cf1e7c40b73788718ad526bd5065030bcb8f8b
+  published: 2025-05-07T01:17:22.390Z
+  content: " 即便是秘密gist，有url也可以公开访问，ssh配置放在gist里，从安全性角度可以？"
+  lang: zh-CN
+  target: a3c1b5a0b05d33fd375e13e50435dbccbc97bceb
+  ip:
+    encrypted: MWYxZDEwMGQ2N2UwNzQ1NmE2OTI2NWNhMWI0Nw==
+    algorithm: aes-256-gcm
+    iv: 48a84af01b2739157d1a7077
+    version: "1"
+  spam:
+    score: 1.2
