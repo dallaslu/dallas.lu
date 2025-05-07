@@ -17,3 +17,32 @@
     encrypted: NjcwNzg3NjZiZmU1ODc1MjJiNDRmYTdhM2M=
     algorithm: aes-256-gcm
     iv: 66c56f3716a4e7eaeb09dbd7
+- type: reply
+  channel: native
+  id: 8d3be960c10010a208f5040393a8889795ee5e5d
+  author:
+    name: Matthewmug
+    lang: en
+    email:
+      value:
+        encrypted: NDFkN2YxNjRhOGEyZjQzN2M5OTZiMmE3MTFlNzc4MjI1Y2Mw
+        algorithm: aes-256-gcm
+        iv: 68f0ac923f0d2034ce43804a
+        version: "1"
+      hash:
+        sha256: de85e994ef3bfcc0e2fee51b6d6b0fbf3f74a95508e032ed178a24f576117e7b
+  published: 2025-05-07T09:23:42.072Z
+  content: Si quieres asegurarte de estar eligiendo la mejor opcion de codigo
+    promocional para comenzar tus apuestas <a
+    href="https://www.gift-me.net/blogs/334786/C%C3%B3digo-Promocional-Nuevo-Usuario-1xBet-Bono-130">codigo
+    promocional 1xbet argentina</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzQxZDMwZjE4N2Y3N2FiYWJmYzA5ZTI5NGY0Nw==
+    algorithm: aes-256-gcm
+    iv: 3edf5429d12670dbedfa5a47
+    version: "1"
+  spam:
+    score: 6.78
+    marked: true
+  status: rejected
