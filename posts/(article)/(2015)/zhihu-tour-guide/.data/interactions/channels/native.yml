@@ -75,3 +75,33 @@
     score: 6
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 75da03ffeec1e8278d4d3392020ce08bf7279c44
+  author:
+    name: PhillipVag
+    lang: en
+    email:
+      value:
+        encrypted: ZGVhN2E5MTkzNjZhMDkyNjMwOWI1Nzg2ZWNhOTI0YzMzZDZh
+        algorithm: aes-256-gcm
+        iv: 10046f30e4e691fe48c65bc0
+        version: "1"
+      hash:
+        sha256: 3639efcec5253af14dab99599382cfe3d97e745da57f6e7a807569ad4f2e9f39
+  published: 2025-05-07T09:53:26.671Z
+  content: 'Курительная трубка — это не просто способ насладиться табаком, а целый
+    ритуал, требующий внимания к деталям. Чтобы получить максимум удовольствия
+    от процесса, важно подобрать правильные аксессуары: от удобных тамперов до
+    качественных ёршиков и фильтров <a href="https://pair-store.ru/">аксессуары
+    для трубки</a>'
+  lang: zh-CN
+  ip:
+    encrypted: ZTliOWI0YWZmYzhjYjhjZGJhMzJhYWVh
+    algorithm: aes-256-gcm
+    iv: 99860a54e0f2ec36a1807ff8
+    version: "1"
+  spam:
+    score: 8.86
+    marked: true
+  status: rejected
