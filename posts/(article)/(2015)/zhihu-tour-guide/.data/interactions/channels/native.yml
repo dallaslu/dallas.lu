@@ -161,3 +161,31 @@
     score: 7.87
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 17e5f91a63a3fd5cbf0888d589e10a20cf9bab59
+  author:
+    name: MarcusLiT
+    lang: en
+    email:
+      value:
+        encrypted: ODc0MWJjMGY3MGYyNTIyMzMzNjYyY2QwNDMyYWY2ZDA0YTI3
+        algorithm: aes-256-gcm
+        iv: 20ab2c1899b770607bbf7603
+        version: "1"
+      hash:
+        sha256: a3d084f0986345816bfb9da1c41e97f33c199db2a61d0f3c1fdf98c804080c22
+  published: 2025-05-07T23:38:04.087Z
+  content: Finally, what other 1x promotions and bonuses await players <a
+    href="https://bresdel.com/blogs/1012983/C%C3%B3digo-Promocional-1xBet-Hoy-para-Obtener-130">código
+    promocional 1xbet cape verde</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZGUzNDE5MGNjNzZlNDQxY2JlNGY5NmE3OWQ=
+    algorithm: aes-256-gcm
+    iv: 43fefb29289ef74238198836
+    version: "1"
+  spam:
+    score: 7.03
+    marked: true
+  status: rejected
