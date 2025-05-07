@@ -105,3 +105,31 @@
     score: 8.86
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f23c8efdacc2b8b9424b26ba2d8aa4018fcc71a6
+  author:
+    name: Williamtah
+    lang: en
+    email:
+      value:
+        encrypted: ZjcwNzk4MTExMDY4NzZjYjk5YTA1ZmE1ZGZlZjIyMWI3ZDE2MDg=
+        algorithm: aes-256-gcm
+        iv: 03f32eb9436b61599f9e1c5d
+        version: "1"
+      hash:
+        sha256: 176b9bc4ae7684acdcffbe254ea2f1d6a903deae1ba8c9e7f3632bbe036bbc85
+  published: 2025-05-07T10:29:22.923Z
+  content: Навес — практичное решение для тех, кто хочет уберечь автомобиль от
+    солнца, дождя, снега и других капризов погоды, не строя капитальный гараж <a
+    href="https://zabor.space/">гаражный навес для автомобиля</a>
+  lang: zh-CN
+  ip:
+    encrypted: NjNiZjcxYWM0ZDIyN2E5ZTU0ZjRhMzBiMmM=
+    algorithm: aes-256-gcm
+    iv: 8920c2bbf06de08c6cdfe2d6
+    version: "1"
+  spam:
+    score: 6.01
+    marked: true
+  status: rejected
