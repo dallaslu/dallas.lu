@@ -524,3 +524,29 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a18bc213b97b701f867b5643ed1b9e185e19d27a
+  author:
+    name: LinwoodSerry
+    lang: en
+    email:
+      value:
+        encrypted: MDU2MjIwMjAxYjdmODcwN2ZjOTBhYTMzYjg1NzdiMTBhMGMx
+        algorithm: aes-256-gcm
+        iv: 5f03b87db3b0b20299cd7c0d
+        version: "1"
+      hash:
+        sha256: 5f58482c64b47f29cb8fa7816630dedeadb81671e1effa9933dd6016f86e860c
+  published: 2025-05-07T10:15:31.496Z
+  content: "<a href=https://bookhalifatickets.com/>BurjKhalifa Ticket</a>\r\n"
+  lang: en
+  ip:
+    encrypted: MWNiNzllYTMzYzcyNWQwMGMyODYxNGZlMTI=
+    algorithm: aes-256-gcm
+    iv: 7a73e04162f224887b3bc815
+    version: "1"
+  spam:
+    score: 5.11
+    marked: true
+  status: auditing
