@@ -45,7 +45,7 @@
   author:
     name: topnec
     lang: en
-    url: topnec.org
+    url: https://topnec.org
     email:
       value:
         encrypted: ZDYxNzBhMjFkNDNmNGIyODcyM2UzYzVi
@@ -55,7 +55,7 @@
       hash:
         sha256: 70607437edb52f719c64ba4ae6cf1e7c40b73788718ad526bd5065030bcb8f8b
   published: 2025-05-07T01:17:22.390Z
-  content: " 即便是秘密gist，有url也可以公开访问，ssh配置放在gist里，从安全性角度可以？"
+  content: "即便是秘密gist，有url也可以公开访问，ssh配置放在gist里，从安全性角度可以？"
   lang: zh-CN
   target: a3c1b5a0b05d33fd375e13e50435dbccbc97bceb
   ip:
