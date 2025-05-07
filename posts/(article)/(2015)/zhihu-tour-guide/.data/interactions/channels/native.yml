@@ -46,3 +46,32 @@
     score: 6.78
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8c451d75e9852e25e7cb246cf6fcd40379b6ad3d
+  author:
+    name: Albertmig
+    lang: en
+    email:
+      value:
+        encrypted: ZTc2NjUzYTQwODMwMmI2NzRjMmE1YzNmNTc3NTMwNGE1NjkzYzc=
+        algorithm: aes-256-gcm
+        iv: bb5fb5f75465ab1cb3a2cc99
+        version: "1"
+      hash:
+        sha256: 82831275784b51baa9203feba097b8c17d50b6573a73dd177bc560b01c43c9dd
+  published: 2025-05-07T09:37:55.224Z
+  content: Кейтеринг давно перестал быть просто доставкой еды — сегодня это
+    полноценный сервис, способный превратить любое мероприятие в изысканное
+    гастрономическое событие <a href="https://banket.space/">кейтеринг на
+    свадьбу</a>
+  lang: zh-CN
+  ip:
+    encrypted: NmI3YTBkMDIyODFmNDJhZTBlM2QyMzRi
+    algorithm: aes-256-gcm
+    iv: 987e0c5ec8f96e7549d15206
+    version: "1"
+  spam:
+    score: 6
+    marked: true
+  status: rejected
