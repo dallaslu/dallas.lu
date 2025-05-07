@@ -133,3 +133,31 @@
     score: 6.01
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7813915189c3d1272381642bef64e7d6e3bccba8
+  author:
+    name: Josephnig
+    lang: en
+    email:
+      value:
+        encrypted: Y2Q1Zjg3ZGRjOWRiNDgzZjNjMzA3N2UxNjgwZmUzMGZiYTg1
+        algorithm: aes-256-gcm
+        iv: dde62a862408fe4c0b48fea4
+        version: "1"
+      hash:
+        sha256: 2002715406504c146e36081fdd56eed6ce120304e9dde9c06c36a76e0f7e257c
+  published: 2025-05-07T23:16:04.484Z
+  content: «МиграРостов» оказывает консультационную помощь в решении кадровых и
+    миграционных вопросов, помогая работодателям снижать расходы на персонал и
+    устранять любые кадровые и миграционные риски https://autstaffing-rnd.ru/
+  lang: zh-CN
+  ip:
+    encrypted: OThhYmIzZTRhNGY5NzYyNjk4MDEzOTc4
+    algorithm: aes-256-gcm
+    iv: 32a301328ca1c456683903f9
+    version: "1"
+  spam:
+    score: 7.87
+    marked: true
+  status: rejected
