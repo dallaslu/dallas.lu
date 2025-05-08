@@ -475,3 +475,31 @@
     score: 7.89
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 11afacdf54bd239cf385ea8ac6518bb87c369e36
+  author:
+    name: Aaronillet
+    lang: en
+    email:
+      value:
+        encrypted: OGM1YjFiZDc5MDA5MTNmZGJmMWJjMTgxODczNzBiNTExOWNk
+        algorithm: aes-256-gcm
+        iv: 591ef19aec650d2f56aadc4f
+        version: "1"
+      hash:
+        sha256: 5f5d2ee634ef34eec5d48276b4e0170243835c757456f7689d8170ce1e960459
+  published: 2025-05-08T10:22:11.828Z
+  content: En la industria del juego, la marca 1xBet es bien conocida <a
+    href="https://www.diigo.com/item/note/b05aq/iy98?k=caa854d7ffcd0fa3e4a9126baba2a5dc">código
+    promocional 1xbet casas de apuestas legales</a>
+  lang: zh-CN
+  ip:
+    encrypted: YzlmNTg0YjRiM2Y4YTRmZTY3MGFlZWU1MjA4MA==
+    algorithm: aes-256-gcm
+    iv: ace8589d2d4a36a2b2c6e7ea
+    version: "1"
+  spam:
+    score: 6.87
+    marked: true
+  status: rejected
