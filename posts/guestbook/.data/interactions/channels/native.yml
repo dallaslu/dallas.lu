@@ -890,3 +890,32 @@
   content: 我只用过 FRP/ngrok/Cloudflare Tunnel。都免费，配合 docker 也是简单好用
   lang: zh-CN
   target: edd27d69b95f643751a0a3dbccac8c8215f97aa1
+- type: reply
+  channel: native
+  id: be40c5d9498ef89e31424b342ab9ba6418f7b456
+  author:
+    name: BrianHom
+    lang: en
+    email:
+      value:
+        encrypted: OGU2N2RmMmM3MjExNzQzZTU5NTk0M2VmOTVkMTFjMzgzMmY1ZTI=
+        algorithm: aes-256-gcm
+        iv: 3c36547d7625ac89ea782be9
+        version: "1"
+      hash:
+        sha256: e3bed05226701f54ef07039b88ecfb985c2573eb3eab7d052fb4b1a3bad2ed65
+  published: 2025-05-08T22:57:02.704Z
+  content: "<a
+    href=\"https://educareonlus.barnabiti.net/consigli-per-scegliere-un-casino-\
+    online-sicuro-in-4/\">https://educareonlus.barnabiti.net/consigli-per-scegl\
+    iere-un-casino-online-sicuro-in-4/</a> \r\n"
+  lang: en
+  ip:
+    encrypted: YzQyNTFmZWM5MzA0ZThhMzMxZTA3YzA1M2E4NDBi
+    algorithm: aes-256-gcm
+    iv: 6d8142e93cf178b6d3b0d57d
+    version: "1"
+  spam:
+    score: 8
+    marked: true
+  status: rejected
