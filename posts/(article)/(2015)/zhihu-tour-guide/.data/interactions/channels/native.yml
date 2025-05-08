@@ -530,3 +530,31 @@
     score: 7.72
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 4546a886763d90f1cc610eb5f1101b5d1c02ce1b
+  author:
+    name: WayneDrurb
+    lang: en
+    email:
+      value:
+        encrypted: MzNiZjA0NDc5ZGY4NzQ2NDFlZmJkY2MwNzQ4MmJmOTA1Yjhi
+        algorithm: aes-256-gcm
+        iv: 06685b555085bd5fdc8484d9
+        version: "1"
+      hash:
+        sha256: 1f7b7b5d4bebe717229e7c53616e76788111f11c42302d27942dc69107908aa2
+  published: 2025-05-08T19:53:11.941Z
+  content: The 1xBet bookmaker has established itself as one of the most generous
+    <a href="https://penzu.com/p/36ccb8d7297ad1b5">как получить промокод
+    1хбет</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTVlZWE3YTU3ZThiNjFlZjZiZTIwYWIxMzNmNQ==
+    algorithm: aes-256-gcm
+    iv: 491cac88e7e175eb685a5f47
+    version: "1"
+  spam:
+    score: 6.53
+    marked: true
+  status: rejected
