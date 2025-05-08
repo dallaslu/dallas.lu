@@ -503,3 +503,30 @@
     score: 6.87
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2741c29412d43fec07c109783e795456b28224f8
+  author:
+    name: VernonDeD
+    lang: en
+    email:
+      value:
+        encrypted: YjcxN2ZiZDNkZTYxNzNhMjU4ZTA2ODQ5OWQ5Y2U3ZjhlNzM1NjI=
+        algorithm: aes-256-gcm
+        iv: f67f70d0df48c435f37950eb
+        version: "1"
+      hash:
+        sha256: 2b0a608828740bba9a6d5a7e659a38785a0ccfcdae9e8bb9f361083a3eae8970
+  published: 2025-05-08T19:47:49.216Z
+  content: What makes the multiplier bonus so appealing is its unpredictability <a
+    href="https://gracebook.app/blogs/29746/The-Rise-of-the-Spaceman-Betting-Community-A-New-Frontier">https://gracebook.app/blogs/29746/The-Rise-of-the-Spaceman-Betting-Community-A-New-Frontier</a>
+  lang: zh-CN
+  ip:
+    encrypted: OGMxMWU0OTRkOGYwYzBlMGNjZGIwNmMz
+    algorithm: aes-256-gcm
+    iv: 081560eb8efaf7f0c420eef7
+    version: "1"
+  spam:
+    score: 7.72
+    marked: true
+  status: rejected
