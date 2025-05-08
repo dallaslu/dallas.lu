@@ -448,3 +448,30 @@
     score: 6.76
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 98f6467980f52729e5ca4d0c4d0710dc6ccb022e
+  author:
+    name: Charliesig
+    lang: en
+    email:
+      value:
+        encrypted: ZmQ0MDJjZDZmOTI5NDU4NzdmYTE4OWU3NzA3MzBlZmFiNjQ1
+        algorithm: aes-256-gcm
+        iv: 5d97f0cd536f8bd684798982
+        version: "1"
+      hash:
+        sha256: 4399fac3db5c10ee5008fdcba4709191e23f365a6a951d500991360ce619135a
+  published: 2025-05-08T10:00:01.950Z
+  content: Современные модели также могут включать перколяторы <a
+    href="https://vsenews.kharkiv.ua/vybor-grinderov-dlya-tabachnoj-smesi-na-chto-obrashhat-vnimanie.html">https://vsenews.kharkiv.ua/vybor-grinderov-dlya-tabachnoj-smesi-na-chto-obrashhat-vnimanie.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZTI1Mzk1MWRkOTkyNzgwMGY4NmFkNjE5
+    algorithm: aes-256-gcm
+    iv: baa296c2adea71b3cbe621d0
+    version: "1"
+  spam:
+    score: 7.89
+    marked: true
+  status: rejected
