@@ -940,3 +940,30 @@
     score: 7.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f30e0b347bd956ab59379c2a98c6a0e4c4a797f1
+  author:
+    name: MarionDut
+    lang: en
+    email:
+      value:
+        encrypted: YzAxZTA2OTdiY2U3MWIxNzY2OTkyYWJiMDQ4ODQ5ZWNkZmU0NmI=
+        algorithm: aes-256-gcm
+        iv: 2930ae438e21227413f70cca
+        version: "1"
+      hash:
+        sha256: 2b09090032ba13fe3be5cdeac46ff1567f5462fe206c50794dee3f280cfcf154
+  published: 2025-05-10T20:03:05.420Z
+  content: The 1xBet bookmaker has established itself as one <a
+    href="https://www.cinefish.bg/reports/inc/?sovety_po_prohoghdeniyu_risen_2_dark_waters_osnovnye_missii_186.html">https://www.cinefish.bg/reports/inc/?sovety_po_prohoghdeniyu_risen_2_dark_waters_osnovnye_missii_186.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODhkNzY3M2UyYmRmNjkwYzU1MGMzNjQw
+    algorithm: aes-256-gcm
+    iv: bed5005f4c961beb2c19cbce
+    version: "1"
+  spam:
+    score: 7.95
+    marked: true
+  status: rejected
