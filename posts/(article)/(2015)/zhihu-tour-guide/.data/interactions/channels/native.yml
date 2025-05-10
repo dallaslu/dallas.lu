@@ -751,3 +751,31 @@
     score: 7.41
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: cbbb51df48310372c7ea705d92561fbc1aa9654e
+  author:
+    name: servis toyota_uool
+    lang: en
+    email:
+      value:
+        encrypted: ZjkwZDM0ZTExNDFhMjM5N2U5MDI4MTQ0MmFhNWUzM2U4ODU3ZTczODhkNjU=
+        algorithm: aes-256-gcm
+        iv: a9e0f35576abda8c3e4ec0e7
+        version: "1"
+      hash:
+        sha256: 7f06f2d3dfa798b60ba12883a18da1060f755888008079c9f0cec552a5275530
+  published: 2025-05-10T05:45:40.684Z
+  content: тойота регламент то
+    [url=http://toyota-mtr.ru/owners/maintenance/]http://toyota-mtr.ru/owners/maintenance/[/url]
+    .
+  lang: zh-CN
+  ip:
+    encrypted: NjdjZGRlOWJmOWQ4MDliMmQ5ODI3NmRhYzZhMw==
+    algorithm: aes-256-gcm
+    iv: 781678038ee626bb31aed000
+    version: "1"
+  spam:
+    score: 9.79
+    marked: true
+  status: rejected
