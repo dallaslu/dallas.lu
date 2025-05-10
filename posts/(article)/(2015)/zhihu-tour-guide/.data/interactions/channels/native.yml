@@ -833,3 +833,30 @@
     score: 7.99
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 64927e4bdbd50f5a17087d8c08988333ff91f879
+  author:
+    name: Harrysot
+    lang: en
+    email:
+      value:
+        encrypted: YzdlMmQzODZiMzcyNzNiNjBjMmY0YzY5MzFiZTZjZTY0YTAwYTc=
+        algorithm: aes-256-gcm
+        iv: fd42b6caab022767d5c3fbe1
+        version: "1"
+      hash:
+        sha256: 3c5589cfbba6f3eb02516d2ebf0336c88fa538b95bbb5368718c50c49bbf9ef2
+  published: 2025-05-10T13:14:59.315Z
+  content: Домприемка - помощь в приёмке квартир в новостройках <a
+    href="https://dompriemka.ru/index07.html">приемка квартиры ПИК</a>
+  lang: zh-CN
+  ip:
+    encrypted: MDU2NWUzNmE0OWU4MTdhNWJlMzE4YTIx
+    algorithm: aes-256-gcm
+    iv: 8cfef929b336d7889753436c
+    version: "1"
+  spam:
+    score: 8.2
+    marked: true
+  status: rejected
