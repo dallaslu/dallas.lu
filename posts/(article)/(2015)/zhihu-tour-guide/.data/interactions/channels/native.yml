@@ -887,3 +887,30 @@
     score: 7.87
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 627b10370c8b06f6655d3a769c3cfbcad30659f2
+  author:
+    name: Roberthyday
+    lang: en
+    email:
+      value:
+        encrypted: MWI5MDA3YmIzMGM1MDFhMThkNTFlMmY2YWEyYTVlMWUxZTY1
+        algorithm: aes-256-gcm
+        iv: 34115632e5dce91cd0a744ec
+        version: "1"
+      hash:
+        sha256: 73a578d2287767ef5f029ca9b921bd1a2be07ee187aa6868e2cf741078066ece
+  published: 2025-05-10T18:15:58.006Z
+  content: If you are interested in a 1xbet promo code for today <a
+    href="https://bresdel.com/blogs/1022820/1xBet-Promo-Code-Free-Best-Bonus-up-to-36-000">https://bresdel.com/blogs/1022820/1xBet-Promo-Code-Free-Best-Bonus-up-to-36-000</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTllOGVjZTJmMjk2Mjg2YjdlMTk4NDJm
+    algorithm: aes-256-gcm
+    iv: cfd061e07bd366d15431a439
+    version: "1"
+  spam:
+    score: 7.79
+    marked: true
+  status: rejected
