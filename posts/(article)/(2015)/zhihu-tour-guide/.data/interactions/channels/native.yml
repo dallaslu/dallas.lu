@@ -806,3 +806,30 @@
     score: 7.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 15977a506dad725ecbd7ccbbc2e1d9a47d3dd961
+  author:
+    name: XavierSok
+    lang: en
+    email:
+      value:
+        encrypted: MjE2MWQxNzIzMWZiMzg3YWQ5OWEyMWE1YjFkMmVkYmUzODg1
+        algorithm: aes-256-gcm
+        iv: 2be91456da5332fafa34d367
+        version: "1"
+      hash:
+        sha256: 026bb220497399b3ce8cf13b0cef44e9fa76924bcf680e28dac4a3ab6d69e653
+  published: 2025-05-10T10:52:02.243Z
+  content: After consuming a certain amount <a
+    href="https://astra-hotel.ch/articles/kak_vybraty_dietu_chtoby_popravitysya.html">https://astra-hotel.ch/articles/kak_vybraty_dietu_chtoby_popravitysya.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZGNhMTNmZjU4YmRkNDBkYjQyOWQ0YTAx
+    algorithm: aes-256-gcm
+    iv: d8b7d4529df2a4d8725cd2bd
+    version: "1"
+  spam:
+    score: 7.99
+    marked: true
+  status: rejected
