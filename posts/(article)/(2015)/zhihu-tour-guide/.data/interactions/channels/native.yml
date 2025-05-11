@@ -1136,3 +1136,30 @@
     score: 8.01
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 4d7676c08a26c5be184f804b54646723b402dc34
+  author:
+    name: Jameshed
+    lang: en
+    email:
+      value:
+        encrypted: OThmZjE1ZGNmYzZmN2VmOTUxZTg1NmYyNmRkMTRhYzE4ZjZk
+        algorithm: aes-256-gcm
+        iv: cc940707abf8f8f495436f62
+        version: "1"
+      hash:
+        sha256: 9168214d7f1f5526475e52755e7a714b011f4f2c1a0c80069275bfd4144a1ab8
+  published: 2025-05-11T17:02:54.992Z
+  content: To receive the bonus, you need to register <a
+    href="https://cleverlend.ru/topic-t6691.html">melbet промокод на фрибет</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZGZmY2Q0NDhjZTllYzI3NWZmMmVhZTg5
+    algorithm: aes-256-gcm
+    iv: 2acf327f40643f0da62ccc27
+    version: "1"
+  spam:
+    score: 8.31
+    marked: true
+  status: rejected
