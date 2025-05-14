@@ -1527,3 +1527,30 @@
   spam:
     score: 2.5
   status: auditing
+- type: reply
+  channel: native
+  id: eafb116f087b60ca09ee0ad4e139728b9c92af9b
+  author:
+    name: Angeloclous
+    lang: en
+    email:
+      value:
+        encrypted: Y2ZmNGQxMWIzNTg3NTE1MmY4ZTdiNWY5ODVkMzIzNjc5YTBjMTM=
+        algorithm: aes-256-gcm
+        iv: 520032ea2795de833da186b9
+        version: "1"
+      hash:
+        sha256: add180d92704834231d5e1de4e3dd7e475649924b671daceb1c1f237f1f3a1d5
+  published: 2025-05-14T08:31:53.773Z
+  content: The PARI bookmaker has a healthy number <a
+    href="http://semeyka.listbb.ru/viewtopic.php?f=20&t=1732">http://semeyka.listbb.ru/viewtopic.php?f=20&t=1732</a>
+  lang: zh-CN
+  ip:
+    encrypted: N2NkNjBiOWRmZTQ1MTVlY2JlODNiNDcw
+    algorithm: aes-256-gcm
+    iv: d5d44804e9186f7205414931
+    version: "1"
+  spam:
+    score: 9.23
+    marked: true
+  status: rejected
