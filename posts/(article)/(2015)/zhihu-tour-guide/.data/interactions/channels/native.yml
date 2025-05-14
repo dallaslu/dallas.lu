@@ -1441,3 +1441,30 @@
     score: 7.85
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: cccca989e8be15a1991cbb471afdbeba2ba34335
+  author:
+    name: TommyCek
+    lang: en
+    email:
+      value:
+        encrypted: NTFkZGNjNDFmYzNlMzIzM2Q2Yjc0OTIwZjI3NWUxNDUyMWRlMzk=
+        algorithm: aes-256-gcm
+        iv: c2890d3ca2928b082cbbc00f
+        version: "1"
+      hash:
+        sha256: 9a2279a9ebbc74aba501f164e28afa0dc74a02045896fa46593c0ab023ed9a0c
+  published: 2025-05-14T00:57:37.105Z
+  content: Алкогольные напитки купить с доставкой за 60 минут <a
+    href="https://ru.pinterest.com/pin/701365342005068793/">https://ru.pinterest.com/pin/701365342005068793/</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODBlMDdmMTU2NTI3M2I1NzQ2MzY1NTg1
+    algorithm: aes-256-gcm
+    iv: c6db3fdf8684bfdcb1da1e8c
+    version: "1"
+  spam:
+    score: 7.56
+    marked: true
+  status: rejected
