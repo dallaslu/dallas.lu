@@ -1608,3 +1608,30 @@
     score: 7.92
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: cb03122e341a4bab7905c82806d623636b2b9a11
+  author:
+    name: Earnestmotly
+    lang: en
+    email:
+      value:
+        encrypted: NGEyYmQ5YmU4NzRiZDY2M2YyOGYwNjFhN2NjMTQzZmQ3Mjg4NDU=
+        algorithm: aes-256-gcm
+        iv: cf8aa42c9b6187dbc24442d4
+        version: "1"
+      hash:
+        sha256: 64cd9f7c307421e561a0a4d7bd2c2362e2d4df450f5a944a0d49ba90945478e7
+  published: 2025-05-15T00:51:03.891Z
+  content: New 1xBet players can receive an increased bonus <a
+    href="https://edgardsfp42075.bloggosite.com/41966601/best-1xbet-promo-code-welcome-bonus-up-to-130">https://edgardsfp42075.bloggosite.com/41966601/best-1xbet-promo-code-welcome-bonus-up-to-130</a>
+  lang: zh-CN
+  ip:
+    encrypted: NWIzODQ2ZDE5ZjU5NTg3ZGJmNzhlYWIx
+    algorithm: aes-256-gcm
+    iv: 50920740164999483c0e92d2
+    version: "1"
+  spam:
+    score: 7.91
+    marked: true
+  status: rejected
