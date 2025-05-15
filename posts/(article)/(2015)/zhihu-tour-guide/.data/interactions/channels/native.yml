@@ -1750,3 +1750,30 @@
     score: 7.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0c2f587e1bae9680df070e196f916c11dd693ab5
+  author:
+    name: JorgeleS
+    lang: en
+    email:
+      value:
+        encrypted: MzQ3ODc4YWUzYTA0MTQyNzAwNDZmZWRjN2Y4MzZkNjcxMzc5
+        algorithm: aes-256-gcm
+        iv: 995bf83b79d8f04cf67f86ac
+        version: "1"
+      hash:
+        sha256: 839a3fdc197e368ec67b3a06cd816c654fdc851b60dc1a094e47d572d27cff2d
+  published: 2025-05-15T16:10:11.874Z
+  content: Bookmaker loyalty programs offer increasing benefits <a
+    href="https://www.sutori.com/en/story/1xbet-promo-code-free-best-offers-today--DCu6c3hVSUHihm8pqfNUTVBz">https://www.sutori.com/en/story/1xbet-promo-code-free-best-offers-today--DCu6c3hVSUHihm8pqfNUTVBz</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZGE1ODg5ZjBlOGFhOTJhNGMwZjFhMDM3NTU2Mg==
+    algorithm: aes-256-gcm
+    iv: 7c3aca15b075f92bd715cd56
+    version: "1"
+  spam:
+    score: 7.89
+    marked: true
+  status: rejected
