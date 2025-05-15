@@ -1661,3 +1661,30 @@
     score: 7.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c7507d656ecf51f28514e5e7501c92a2b044f8db
+  author:
+    name: MartinGar
+    lang: en
+    email:
+      value:
+        encrypted: YTIyMGFhNjJhMDhiMTgwZjlhZTM5NmMxNTUwYTVkNTUyZjQw
+        algorithm: aes-256-gcm
+        iv: 23a8853325fc8a37b3216697
+        version: "1"
+      hash:
+        sha256: 44a64307d412821e3aa8f1c6a04e148f61667e4b98dfa8b855f4596d089f698c
+  published: 2025-05-15T08:22:45.953Z
+  content: Seize the moment and you will be able <a
+    href="https://jobs.employabilitydallas.org/employers/3613428-promo-code">https://jobs.employabilitydallas.org/employers/3613428-promo-code</a>
+  lang: zh-CN
+  ip:
+    encrypted: NGU1MDRkYTk4NWU0MGVhNTI3YjRlZjYzMmQ1ZQ==
+    algorithm: aes-256-gcm
+    iv: ba297a4637df6575d8be67e9
+    version: "1"
+  spam:
+    score: 7.88
+    marked: true
+  status: rejected
