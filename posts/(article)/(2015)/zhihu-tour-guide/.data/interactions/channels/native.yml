@@ -1831,3 +1831,30 @@
     score: 5.39
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: a907a60d6f31b8a77d85931d1411cc538c7434eb
+  author:
+    name: DavidAcuri
+    lang: en
+    email:
+      value:
+        encrypted: YTU5NDIxMWE4MzI2OTQ2YmVkMDlmODA2NDA4ZGVlZTc0ZTA0
+        algorithm: aes-256-gcm
+        iv: 79781386b8efe0421cd08b3d
+        version: "1"
+      hash:
+        sha256: 9d90e83c626b09b3c9307b8a5cb66cdb984ca096d240f3a45e87e9089a5600a6
+  published: 2025-05-16T00:34:41.140Z
+  content: Players can take advantage of the 1xBet promo code
+    [url=https://www.horticulturaljobs.com/employers/3618601-codigo1xbet]https://www.horticulturaljobs.com/employers/3618601-codigo1xbet[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZWNhZTQxOGQ4OTUyYTkxY2MzZWU1ODJi
+    algorithm: aes-256-gcm
+    iv: 6db9f28b0c2d210651821c86
+    version: "1"
+  spam:
+    score: 6.61
+    marked: true
+  status: rejected
