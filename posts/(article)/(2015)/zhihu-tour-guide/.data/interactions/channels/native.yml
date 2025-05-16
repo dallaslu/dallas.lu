@@ -1943,3 +1943,32 @@
     score: 4.94
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: dec92ed9539f632dc0f09fcec62324d429896e07
+  author:
+    name: BrianHom
+    lang: en
+    email:
+      value:
+        encrypted: N2IxMzNiMDU4MWY0OWEzMmEzNTQ3NWFkMzNlM2QzYWNjMTMyY2U=
+        algorithm: aes-256-gcm
+        iv: c751a382c6f6cdf25d65e0fa
+        version: "1"
+      hash:
+        sha256: e3bed05226701f54ef07039b88ecfb985c2573eb3eab7d052fb4b1a3bad2ed65
+  published: 2025-05-16T16:06:49.534Z
+  content: "<a
+    href=\"https://app.carnote.de/nettiturnausstrategiat-pokerista-kolikkopelei\
+    hin-4/\">https://app.carnote.de/nettiturnausstrategiat-pokerista-kolikkopel\
+    eihin-4/</a> \r\n"
+  lang: zh-CN
+  ip:
+    encrypted: NzVhZTY1YWI5YTliNjY4OWRmM2VmMGJiYTQ2NTJl
+    algorithm: aes-256-gcm
+    iv: 445dd592c97d242a1cb9a9f0
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
