@@ -1887,3 +1887,31 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 29b6e85bfaf9a5e043d317c5a5fea880de7f6201
+  author:
+    name: kashpo napolnoe_gfmr
+    lang: en
+    email:
+      value:
+        encrypted: OTM3OTU3OTg4NDBlYjdkNzJkMjA2ZDdmZmQ5Yzc3Y2Q1Y2EzZmRhNjlkMGI=
+        algorithm: aes-256-gcm
+        iv: b4f63c59d405fac296a0b212
+        version: "1"
+      hash:
+        sha256: 45624a90e5e4e3192a71465dfa3bff7ad067268e32cf8a8e57eba55446bc8509
+  published: 2025-05-16T02:30:13.612Z
+  content: кашпо напольное высокое широкое
+    [url=http://https://industrial-wood.ru/novosti/40260-ispolzovanie-napolnogo-kashpo-v-sovremennom-interere.html]http://https://industrial-wood.ru/novosti/40260-ispolzovanie-napolnogo-kashpo-v-sovremennom-interere.html[/url]
+    .
+  lang: zh-CN
+  ip:
+    encrypted: YzUxZWI3ZTI5NmYwNjhjNzAzNzM5NjE3YTlhNA==
+    algorithm: aes-256-gcm
+    iv: 7ef1ce37306d95b8c8322011
+    version: "1"
+  spam:
+    score: 8.54
+    marked: true
+  status: rejected
