@@ -2056,3 +2056,30 @@
     score: 9.57
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7a048f33b5da13765bbd53f4f227bc2f19101d1e
+  author:
+    name: RobertMaw
+    lang: en
+    email:
+      value:
+        encrypted: MDdkZmE4YTRiNmIwZGIzNTVlNmUzZmI0YzA0ZDBjMzhkNmY3ZDg=
+        algorithm: aes-256-gcm
+        iv: 641c91a14a19de6371d1101b
+        version: "1"
+      hash:
+        sha256: e37158a3f2de71330ffd5cc5a8d6235974b3feed7c044d3a6a8c1206810cf811
+  published: 2025-05-17T11:26:49.877Z
+  content: I have a multiple entry visa and my friend
+    [url=https://russiamagic.ru/5-prichin-posetit-albaniyu-etim-letom/]https://russiamagic.ru/5-prichin-posetit-albaniyu-etim-letom/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MTEwMGUzZTliOTk0MDA2MTk0YmJlNmI0MDg1NQ==
+    algorithm: aes-256-gcm
+    iv: 1b11f29108bd41c794bd172b
+    version: "1"
+  spam:
+    score: 9.69
+    marked: true
+  status: rejected
