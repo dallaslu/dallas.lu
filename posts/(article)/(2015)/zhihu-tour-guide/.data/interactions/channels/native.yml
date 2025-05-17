@@ -1972,3 +1972,32 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2453c554ef10bec32b2af3e67c1ae91ddb8b82ed
+  author:
+    name: Edwardglome
+    lang: en
+    email:
+      value:
+        encrypted: NzFlZWYzNjVmZDM1N2U4NWE3M2FmMGVlMTEzYmIyMWUxNzllNDE=
+        algorithm: aes-256-gcm
+        iv: 6c8d7757ff9d7be42fb09a7e
+        version: "1"
+      hash:
+        sha256: b599af2447cceca5c90df9d31401bec0db51ddbe14734556cf43519af297c172
+  published: 2025-05-17T01:02:50.101Z
+  content: Внедрите современные инструменты и сократите рутинные задачи, чтобы
+    сосредоточиться на развитии бизнеса
+    [url=https://forumsilverstars.forum24.ru/?1-5-0-00004784-000-0-0-1746551120]программа
+    для автоматизации торговли[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NTcyY2FmMzdkMDBkNWM3NGRmNmZiNjlk
+    algorithm: aes-256-gcm
+    iv: 5ee83f25f2d06796ee766adc
+    version: "1"
+  spam:
+    score: 8.58
+    marked: true
+  status: rejected
