@@ -2028,3 +2028,31 @@
     score: 7.62
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: eebb400d4de541d01c21a0dd56d6cbb54624f12a
+  author:
+    name: DavidPromb
+    lang: en
+    email:
+      value:
+        encrypted: NWMwMzlkODE4MmRjZjc4YjA2ZjJlMzdlM2FlMTI1NWJhZTQyNDE=
+        algorithm: aes-256-gcm
+        iv: 892cd33f6be7df8e59ec89ae
+        version: "1"
+      hash:
+        sha256: 68a3e6a97d56593091ff05ec05697f8ca038fe1cd185d98b7d2bce969ce5edf5
+  published: 2025-05-17T01:38:00.205Z
+  content: A multiple-entry visa allows you to travel to Schengen countries as
+    many times
+    [url=https://vmnews.ru/novosti/2017/10/31/oformlenie-viz-dlia-rossiian-v-edinom-vizovom-tcentre]https://vmnews.ru/novosti/2017/10/31/oformlenie-viz-dlia-rossiian-v-edinom-vizovom-tcentre[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YTRkNDNhOWI3ZDM0ZGQwOWFlNDFhZjBhOGNhZQ==
+    algorithm: aes-256-gcm
+    iv: 10f2875378d17c621da2a7c1
+    version: "1"
+  spam:
+    score: 9.57
+    marked: true
+  status: rejected
