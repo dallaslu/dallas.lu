@@ -2137,3 +2137,30 @@
     score: 7.3
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7e9592036301377d9ca8d110c158c3d3cd9f4f41
+  author:
+    name: RobertCep
+    lang: en
+    email:
+      value:
+        encrypted: ZjAxZWMyZmIyZTUwNTM1ODBjODI3NGVkNTQ5NjI3ZTI5OTY0NDU=
+        algorithm: aes-256-gcm
+        iv: 2fdf99cbb5d348590829bb9a
+        version: "1"
+      hash:
+        sha256: 02e897ae3e166dc322e343075c526ed1bdcab5e4d90b7d382e8fae4faa72e11f
+  published: 2025-05-17T18:40:52.509Z
+  content: One of them is if the applicant has relatives or friends
+    [url=http://hram-ua.com/cherkasskaya-oblast/chigirinskij-rajon/25698-trushivtsi/]http://hram-ua.com/cherkasskaya-oblast/chigirinskij-rajon/25698-trushivtsi/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YzkwNmRkMmZmZGQwMjc1MmMzYjViZDZmOTJhOA==
+    algorithm: aes-256-gcm
+    iv: 02d008ae4e6af841c02ae1c4
+    version: "1"
+  spam:
+    score: 6.65
+    marked: true
+  status: rejected
