@@ -2164,3 +2164,30 @@
     score: 6.65
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 547905645c260e36083e063101989fee28bce706
+  author:
+    name: MiguelQuala
+    lang: en
+    email:
+      value:
+        encrypted: NDZkYWQwZDg0MjU5YmI5MzM4MGVhODVhZDAzY2MxZTBkMDNhNTI=
+        algorithm: aes-256-gcm
+        iv: ecbcab1745bde7ef4a5aadb9
+        version: "1"
+      hash:
+        sha256: da0d4082f5123d7787c10f3c5dec11a5a4c57d65717b656ab300a27747a045eb
+  published: 2025-05-18T21:44:51.851Z
+  content: Ready to ignite your betting or gaming adventure
+    [url=https://avtolux48.ru/people/user/3132/blog/11638/]https://avtolux48.ru/people/user/3132/blog/11638/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZGQzMmZjNDM0NGRmMzgwZmEyNTcxM2VmZDFmYg==
+    algorithm: aes-256-gcm
+    iv: c665120ce36918f85609ebd6
+    version: "1"
+  spam:
+    score: 9.48
+    marked: true
+  status: rejected
