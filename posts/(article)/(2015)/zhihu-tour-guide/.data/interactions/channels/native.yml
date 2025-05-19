@@ -2191,3 +2191,30 @@
     score: 9.48
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 11680ece9747c33970a6190401893d8a7b768af8
+  author:
+    name: Michaelerync
+    lang: en
+    email:
+      value:
+        encrypted: NDViMzMyZTM1NDg3ZmI0MzkyZjBhYmZhOTQ0ODk3MGUzNzM5MGI=
+        algorithm: aes-256-gcm
+        iv: a1ee06926d5e514c34b49c04
+        version: "1"
+      hash:
+        sha256: f61915881af822151336a8fd3f4d8a25c84780c3c5f962c0864a094873edf298
+  published: 2025-05-19T15:53:07.968Z
+  content: Недавно у меня была возможность познакомиться с компанией Matsushita
+    Kogyo Co https://matsushita-kk.com
+  lang: zh-CN
+  ip:
+    encrypted: NTI5ZjZhOGRiMDFiMGEwN2E0MmQyNmMyYTVkYQ==
+    algorithm: aes-256-gcm
+    iv: 1b795806bda1fac887e44eaf
+    version: "1"
+  spam:
+    score: 5.23
+    marked: true
+  status: auditing
