@@ -2303,3 +2303,32 @@
     score: 4.97
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: b94aa3adef4d67fee2679cddb0a6f28ec15e7589
+  author:
+    name: Rogergoall
+    lang: en
+    email:
+      value:
+        encrypted: N2NhZjE1MzA0YWI1ODQ1YWNlZTYwYTYxZjg2M2NiNGNlMTkxODI=
+        algorithm: aes-256-gcm
+        iv: 66f240f11a84636a39c951ec
+        version: "1"
+      hash:
+        sha256: 9259d00c989cd27e2a64b53412de6a72c768a37652696541f7c0d88f557f1e2d
+  published: 2025-05-20T19:49:09.753Z
+  content: У нас вы можете купить саженцы гортензий, роз, плодовых деревьев и
+    ягодных культур, очень много многлетних цветов с доставкой по Новосибирску и
+    всей России — только проверенные сорта, идеально подходящие для вашего
+    климата [url=https://nsksad.ru]Саженцы гортензий Новосибирск[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MDUwYTgxODllM2VjYmU5ZGI4ODA3NDlkZWNkNQ==
+    algorithm: aes-256-gcm
+    iv: ced664eb16f27ab73e7d1b82
+    version: "1"
+  spam:
+    score: 7.77
+    marked: true
+  status: rejected
