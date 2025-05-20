@@ -2275,3 +2275,31 @@
     score: 4.58
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 25be603f8d7d200b6aacb2cc200b6ab62759b435
+  author:
+    name: Edgarunake
+    lang: en
+    email:
+      value:
+        encrypted: MjBhNWVhNzhlODQ0M2MwNDRkM2E4MGE4YWIyYWNlMTM0NjM4NTE=
+        algorithm: aes-256-gcm
+        iv: 661a2ae2c62146673650d755
+        version: "1"
+      hash:
+        sha256: c827000b056cdbc58e3e6885493d0b462a9db344948903fbb8389c94b1b33106
+  published: 2025-05-20T00:24:03.887Z
+  content: I recently started using stats-japan.jp for a research project, and I
+    have to say it's a goldmine for anyone interested in Japan’s demographic,
+    economic, and industrial data https://stats-japan.jp/
+  lang: zh-CN
+  ip:
+    encrypted: MzUwODdmOGYyNmE4ZjI4YjFkNzM1ZjM3
+    algorithm: aes-256-gcm
+    iv: b33fb5ec19b4afe8fcc9cd5b
+    version: "1"
+  spam:
+    score: 4.97
+    marked: true
+  status: auditing
