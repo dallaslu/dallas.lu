@@ -2387,3 +2387,32 @@
     score: 6.68
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: edb4a1aefb3ee4c73dee450e0da9d171f02fab8e
+  author:
+    name: Rafaelkit
+    lang: en
+    email:
+      value:
+        encrypted: M2YzNDc0NjI0NmY1YzRkZDIxMWM2ODIyZTgzMzZiYmIzMTU1MWM=
+        algorithm: aes-256-gcm
+        iv: 95d75837bdcd5337ff2cffe5
+        version: "1"
+      hash:
+        sha256: f20772b3d88138237f2ee250ed4a83a4aceeaa46401796ad1a034705264a3701
+  published: 2025-05-21T17:56:03.988Z
+  content: Участвуйте в государственных и коммерческих тендерах онлайн — находите
+    новых поставщиков и покупателей без лишних затрат
+    [url=https://saby.ru/news/tenders/289144e3-168b-4a99-b8c6-1e1ba3ab5c06]закупки
+    казахстан[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZjEyZTc1MTdkMTQ2OWUzNDJiYjU4Zjc4OTJhZg==
+    algorithm: aes-256-gcm
+    iv: 0bcbc4f3892578ade10a39cc
+    version: "1"
+  spam:
+    score: 8.52
+    marked: true
+  status: rejected
