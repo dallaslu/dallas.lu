@@ -2493,3 +2493,30 @@
     score: 7.88
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3edc777bc88d69fd0b528ff38f80c4d1425a5df5
+  author:
+    name: DanielTUB
+    lang: en
+    email:
+      value:
+        encrypted: NDlhZTZiNDI3YjJkNTYzZjlhMGVjZGJlYTU1MWI2NWQwM2YxOWY=
+        algorithm: aes-256-gcm
+        iv: 451c2a68aa8ffb389559f99d
+        version: "1"
+      hash:
+        sha256: 96e9884e72917eabe21024c232f91dba74cd9f22ed703692ebebf3a91db5d0bc
+  published: 2025-05-22T01:00:24.808Z
+  content: The main reason is often a lack of information about what bonuses
+    [url=https://form.typeform.com/to/Lkv1K8UA]https://form.typeform.com/to/Lkv1K8UA[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NGRiZjVmMmU3MWI4Njc5NTdmYzM4NDllNzE4Mw==
+    algorithm: aes-256-gcm
+    iv: c136bb03eb8b7dd21183d4d2
+    version: "1"
+  spam:
+    score: 6.1
+    marked: true
+  status: rejected
