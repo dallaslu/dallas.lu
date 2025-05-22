@@ -2575,3 +2575,31 @@
     score: 4.93
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: b831db7847fbf1207cb30fa1becf362458ac98d2
+  author:
+    name: ChrisJax
+    lang: en
+    email:
+      value:
+        encrypted: MjU2MWFjOWY0ZDQzZGM1MzI2ZGVkOGY1NzYxNWIzYjFhNWU3MDI=
+        algorithm: aes-256-gcm
+        iv: 860b02ecba1d62430c835902
+        version: "1"
+      hash:
+        sha256: e88267e01f89f62b6f37b941c32438747ef5226e07690320f21421c528676da5
+  published: 2025-05-22T10:40:08.636Z
+  content: New players receive a 100% first deposit bonus up to €130 for sports
+    betting <a
+    href="https://newsreaderseo.bcz.com/2025/05/05/codigo-promocional-sin-deposito-1xbet-bono-e130/">https://newsreaderseo.bcz.com/2025/05/05/codigo-promocional-sin-deposito-1xbet-bono-e130/</a>
+  lang: zh-CN
+  ip:
+    encrypted: MjY2MzY5NTQ4MWNiODFhZTk4NjRkOGJj
+    algorithm: aes-256-gcm
+    iv: 616d0d5507b7f45df123444e
+    version: "1"
+  spam:
+    score: 7.64
+    marked: true
+  status: rejected
