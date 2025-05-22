@@ -2603,3 +2603,30 @@
     score: 7.64
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: aaec967f6c91aaa0f6133d02e48c86e20a8595b5
+  author:
+    name: Williambax
+    lang: en
+    email:
+      value:
+        encrypted: YTAyNmE4ZWY1YjE0ZTE4MDUxODMzMmY3YTUyMzZkZjJhYmFiMjk=
+        algorithm: aes-256-gcm
+        iv: 9d3202a372224220ffb3fd3a
+        version: "1"
+      hash:
+        sha256: 8914607478681856e74716abd68c30b654e25785583b1e5388f8b2d4acd4b7de
+  published: 2025-05-22T18:02:06.674Z
+  content: Betting specials with enhanced odds, and cashout functionality for full
+    [url=https://www.behance.net/gallery/226417747/1xBet-promokod-besplatno-(bonus-100-do-32500-RUB)]https://www.behance.net/gallery/226417747/1xBet-promokod-besplatno-(bonus-100-do-32500-RUB)[/url]
+  lang: zh-CN
+  ip:
+    encrypted: Mjk4YmY5NDk2YjE5ZmY0ZjhjNjliNGE2
+    algorithm: aes-256-gcm
+    iv: 6dfaadc933989a873360e310
+    version: "1"
+  spam:
+    score: 6.63
+    marked: true
+  status: rejected
