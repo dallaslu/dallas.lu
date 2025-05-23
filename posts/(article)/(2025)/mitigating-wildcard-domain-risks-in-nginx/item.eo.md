@@ -2,7 +2,9 @@
 title: Wildcard-domajna agordo en Nginx: riskoj kaj kontraŭrimedoj
 date: '2025-05-23 05:23'
 license: CC-BY-NC-SA-4.0
-translator: ChatGPT, dallaslu
+translator: 
+    - ChatGPT
+    - dallaslu
 taxonomy:
     category:
         - Internet
