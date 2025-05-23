@@ -2657,3 +2657,32 @@
     score: 9.74
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 1c5c0de15ce6446cd3b75e071c52e575f172265a
+  author:
+    name: Charleswigue
+    lang: en
+    email:
+      value:
+        encrypted: ODdlNmQyOWY5MTcyODkwMTg2OWVmNzA4ODc2ODA1ZDkyYmUzOWM=
+        algorithm: aes-256-gcm
+        iv: dfeeb737dec42cb1dc7b3550
+        version: "1"
+      hash:
+        sha256: 2dd49b8949c0243f47bf92115bd9b37c7280bcd97a62226edc53d4537e3d3754
+  published: 2025-05-23T01:32:52.425Z
+  content: Discover everything you need to know about renting a car in Dubai.
+    Learn about the requirements, traffic rules, parking options, and how to
+    avoid fines <a
+    href="https://insiderpaper.com/the-rise-of-electric-vehicle-rentals-how-yeti-is-leading-the-green-charge-in-dubai/">https://insiderpaper.com/the-rise-of-electric-vehicle-rentals-how-yeti-is-leading-the-green-charge-in-dubai/</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTEyOGU3MGZiOGE0ODk3NThiNDllYTUy
+    algorithm: aes-256-gcm
+    iv: b9295775d52ef291a03afd6b
+    version: "1"
+  spam:
+    score: 7.31
+    marked: true
+  status: rejected
