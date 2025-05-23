@@ -2847,3 +2847,30 @@
     score: 5.32
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: b44fa90d79dbd5756a22928b7e8dd3ada8a6be1e
+  author:
+    name: Russellpes
+    lang: en
+    email:
+      value:
+        encrypted: OTU5YjlmYjdhNWE4NDFkZDViMWEzZTVkOWI0YzQ0YmIyMTM0ODU=
+        algorithm: aes-256-gcm
+        iv: 543952b6eee5148f03c14e86
+        version: "1"
+      hash:
+        sha256: 4c02a4730b55869423114704d12b834257de400e5fdac3d7f84eced9267607de
+  published: 2025-05-23T17:14:43.269Z
+  content: Регистрация бизнеса в Грузии - откроем ИП Грузии под ключ. Поможем
+    получить ВНЖ Грузии по ИП <a href="https://ip-georgia.com/">ВНЖ Грузии</a>
+  lang: zh-CN
+  ip:
+    encrypted: MGIzMDY2MTMzMzMzMTQxYjM4MDYzNTU0
+    algorithm: aes-256-gcm
+    iv: b4d0031cc6f881a3891c4603
+    version: "1"
+  spam:
+    score: 6.31
+    marked: true
+  status: rejected
