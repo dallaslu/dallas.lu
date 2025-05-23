@@ -2713,3 +2713,30 @@
     score: 6.48
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0b8252f667e209e0e5a8c6d43648a945351d98b8
+  author:
+    name: Andrewjouff
+    lang: en
+    email:
+      value:
+        encrypted: MDczNDcyOGNkNjkxNzgyYTkxYmI2MTdiMjgzMDEyMTI2MWJmMjI=
+        algorithm: aes-256-gcm
+        iv: 5793db1ae0be58c533e24959
+        version: "1"
+      hash:
+        sha256: 30c361bb217e87039b7eaae7b54789a370c766a2250572bba8803a285c9e6b45
+  published: 2025-05-23T09:15:30.302Z
+  content: The two most popular types of business phone numbers are geographical
+    [url=http://www.nffgz.cn/20241017/40211742.html]http://www.nffgz.cn/20241017/40211742.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZTFiY2IyY2I2OGE0OTUxYWNkOWYzZTVmNDA2YQ==
+    algorithm: aes-256-gcm
+    iv: 8c44da4b8d195a4ec7fb20a9
+    version: "1"
+  spam:
+    score: 6.14
+    marked: true
+  status: rejected
