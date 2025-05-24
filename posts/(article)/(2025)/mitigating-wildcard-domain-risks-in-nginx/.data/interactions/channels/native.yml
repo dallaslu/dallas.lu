@@ -1,0 +1,76 @@
+- type: reply
+  channel: native
+  id: 71e5c92bb91826932a6d76050b71e51fe5278c0a
+  author:
+    name: topnec
+    lang: en
+    url: topnec.org
+    email:
+      value:
+        encrypted: YmZlMjhmMzBkOTVhMGVkNWY2MzJkM2Nj
+        algorithm: aes-256-gcm
+        iv: 7d3ce1f65c772bbbe7542b0f
+        version: "1"
+      hash:
+        sha256: 70607437edb52f719c64ba4ae6cf1e7c40b73788718ad526bd5065030bcb8f8b
+  published: 2025-05-24T03:12:02.582Z
+  content: "嗯，我也对比了caddy的写法。caddy在这个问题上处理的更简单\r
+
+    类似下面的这个caddyfile ，既支持了泛域名证书管理，也可以避免你说的安全隐患\r
+
+    \r
+
+    *.lab.mydomain.com {\r
+
+    \    tls {\r
+
+    \        dns cloudflare {env.CLOUDFLARE_API_TOKEN}\r
+
+    \    }\r
+
+    \r
+
+    \    @bt host bt.lab.mydomain.com\r
+
+    \    handle @bt {\r
+
+    \        reverse_proxy bt:8759\r
+
+    \    }\r
+
+    \r
+
+    \    @bitwarden host bitwarden.lab.mydomain.com\r
+
+    \    handle @bitwarden {\r
+
+    \        encode gzip\r
+
+    \        reverse_proxy /notifications/hub/negotiate nas:7777\r
+
+    \        reverse_proxy /notifications/hub nas:3012\r
+
+    \        reverse_proxy nas:7777\r
+
+    \    }\r
+
+    \r
+
+    \    # fallback for other subdomains\r
+
+    \    handle {\r
+
+    \        respond \"Invalid subdomain\" 403\r
+
+    \    }\r
+
+    }\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: N2RiNTI4MzQ1MWMzNzM4Mjc0ZGY0MDA0MzU3Zg==
+    algorithm: aes-256-gcm
+    iv: 1d0e595c9cbf37de82b9b4a9
+    version: "1"
+  spam:
+    score: 2.57
+  status: auditing
