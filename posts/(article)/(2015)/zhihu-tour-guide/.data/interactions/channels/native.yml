@@ -2958,3 +2958,31 @@
     score: 5.86
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 19ab05ec398171107a9b27efbb27f0aa4460cb0b
+  author:
+    name: ZacharyCor
+    lang: en
+    email:
+      value:
+        encrypted: YjU3Yzc1NjhlNDYwYmNhY2FiNjlhNzJmYzQwZg==
+        algorithm: aes-256-gcm
+        iv: 11398df6106dfef4de152f82
+        version: "1"
+      hash:
+        sha256: 445a93f87fba283f678152b5927b52e2225b42431d850dbc621b12eaaf9783bc
+  published: 2025-05-24T10:16:03.002Z
+  content: Сотрудничество с аутсорсинговой компанией позволяет снизить
+    операционные расходы
+    [url=http://www.innov.ru/news/economy/autsorsing-preimushchestv/]http://www.innov.ru/news/economy/autsorsing-preimushchestv/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MjhiY2YwNGY2YWU4ODQzMzU3YWE5MjY3
+    algorithm: aes-256-gcm
+    iv: f0993231232784360633e8a6
+    version: "1"
+  spam:
+    score: 9.28
+    marked: true
+  status: rejected
