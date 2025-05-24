@@ -2986,3 +2986,31 @@
     score: 9.28
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b8c960f35314630f3aa35c2ddf9f34b261de6a13
+  author:
+    name: WalterRaTep
+    lang: en
+    email:
+      value:
+        encrypted: MDNhOTc3ZWYxNTM5NmM0YmZiZmZiNzU3YjYyMA==
+        algorithm: aes-256-gcm
+        iv: bfd06487b63c766937b375c4
+        version: "1"
+      hash:
+        sha256: fc159e8ae5fc8270915c12f5018ef34d8bf80f15c3d34f2bf0e35878b7fc3058
+  published: 2025-05-24T17:39:39.510Z
+  content: В статье рассказываем, как аутсорсинг и аутстаффинг упрощают
+    бизнес-процессы
+    [url=https://aiavtomaton.tech/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D0%B8%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B0%D0%BB%D0%BE%D0%B3/]https://aiavtomaton.tech/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D0%B8%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B0%D0%BB%D0%BE%D0%B3/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: M2I1MzI3MTU0YTU2YzgxMTliNDlmZTgz
+    algorithm: aes-256-gcm
+    iv: a77f83a97000dd7904c04048
+    version: "1"
+  spam:
+    score: 7.04
+    marked: true
+  status: rejected
