@@ -3208,3 +3208,33 @@
     score: 5.98
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 7c961d30dbb1a97465c82bd256dbaea6483b1d63
+  author:
+    name: DavidBom
+    lang: en
+    email:
+      value:
+        encrypted: MGMxNDFkZTNiNjQ5NmJlMDA3NjYyNGJhZTYyYmVjYmU0ZTYxZDA4NzM3ZTE=
+        algorithm: aes-256-gcm
+        iv: 18b0923c78993683900b5181
+        version: "1"
+      hash:
+        sha256: b1b3c4f289864b766b95aa341d2517bfba87b856dd862665081fa2f6f8e7b98f
+  published: 2025-05-27T00:12:43.818Z
+  content: "смотреть здесь  \r
+
+    \ \r
+
+    [url=https://playsugarrush.org/]смотреть[/url] \r\n"
+  lang: zh-CN
+  ip:
+    encrypted: ODdhNjFiNmUzMTRhOTY4Y2FjNzhiYmRj
+    algorithm: aes-256-gcm
+    iv: 139294040de43b48b9c2d954
+    version: "1"
+  spam:
+    score: 6.34
+    marked: true
+  status: rejected
