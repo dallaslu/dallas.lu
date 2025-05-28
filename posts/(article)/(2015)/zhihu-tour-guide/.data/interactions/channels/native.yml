@@ -3385,3 +3385,32 @@
     score: 8.73
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 42031c4b2113dbadad25dd547eac500e6ce943d1
+  author:
+    name: CharlesDit
+    lang: en
+    email:
+      value:
+        encrypted: MTQ0YTc2ZmE0NTk2YzkxY2YxMzhmMmY5MGI1ODQ2ZTAyMDQ5MzVlMA==
+        algorithm: aes-256-gcm
+        iv: 7113247c5ff71690b4a637f8
+        version: "1"
+      hash:
+        sha256: 4d52af7ad3173364409fd00348b46845905aee68794645d28aeec1dafb691a5a
+  published: 2025-05-28T19:11:54.168Z
+  content: Единый портал аренды. На Аренда24 можно взять в аренду или сдать в
+    аренду коммерческую недвижимость, строительную технику, оборудование от ИП и
+    организаций по всей Беларуси
+    [url=https://arenda24.by/category/avtokrany-16t]Кран 16 тонн аренда[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZTYxNDRkMTBkZjAxZTgwNTBjZTU2ZmY0
+    algorithm: aes-256-gcm
+    iv: a6d05f6aa3f56326d108d19f
+    version: "1"
+  spam:
+    score: 5.07
+    marked: true
+  status: auditing
