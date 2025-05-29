@@ -3499,3 +3499,31 @@
     score: 6.16
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 864872f93f7668d358a1370d54b071b1cb852f74
+  author:
+    name: JamesLat
+    lang: en
+    email:
+      value:
+        encrypted: NDJmN2FhNmJlNzVmM2IzYzBkYTc4NmUxOGYxOA==
+        algorithm: aes-256-gcm
+        iv: 16a87632ed8cb3e0e76d8315
+        version: "1"
+      hash:
+        sha256: 934b45f380c80d3224a8e2c03951828c2ed0883e054d3eb35d315bb38d939263
+  published: 2025-05-29T17:45:04.417Z
+  content: "Вместимость стадиона: до 75 000 зрителей на национальных матчах,
+    включая 2152 бизнес-места, 1374 места в VIP-ложах
+    [url=https://psg-inter.ru/]псж интер[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: ZTRkOTEzZThlOTUwNjIwZGQzNmZhZDMxMjljZg==
+    algorithm: aes-256-gcm
+    iv: 4bb016abf96cfb1525e526de
+    version: "1"
+  spam:
+    score: 7.98
+    marked: true
+  status: rejected
