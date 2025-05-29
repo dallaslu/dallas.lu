@@ -3414,3 +3414,31 @@
     score: 5.07
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 81a1e2ed4d25a61b90809435cf3b026ac9fccd87
+  author:
+    name: Victorsig
+    lang: en
+    email:
+      value:
+        encrypted: MjBjNzA2YmJkZjhlNTFhNWZkZjdiNDVmNzMyMw==
+        algorithm: aes-256-gcm
+        iv: ed5ebf52a98fd7ed1a3b037d
+        version: "1"
+      hash:
+        sha256: 55300802af3cf16d46d46fbe75a6bd4454fe0a0ca9a723dffafa5ecebb29c76c
+  published: 2025-05-29T01:37:44.590Z
+  content: Уже много лет мы доставляем алкоголь прямо к вашему дому в Москве в
+    любое время дня и ночи [url=https://alcomagaz.ru/]доставка алкоголя на
+    дом[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YTgxNTMwZmM0YmFlMDY4NTFkNmFhNWRjMDM0Ng==
+    algorithm: aes-256-gcm
+    iv: 71e31c2353dc8b5879308f80
+    version: "1"
+  spam:
+    score: 8.11
+    marked: true
+  status: rejected
