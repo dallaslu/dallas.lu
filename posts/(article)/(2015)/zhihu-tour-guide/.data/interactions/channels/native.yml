@@ -3583,3 +3583,31 @@
     score: 8.2
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: bb4e1585d85a75e64d9e756baadd8a1af257e3c0
+  author:
+    name: Ysilenie konstrykcii_bmMl
+    lang: en
+    email:
+      value:
+        encrypted: Mjc4OTY5MmExMjUxZTQ0MTk4ZDc4NGYxOTFiMmYxYWYwYjlmNDNmZDEwZTVjOTUxOWYwNWVjMTc0YQ==
+        algorithm: aes-256-gcm
+        iv: 6f774d36deab63b9f4819832
+        version: "1"
+      hash:
+        sha256: f45f1e72f83c789e6bc28262ec779eeea28e9580255e854880fdff498cb39f74
+  published: 2025-05-30T11:27:15.774Z
+  content: Гидроизоляция
+    [url=https://tadgikov.net/stroitelnye-materialy/6619-rekonstruktsiya-i-kapitalnyj-remont-zdanij-printsipy-metody-i-etapy-provedeniya-rabot.html/]https://tadgikov.net/stroitelnye-materialy/6619-rekonstruktsiya-i-kapitalnyj-remont-zdanij-printsipy-metody-i-etapy-provedeniya-rabot.html/[/url]
+    .
+  lang: zh-CN
+  ip:
+    encrypted: MDVlOTI3Nzc5ZWM4MDM4NDkxYjAyNjUyYjc4NTRk
+    algorithm: aes-256-gcm
+    iv: 3d1bee36e1370dbd114b0830
+    version: "1"
+  spam:
+    score: 7.29
+    marked: true
+  status: rejected
