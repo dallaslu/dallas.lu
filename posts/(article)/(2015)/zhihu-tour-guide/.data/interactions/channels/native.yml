@@ -3665,3 +3665,29 @@
   spam:
     score: 3.33
   status: auditing
+- type: reply
+  channel: native
+  id: 9890730510f70b589b78683eedc6efb42610d831
+  author:
+    name: MarioDam
+    lang: en
+    email:
+      value:
+        encrypted: ZjIwNWIxNjViMmJiYjU2ODNiNjcwOGJiZTk5ZmIyOGYyYTcyNWUyYTNjNmMxYjI3
+        algorithm: aes-256-gcm
+        iv: 289f13eaec8233fb79aec0ad
+        version: "1"
+      hash:
+        sha256: 6a4e6be6589c134a0bac98965ef83c857315e7369793a08593054a51ab40bd0d
+  published: 2025-05-30T17:59:30.879Z
+  content: <a href=https://planbet.org/>порно вк</a>
+  lang: zh-CN
+  ip:
+    encrypted: MDZjOGE4YjE4Y2I1Y2M3ODgyNTZiZDEz
+    algorithm: aes-256-gcm
+    iv: 9b256c2a1a42ff46b4c5ff05
+    version: "1"
+  spam:
+    score: 7.91
+    marked: true
+  status: rejected
