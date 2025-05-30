@@ -3745,3 +3745,31 @@
     score: 7.93
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e5607d4c814610f62800bbea25fc268da014676a
+  author:
+    name: Frankswins
+    lang: en
+    email:
+      value:
+        encrypted: YmE5MjE1YzM1OWQ4MWY2YWRlMDg5NjFmYTY1NWRhNThjMTNiMmYxMA==
+        algorithm: aes-256-gcm
+        iv: cc1a69d88000fae24bfb2e27
+        version: "1"
+      hash:
+        sha256: e0ae9667b02adc20c9a144210a38514e650722d568618187d959c65b0009c834
+  published: 2025-05-30T23:47:04.335Z
+  content: Туроператор №1 по приему туристов в Казани. Туры и экскурсии в Казань и
+    по Татарстану [url=https://to-kazan.ru/blog/place]достопримечательности
+    казани[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YjlkM2IyMzA0NWRiZWUzN2NjZjJjN2U2
+    algorithm: aes-256-gcm
+    iv: 2e0d8ad0f4c37860db478e6f
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
