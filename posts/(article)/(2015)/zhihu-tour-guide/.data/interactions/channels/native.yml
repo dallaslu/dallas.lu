@@ -3527,3 +3527,31 @@
     score: 7.98
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 61ec973f413deb6e16e5f99383a31d52dac47259
+  author:
+    name: CharlesShimi
+    lang: en
+    email:
+      value:
+        encrypted: MDJhZWUwOTQ4NmE2ZjhhMDI2NjljNTAzNzdhMjkyZTFkMThl
+        algorithm: aes-256-gcm
+        iv: b973c5a389ffada3e0d44396
+        version: "1"
+      hash:
+        sha256: a63f22d3e41d3469d9a2eacb7228db3ef35a831bc64f2e168fdd18b2638f52a4
+  published: 2025-05-30T05:28:00.139Z
+  content: "<a
+    href=\"https://job88.click/100-bonus-a-12-500-czk-200-fs-13/\">https://job8\
+    8.click/100-bonus-a-12-500-czk-200-fs-13/</a> \r\n"
+  lang: zh-CN
+  ip:
+    encrypted: YzZlZTQ5OWY4YWY3NGZjMzA0YWEzNGRiNmI=
+    algorithm: aes-256-gcm
+    iv: 0c87a4011b7f0b27017c829c
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
