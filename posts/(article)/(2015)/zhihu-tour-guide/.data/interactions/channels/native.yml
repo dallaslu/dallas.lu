@@ -3555,3 +3555,31 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 10bc2de4de1a88e459d08d14f031f9ec32235cae
+  author:
+    name: Ysilenie konstrykcii_saKr
+    lang: en
+    email:
+      value:
+        encrypted: MDdiMWFlNjliMjU5YzMwMjZhYzkzZjNhOTQxNTNlZTg5ZGIyNmVjMTQ0NDhiODg0NGRjNWQ5MGExMA==
+        algorithm: aes-256-gcm
+        iv: da297f5c18d570c7e40d484a
+        version: "1"
+      hash:
+        sha256: c168769a39b336df932662a434afdbe9860453a26575bc1d1f801017e2bbfaa2
+  published: 2025-05-30T10:49:05.530Z
+  content: Выбрать гидроизоляцию
+    [url=https://www.stroika-tovar.ru/articles/stati/usilenie-fundamentov-zdanij-metallom-buroinekczionnymi-svayami-i-inektirovaniem.html]https://www.stroika-tovar.ru/articles/stati/usilenie-fundamentov-zdanij-metallom-buroinekczionnymi-svayami-i-inektirovaniem.html[/url]
+    .
+  lang: zh-CN
+  ip:
+    encrypted: NDRmMmQxYzU3YjI4OWVhZjAzZmIwNjBl
+    algorithm: aes-256-gcm
+    iv: 7766e48a7b260ac68f66ce75
+    version: "1"
+  spam:
+    score: 8.2
+    marked: true
+  status: rejected
