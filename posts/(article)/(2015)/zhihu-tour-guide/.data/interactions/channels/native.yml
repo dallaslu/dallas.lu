@@ -4427,3 +4427,31 @@
     score: 6.57
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b4e4e25ee40eb11a613df2e6a1eb9ad847f01395
+  author:
+    name: Williamkes
+    lang: en
+    email:
+      value:
+        encrypted: NDIzYWQ3ZTJhNTIwZjZhZDljYzkyMTRiNWI1NDliYjNkZWYxOTllMQ==
+        algorithm: aes-256-gcm
+        iv: 66a058bb5c6c98882cba7229
+        version: "1"
+      hash:
+        sha256: 8ee9c169cc2bf15b77829557309915e1755d5e4e825be6fd28354e9b2f297bf2
+  published: 2025-05-31T19:10:47.836Z
+  content: Сотрудничество с аутсорсинговой компанией позволяет снизить
+    операционные расходы
+    [url=https://www.km.ru/economics/2019/12/03/863118-otvetstvennost-za-neuplatu-strakhovykh-vznosov-v-2020-godu]https://www.km.ru/economics/2019/12/03/863118-otvetstvennost-za-neuplatu-strakhovykh-vznosov-v-2020-godu[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NjQxMjU1MzJjOTIyOTVlZTUxMWY5NjM0
+    algorithm: aes-256-gcm
+    iv: 5087b80b2f45ac3fa26c1fe0
+    version: "1"
+  spam:
+    score: 9.64
+    marked: true
+  status: rejected
