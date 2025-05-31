@@ -603,3 +603,28 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7c8adca06222c3a7a1541e4f07eb7b465ecf9976
+  author:
+    name: 了凡四训
+    lang: zh-CN
+    url: http://mp4wang.cc
+    email:
+      value:
+        encrypted: ZDQzMGFhNTE3NGJjNjM3Y2RjMDAyNmRmMTVkYzAyNmNkMGQ5ZTM=
+        algorithm: aes-256-gcm
+        iv: fd618f3f8a525dc4015b110d
+        version: "1"
+      hash:
+        sha256: 3428280b7333fef726f09b3a1a8e56f4f33551e0a211f4d13660fa14f72463b7
+  published: 2025-05-31T00:41:24.783Z
+  content: 感谢大佬的贡献
+  lang: zh-CN
+  ip:
+    encrypted: MTk2ODVjMTk0NDM2YTk5MTYzODdkNjJiZDQ=
+    algorithm: aes-256-gcm
+    iv: 4a3eaa53163622c00dfb7196
+    version: "1"
+  spam:
+    score: 0.3
