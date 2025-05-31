@@ -4400,3 +4400,30 @@
     score: 6.55
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: cf85f66ac67c835fdb3abc56c97876ce5d98f0b8
+  author:
+    name: Edwardgoxia
+    lang: en
+    email:
+      value:
+        encrypted: YjdjYzMwYzI4YWRkZWE3YTljMTlmYjUyYTJjMzgx
+        algorithm: aes-256-gcm
+        iv: 125657984417d6775d92ad29
+        version: "1"
+      hash:
+        sha256: f65a19cbd1939347042fdcb508c31163dad923defff6439f04f7441b34b005ec
+  published: 2025-05-31T18:42:59.310Z
+  content: This offer is available not only for players from Russia
+    [url=http://www.bisound.com/forum/showthread.php?p=2118491#post2118491]http://www.bisound.com/forum/showthread.php?p=2118491#post2118491[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZDVlM2E4YTRhYTU4OGEyMjk2YTdkMmJmZTQwYw==
+    algorithm: aes-256-gcm
+    iv: 30a48c0f6c741be9f13ca07f
+    version: "1"
+  spam:
+    score: 6.57
+    marked: true
+  status: rejected
