@@ -4346,3 +4346,30 @@
     score: 4.76
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: bef7c4d3c64fcc651d263f3f77d5efcd7b1e8593
+  author:
+    name: Derrickkit
+    lang: en
+    email:
+      value:
+        encrypted: NmUzN2NkZDk0MjNkZjE2NTZhMzBlMjRjYjY2MDg2
+        algorithm: aes-256-gcm
+        iv: f8c40995f64e4947e2f4ce7f
+        version: "1"
+      hash:
+        sha256: 8308e9a3cac6e0d5b871db9b0aafe30f84c792cf7f17cf6fc06d79d4203af4f4
+  published: 2025-05-31T09:50:20.437Z
+  content: To participate in the promotion, you must make a deposit
+    [url=http://flowerwheel.synology.me/dokuwiki/doku.php?id=%D0%BF%D1%80%D0%BE%D0%BC%D0%BE%D0%BA%D0%BE%D0%B4_%D0%BF%D0%B0%D1%80%D0%B8_%D0%BD%D0%B0_%D1%84%D1%80%D0%B8%D0%B1%D0%B5%D1%82_%D0%B1%D0%BE%D0%BD%D1%83%D1%81_%D0%B1%D0%B5%D0%B7_%D0%B4%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%B0]http://flowerwheel.synology.me/dokuwiki/doku.php?id=%D0%BF%D1%80%D0%BE%D0%BC%D0%BE%D0%BA%D0%BE%D0%B4_%D0%BF%D0%B0%D1%80%D0%B8_%D0%BD%D0%B0_%D1%84%D1%80%D0%B8%D0%B1%D0%B5%D1%82_%D0%B1%D0%BE%D0%BD%D1%83%D1%81_%D0%B1%D0%B5%D0%B7_%D0%B4%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%B0[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NGEyZTA2NWZhMzE4OGI3N2FlZTliODBhMTc1Yw==
+    algorithm: aes-256-gcm
+    iv: b1efeb69945fad6b8b7b4fd6
+    version: "1"
+  spam:
+    score: 7.2
+    marked: true
+  status: rejected
