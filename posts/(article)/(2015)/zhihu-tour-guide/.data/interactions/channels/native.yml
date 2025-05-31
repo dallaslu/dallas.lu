@@ -4373,3 +4373,30 @@
     score: 7.2
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 1a2242037c8c7e8ba3c877eba63383e4b8c46af0
+  author:
+    name: MichaelDer
+    lang: en
+    email:
+      value:
+        encrypted: YTQ3OWY5YTViN2U2YTY3YzMwM2E3Y2JhODk1ODI0NzE3Mzk5NzY4Zg==
+        algorithm: aes-256-gcm
+        iv: a5bc73f2567e39b123cd1b89
+        version: "1"
+      hash:
+        sha256: 8e262c3b35638f3738d6825d24372e4a586a609f36f867cc04d6fc526550c859
+  published: 2025-05-31T10:10:05.122Z
+  content: The code must be activated during registration
+    [url=http://le1xbet.pbworks.com/w/page/160785585/FrontPage]http://le1xbet.pbworks.com/w/page/160785585/FrontPage[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ODQ3OWJlNWU0OTVmOTQ5ZWM3ZmNjMTM4
+    algorithm: aes-256-gcm
+    iv: 742ee1d01c19d0bdf32c79dd
+    version: "1"
+  spam:
+    score: 6.55
+    marked: true
+  status: rejected
