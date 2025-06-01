@@ -4483,3 +4483,31 @@
     score: 5.94
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: a533bdebdf83e8c9c6931554f1ebb7825af616d9
+  author:
+    name: AnthonyGlott
+    lang: en
+    email:
+      value:
+        encrypted: NGM5N2E5NTY3NDUzYjUzNWI3Njk5ZTNiMWQwNzZiMjlkY2M5M2ZmYw==
+        algorithm: aes-256-gcm
+        iv: 484a6a2791a27f85d7274055
+        version: "1"
+      hash:
+        sha256: 1f4e9c67da0329db5cd7a30017a027ee9b85cbe7b9fa0431d10bcaa58ae57385
+  published: 2025-06-01T09:52:37.576Z
+  content: Аутсорсинг бухгалтерских услуг — это передача вашей бухгалтерии в руки
+    бухгалтерской фирмы или специалиста-аутсорсера
+    [url=https://www.klerk.ru/materials/2018-12-12/bukhgaltjerskoje-obsluzhivanije-kompanij-prjeimushhjestva-i-osobjennosti-uslug/]https://www.klerk.ru/materials/2018-12-12/bukhgaltjerskoje-obsluzhivanije-kompanij-prjeimushhjestva-i-osobjennosti-uslug/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MTQ3YThhOGI5YzA4MzQ0OGExNTgzNjA3
+    algorithm: aes-256-gcm
+    iv: d69011089f50757957d7e7cb
+    version: "1"
+  spam:
+    score: 9.51
+    marked: true
+  status: rejected
