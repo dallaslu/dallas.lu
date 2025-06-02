@@ -4566,3 +4566,30 @@
     score: 5.94
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 7b79a2265565c6ed2b60d193b5f6482f02e1b55f
+  author:
+    name: KellyKella
+    lang: en
+    email:
+      value:
+        encrypted: YzUwNzgxN2VhNmY4ODBkZjY2ZmMwNGQ4NWJhNjEz
+        algorithm: aes-256-gcm
+        iv: d72ea0f2f953b08ab4100e6d
+        version: "1"
+      hash:
+        sha256: 8ca79f30391800ff6635ee7e05bcba9094e1508ab0eeaad9511246670cee36e4
+  published: 2025-06-02T00:43:12.622Z
+  content: We can describe a new product to a child
+    [url=https://virginiav.org/news/iskusstvo_malyh_puteshestviy_kak_prevratity_progulku_v_priklyuchenie.html]https://virginiav.org/news/iskusstvo_malyh_puteshestviy_kak_prevratity_progulku_v_priklyuchenie.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ODY1NjRmMGUyYWFmY2M2OGIzNDBkZTljMzhiYg==
+    algorithm: aes-256-gcm
+    iv: d5bfa6e428c0485354764052
+    version: "1"
+  spam:
+    score: 6.95
+    marked: true
+  status: rejected
