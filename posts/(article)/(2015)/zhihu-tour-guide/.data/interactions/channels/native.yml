@@ -4648,3 +4648,30 @@
     score: 9
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ebb21f7da7b799e076f9b47794ef4f215eff3e64
+  author:
+    name: JamesCrumn
+    lang: en
+    email:
+      value:
+        encrypted: ODI5NmYxYjg2ZWNiMjhlOGI4MmZmZjllY2ZjNzllNDJkMDY3MzAwMg==
+        algorithm: aes-256-gcm
+        iv: 90b0c42f60faff0412d69f3f
+        version: "1"
+      hash:
+        sha256: 4d2d94b8ad257421688cf3a188237d5ddc5f27e9cacbf63af95efb9506ad12d0
+  published: 2025-06-02T20:20:20.070Z
+  content: Усыпление и кремация кошек и собак в Санкт-Петербурге
+    [url=https://veterinarnayaclinica.ru/]veterinarnayaclinica.ru[/url]
+  lang: zh-CN
+  ip:
+    encrypted: Y2Q3OWFmOWRlNjhiMjY1NjM0OWQwZDI5
+    algorithm: aes-256-gcm
+    iv: 387334d5923b461f7ed95f27
+    version: "1"
+  spam:
+    score: 9.04
+    marked: true
+  status: rejected
