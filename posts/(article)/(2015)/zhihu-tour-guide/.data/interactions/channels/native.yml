@@ -4675,3 +4675,29 @@
     score: 9.04
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9dad2d5fc15c45a335f7b130cba63e01a89ade68
+  author:
+    name: ThomasFuB
+    lang: en
+    email:
+      value:
+        encrypted: MDllYzlhMzkzNTU3MTNkMzM2ZGQ4ZmYwOTFhMmUwNWE5ZDU0YTEwMA==
+        algorithm: aes-256-gcm
+        iv: 398da591cc21cc123b98599b
+        version: "1"
+      hash:
+        sha256: 9bf240ca659a9a2ca2755c3e9572a60556754b22a06cbf4a671f0a6dbd5e1731
+  published: 2025-06-03T09:59:16.465Z
+  content: Продвижение в социальных сетях SMM https://vc.ru/smm-promotion
+  lang: zh-CN
+  ip:
+    encrypted: NzcwOGZhZWZhZDU4ODg5NjZkNjllNDU3
+    algorithm: aes-256-gcm
+    iv: fb05a748cd3739fec12124d3
+    version: "1"
+  spam:
+    score: 8.81
+    marked: true
+  status: rejected
