@@ -4701,3 +4701,31 @@
     score: 8.81
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 198dd449a15a48c694e4a263925c53804a7a45d0
+  author:
+    name: syhie transformatori kypit_wqSn
+    lang: en
+    email:
+      value:
+        encrypted: ZWFmNDNmOTI2YWE1NjBkZDQ3NWZkOWMyNDU5Yjk2YTdlOTE0MGM0NmExZGFjZWZkMDQ0ODI2Y2Q3Yg==
+        algorithm: aes-256-gcm
+        iv: 8008c491fcac0b9428c8be41
+        version: "1"
+      hash:
+        sha256: c07f057b3536e5b2a04c976cc50cf1771f3a692cb88ca6228dfb0e3d3648edbf
+  published: 2025-06-03T13:28:42.554Z
+  content: сухие силовые
+    трансформаторы	 [url=www.doskamarta.borda.ru/?1-4-0-00001109-000-0-0-1748336808]сухие
+    силовые трансформаторы	[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: NDhmMzIxMTYzN2NkYzdkMTVkOGRmNDRjNDU0Nw==
+    algorithm: aes-256-gcm
+    iv: 33b3cca56555e3934fa612e7
+    version: "1"
+  spam:
+    score: 4.5
+    marked: true
+  status: auditing
