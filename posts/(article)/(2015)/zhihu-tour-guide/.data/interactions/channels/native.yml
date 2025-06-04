@@ -4949,3 +4949,32 @@
     score: 5.49
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: a3b1fec95ec5d168e9779dfb120e3d89dc05028f
+  author:
+    name: JamesDom
+    lang: en
+    email:
+      value:
+        encrypted: YTI2NjA4Mzg3ZWJhOTFjYTYwMDg5Y2ZlMmUzZTYwM2Q3OWNhZmY=
+        algorithm: aes-256-gcm
+        iv: edfec6e3e02b30c1e71c762e
+        version: "1"
+      hash:
+        sha256: a5f2bcba9d0ad22ac97806c1a7b890df7983de604473c9352b00d2ead30d6290
+  published: 2025-06-04T18:46:54.663Z
+  content: Вход и регистрация в мобильном приложении Слот геймс казино для игры
+    удобно и просто скачать апк файл для андроид и крутить популярные слоты
+    [url=https://slot-games-casino77.top/skachat-prilozhenie]слот геймс
+    приложение[/url]
+  lang: zh-CN
+  ip:
+    encrypted: OGJjNmUzZjYxOWZiYWJiNjEzNTI3ODBhZTAwNA==
+    algorithm: aes-256-gcm
+    iv: faf12b9ef67267d216d98f20
+    version: "1"
+  spam:
+    score: 5.25
+    marked: true
+  status: auditing
