@@ -4811,3 +4811,31 @@
     score: 9.56
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7c30ba3cf76006a32402c8819717f24044ef251c
+  author:
+    name: syhie transformatori kypit_hnSn
+    lang: en
+    email:
+      value:
+        encrypted: Mjc1ZmFhYTVhYzFkYzU3N2NjYzBjYmUwNGE1MDJmMjYxMjM3OWRmMzFjYzA4NTVmNmM0MTkxNGRjNA==
+        algorithm: aes-256-gcm
+        iv: 698a6936c1da4f14ecd83b4b
+        version: "1"
+      hash:
+        sha256: 959e4269b490f6f6dbcf9ac750b9bcb1b37916b2e1d6bfae696e48a01f9cc8a0
+  published: 2025-06-04T02:21:30.987Z
+  content: сухой трансформатор 10
+    кв	 [url=http://doskamarta.borda.ru/?1-4-0-00001109-000-0-0-1748336808]сухой
+    трансформатор 10 кв	[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: NjgzNGNjZDE4YThkMWM0OGQ3MTAwYzA3ZGFlOA==
+    algorithm: aes-256-gcm
+    iv: d752140ea11cff9ce4f6b77d
+    version: "1"
+  spam:
+    score: 9.07
+    marked: true
+  status: rejected
