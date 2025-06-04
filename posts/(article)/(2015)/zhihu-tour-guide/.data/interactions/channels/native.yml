@@ -4783,3 +4783,31 @@
     score: 7.03
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2cdc58bbe265bd7701a1e9929b958eb64eccf54d
+  author:
+    name: nakrutka_fsmt
+    lang: en
+    email:
+      value:
+        encrypted: YmVmMjA2ODkwMWFhZDM4N2NkYTVmODQwMDliOWIwNTk0NWQ0NjM1MDAwMTkyODM4NDlmNg==
+        algorithm: aes-256-gcm
+        iv: 53c9e641c6f0b227dc597abe
+        version: "1"
+      hash:
+        sha256: b8d27e1c0ef5d4e9727550241a9eb02025ac0eecad9c5e7aceeb9f6d3a97e4c6
+  published: 2025-06-04T01:26:50.624Z
+  content: живые подписчики в телеграм канал
+    [url=https://vc.ru/niksolovov/1436485-nakrutka-telegram-kanala-zhivye-podpischiki-top-25-luchshih-servisov-i-sposobov-dlya-besplatnoi-nakrutki-obnovil-20052025]живые
+    подписчики в телеграм канал[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MzNiYzI4NWU2ZTU2NmM4NzMzMzIwMmYz
+    algorithm: aes-256-gcm
+    iv: 7344d30be2d1a8de594cef61
+    version: "1"
+  spam:
+    score: 9.56
+    marked: true
+  status: rejected
