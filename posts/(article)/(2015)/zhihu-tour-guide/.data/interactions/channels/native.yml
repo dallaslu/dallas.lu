@@ -4894,3 +4894,31 @@
     score: 8.17
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 130fe261116e5aae50d864e1b727529b4eda33b3
+  author:
+    name: JefferyNeace
+    lang: en
+    email:
+      value:
+        encrypted: ODZhYmM1ZDBlZDc0OWE2OGU1MjgzN2QxNzMzOWZmMjZhZTgzMTk4NQ==
+        algorithm: aes-256-gcm
+        iv: fe871f7b0a8472bfdbd656cd
+        version: "1"
+      hash:
+        sha256: 0a3a1e3bd3384f3a97dcc82667e6e424bbb7d7b93b1d3a9bfabeb86d51abb9da
+  published: 2025-06-04T09:08:23.172Z
+  content: These funds must be wagered within 30 days from the code activation by
+    placing sports bets
+    [url=https://getsocialselling.com/story5094382/1xbet-free-promo-code-bangladesh]https://getsocialselling.com/story5094382/1xbet-free-promo-code-bangladesh[/url]
+  lang: zh-CN
+  ip:
+    encrypted: Nzc4YmZhNWNkM2U4MjM4YzE3ZTA0NzYw
+    algorithm: aes-256-gcm
+    iv: 5b98ce0f5bab812655628390
+    version: "1"
+  spam:
+    score: 6.35
+    marked: true
+  status: rejected
