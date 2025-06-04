@@ -4867,3 +4867,30 @@
     score: 5.89
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 0cd3a9fc78eb58b7088a3b7b263fe2cecc02aa57
+  author:
+    name: DavidIcozy
+    lang: en
+    email:
+      value:
+        encrypted: MDUzNDBhNWVjMjQ5NDAzODNiMmM5ZjRlYjUxODBkODEyNmJmNGU=
+        algorithm: aes-256-gcm
+        iv: c173da7948548ff020e41eec
+        version: "1"
+      hash:
+        sha256: 9029a9847db880e9911911ab80eab3706aa793872ee277a1e42ff0296b62fca6
+  published: 2025-06-04T08:51:27.761Z
+  content: This is because it is necessary to follow our procedure in full
+    [url=http://www.bakinsky-dvorik.ru/club/user/148184/forum/message/51880/79794/#message79794]http://www.bakinsky-dvorik.ru/club/user/148184/forum/message/51880/79794/#message79794[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MjNmZjc5MWIwZDg1YmY2OTNhMmMyMWY1NDJmMg==
+    algorithm: aes-256-gcm
+    iv: 5eb4149e6ea5b398f3473fec
+    version: "1"
+  spam:
+    score: 8.17
+    marked: true
+  status: rejected
