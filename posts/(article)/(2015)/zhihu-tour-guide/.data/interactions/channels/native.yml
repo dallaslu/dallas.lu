@@ -4978,3 +4978,31 @@
     score: 5.25
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: f8006ba8748448619c5f643485b6962b2ca1e977
+  author:
+    name: kypit 1s v moskve_pgma
+    lang: en
+    email:
+      value:
+        encrypted: MmIxNGFhOGM2MmM1NzBkMGQ2NWE3YjRhNWI2Y2M0YWE1ZWUyNGNjZGM5NTIwZjdiMTA4MTg5ZTljZg==
+        algorithm: aes-256-gcm
+        iv: e84d8784c3f0b235d40f0dd8
+        version: "1"
+      hash:
+        sha256: b38d9729a633466d8f214d8a37d05a0ac219e902789f0ab89b91ecb86298ae17
+  published: 2025-06-04T22:45:12.014Z
+  content: купить 1с
+    москва	 [url=https://compassblogus.blogspot.com/2025/05/avtomatizaciya-buhucheta.html]купить
+    1с москва	[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: YWMxY2U0YzZlOWY5ZDJiZWY4ZDI2YjRhZjdmYw==
+    algorithm: aes-256-gcm
+    iv: 90ac32f36e067df30b2ebf6b
+    version: "1"
+  spam:
+    score: 6.46
+    marked: true
+  status: rejected
