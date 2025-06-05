@@ -5704,3 +5704,32 @@
     score: 6.21
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c59c1d7fb31f24fb55b74c6f8e284dcbb5ff2924
+  author:
+    name: JamesDom
+    lang: en
+    email:
+      value:
+        encrypted: MjQxYzc3ZjhlZDkzNTNmZjI0YzBiOTYwNGQ0ZTBjYzNhNjMxOGRkNA==
+        algorithm: aes-256-gcm
+        iv: 37267d1fc5616096bc7d5e88
+        version: "1"
+      hash:
+        sha256: 3904f9ffc5a46ef46e513b090bbb3e8da562c0b723807db4c0b043555f84f168
+  published: 2025-06-05T12:20:37.232Z
+  content: Предлагаем надежное холодильное и климатическое. Наш ассортимент
+    включает решения для хранения продуктов и поддержания комфортного
+    микроклимата, обеспечивая высокую энергоэффективность
+    [url=https://cooling-unit-54.ru/]Подробнее[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YmZhMmFiZWJkN2U0NDRhOGIxNTc5ODQ4
+    algorithm: aes-256-gcm
+    iv: 95ff2c73f8753778cdfde920
+    version: "1"
+  spam:
+    score: 8.05
+    marked: true
+  status: rejected
