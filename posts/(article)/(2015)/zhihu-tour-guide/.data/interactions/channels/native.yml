@@ -5811,3 +5811,30 @@
   spam:
     score: 2.77
   status: auditing
+- type: reply
+  channel: native
+  id: ca7b4de09d6c403d3346007ab5b1a2510fcbdae8
+  author:
+    name: Fidelsam
+    lang: en
+    email:
+      value:
+        encrypted: OTRiOGRlMjBhNDc5ZDA0Y2Y5NjE0YTBiNWU1MWNhY2JlOTZlNDBjZQ==
+        algorithm: aes-256-gcm
+        iv: 5e9a607feaed503d0abab535
+        version: "1"
+      hash:
+        sha256: 110490d5bc2b26604b95e3b1334cc5d456ce74105158f1260a193c338073ecd6
+  published: 2025-06-05T23:01:45.275Z
+  content: Remember, this special 1xBet promo code free bet offer
+    [url=https://employbahamians.com/author/xbetfreecode/]https://employbahamians.com/author/xbetfreecode/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MjJiZjg2MWYyYjkxMzAyNTFmZGZkYjdl
+    algorithm: aes-256-gcm
+    iv: 1bfc14e686bced5eff85f1da
+    version: "1"
+  spam:
+    score: 6.4
+    marked: true
+  status: rejected
