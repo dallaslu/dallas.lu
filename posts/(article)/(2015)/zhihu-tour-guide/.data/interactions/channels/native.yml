@@ -5733,3 +5733,30 @@
     score: 8.05
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 50c5eea625914348a790af7f64d2ab3c9062cf3f
+  author:
+    name: JimmySevix
+    lang: en
+    email:
+      value:
+        encrypted: MTJhMDRiNDc4ZWU3NDYzN2Q4ZGRjOTJmYzcyYjExNTcyYjY3NzY=
+        algorithm: aes-256-gcm
+        iv: dcb336dd876550e408b1c7a1
+        version: "1"
+      hash:
+        sha256: 5664cb8f9cf63a889347e8e65dbd36da0ba26f8f48fac1ce479d4019155f7eb5
+  published: 2025-06-05T16:25:06.938Z
+  content: Discover the 1xBet betting company in a new light
+    [url=https://www.4shared.com/u/nqq3ZwXv/bna2133.html]https://www.4shared.com/u/nqq3ZwXv/bna2133.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MmQ0OTc1MWI5MzZkMzZiODlmMGFiYmY1YzI3Yg==
+    algorithm: aes-256-gcm
+    iv: 7411724cc1c41d72ce067b51
+    version: "1"
+  spam:
+    score: 6.44
+    marked: true
+  status: rejected
