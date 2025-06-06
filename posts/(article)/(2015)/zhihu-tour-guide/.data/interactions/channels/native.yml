@@ -5867,3 +5867,33 @@
     score: 8.97
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e4d6d5db3f21b23fca6037fcd7f111603ad3e797
+  author:
+    name: OscarDat
+    lang: en
+    email:
+      value:
+        encrypted: OTNhZjVhYjFjZGM2MTRlYjQzZDJiOWRkOGIxNDA3MTBiZDBlOGU=
+        algorithm: aes-256-gcm
+        iv: fb3ecc3ced35eb974c7f70f3
+        version: "1"
+      hash:
+        sha256: 6afece15ae70a80ba30346e30f480d1654618bb23d7ceea9f25b6d0db7dff9dd
+  published: 2025-06-06T12:00:27.174Z
+  content: Рассказываем как правильно сажать томаты, огурцы, картошку, базилик,
+    розы, тюльпаны и многое другое. Как бороться с вредителями и всё не
+    испортить. Идеи для дачи, сада и огорода
+    [url=https://t.me/kak_pravilno_sazhat_na_dache/5009]Как правильно сажать
+    малину[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MDY0MmFmODZhODVlZGQ5MTllOWQwMDJhMjE4YQ==
+    algorithm: aes-256-gcm
+    iv: 816af6f374b9c5492f844607
+    version: "1"
+  spam:
+    score: 5.07
+    marked: true
+  status: auditing
