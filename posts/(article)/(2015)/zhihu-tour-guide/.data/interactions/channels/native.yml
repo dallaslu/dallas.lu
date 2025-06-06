@@ -5838,3 +5838,32 @@
     score: 6.4
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8eb17796b87fbd24945823dbe295d280219d2c13
+  author:
+    name: Thomasguexy
+    lang: en
+    email:
+      value:
+        encrypted: YTUxMTMxZThjMDgzMGY0ZDhkYjZhMzQ1MzEyNTQ0MzAzNWM5NDA=
+        algorithm: aes-256-gcm
+        iv: 9419d666ae4dd88eeaedef29
+        version: "1"
+      hash:
+        sha256: 66dc30f1eb0924affacfd2e6141dd6e163396cbe3ff86b01e8e8faac4beb132f
+  published: 2025-06-06T00:55:39.538Z
+  content: Узнайте, зачем миллионы игроков предпочитают пополнять кошелёк именно
+    на этой платформе
+    [url=https://prostarcraft.ru/kak-popolnit-balans-steam-v-rossii-v-2025-godu-aktualnye-sposoby-i-sovety/]пополнения
+    Steam в России[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZGVjNjJmNjQyNDI3NTFkZGVhMzIzZmNkZDkyNw==
+    algorithm: aes-256-gcm
+    iv: 597a84c4a0e4d6d253d9ecca
+    version: "1"
+  spam:
+    score: 8.97
+    marked: true
+  status: rejected
