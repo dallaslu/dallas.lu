@@ -6036,3 +6036,30 @@
     score: 6.94
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 1cae3e40ad1aa1e9370a6a338c77dc8df927d540
+  author:
+    name: Jamesphilm
+    lang: en
+    email:
+      value:
+        encrypted: NDY3OGQ1N2JjYmVkNjFjNmE4YzBkY2UxYTc0MTQxNzNmM2Y4YWM=
+        algorithm: aes-256-gcm
+        iv: 91fe2e5564f77eb01f41ebd3
+        version: "1"
+      hash:
+        sha256: 69594a56e8d6485b2a8a509737fe872fb831144809cc5101c9ffa7c76237bd22
+  published: 2025-06-07T14:18:47.183Z
+  content: Удобный способ купить барометр для дома [url=https://psc.by/]барометр
+    купить в Беларуси[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YjBiYzdlMmQwMjkxZjVhODY4OTJhMGZhZDI2Ng==
+    algorithm: aes-256-gcm
+    iv: 1ef9fa8719ffd738e5e61316
+    version: "1"
+  spam:
+    score: 5.27
+    marked: true
+  status: auditing
