@@ -6008,3 +6008,31 @@
     score: 7.06
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7aa69049f61e7f9dc86523aa14a61178c8f847da
+  author:
+    name: betwinner_jeMa
+    lang: en
+    email:
+      value:
+        encrypted: NzRmMWY1NmUyYzg4ZTNjZTA2MDRmNjY0Mzk4NjExOTYxZDgwZjU1NmY0YzU5Mg==
+        algorithm: aes-256-gcm
+        iv: f1a91de161fa51a599e63c1f
+        version: "1"
+      hash:
+        sha256: 76083341209c0094e4643f09c14e26764f2229f2d8f89aeda6c400d8f41d59aa
+  published: 2025-06-07T11:35:17.767Z
+  content: betwinner contact
+    [url=https://www.https://www.india-aware.com/latest/idol-of-hindu-god-found-vandalised-in-vizianagaram-district-opposition-blames-jagan-led-govt-for-such-incidents/]betwinner
+    contact[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: MDk0YjQzNDY1MDkzMjBhOTQ5NTc5YmE0
+    algorithm: aes-256-gcm
+    iv: def38f168812d01cd1059583
+    version: "1"
+  spam:
+    score: 6.94
+    marked: true
+  status: rejected
