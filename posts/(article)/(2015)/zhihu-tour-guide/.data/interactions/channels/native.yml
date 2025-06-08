@@ -6063,3 +6063,31 @@
     score: 5.27
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 0f3ccbf7284ee3857892e427b7568085fa5556c9
+  author:
+    name: Tracyatrof
+    lang: en
+    email:
+      value:
+        encrypted: YTg3YWNiMjIyNjMzNTQ3MTJmMWIyMGM5NzE3YWZl
+        algorithm: aes-256-gcm
+        iv: b00a24446e882bef30b9691e
+        version: "1"
+      hash:
+        sha256: ec85fc15198a3e70f38e61730a4c3d11cc7d0116b16345fa01d6e5ab0a5ff82b
+  published: 2025-06-08T01:38:11.311Z
+  content: Барометр – это измерительный прибор, предназначенный для определения
+    атмосферного давления
+    [url=https://psc.by/products/kontrolno-izmeritelnye-pribory/analizatory/analizatory-spektra/]стереомикроскоп[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZmMxMjk4NzkyYzk2NzRiZWM3YjIyYTFkMjlhNA==
+    algorithm: aes-256-gcm
+    iv: 6d1890b74716a1e5a54c789f
+    version: "1"
+  spam:
+    score: 6.1
+    marked: true
+  status: rejected
