@@ -6189,3 +6189,31 @@
     score: 6.44
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 57039f2772f2e7168295f9f77ee2cd1375b24087
+  author:
+    name: BillyLug
+    lang: en
+    email:
+      value:
+        encrypted: YzY1Zjg5MDllOTkyNWM5NDhmNmQ3MGVkMzBlMGQy
+        algorithm: aes-256-gcm
+        iv: 0eb93e963823fb11306a43bf
+        version: "1"
+      hash:
+        sha256: 11c651858cfda3e2bd5ce49f68a71a78ee594b350dba019e30c4a3da29bc6691
+  published: 2025-06-09T10:20:18.768Z
+  content: Официальное зеркало мостбет казино для игры удобно и просто скачать апк
+    файл для андроид и крутить популярные слоты в приложении мостбет
+    [url=https://mostbet-casino865.top/igrat-online]слоты мостбет[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MjFlMWQ5ZmEwZTgxMmE4OTQ0NTQ3ZGY2NzAzMA==
+    algorithm: aes-256-gcm
+    iv: 890e8417d49f853dc021ccef
+    version: "1"
+  spam:
+    score: 5.21
+    marked: true
+  status: auditing
