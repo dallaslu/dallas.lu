@@ -6161,3 +6161,31 @@
     score: 7.28
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 39e8c203c1b8740ee95e34e4c8711b4a4e2fcea8
+  author:
+    name: betwinner_zzMa
+    lang: en
+    email:
+      value:
+        encrypted: ODcyNmIwMzYwYTNjMDIxN2Q4MjRmNmUxZDBiOTMzYmExYmU0NDIzOGFlNjgyOA==
+        algorithm: aes-256-gcm
+        iv: cdbaee9b819fd19157435be1
+        version: "1"
+      hash:
+        sha256: 40ed099a8cd899b3db96b71f0b742a24e39798380c5cf5f38ebb606dfcea0e07
+  published: 2025-06-09T01:44:11.643Z
+  content: betwinner affiliate
+    [url=www.https://ciropic.com/this-cohousing-startup-wants-to-help-the-working-class//]betwinner
+    affiliate[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: ZTVlM2FlODQxZTFmNzVmMWNhYjYwN2Y0
+    algorithm: aes-256-gcm
+    iv: 4000fa8557618f69f71cf297
+    version: "1"
+  spam:
+    score: 6.44
+    marked: true
+  status: rejected
