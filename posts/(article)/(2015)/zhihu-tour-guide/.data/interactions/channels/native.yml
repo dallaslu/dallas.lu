@@ -6273,3 +6273,31 @@
     score: 8.04
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: babed2046ba6a10acaa66aec50314e2fdb63a904
+  author:
+    name: JamesRoppy
+    lang: en
+    email:
+      value:
+        encrypted: Y2YwYTY0MWQzNWUwYmEyNjM4NzEyMWNlOGY4MGYz
+        algorithm: aes-256-gcm
+        iv: dd395627d286e2f02cb3207a
+        version: "1"
+      hash:
+        sha256: 8a62baba1b2e27320ae66ba511ce484ed8d4ab392e5d4e8408548e7b10ec30a0
+  published: 2025-06-10T17:25:29.920Z
+  content: Строим дачные дома,по каркасной технологии,с утеплением
+    [url=https://stroy-dom-brus.ru/]Каркасные дома и бани из клееного бруса под
+    ключ[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YWZhYTMwZjdhYTNmNjQ1NWEyMWI3ZTY2YjdiYw==
+    algorithm: aes-256-gcm
+    iv: 11a62cffef961730d9c74e52
+    version: "1"
+  spam:
+    score: 8.26
+    marked: true
+  status: rejected
