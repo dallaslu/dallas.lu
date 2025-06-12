@@ -6383,3 +6383,30 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: cf63c69431be937d7692733ea1f9354c038820b1
+  author:
+    name: MalcomHex
+    lang: en
+    email:
+      value:
+        encrypted: ZmZkZGI5NGZiYWU2YTkyYzRmMzNlODJkZDFlNWJh
+        algorithm: aes-256-gcm
+        iv: 23e4080b01348bd6b54d3972
+        version: "1"
+      hash:
+        sha256: 87c3a7161b2b0c069598a2c9948732c58377264493edd8446f4b85dd29c0630f
+  published: 2025-06-12T02:00:01.395Z
+  content: A medical record contains information regarding
+    [url=https://tinyurl.com/4kj7r828]https://tinyurl.com/4kj7r828[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YjBjMWI2NDY3ZmZkYmVkNDQ3M2UyYzI0N2YzZA==
+    algorithm: aes-256-gcm
+    iv: 9a7c3dcf76866a36498da4ae
+    version: "1"
+  spam:
+    score: 6.13
+    marked: true
+  status: rejected
