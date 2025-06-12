@@ -6438,3 +6438,31 @@
     score: 7.53
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0c84e5e2bf00061a4b977b60a9ae65738780ee86
+  author:
+    name: JosephDub
+    lang: en
+    email:
+      value:
+        encrypted: ZjM4NTdhYWZhMTUxNThmZjA5M2YwNzAyYTQ3MTMy
+        algorithm: aes-256-gcm
+        iv: 1e1f795d580e6e757afab15b
+        version: "1"
+      hash:
+        sha256: f5dbd6fb469c7ad87c301caca8ae64b8e9c0a4ff3b21deb7b27476cf71bec6fb
+  published: 2025-06-12T10:19:22.596Z
+  content: Гражданство по рождению, натурализации и инвестициям — сравниваем
+    страны, сроки и требования
+    [url=https://vgrazhdanstve.ru/]https://vgrazhdanstve.ru/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YzRkYmFlMzBjZDkxNWU1Mjc1NTU4MTZmNDgxNg==
+    algorithm: aes-256-gcm
+    iv: 440e0c7b9f52e5d7879f403d
+    version: "1"
+  spam:
+    score: 8.6
+    marked: true
+  status: rejected
