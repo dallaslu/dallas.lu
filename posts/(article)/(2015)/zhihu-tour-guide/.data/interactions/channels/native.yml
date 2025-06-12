@@ -6466,3 +6466,30 @@
     score: 8.6
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2bc760dfbd48ff530795eeef798c88c72dbdb2a0
+  author:
+    name: RobertHax
+    lang: en
+    email:
+      value:
+        encrypted: NGU3YTk3NTNmYWE5ZjVhZDM5ZTcyMGIyZjk1MDM4
+        algorithm: aes-256-gcm
+        iv: bf4df36af5391a35fd7afbd5
+        version: "1"
+      hash:
+        sha256: abc2ad0b856331a194c4c47d0d31b41d31e7f1b512077fe241ca64b5b690795e
+  published: 2025-06-12T19:59:09.876Z
+  content: Outsourcing accounting services allows companies
+    [url=http://www.mosoblpress.ru/42/201730/]http://www.mosoblpress.ru/42/201730/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MDVlYTVmOTY4YTYyZDNiOTllNWIxODBkZjcyNg==
+    algorithm: aes-256-gcm
+    iv: 134a175de63e1e3d6ae4943b
+    version: "1"
+  spam:
+    score: 9.28
+    marked: true
+  status: rejected
