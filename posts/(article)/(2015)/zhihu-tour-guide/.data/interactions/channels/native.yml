@@ -6410,3 +6410,31 @@
     score: 6.13
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 93611ae1a9fda38f2d3c97a02022dcf8b4fac876
+  author:
+    name: zaim_vymt
+    lang: en
+    email:
+      value:
+        encrypted: NmIyOTVjMGNkZTBmY2I4Y2MxYWY2MjEwOWZkZTVkYjdiYmI2NDhkZmNjNzIzMw==
+        algorithm: aes-256-gcm
+        iv: 9d93ed73ba6cd3446061bd7c
+        version: "1"
+      hash:
+        sha256: 73632bc387a6b2d41bf266e9fa47634e7887e20ce26334ea356ad69155e6ef97
+  published: 2025-06-12T09:12:38.879Z
+  content: займ малоизвестные мфо
+    [url=https://zaim-vc.ru/28-zaym-maloizvestnye-mfo.html]займ малоизвестные
+    мфо[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NDkzZGI2ODkyYjJiZTJjZWQ4MjJjNTUy
+    algorithm: aes-256-gcm
+    iv: 5fe249cd6b66e5186ed89df0
+    version: "1"
+  spam:
+    score: 7.53
+    marked: true
+  status: rejected
