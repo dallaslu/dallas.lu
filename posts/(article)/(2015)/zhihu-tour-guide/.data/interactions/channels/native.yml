@@ -6520,3 +6520,30 @@
     score: 9.08
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 08cd9845f65cdc37bf3bc6ac006a37868a12e4ef
+  author:
+    name: Larryfrada
+    lang: en
+    email:
+      value:
+        encrypted: NmY0YjU0MTliNmMxOTg1NzA5NDY0N2Y4NDhjMTI2ZTE2MGFlMmZhYQ==
+        algorithm: aes-256-gcm
+        iv: 02577bd4b765eb948a43c23e
+        version: "1"
+      hash:
+        sha256: 83ec985d22c828cfeb32048b42a37451837b71a39104cda35df2bb9840321b14
+  published: 2025-06-13T17:19:55.712Z
+  content: Outsourcing of accounting services is the transfer
+    [url=https://rusargument.ru/78473_kak_organizovat_vedenie_buhgalterskogo_ucheta_v_ooo_zkz]https://rusargument.ru/78473_kak_organizovat_vedenie_buhgalterskogo_ucheta_v_ooo_zkz[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NWQ2NTI5Y2M5NWU1YmIwMGRiOGRiNmU0NmI4Zg==
+    algorithm: aes-256-gcm
+    iv: 9db9c59fa39188a4775e46fe
+    version: "1"
+  spam:
+    score: 9.77
+    marked: true
+  status: rejected
