@@ -6493,3 +6493,30 @@
     score: 9.28
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: bf49031eaf39f1d365b050a94c2d42cef2733c13
+  author:
+    name: RobertHax
+    lang: en
+    email:
+      value:
+        encrypted: ZjBmYzY2MzgwMTkzZmVlY2FkYTc0ZTQ3YjcxZThj
+        algorithm: aes-256-gcm
+        iv: 111bab1e371d8c509357e7ad
+        version: "1"
+      hash:
+        sha256: 451430f38e9cabd07916ce81ecc7287c9dd554c369a8cad675878b10bacc2432
+  published: 2025-06-13T09:45:47.248Z
+  content: Outsourcing Accounting Services from Windes allows your company
+    [url=https://rifey.ru/news/list/id_58456]https://rifey.ru/news/list/id_58456[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NDE0ZGJjNWQzZGVlYTk3NDI3NTEyZTc0YWYxZQ==
+    algorithm: aes-256-gcm
+    iv: 4a748723975501a759a260df
+    version: "1"
+  spam:
+    score: 9.08
+    marked: true
+  status: rejected
