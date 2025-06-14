@@ -6686,3 +6686,59 @@
     score: 4.62
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: a539baf6120c3b387c8ba4bb18d7cb6606efb7de
+  author:
+    name: elektrokarniz_siPa
+    lang: en
+    email:
+      value:
+        encrypted: OGVkYzAzZDY4ZjcwNTY4YzE0ZjZjNmFlMmY4MWRkOTdiZDU1OGM0MTQ5MzNiN2M4YTViYWMzYzMxZg==
+        algorithm: aes-256-gcm
+        iv: 7c3064362688a79d9cc963d1
+        version: "1"
+      hash:
+        sha256: 34d2e31aaef0340e9051c095d12e9dd058081c96b0143c25ec5b98cbf13121e4
+  published: 2025-06-14T15:56:13.024Z
+  content: карниз электро
+    [url=http://chesskomi.borda.ru/?1-8-0-00004173-000-0-0-1749632377]карниз
+    электро[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: NTk5NTBjMTEwM2JlM2UxZDZjZTQ0NWFlYmMwZTQz
+    algorithm: aes-256-gcm
+    iv: 9771decad5e45f7ca0d182cc
+    version: "1"
+  spam:
+    score: 9.45
+    marked: true
+  status: rejected
+- type: reply
+  channel: native
+  id: 1d21a342589161627d8e1e91a621fb5ebc0c5fae
+  author:
+    name: elektrokarniz_uzPi
+    lang: en
+    email:
+      value:
+        encrypted: MDMyODA1N2FmNDhlNTgzYWQ0M2NkNDlmMmUyYWJiZDFkYTkzY2NlZjdlNGQ3NDU2ODllYTlhNTE3Zg==
+        algorithm: aes-256-gcm
+        iv: f0386e2025e14015d6b6bf15
+        version: "1"
+      hash:
+        sha256: 233bf5d19cd11e7cf7f2ed4418eadf1663bf73fb022aebbd1cd46ac87b49963f
+  published: 2025-06-14T15:56:13.963Z
+  content: электрические гардины для штор
+    [url=http://gonochki.forum24.ru/?1-11-0-00000414-000-0-0-1749633910/]электрические
+    гардины для штор[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: MmZjZDU0ZDg0ZmFlNjRhOTM1NjZhNTg0ODRhZA==
+    algorithm: aes-256-gcm
+    iv: e1fddb8094ceea18cb70b537
+    version: "1"
+  spam:
+    score: 9.17
+    marked: true
+  status: rejected
