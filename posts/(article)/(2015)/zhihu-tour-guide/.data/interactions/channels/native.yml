@@ -6852,3 +6852,31 @@
     score: 6.13
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ffb399da7dd7cfb3b4846da0c404fde9a7c9f31c
+  author:
+    name: elektrokarniz_bcEr
+    lang: en
+    email:
+      value:
+        encrypted: NzgzMjZhYWEwYmFkYWU0MWJlN2NiNWNiM2IxYjE3ODQ4ZTI2ZTM4NWMwN2JmODQ0MmU1Njk4N2UwMQ==
+        algorithm: aes-256-gcm
+        iv: cfe9e9b72d3de7c599f9312e
+        version: "1"
+      hash:
+        sha256: 6a546f61e76e4cc7d05972030b6fb97f4332a682f5925d1989b272c3418af456
+  published: 2025-06-14T19:28:07.278Z
+  content: электрокарнизы купить в Москве
+    [url=https://zippy-wombat-pz0fp6.mystrikingly.com/blog/karniz-s-elektroprivodom]электрокарнизы
+    купить в Москве[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: OGE4ZTc0ZGU1NTg5ZmNlYTEwNGUzZjE1
+    algorithm: aes-256-gcm
+    iv: 0534780d066f7dc1be6f2c3d
+    version: "1"
+  spam:
+    score: 6.29
+    marked: true
+  status: rejected
