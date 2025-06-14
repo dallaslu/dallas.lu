@@ -6796,3 +6796,31 @@
     score: 7.51
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 926e9d0f02a16fcb3b984d30ff258e5156b841ca
+  author:
+    name: elektrokarniz_vuKt
+    lang: en
+    email:
+      value:
+        encrypted: NWE5OTQxMzcyY2YwYmFhNTU1MWYzYzIyNWY4NmE1OWU3NjZhNzIzMzVjMGVjM2ZmMGNmNzU5NzM4NA==
+        algorithm: aes-256-gcm
+        iv: ad331fc7d9f1a49f620cd824
+        version: "1"
+      hash:
+        sha256: b98e1ba6dc5e284c923d33d75ca271f2ac2635673ea46d66f53a40ac23dc1ba4
+  published: 2025-06-14T16:30:38.589Z
+  content: электрокарнизов для штор
+    [url=https://sites.google.com/view/elektroshtori/]электрокарнизов для
+    штор[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: YTZiMzI0ZDYwNGMzZGQzZjMzNmQ1ZWI1NmMwNQ==
+    algorithm: aes-256-gcm
+    iv: 3eef10eaff9f0fad10ff81d0
+    version: "1"
+  spam:
+    score: 6.18
+    marked: true
+  status: rejected
