@@ -6630,3 +6630,31 @@
     score: 4.44
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 12c7a0d1f90c95d11cbfdbfe9f3cecdd0afc3c35
+  author:
+    name: elektrokarniz_zqPi
+    lang: en
+    email:
+      value:
+        encrypted: ODhlNWVjODdjNzk0ZWQ4ZTNhNzRjOWE4MWQzNzFmYTI4ZTNjNTg5NDlhMWIxYjhmYTM5ZTJiYzg4ZQ==
+        algorithm: aes-256-gcm
+        iv: 32d508e4104599bc515becc5
+        version: "1"
+      hash:
+        sha256: dc813d22fe9453c3f68920e7941487b1e28d5d2f759b77f41e6c9eaaa264fca4
+  published: 2025-06-14T06:57:37.036Z
+  content: электроштор
+    [url=https://svarog.forum24.ru/?1-0-0-00000511-000-0-0-1749633662]электроштор[/url]
+    .
+  lang: zh-CN
+  ip:
+    encrypted: NTVkNjZjNWUwZGM3NTNhMDVmN2RmZDBlNmQ0NA==
+    algorithm: aes-256-gcm
+    iv: 0b8f4083b78cc96f4e96175b
+    version: "1"
+  spam:
+    score: 9.91
+    marked: true
+  status: rejected
