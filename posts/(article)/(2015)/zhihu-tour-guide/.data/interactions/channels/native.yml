@@ -6768,3 +6768,31 @@
     score: 5.7
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: f9c65b7f09524bd89826144928a4aff16e47fe25
+  author:
+    name: rade_lxmt
+    lang: en
+    email:
+      value:
+        encrypted: NzlhZTI4MzUwNTA5ZjBiZGE3NTIyNDFkMmQwYzBhODUxMDY2ZjVlYTVkNjJmMw==
+        algorithm: aes-256-gcm
+        iv: 10a083f75486220b73d3a5d9
+        version: "1"
+      hash:
+        sha256: 20b02d12fb4614cf9eae9c3235e7200f11029f798a409b078dd212f1d439cd06
+  published: 2025-06-14T16:10:30.014Z
+  content: займ по номеру телефона
+    [url=https://zaim-vc.ru/73-zaym-po-nomeru-telefona.html]займ по номеру
+    телефона[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NDkwODk4NzVmOGZlOWQ2ZDc4NGM2MDJk
+    algorithm: aes-256-gcm
+    iv: 94fc687c753cbb532f43bb0a
+    version: "1"
+  spam:
+    score: 7.51
+    marked: true
+  status: rejected
