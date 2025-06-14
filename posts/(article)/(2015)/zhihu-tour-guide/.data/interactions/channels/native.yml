@@ -6824,3 +6824,31 @@
     score: 6.18
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9528dae8c3dd2a9a9f18bb1f6b1af2aacd3215d4
+  author:
+    name: elektrokarniz_qlOr
+    lang: en
+    email:
+      value:
+        encrypted: MGZkMWI1YjhlNzFkNjYwZTlmYTQxYjAzZmM2MzBhNjZjYTYyMTYyODk1ZWI2NjZjOWE2MDFmOGE0MA==
+        algorithm: aes-256-gcm
+        iv: dec0605d1bf73c6e8177a9f9
+        version: "1"
+      hash:
+        sha256: 54418c4fdebb71f27a5b4dbe9dcb7ce9a031f3c3c9bad8a1992a0f09c4f010a1
+  published: 2025-06-14T17:09:45.618Z
+  content: электрокарниз купить в Москве
+    [url=https://karnizy-dlya-shtor-s-elektroprivodom.onepage.me/]электрокарниз
+    купить в Москве[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: MmFlZTdjNjg1YTRkMjVkMDU0MmQ2NGY2Y2M2MQ==
+    algorithm: aes-256-gcm
+    iv: 9e5484261ef7a49f7a8289ec
+    version: "1"
+  spam:
+    score: 6.13
+    marked: true
+  status: rejected
