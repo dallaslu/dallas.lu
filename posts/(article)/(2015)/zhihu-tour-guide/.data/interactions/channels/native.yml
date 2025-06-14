@@ -6547,3 +6547,31 @@
     score: 9.77
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b7f8838e6dbabad3ab9fcb3e8cf2451adec9152f
+  author:
+    name: elektrokarniz_akma
+    lang: en
+    email:
+      value:
+        encrypted: MmVhYzczODBhM2VkYTUzZmUwMTI4MTg1NTM5OWRmZjJlMWI1ZTc5MjY5ODFlMjA2MzhkYzBmNjEwMg==
+        algorithm: aes-256-gcm
+        iv: 6c48bf68509c1e6511b53e7d
+        version: "1"
+      hash:
+        sha256: 54a4f853a6ea515e2e56ca33817db945991aec3e3ecc594ef950edcb2697b55a
+  published: 2025-06-14T01:17:36.166Z
+  content: электрошторы
+    [url=http://www.aqvakr.forum24.ru/?1-7-0-00013226-000-0-0-1749631252]электрошторы[/url]
+    .
+  lang: zh-CN
+  ip:
+    encrypted: YTdhMTZkMzhjYjUxNDk4ZjVlNmUzZTBkOTVhNA==
+    algorithm: aes-256-gcm
+    iv: 1279b34ebacc0864062aa7c0
+    version: "1"
+  spam:
+    score: 8.41
+    marked: true
+  status: rejected
