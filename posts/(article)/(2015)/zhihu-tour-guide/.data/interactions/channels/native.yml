@@ -6658,3 +6658,31 @@
     score: 9.91
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 49ba329c215c9a265c44c224213a378e52631483
+  author:
+    name: elektrokarniz_whma
+    lang: en
+    email:
+      value:
+        encrypted: YjQ3MTk4ZDExNTM0YjI0YjJmNTBhOTg5Y2IxZDkyMzM0Yjg4MzlmY2M0NzFjNDRiNTgzNDA4Y2ZkNw==
+        algorithm: aes-256-gcm
+        iv: c2fb32276ff68d95c3c9952f
+        version: "1"
+      hash:
+        sha256: 5a56949dddb9778edb5f8460ab1da24f00ff1d53d5097c8bfc760e7545fcf964
+  published: 2025-06-14T10:21:59.473Z
+  content: электрокарнизов для штор
+    [url=www.automobilist.forum24.ru/?1-7-0-00000235-000-0-0-1749631441]электрокарнизов
+    для штор[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: YzY3N2Q3NDdhNzlmYjY1NjNhZjE3MmY5Mzc2OQ==
+    algorithm: aes-256-gcm
+    iv: 0e2a10be71b12543607dc1ea
+    version: "1"
+  spam:
+    score: 4.62
+    marked: true
+  status: auditing
