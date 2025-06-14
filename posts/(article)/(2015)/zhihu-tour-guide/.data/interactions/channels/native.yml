@@ -6742,3 +6742,29 @@
     score: 9.17
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3e19366da04018e6e5b061c518b2ce0ce36918f8
+  author:
+    name: ThomasSig
+    lang: en
+    email:
+      value:
+        encrypted: ZTRjNTcwMjNjNzQzMTY5Y2IyNmNhZjJhM2RlZmNlZThjOThjZGRjNA==
+        algorithm: aes-256-gcm
+        iv: c84abdfde16fe551f03ec06a
+        version: "1"
+      hash:
+        sha256: 928773325261caed2e39c68a16ad36d6601e5c4776353070c80e252791297fcb
+  published: 2025-06-14T16:04:50.817Z
+  content: Motorbike rentals are very popular in Phuket https://vk.com/motobike_phuket
+  lang: zh-CN
+  ip:
+    encrypted: ZjNjMWYzYWRlMGJlNDgwMGU5NjlkZDQzOTc1Nw==
+    algorithm: aes-256-gcm
+    iv: edccc536434cfa4ee1416473
+    version: "1"
+  spam:
+    score: 5.7
+    marked: true
+  status: auditing
