@@ -6934,3 +6934,30 @@
   spam:
     score: 3.32
   status: auditing
+- type: reply
+  channel: native
+  id: ee296ac5d42d942b181042ba9af36a34228f22d3
+  author:
+    name: MarcusGat
+    lang: en
+    email:
+      value:
+        encrypted: M2U1OTM5OGY2NTE3Y2RhNjA2MGFkZjNiNDhkYzZl
+        algorithm: aes-256-gcm
+        iv: aa279900dbfc01c49f6f8b8d
+        version: "1"
+      hash:
+        sha256: dddbf1b00403a720f79168565a4ac1c744c468d80e58f5859115544b527fbc31
+  published: 2025-06-15T00:40:14.914Z
+  content: For new businesses, startups that do not yet have experience
+    [url=https://muzeon.ru/sport/10253-chto-dolzhen-umet-buhgalter-chtoby-stat-glavnym.html]https://muzeon.ru/sport/10253-chto-dolzhen-umet-buhgalter-chtoby-stat-glavnym.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YzY5MjU3OGFhOWMzNTQ0ZDkxYTQ0ODdiYWU4Yg==
+    algorithm: aes-256-gcm
+    iv: 964abd366779f910b113c768
+    version: "1"
+  spam:
+    score: 8.16
+    marked: true
+  status: rejected
