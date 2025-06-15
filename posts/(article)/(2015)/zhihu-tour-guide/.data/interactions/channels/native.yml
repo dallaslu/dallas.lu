@@ -7152,3 +7152,32 @@
     score: 9.74
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a9f2ab7513f24cb606f19f6a148f6c8bea80d284
+  author:
+    name: krediti v Kirgizstane_nser
+    lang: en
+    email:
+      value:
+        encrypted: ZDU0MjE0ZjYxNDAzMTZhNTUzODhjOGQ1MTQxYWUzNDA4NTM4YWNiOTUyZGQ2MmQy
+        algorithm: aes-256-gcm
+        iv: f58c9192dd678b4d8d7ff797
+        version: "1"
+      hash:
+        sha256: 6965e8ba8eb6b31065b0ebd9c2990111b621403ad2e06f33b5be82e053ee935e
+  published: 2025-06-15T23:14:35.279Z
+  content: кредит онлайн на карту без отказа срочно с плохой кредитной историей
+    бишкек
+    [url=metallicheckiy-portal.ru/articles/finansi/krediti/potrebitelskie_krediti_i_drugie_uslugi_bankov]metallicheckiy-portal.ru/articles/finansi/krediti/potrebitelskie_krediti_i_drugie_uslugi_bankov[/url]
+    .
+  lang: zh-CN
+  ip:
+    encrypted: NWJlMDBjZTVlMjcwNmM3MzBkYjY1Mg==
+    algorithm: aes-256-gcm
+    iv: 0a13fec8652f6dc316a65e71
+    version: "1"
+  spam:
+    score: 5.69
+    marked: true
+  status: auditing
