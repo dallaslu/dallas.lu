@@ -7125,3 +7125,30 @@
   spam:
     score: 3.26
   status: auditing
+- type: reply
+  channel: native
+  id: 73dcc8c52c9de225ca3dc8c802f55ee7e9057436
+  author:
+    name: RobertKnige
+    lang: en
+    email:
+      value:
+        encrypted: YWVjNGRjMzRmZjljMTc4OWUyMWUzNGI2Yzk0YjBjZWQ2ZmRjZDM2Nw==
+        algorithm: aes-256-gcm
+        iv: e3aeb70f12900d9063de62b1
+        version: "1"
+      hash:
+        sha256: 63df743a3daca956b27267494a2fd0187043a3017bc2d1ed6ff909e9d85f8f9f
+  published: 2025-06-15T18:18:47.152Z
+  content: Outsourcing of accounting services is the transfer of your accounting
+    [url=https://progorodnn.ru/kak-vosstanovit-bukhgalterskiy-uchet-bez-poter-prakticheskoye-rukovodstvo-dlya-biznesa]https://progorodnn.ru/kak-vosstanovit-bukhgalterskiy-uchet-bez-poter-prakticheskoye-rukovodstvo-dlya-biznesa[/url]
+  lang: zh-CN
+  ip:
+    encrypted: N2Y4NmJhNmQxYzU5MjMwOTNhZThhYzFiOTQ2ZA==
+    algorithm: aes-256-gcm
+    iv: 9f69a8e450531ceb379b93da
+    version: "1"
+  spam:
+    score: 9.74
+    marked: true
+  status: rejected
