@@ -7044,3 +7044,30 @@
   spam:
     score: 3.04
   status: auditing
+- type: reply
+  channel: native
+  id: f970a09b58f89e8cdfe754a38b5181ee00310be2
+  author:
+    name: Everettcob
+    lang: en
+    email:
+      value:
+        encrypted: NWQwZDkzYTIxYTg5Mzg0N2MyMGVkNjRhNzRiZWQz
+        algorithm: aes-256-gcm
+        iv: 19d93937bec086bcc28a7b67
+        version: "1"
+      hash:
+        sha256: 6a41031d56a32c532ee060915cb1eec3f46d61aeb903e9a5a6ea44cb9c4ee520
+  published: 2025-06-15T10:11:12.196Z
+  content: Аутсорсинг бухгалтерских услуг подходит широкому кругу компаний
+    [url=https://www.infpol.ru/271653-bukhgalterskiy-autsorsing-ili-shtatnyy-bukhgalter-chto-vybrat/]https://www.infpol.ru/271653-bukhgalterskiy-autsorsing-ili-shtatnyy-bukhgalter-chto-vybrat/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YWJiNThmZjI0MDMyNWJlYzQ4OWU1YmMxZGYzOQ==
+    algorithm: aes-256-gcm
+    iv: aeaf5d4cc7b4267e3872305d
+    version: "1"
+  spam:
+    score: 9.7
+    marked: true
+  status: rejected
