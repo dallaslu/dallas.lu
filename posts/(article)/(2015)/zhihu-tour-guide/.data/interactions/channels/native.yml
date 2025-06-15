@@ -7071,3 +7071,30 @@
     score: 9.7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: d54854261e834f1a5c2448f6c2bc26b48ca39506
+  author:
+    name: Henrydus
+    lang: en
+    email:
+      value:
+        encrypted: Yjg3N2UwYzQ2OTMyNTVjNjczNDg3YWEyMGNjOWI5
+        algorithm: aes-256-gcm
+        iv: 0d0a1a1b43aac32d0c23c320
+        version: "1"
+      hash:
+        sha256: 8c43d24f34e039cc6c9cbb0e5d63ee484b4e277fd3af67a5ee320fbd743198ac
+  published: 2025-06-15T10:14:53.007Z
+  content: In the UAE, renting a car from the best car rental company
+    [url=https://italy-cars.com/bmw-rental-in-dubai-with-yeti-car-rental-key-benefits-of-service.html]https://italy-cars.com/bmw-rental-in-dubai-with-yeti-car-rental-key-benefits-of-service.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MjgxN2ExMzgxNjUwZWRhNGJjZTE1ZjVm
+    algorithm: aes-256-gcm
+    iv: b0b801c67b84ea011da4c011
+    version: "1"
+  spam:
+    score: 6.75
+    marked: true
+  status: rejected
