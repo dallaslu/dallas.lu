@@ -7293,3 +7293,31 @@
     score: 5
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 291f28aa923826000454c6d5854f6eba3a997860
+  author:
+    name: Ronnievob
+    lang: en
+    email:
+      value:
+        encrypted: Y2EyY2Y4Yzc0NDZlY2Y1MmUxNGU2YzAxZmE0Zjc3
+        algorithm: aes-256-gcm
+        iv: eae1c6601d9bdca1c5956aaa
+        version: "1"
+      hash:
+        sha256: f8890974a6d2755b7f21aa38b4521eb392f2b4704fca01f9883b5ab6dadbcd87
+  published: 2025-06-16T11:21:34.242Z
+  content: Наша цель - забота о пациенте. Благодарность от наших пациентов -
+    основной показатель качества лечения
+    [url=https://skagiorabote.ru/women_clinik_36209.html]https://skagiorabote.ru/women_clinik_36209.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NDhhMzNkMTAwNWY4MGFhZDVmMGE5NTI3
+    algorithm: aes-256-gcm
+    iv: 3e600bd230b4fcdce210e1ef
+    version: "1"
+  spam:
+    score: 7.45
+    marked: true
+  status: rejected
