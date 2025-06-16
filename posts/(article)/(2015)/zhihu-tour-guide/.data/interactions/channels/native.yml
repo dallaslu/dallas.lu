@@ -7321,3 +7321,30 @@
     score: 7.45
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a36ece1ef8709136a5c1ee6e56b24eb4598a7caa
+  author:
+    name: elektrokarniz_ibKl
+    lang: en
+    email:
+      value:
+        encrypted: MzIzN2Q1YWU5ODNlYWZlZDYzYjIyMDZjMzA1YzBlYzc2NWE1NGIyNWU2YjhmNTIzMTM2OTZhMmJiYg==
+        algorithm: aes-256-gcm
+        iv: 745f6f11f2297d29f434b7e3
+        version: "1"
+      hash:
+        sha256: 29cd99bad857d4878a1348b3a364246a19546af6400544f1f2d26a4e49184ae6
+  published: 2025-06-16T12:17:43.569Z
+  content: электрокарнизы купить в Москве
+    [url=www.telegra.ph/Avtomaticheskie-karnizy-dlya-shtor--stilnyj-komfort-kotoryj-rabotaet-na-vas-06-05]электрокарнизы
+    купить в Москве[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: YWJmZThlNjJjNjRmZDA1NjNmNWU2NzY5NjM0Yg==
+    algorithm: aes-256-gcm
+    iv: 85dd517e8219b7e051f28aef
+    version: "1"
+  spam:
+    score: 2.69
+  status: auditing
