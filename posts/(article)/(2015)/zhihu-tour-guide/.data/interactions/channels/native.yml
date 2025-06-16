@@ -7209,3 +7209,31 @@
     score: 9.55
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 498eb60755af8185b16775adbc1eb053dd906a08
+  author:
+    name: AnthonyVinge
+    lang: en
+    email:
+      value:
+        encrypted: M2RhMzgxZjJiMmU5NTJmODM3MjQxNTFkNDczMDgy
+        algorithm: aes-256-gcm
+        iv: 3f23ab7dac0e380ac0525979
+        version: "1"
+      hash:
+        sha256: 44f323e98659fcc4e73dc20025dbf2f2914630a11ca8f67c8b25b711550e613f
+  published: 2025-06-16T01:31:42.236Z
+  content: Наша цель — поддерживать здоровье женщин и помогать им в решении любых
+    медицинских вопросов
+    [url=https://urbanina.ru/ru/meditsinskiy-tsentr-women-clinik-poluchenie-meditsinskih-knijek-v-moskve/]https://urbanina.ru/ru/meditsinskiy-tsentr-women-clinik-poluchenie-meditsinskih-knijek-v-moskve/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ODk2ZjcwYmM0MzI0MmEzMmJhOWJiZWNk
+    algorithm: aes-256-gcm
+    iv: fafb606c736e913622839970
+    version: "1"
+  spam:
+    score: 9.52
+    marked: true
+  status: rejected
