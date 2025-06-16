@@ -7237,3 +7237,31 @@
     score: 9.52
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0fd8120064258300e4ddf3b263192063c9699e19
+  author:
+    name: elektrokarniz_llKl
+    lang: en
+    email:
+      value:
+        encrypted: MDEzZWVmYjA2MTQ2NTAwYmM3MDZhMWIxOGI2ZGNiN2I4NjFmZWIxYjA0M2U3YjMzOTk0ZWQxNGM2Nw==
+        algorithm: aes-256-gcm
+        iv: 8fb4ee03453918d43a0d763e
+        version: "1"
+      hash:
+        sha256: 76a5ad71ec0a17a9583dcb6f7015a61d0efa384f442e51688411477afd9c9094
+  published: 2025-06-16T04:05:44.274Z
+  content: карниз электро
+    [url=http://www.telegra.ph/Avtomaticheskie-karnizy-dlya-shtor--stilnyj-komfort-kotoryj-rabotaet-na-vas-06-05]карниз
+    электро[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: ZGY4ZTczOGRkYzcxOGRhNzg4NTMzZWYxZmQ4Yw==
+    algorithm: aes-256-gcm
+    iv: d06f4f5f38438bab90fa76c4
+    version: "1"
+  spam:
+    score: 6.76
+    marked: true
+  status: rejected
