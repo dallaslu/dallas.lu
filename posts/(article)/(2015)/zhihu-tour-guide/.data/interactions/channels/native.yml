@@ -7181,3 +7181,31 @@
     score: 5.69
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 5c6405bcb59cc77ea3a298a60ca489e42058aa96
+  author:
+    name: BrianHob
+    lang: en
+    email:
+      value:
+        encrypted: YTBlMzMyZjhlNWU2NmU3MmJkN2JkY2U0NjIwODM0Mzk3ODlmNzcxMA==
+        algorithm: aes-256-gcm
+        iv: 7adfb6c1f17fc295a648ed99
+        version: "1"
+      hash:
+        sha256: 8da447b8bc3375ef3565773383e79c3ec8c5f9af26467cf99225cba9f95d3ca4
+  published: 2025-06-16T00:21:37.831Z
+  content: Undoubtedly, one of the most significant benefits of outsourcing
+    accounting
+    [url=https://www.riakchr.ru/kak-pravilno-uvolit-glavnogo-bukhgaltera-pri-utrate-doveriya/]https://www.riakchr.ru/kak-pravilno-uvolit-glavnogo-bukhgaltera-pri-utrate-doveriya/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: OGU5YjU0ZDVlYzkyMDNhNGZlNDlhZjczZGFjOA==
+    algorithm: aes-256-gcm
+    iv: 0c37fd8a02e0a9826ed66f58
+    version: "1"
+  spam:
+    score: 9.55
+    marked: true
+  status: rejected
