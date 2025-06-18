@@ -7459,3 +7459,30 @@
     score: 5.07
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 4aa65b771e20c9489a8a5b2ae793e5512d287702
+  author:
+    name: Terrydriva
+    lang: en
+    email:
+      value:
+        encrypted: MTU5ODM5OTM4MzNkNDNiZWNhMzFiNzU1NTI0MjhkNjhlN2UyMzZjMg==
+        algorithm: aes-256-gcm
+        iv: 94be4c09212291ff22569c8b
+        version: "1"
+      hash:
+        sha256: 735cde24dff0133876162f762f41c0d6c60f4078d209d375f3c3bea5b5978d7b
+  published: 2025-06-18T15:12:51.043Z
+  content: Одо-Студио — это не просто агентство. Это команда, которая помогает
+    брендам расти [url=https://odo-studio.ru/]https://odo-studio.ru/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MDgzMjQwOWYyZDg3Mzg4ZDNlNWMwNDAwMzdlOQ==
+    algorithm: aes-256-gcm
+    iv: 328a4b0f8302fa83bca4dfc8
+    version: "1"
+  spam:
+    score: 8.61
+    marked: true
+  status: rejected
