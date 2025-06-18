@@ -7511,3 +7511,31 @@
   spam:
     score: 3.1
   status: auditing
+- type: reply
+  channel: native
+  id: 45f4451b70698bb76caef8d0cc424dc79e8e03bf
+  author:
+    name: WilliamEmimi
+    lang: en
+    email:
+      value:
+        encrypted: Njk5NTJiNjU0ZjdiMGZjYTFkOTI3OWJmYjExYjcxYzJhYTdlYzJiMQ==
+        algorithm: aes-256-gcm
+        iv: 7b435a4220129ebb1d9b1020
+        version: "1"
+      hash:
+        sha256: b9d8a288f481b800f6e09ef0e21d7f47796b8124ee7602d3e8c2048ddc739379
+  published: 2025-06-18T21:44:39.272Z
+  content: "Vodka Casino — это платформа с ярким русскоязычным дизайном, где
+    представлены сотни игр: от классических слотов до live-дилеров
+    [url=https://vodkasloty.com]водка казино[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: ZjliYTkzOWRlNmM5NDUzODM3NmMxN2RlYmUyMA==
+    algorithm: aes-256-gcm
+    iv: c8bdb31f674e4c94ce3000d1
+    version: "1"
+  spam:
+    score: 4.98
+    marked: true
+  status: auditing
