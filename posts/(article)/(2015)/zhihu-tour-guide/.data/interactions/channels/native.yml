@@ -7539,3 +7539,30 @@
     score: 4.98
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: e9b930c81a9e230cc835907610637d76baec0ecf
+  author:
+    name: SamuelReemo
+    lang: en
+    email:
+      value:
+        encrypted: MTM3ZThkN2IwMGY2ZGM3MzdiNDdiY2NiMTBkMWMwZjUwYzI3MTI3Zg==
+        algorithm: aes-256-gcm
+        iv: a4b8893e57f1487a0b9f9de5
+        version: "1"
+      hash:
+        sha256: 2c4dd632d8e764dee1cdc227a521d81c9466d98fd6978ce8eef77ac6067b602c
+  published: 2025-06-19T00:25:24.003Z
+  content: If you are going to play 1Win, be sure to use the promo code 1W500GIFT
+    [url=https://www.brokersearch.ru/index.php?option=com_kunena&func=view&catid=19&id=80089&Itemid=236#80089]https://www.brokersearch.ru/index.php?option=com_kunena&func=view&catid=19&id=80089&Itemid=236#80089[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NmY0NGExMDRlYjBjOGI5Y2NmYTQ5Y2Zj
+    algorithm: aes-256-gcm
+    iv: 6a519797092cb250073a8ba6
+    version: "1"
+  spam:
+    score: 8.19
+    marked: true
+  status: rejected
