@@ -1,0 +1,10 @@
+- id: ae1ca5f92605a48662bde94b754702d352721b6ae02b094b2481f6737becc612
+  channel: webmention
+  webmention:
+    source: https://dallas.lu/how-to-prove-your-original-work/
+    status: ok
+  url: https://dallas.lu/how-to-prove-your-original-work/
+  created: 2025-07-03T16:31:12.754Z
+  updated: 2025-07-03T16:31:12.826Z
+  published: 2025-07-03T16:31:12.826Z
+  type: mention
