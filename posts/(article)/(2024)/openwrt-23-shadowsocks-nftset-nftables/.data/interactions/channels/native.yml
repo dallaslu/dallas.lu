@@ -1,0 +1,15 @@
+- type: reply
+  channel: native
+  id: c2e27e6d479e03c680f6688231fa33a1f7a1d356
+  author:
+    lang: zh-CN
+  published: 2025-07-06T07:42:50.181Z
+  content: 请教如何处理ipv6 地址
+  lang: zh-CN
+  ip:
+    encrypted: NGZmOTU2MzY5NDI5NzAxNTNjOTc1MTgxNzFhODY5
+    algorithm: aes-256-gcm
+    iv: 0378e47221474c5e17720a6f
+    version: "1"
+  spam:
+    score: 1.76
