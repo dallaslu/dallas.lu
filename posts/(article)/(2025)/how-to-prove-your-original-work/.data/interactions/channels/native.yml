@@ -1,0 +1,34 @@
+- type: reply
+  channel: native
+  id: 443bd325458c721244bed7be31a7be8fe1afadd4
+  author:
+    name: 方豆豆
+    lang: zh-CN
+    url: https://alioth-ti.cc
+    email:
+      value:
+        encrypted: ZDQ3NWM3MjBjNzA2NzVmOTBkNDQwNjU3Y2M5NGFj
+        algorithm: aes-256-gcm
+        iv: a9a5b417de98bfeb85e8e848
+        version: "1"
+      hash:
+        sha256: d7b26abecbd7d12e73650e017b58daac1b0fac5e94d40c4d9fabf585a0994e4d
+  published: 2025-07-09T16:40:51.105Z
+  content: "站长总结的真的很全面了。仔细想想，我个人可能只希望向我的读者们“自证”，不希望再花精力理会搬运者的账号了。对这种需求，除了这篇文章提到的零\
+    宽字符编码、透明文字等方法，个人认为利用ImageMagick配合Github Action自动插入水印的方案也不错[（使用
+    ImageMagick自动添加水印，保护图片版权）](https://liudon.com/posts/auto-add-watermark-imag\
+    emagick-protect-copyright/)，可以再补充下ヽ(✿ﾟ▽ﾟ)ノ\r
+
+    \r
+
+    不过，我引的这篇文章用的是明水印方案，可能会影响观感。后面若是有空，可能我会再沿用这一思路，配合fftw支持自动盲水印插入，然后再水一篇文章吧。毕竟暂\
+    时还没找到能直接用的轮子(σ｀д′)σ"
+  lang: zh-CN
+  ip:
+    encrypted: MTY2OGI0ODMwNWI4YmU4MTYyYjg1M2U3YjU=
+    algorithm: aes-256-gcm
+    iv: 0e099e88cfc5d404dc5818d9
+    version: "1"
+  spam:
+    score: 3.23
+  status: auditing
