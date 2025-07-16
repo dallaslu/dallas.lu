@@ -153,3 +153,30 @@
     score: 9.43
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7626c5459b57e25ef566dcb8fc686ea393c5734c
+  author:
+    name: Jameswix
+    lang: en
+    email:
+      value:
+        encrypted: ODk2YzZlMWUxYTNlYWU3ZmNiMWNkNzk1ZGZiNGY3YjZmMTIzOWE=
+        algorithm: aes-256-gcm
+        iv: 5ffa25a428201ef24471586e
+        version: "1"
+      hash:
+        sha256: bae271696aa97f6993841c025f470e4a833c515a7ad95e3d1390bb2d48a14afb
+  published: 2025-07-16T19:32:37.781Z
+  content: Leon sports betting is a popular bookmaker among legal bookmakers
+    [url=https://www.imdb.com/list/ls4784657216/]https://www.imdb.com/list/ls4784657216/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZTE4ZTcwMjg0Y2ZkNjFiMTk1ODNiMzc1
+    algorithm: aes-256-gcm
+    iv: 1121c850163a8a6797d51ec0
+    version: "1"
+  spam:
+    score: 6.13
+    marked: true
+  status: rejected
