@@ -98,3 +98,30 @@
   spam:
     score: 2.5
   status: auditing
+- type: reply
+  channel: native
+  id: 08b39357b3591d42b27279929d87706e76d10d84
+  author:
+    name: Kennethaboro
+    lang: en
+    email:
+      value:
+        encrypted: ZWE5YWM4NDVlMDdmMGNjOGE4YjQzZWYwZGVmNGM4YjczNWJkODc=
+        algorithm: aes-256-gcm
+        iv: 23c58de2790973017ee27ee5
+        version: "1"
+      hash:
+        sha256: 7f9229900a6b2b6343f609a6f11755dc9b4d9129fcebb8c19351305b000de04e
+  published: 2025-07-16T12:19:08.312Z
+  content: A Russian special-purpose missile submarine disappears without a trace
+    during a secret mission [url=https://lkraa35.cc]ссылка кракен сегодня[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YmE5ZWQwNjlmNzdjMGI0N2U4YzMzNzUy
+    algorithm: aes-256-gcm
+    iv: 90b0456941ffc12ce24ffaf6
+    version: "1"
+  spam:
+    score: 5.01
+    marked: true
+  status: auditing
