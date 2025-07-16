@@ -44,3 +44,57 @@
     score: 8.17
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9d2c219642246409134dc4e7e953cc29807b6b94
+  author:
+    name: BarryORdiz
+    lang: en
+    email:
+      value:
+        encrypted: MzFiZTMxNjU0ODVjYjZlZmNhYmY2MWI2MWNiZTNhYmI2ZTBlYTNkZjEyNWI4ZjQyNDA4NWYy
+        algorithm: aes-256-gcm
+        iv: ba2037ec5ab891fa29747a94
+        version: "1"
+      hash:
+        sha256: c504912cc311cae2a787cd29ab8307168437c71d4523163dadecb012f4e9ff11
+  published: 2025-07-16T09:25:55.326Z
+  content: " \r
+
+    Зеркало Кракена быстро открылось через мобильный Tor  \r\n"
+  lang: zh-CN
+  ip:
+    encrypted: OTJiZDY4YmI1OTM2MWNlMTE4NTE2MGVjM2E=
+    algorithm: aes-256-gcm
+    iv: 1a1051fc0712ce7580f9ca88
+    version: "1"
+  spam:
+    score: 2.5
+  status: auditing
+- type: reply
+  channel: native
+  id: bf1162ab3375c454ab1e53897ac664d3b9dcf545
+  author:
+    name: BarryORdiz
+    lang: en
+    email:
+      value:
+        encrypted: MWVhMGU3MzY3OGNhMGIyNTViMzRiZWNjMjk1MmUxYzMxZTRmNWE2ODBkZWIzNmUyMjhkOTM4
+        algorithm: aes-256-gcm
+        iv: 601844892a016a444d2eac5f
+        version: "1"
+      hash:
+        sha256: c504912cc311cae2a787cd29ab8307168437c71d4523163dadecb012f4e9ff11
+  published: 2025-07-16T09:25:55.388Z
+  content: " \r
+
+    Рабочее зеркало Кракен маркетплейс топ  \r\n"
+  lang: zh-CN
+  ip:
+    encrypted: MzliZWM5ZTg2NTRmZGQxY2JhNDE1MmFkN2I=
+    algorithm: aes-256-gcm
+    iv: e2cc5e5c153676bcacd69fa6
+    version: "1"
+  spam:
+    score: 2.5
+  status: auditing
