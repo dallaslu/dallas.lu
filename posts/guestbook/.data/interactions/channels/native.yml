@@ -866,3 +866,33 @@
   lang: zh-CN
   ip:
     encrypted: ZWQyMjJiZmYxOGZhNmVjNjg4ZjRjOWNhMGU3YWNlMmVhZTc
+- type: reply
+  channel: native
+  id: 55b044118f71bfcaa0fccb2f22212812b961dd95
+  author:
+    name: Jeffreyoraky
+    lang: en
+    email:
+      value:
+        encrypted: OWYyY2E1ZGIyYzZjMDhkZGE4NjRhMThiODc4YzQ5ZTc0N2U4NjQ=
+        algorithm: aes-256-gcm
+        iv: 92fd3bfdb0b962f7830ec535
+        version: "1"
+      hash:
+        sha256: f00449a137b33decfd3c285274d5929af27a2cca78f31f0b9200cc8588014d3f
+  published: 2025-07-16T12:50:40.287Z
+  content: "Кракен - ты знаешь что это, уже годами проверенный сервис. \r
+
+    Недавно мы запустили p2p обмены и теперь вы можете обменивать любую сумму
+    для пополнения. \r
+
+    Всегда есть свежая ссылка кракен через ВПН: https://kra--035.cc/"
+  lang: en
+  ip:
+    encrypted: NWQ5ZmVlYjk0NmQxMDQ2NjE4NmIyNjM4ZTc=
+    algorithm: aes-256-gcm
+    iv: d97292eed8e302ebb7c7f9b8
+    version: "1"
+  spam:
+    score: 3.84
+  status: auditing
