@@ -125,3 +125,31 @@
     score: 5.01
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: d99bf01173eab65eda76c384126ef8be8aa380ca
+  author:
+    name: tgram_blmt
+    lang: en
+    email:
+      value:
+        encrypted: OWJhZjBhNTczZjk4OWExNGJhNTc2NTgxOWQzMjRlMzg3MzJhNDFjNWFkZDYwNA==
+        algorithm: aes-256-gcm
+        iv: 9003e1b2171c5fd320b3f76b
+        version: "1"
+      hash:
+        sha256: 8c428014b5b2045a58da6dabd439b9b263e6d1ebb67af8023ec2a24e7c9ded71
+  published: 2025-07-16T15:12:52.462Z
+  content: Накручивают ли подписчиков в Телеграм
+    [url=https://dtf.ru/top-smm/3145183-nakruchivayut-li-podpischikov-v-telegram-top-27-proverennyh-servisov-2025-goda-novyi-reiting]Накручивают
+    ли подписчиков в Телеграм[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZjVmNmM3ODg4NzEwNzA0MTRmYjQyNTcy
+    algorithm: aes-256-gcm
+    iv: 09f5f03cc33965c95b60eda2
+    version: "1"
+  spam:
+    score: 9.43
+    marked: true
+  status: rejected
