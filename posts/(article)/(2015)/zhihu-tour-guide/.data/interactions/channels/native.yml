@@ -393,3 +393,31 @@
   spam:
     score: 3.36
   status: auditing
+- type: reply
+  channel: native
+  id: bfbfe780e52abf5a30a84c657d2a0e87f79fb9bc
+  author:
+    name: tgram_ejmt
+    lang: en
+    email:
+      value:
+        encrypted: NDVlOGUwMGZiOTUwMjcxN2UxNmYwOWY1NmM2OTQ0YTc2NjYzMmE1MjYxODA3Ng==
+        algorithm: aes-256-gcm
+        iv: a5b671bd5c1c9ce1e39e7e02
+        version: "1"
+      hash:
+        sha256: 0d262073cf8bce8ca35e3100f500928f61a2b99cd63734dba076085f656f32ba
+  published: 2025-07-19T04:54:45.265Z
+  content: Накрутка живых подписчиков в ТГ дешево
+    [url=https://dtf.ru/top-smm/3103456-nakrutka-zhivyh-podpischikov-v-tg-deshevo-top-27-proverennyh-servisov-2025-goda-novyi-reiting]Накрутка
+    живых подписчиков в ТГ дешево[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZmE3YjY1NzlhNTAzOWU5ZGMwMmM2MDgz
+    algorithm: aes-256-gcm
+    iv: 6f71df4b92e14780aaf0de77
+    version: "1"
+  spam:
+    score: 9.37
+    marked: true
+  status: rejected
