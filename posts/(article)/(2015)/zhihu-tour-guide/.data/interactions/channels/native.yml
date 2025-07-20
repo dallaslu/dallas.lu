@@ -449,3 +449,31 @@
     score: 5.62
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 3a9114ddb05da6d31e9463a951e252dac97d9541
+  author:
+    name: zaim_zfmt
+    lang: en
+    email:
+      value:
+        encrypted: OWMwZGFiMGEzYzEwYmUwZDA2OWZlZWZlZGMwY2U2MmY4NGY3NDI3YmI2MDAyMTU5MjQ=
+        algorithm: aes-256-gcm
+        iv: e3813bba5b5559d44be122db
+        version: "1"
+      hash:
+        sha256: 5ddf454ca65673c6c8d33d00ea9e84c85cc9e8862ec8061d751ddbd677c8640f
+  published: 2025-07-20T19:37:49.727Z
+  content: займ денег без процентов
+    [url=https://vc.ru/niksolovov/1721856-pervyi-zaim-bez-procentov-top-17-luchshih-mfo-na-2025-god]займ
+    денег без процентов[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZGIyMWE5MzQ0ODExZjIzM2ZiMjU3MzM5
+    algorithm: aes-256-gcm
+    iv: 2bd9599c49911fadcb8e3010
+    version: "1"
+  spam:
+    score: 9.39
+    marked: true
+  status: rejected
