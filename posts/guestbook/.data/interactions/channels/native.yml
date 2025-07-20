@@ -933,3 +933,36 @@
   spam:
     score: 3.84
   status: auditing
+- type: reply
+  channel: native
+  id: 98da59c6e7ba6ffbab01ae78fe1095c68e71603f
+  author:
+    name: Arthurhip
+    lang: en
+    email:
+      value:
+        encrypted: MmVlMWEzNDBiNzYxMjA4MTllNTljY2NkYzU2YzlmZjZmN2U2YzhhNzFlOTM=
+        algorithm: aes-256-gcm
+        iv: 8b0d5ccb27c8d4c8167e8091
+        version: "1"
+      hash:
+        sha256: dc4bcaf5ad60736cd5f0419d4c89dc4f954571864a5223ae7298b7b703746603
+  published: 2025-07-20T18:51:44.399Z
+  content: " Black Lotus  \r
+
+    Welcome to ECasino \r
+
+    ECasino selection of the best casinos \r
+
+    Привет, всё ебать, пока Русские не пришли вас ебать \r
+
+    [url=https://ecasino.site/] Wild Casino [/url]"
+  lang: en
+  ip:
+    encrypted: MzVkMGQyYWI4ZDk5Yjc1ZTBmYWIxMWNhZTk=
+    algorithm: aes-256-gcm
+    iv: c122e83cd43bc21cfd0f971d
+    version: "1"
+  spam:
+    score: 2.92
+  status: auditing
