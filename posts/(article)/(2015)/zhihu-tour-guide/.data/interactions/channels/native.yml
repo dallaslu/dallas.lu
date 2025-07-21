@@ -528,3 +528,31 @@
     score: 6.21
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 4907f7c77e8c2ea92e44df50884f25ce9e5cbe46
+  author:
+    name: tgram_obmt
+    lang: en
+    email:
+      value:
+        encrypted: OTNiNzc1Y2RhNWRiNzg3YjFhZTllMGQxZjhhZDZmNmQ0ODg0Njk4NmI3OGVhYg==
+        algorithm: aes-256-gcm
+        iv: d5e0c090c3459c3aa884afbe
+        version: "1"
+      hash:
+        sha256: 442cb909cf9827f364e0e72bd3e8d4ac71b8d467685f22e1b5256a48b9342a21
+  published: 2025-07-21T14:52:54.968Z
+  content: Накрутка подписчиков Телеграм Телеграмм
+    [url=https://dtf.ru/top-smm/3105908-luchshie-nakrutki-podpischikov-telegram-top-27-proverennyh-servisov-v-2025-godu-novyi-reiting]Накрутка
+    подписчиков Телеграм Телеграмм[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YWQ5NTNmMGM4ZDZmM2QyMTBjMWVlYWQ0
+    algorithm: aes-256-gcm
+    iv: f56dbab92a1bbcfddaf64ce6
+    version: "1"
+  spam:
+    score: 9.36
+    marked: true
+  status: rejected
