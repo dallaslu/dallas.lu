@@ -638,3 +638,30 @@
     score: 7.32
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f766d7a68175099919c4978f2d7364f8cc8de905
+  author:
+    name: Arthursic
+    lang: en
+    email:
+      value:
+        encrypted: YjM4YjQ1ZWY3ZTZlZjAxYTVmMjI3Njc3OTQyNzVhOTUzNjRmNzM=
+        algorithm: aes-256-gcm
+        iv: a191d635636cace354f9a2ec
+        version: "1"
+      hash:
+        sha256: e16a7534fc49f2cc3f53b4fa1f9fb65324092d53bbce5d018befc5a93a7d3e34
+  published: 2025-07-23T01:11:12.588Z
+  content: Active users can take advantage of free bonuses and promo codes
+    [url=https://prigotovim-v-multivarke.ru/news/promokod_pri_registracii_6.html]https://prigotovim-v-multivarke.ru/news/promokod_pri_registracii_6.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MmU5MzRiMDM5ZDFmZDJhNjJmYmQ2ZDk4MDJhZg==
+    algorithm: aes-256-gcm
+    iv: 48e0ba73f0d2d038bc803cad
+    version: "1"
+  spam:
+    score: 8.05
+    marked: true
+  status: rejected
