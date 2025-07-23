@@ -665,3 +665,31 @@
     score: 8.05
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e49d520b7abecdc7e8a936bd498e83d0d707faf2
+  author:
+    name: tgram_akmt
+    lang: en
+    email:
+      value:
+        encrypted: Yjk3MzQ0MjVmODFjOWJjYzJkOTljN2FmMDYwYjZmMjQxYzkwY2Y2NzRmMTdmYw==
+        algorithm: aes-256-gcm
+        iv: 3c483606209c93be94cb5d6d
+        version: "1"
+      hash:
+        sha256: b9dc551430d430ff01298cabdf447c6b296eb721bce43f2fe60e977bcdfe081f
+  published: 2025-07-23T05:36:12.653Z
+  content: Накрутка в Телеграме
+    [url=https://vc.ru/niksolovov/1284853-nakrutka-v-telegrame-top-19-servisov-2025-goda-silnyi-post]https://vc.ru/niksolovov/1284853-nakrutka-v-telegrame-top-19-servisov-2025-goda-silnyi-post[/url]
+    сервисы для набора подписчиков в ТГ
+  lang: zh-CN
+  ip:
+    encrypted: NjA1MzM4ZTNiZGU0YzAwNGYzMjE0Nzcx
+    algorithm: aes-256-gcm
+    iv: 7865eaae45eb6ead0e41a332
+    version: "1"
+  spam:
+    score: 9.76
+    marked: true
+  status: rejected
