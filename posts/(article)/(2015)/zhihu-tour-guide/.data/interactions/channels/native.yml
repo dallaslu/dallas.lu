@@ -881,3 +881,32 @@
     score: 6.25
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: da8c5786ce1896ffbe53ec9efcdbb185c04fca1c
+  author:
+    name: moscow stomatolog_tpSr
+    lang: en
+    email:
+      value:
+        encrypted: YjJhMGIxYzhhZDc5M2Y5MzIyMDQxMWY2OWM1Nzg1ODlhMTUwZmY3ZTFlOGI=
+        algorithm: aes-256-gcm
+        iv: 58f2dd60a58a747ffcb40a23
+        version: "1"
+      hash:
+        sha256: 36d64e65d831bef498934fe150f24726335febe33cfe59b3a340dc69095696b4
+  published: 2025-07-24T23:27:11.130Z
+  content: Столичные жители особенно требовательны к качеству медицинских услуг.
+    Хорошая московская клиника сочетает опыт врачей, современные технологии и
+    удобное расположение. Именно такие условия предлагает своим пациентам
+    [url=http://moscow-stomatolog.ru/]www.moscow-stomatolog.ru[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: MjA0YjhhN2IwN2IyYzVmOTVlNTkzNTBkNGI=
+    algorithm: aes-256-gcm
+    iv: b79d595e26a32c85195c2844
+    version: "1"
+  spam:
+    score: 7.13
+    marked: true
+  status: rejected
