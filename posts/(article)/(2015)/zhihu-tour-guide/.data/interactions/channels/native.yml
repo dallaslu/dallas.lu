@@ -827,3 +827,30 @@
     score: 6.38
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 41c8d309059df4e680b8d7fe6b28f05538057d25
+  author:
+    name: JamesShive
+    lang: en
+    email:
+      value:
+        encrypted: Zjc4N2YzMjQ1MDA5MzViZDYzOWZlMGYwOTZiNzNlYzZlMGU5Mzc=
+        algorithm: aes-256-gcm
+        iv: 7376d1d97be5fc0ba5e78aca
+        version: "1"
+      hash:
+        sha256: af2a80c88648c53954bfcb9b10563278fbba81812e4c0402bb9d5c540e30ae58
+  published: 2025-07-24T21:24:05.877Z
+  content: Discover the exclusive 1xBet rewards
+    [url=https://www.imdb.com/list/ls4788900487/]https://www.imdb.com/list/ls4788900487/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ODVjODA1ZjNlMTc2NGZmNmRlYWYxMzczNzYxNQ==
+    algorithm: aes-256-gcm
+    iv: 4d20e577730c3c767312e0de
+    version: "1"
+  spam:
+    score: 6.51
+    marked: true
+  status: rejected
