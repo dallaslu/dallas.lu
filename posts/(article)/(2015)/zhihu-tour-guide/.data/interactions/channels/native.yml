@@ -1037,3 +1037,30 @@
     score: 7.35
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5bbb5445de52b41bbf102664ee0d385f1dc2825e
+  author:
+    name: AnthonyHet
+    lang: en
+    email:
+      value:
+        encrypted: OTdkMzVkMjJkNGJmYTcyMThhMjQ4MmM5N2Q3N2QwZWIwMWIwMmE=
+        algorithm: aes-256-gcm
+        iv: eae0c963416aefb52ff7f32c
+        version: "1"
+      hash:
+        sha256: 872c9fa8478b8cba34890b3f442f6ab5c9c9b7c72d63e53919f58f7454ed06f5
+  published: 2025-07-25T23:15:47.825Z
+  content: The 1xBet welcome bonus gives you the perfect opportunity to start with
+    [url=https://www.imdb.com/list/ls4788881743/]https://www.imdb.com/list/ls4788881743/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NTkwNGY1NWRiOTkyN2ZhY2U1OGFkZmJlNDBjMQ==
+    algorithm: aes-256-gcm
+    iv: 095343e5b187b299fcbe5bb6
+    version: "1"
+  spam:
+    score: 6.07
+    marked: true
+  status: rejected
