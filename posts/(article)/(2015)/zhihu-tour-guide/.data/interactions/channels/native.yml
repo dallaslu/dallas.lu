@@ -1009,3 +1009,31 @@
     score: 5.59
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: cf8c1a8d525377bba883dabf3272967f6d01f530
+  author:
+    name: Richardcob
+    lang: en
+    email:
+      value:
+        encrypted: ODkxNWFlYjYwMDJiYTVjMTE3Mzc3MDhkNDhhMGEzYWJkMDIy
+        algorithm: aes-256-gcm
+        iv: 2d3cd58e98a7a8571dd90d81
+        version: "1"
+      hash:
+        sha256: dba98d72239465b84b5bf8beb84538ecc7ee4709fc88451478569345ec8e64d5
+  published: 2025-07-25T23:05:40.348Z
+  content: " \r
+
+    <a href=https://dtcc.edu.vn>кракен ссылка kraken</a>"
+  lang: zh-CN
+  ip:
+    encrypted: ZmIxYzlhNTQ3YmYyNjBhZjkyYzE5ZGY1
+    algorithm: aes-256-gcm
+    iv: 7e519944c02b7849cea0ad72
+    version: "1"
+  spam:
+    score: 7.35
+    marked: true
+  status: rejected
