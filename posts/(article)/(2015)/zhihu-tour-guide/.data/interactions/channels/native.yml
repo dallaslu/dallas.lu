@@ -1151,3 +1151,30 @@
     score: 6.48
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c32beda86851e0547f41f69b5b949bbeaeb8e672
+  author:
+    name: AnthonyHet
+    lang: en
+    email:
+      value:
+        encrypted: MjIzNDFjYWUwODYyMzBmN2U1YzIzMmY5MzBiMzFhNjE4N2MwY2E=
+        algorithm: aes-256-gcm
+        iv: 6f963fc084b8a61c7b3f7379
+        version: "1"
+      hash:
+        sha256: 57b1e7d30c019858a0f513a24acb27a15a72df74c8bfc9b7b2adc3000c839b6f
+  published: 2025-07-26T13:22:17.943Z
+  content: The platform makes it easy to categorize slots by provider and rating
+    [url=https://www.imdb.com/list/ls4100055058/]https://www.imdb.com/list/ls4100055058/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MTQzODkxZjkzZmY0Y2Q4Y2RjYTBhN2I5
+    algorithm: aes-256-gcm
+    iv: 86843751f7af37e32f0efd1c
+    version: "1"
+  spam:
+    score: 6.09
+    marked: true
+  status: rejected
