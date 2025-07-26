@@ -1095,3 +1095,32 @@
     score: 4.78
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 7cf5d783157899f079eb4f5b5bd114ee0fa8ec11
+  author:
+    name: tgram_mxmt
+    lang: en
+    email:
+      value:
+        encrypted: ZDQ1NGM5M2Y1YmU4OTFlNmZjOTlmNzc3ZWNjNGM4ODhmZjlmYjZjYjExMTk4Yw==
+        algorithm: aes-256-gcm
+        iv: b84e6ab9f4ad6d9e6355fd4a
+        version: "1"
+      hash:
+        sha256: e011e1708e5f0aca67d8328d4b35cc8cb9266c46f82635a6e64d2024daf387f2
+  published: 2025-07-26T06:51:18.802Z
+  content: Вот классная статья, как набрать подписчиков в Телеграм с нуля и без
+    фейков —
+    https://vc.ru/telegram/2120339-kak-uvelichit-podpischikov-v-telegram-25-luchshikh-servisov-dlya-rosta
+    — бери и пользуйся.
+  lang: zh-CN
+  ip:
+    encrypted: NDM5YTIyMjE1NGYwYjNlYjZjYWFiYmZi
+    algorithm: aes-256-gcm
+    iv: 8a7526743aa4c1689c230ebb
+    version: "1"
+  spam:
+    score: 9.02
+    marked: true
+  status: rejected
