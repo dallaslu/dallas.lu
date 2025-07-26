@@ -1124,3 +1124,30 @@
     score: 9.02
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 552e06228928fdb2d822bca6d78b88dfda0ec433
+  author:
+    name: AnthonyHet
+    lang: en
+    email:
+      value:
+        encrypted: MDRhYzliZTAzZjUwMDJlM2VkYmQ1ZmZiNDQ1NmQ5MDI1YzNjMDg=
+        algorithm: aes-256-gcm
+        iv: d9634aeb46088e3dad5b9474
+        version: "1"
+      hash:
+        sha256: b617567bf0e3aa9d490a4fdd1a60f0f7b408ca5f0b9496f84680e6ae0983866f
+  published: 2025-07-26T09:40:17.263Z
+  content: For a click, set the currency and send
+    [url=https://www.imdb.com/list/ls4100169885/]https://www.imdb.com/list/ls4100169885/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MzAwYmQ3NGMyZGY3ZmQ0ZDZmOGQwYTNlYmNmMQ==
+    algorithm: aes-256-gcm
+    iv: bdfd59b1c607a0e2e0a0addc
+    version: "1"
+  spam:
+    score: 6.48
+    marked: true
+  status: rejected
