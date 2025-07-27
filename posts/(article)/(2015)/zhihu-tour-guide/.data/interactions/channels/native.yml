@@ -1231,3 +1231,29 @@
     score: 6.21
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: fc27dd1b0f46ac44490e1c8ef65ecd2dd4f7570d
+  author:
+    name: Kennethdak
+    lang: en
+    email:
+      value:
+        encrypted: YmM1NGNjYmVkM2Y2NGQzODk0NTU4MzhkNmQ3MGM1MjQ3NjM1NzQ=
+        algorithm: aes-256-gcm
+        iv: b22c47b61a03da73527b9193
+        version: "1"
+      hash:
+        sha256: 4e6fbebd92b4f1842ea4c1e6cf0e82b6bcf2f6ebad042c2add053a86571cb9ab
+  published: 2025-07-27T00:47:58.530Z
+  content: https://graph.org/Launching-Your-Consulting-Business-in-Dubai-A-Strategic-Path-to-UAE-Success-05-07
+  lang: zh-CN
+  ip:
+    encrypted: NTQ2M2M0MTU1ZTkzNzZjMDQxZDlmNGE1
+    algorithm: aes-256-gcm
+    iv: a962d549fc8ac34595dba98e
+    version: "1"
+  spam:
+    score: 7.5
+    marked: true
+  status: rejected
