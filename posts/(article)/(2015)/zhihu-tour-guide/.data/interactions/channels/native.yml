@@ -1257,3 +1257,31 @@
     score: 7.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b1999c405dbefd4b7f155f6f186fc92bd1958313
+  author:
+    name: HaroldPergo
+    lang: en
+    email:
+      value:
+        encrypted: YjRlOTY2ZjQwNjNhMzAyNWZlNDdjMjgzOGY1ZmUyMWE2YWE3MDM=
+        algorithm: aes-256-gcm
+        iv: d4bb2179cbf2d24a341d848f
+        version: "1"
+      hash:
+        sha256: a9b0fab2b471bd56fe2f8fd683a4dd1f0f04c4ae6f8cb469848f723c6fff8e45
+  published: 2025-07-27T11:04:57.108Z
+  content: The only reference to 7.30 in the rules relates to recalculating
+    overs/time
+    [url=https://www.imdb.com/list/ls4100439785/]https://www.imdb.com/list/ls4100439785/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: Y2U3MGIxYjYwOTg2ZDUzNDNhYjlhNDBi
+    algorithm: aes-256-gcm
+    iv: 702964dadad439615a7351e9
+    version: "1"
+  spam:
+    score: 6.04
+    marked: true
+  status: rejected
