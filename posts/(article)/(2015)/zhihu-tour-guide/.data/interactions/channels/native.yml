@@ -1311,3 +1311,31 @@
     score: 7.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0ebb62f99ae6aed8cced3778dc2a2745da5d4e59
+  author:
+    name: HaroldPergo
+    lang: en
+    email:
+      value:
+        encrypted: YmJiOWExYWVhNzFkNzMxYTUyNDMwNjBmMGQyZWEzZTMzOTk3ZWJjZA==
+        algorithm: aes-256-gcm
+        iv: b87d1e59ccad0a9cdfe77d3b
+        version: "1"
+      hash:
+        sha256: e729d66751d23871fd2334246c4d01b53a202a1db7904c5040a9fe13754cf767
+  published: 2025-07-27T17:23:46.784Z
+  content: Hello, everyone! In this article, we will tell you in detail how to use
+    1xBet
+    [url=https://www.imdb.com/list/ls4100939469/]https://www.imdb.com/list/ls4100939469/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NjdkZDFlMTc2NjgzODZiMTg2ZjU0ZTgz
+    algorithm: aes-256-gcm
+    iv: 7b671eb1876a897430a78f8e
+    version: "1"
+  spam:
+    score: 6.02
+    marked: true
+  status: rejected
