@@ -1339,3 +1339,29 @@
     score: 6.02
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 66be2bac51a2929f3e7b414ab1da5fb0c8588b1d
+  author:
+    name: Jerryshops
+    lang: en
+    email:
+      value:
+        encrypted: NWU1NDRkZjI5MjUxODg3OGIzNWM1ZjE2MjAzNjUzZWIzYTVjM2MxZQ==
+        algorithm: aes-256-gcm
+        iv: c4636c6dcd4fe3231c93d8dc
+        version: "1"
+      hash:
+        sha256: b64033b376fcdd82cc193be1514cee1d36bbbabc25cfcf85958d496fb66bdda4
+  published: 2025-07-27T21:52:25.720Z
+  content: https://www.reddit.com/r/UAE/comments/1ezfq97/comment/n3fiwa7/?context=3
+  lang: zh-CN
+  ip:
+    encrypted: NjFlOTI4ZTk5Y2Y0MzRlNjkyZjczNDAxMWJmYw==
+    algorithm: aes-256-gcm
+    iv: ff31095b388fdb08e4cdafcd
+    version: "1"
+  spam:
+    score: 7.5
+    marked: true
+  status: rejected
