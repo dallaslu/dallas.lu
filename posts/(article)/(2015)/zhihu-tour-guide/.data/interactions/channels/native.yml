@@ -1501,3 +1501,30 @@
     score: 7.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8113fee1e70d008fec3b19661ca598ed27bd10b1
+  author:
+    name: Kennethdak
+    lang: en
+    email:
+      value:
+        encrypted: ZGYxMjhmOWY1YzQwNmE4OWRjY2Y0Yzk4Yjk5MjdkZjEwNjVmM2ZiNA==
+        algorithm: aes-256-gcm
+        iv: 442925f2202217af5068de33
+        version: "1"
+      hash:
+        sha256: bac868f7d8bf4bccbe41bcf5c560ddc9f2abfeedf94f853b64de90bd7dc26904
+  published: 2025-07-28T11:47:32.598Z
+  content: Betwinner grants new users from Portuguese-speaking areas
+    [url=https://www.imdb.com/list/ls4105085814/]https://www.imdb.com/list/ls4105085814/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MWIxOThhMDEzOWUxNmExMzZkYTRmYzc2
+    algorithm: aes-256-gcm
+    iv: 0015b7ac895d207098c1c322
+    version: "1"
+  spam:
+    score: 6.22
+    marked: true
+  status: rejected
