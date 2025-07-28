@@ -1475,3 +1475,29 @@
     score: 8.41
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 63148abd3a63d81c5cbd721a3c0d55acb676de61
+  author:
+    name: Jerryshops
+    lang: en
+    email:
+      value:
+        encrypted: MTAxYTg5NTI1MTViODZjY2RlNDA2YzgzOTc3OTA1ZDBjOTc2MGVmZA==
+        algorithm: aes-256-gcm
+        iv: 9494c53139bf6ba213112a7a
+        version: "1"
+      hash:
+        sha256: b82cf15bf43bb0f70cac4737be7f98e0a70c004dd4946dbec85e508965150c6d
+  published: 2025-07-28T09:48:34.277Z
+  content: https://www.reddit.com/r/Sharjah/comments/1lzmzzh/has_anyone_leased_or_bought_industrial_space_in/
+  lang: zh-CN
+  ip:
+    encrypted: OTE2ZDA1ZTZlOGMyNzc3OTE3M2YyNDRjODVlMg==
+    algorithm: aes-256-gcm
+    iv: 8706f90cb82366de25ed2f52
+    version: "1"
+  spam:
+    score: 7.5
+    marked: true
+  status: rejected
