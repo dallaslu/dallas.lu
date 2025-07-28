@@ -1446,3 +1446,32 @@
     score: 5.64
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: dc5ae3623f2cbc8d42da295c4ddada83a49fda40
+  author:
+    name: tgram_xzmt
+    lang: en
+    email:
+      value:
+        encrypted: NWY2ZDA4OTk0NDQ5ZWU3ZmY5MTI2MWJkNzc4ODY2OTE3NzQ3M2VmMzA3M2U1Yw==
+        algorithm: aes-256-gcm
+        iv: 7f04a5458e5e29ed72d6f033
+        version: "1"
+      hash:
+        sha256: 968b2346441bba26eed7a9881afa683f91d0796376d0ff238fd9b3b4ce6957cc
+  published: 2025-07-28T06:03:06.040Z
+  content: Чтобы накрутить подписчиков ВК группа бесплатно и получить качественную
+    аудиторию, используйте рекомендации с
+    https://dtf.ru/top-smm/3922815-nakrutka-podpischikov-vk-besplatno где
+    собраны только проверенные сервисы.
+  lang: zh-CN
+  ip:
+    encrypted: ZDJhMTIzOTNiMzY5ZWY4NWRkNzI3N2Uw
+    algorithm: aes-256-gcm
+    iv: 84ce23d18875837046691627
+    version: "1"
+  spam:
+    score: 8.41
+    marked: true
+  status: rejected
