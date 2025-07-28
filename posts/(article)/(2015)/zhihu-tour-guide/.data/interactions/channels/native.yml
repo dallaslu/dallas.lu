@@ -1365,3 +1365,30 @@
     score: 7.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 11f891e9fe615f7a2a753c944cc2e1ba778bc66e
+  author:
+    name: HaroldPergo
+    lang: en
+    email:
+      value:
+        encrypted: MjA4MmM1ZWQ3OTU4MzQwMjBiOWJlZDJiM2ZkYWRmMzUwNDliZWFiNQ==
+        algorithm: aes-256-gcm
+        iv: a8dc0b80953ee730586bb905
+        version: "1"
+      hash:
+        sha256: 9a1707812b379f10c75ecab03c340c587409a1c4ebefb96ac05085372cde11c6
+  published: 2025-07-28T00:18:19.732Z
+  content: Акция Кешбэк 10% для постоянных пациентов
+    https://stoma-esthete.ru/stocks-v-stomatologii/cashback
+  lang: zh-CN
+  ip:
+    encrypted: ZTMwZTQ2ZGViYWQwNTczNTUyYmI3NjEz
+    algorithm: aes-256-gcm
+    iv: f62b3814688222908ab3d99b
+    version: "1"
+  spam:
+    score: 9.2
+    marked: true
+  status: rejected
