@@ -1856,3 +1856,32 @@
     score: 6.44
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3a074cd8aaf0154da8fe9859f4cf28fe185a789d
+  author:
+    name: telegram_oqmt
+    lang: en
+    email:
+      value:
+        encrypted: NDYzOTU1YTRjYWZjY2ZmODFkNjQ5NjI2YmRhOGZjMmVhYTU4MDZmNGEyMDBmYQ==
+        algorithm: aes-256-gcm
+        iv: 38e0ba11fbc41226cf6db240
+        version: "1"
+      hash:
+        sha256: 9cd70bbfc00fc291986eacdf4c7044677a54effbdaa0c54d20b796974b820aa2
+  published: 2025-07-29T23:41:55.728Z
+  content: "Накрутка голосов Телеграм вот статья:
+    https://vc.ru/niksolovov/1284902-nakrutka-golosov-telegram-top-19-servisov-\
+    2025-goda-preimushestva Только проверенные бесплатные и платные способы
+    получить больше подписчиков."
+  lang: zh-CN
+  ip:
+    encrypted: NWU4NWFmMGFjOGFiY2MyZmJjMmE0YjQx
+    algorithm: aes-256-gcm
+    iv: 241d7e38f97329c98949398e
+    version: "1"
+  spam:
+    score: 8.88
+    marked: true
+  status: rejected
