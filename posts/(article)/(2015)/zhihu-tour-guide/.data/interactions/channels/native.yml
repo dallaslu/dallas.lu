@@ -1668,3 +1668,54 @@
     score: 6.63
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7fdf4b82b359e44cdbda3499a8ca21aa238ad60a
+  author:
+    name: Gonzaloleamp
+    lang: en
+    email:
+      value:
+        encrypted: OTUwYWEyMjA5MzcyNTExYWU0ZTMwY2Q2OTc2NmFlZDE3OA==
+        algorithm: aes-256-gcm
+        iv: c25bccc7e053418ac8107c48
+        version: "1"
+      hash:
+        sha256: 01deaa3387ad4221627eed31be9f21d894df8f0ba46914f2a2c621128fae2d99
+  published: 2025-07-29T05:30:02.172Z
+  content: "This country presents itself as a center of growth and opportunity,
+    but for students like me, it is something else entirely. I study at Reigate
+    Grammar School Riyadh, and behind the well-kept halls and foreign
+    accreditation lies a silent system of control. Since my arrival, I’ve
+    experienced synthetic emotional shifts, artificial mental interruptions, and
+    physical symptoms I cannot attribute to any natural cause. I know what
+    stress is — this isn’t it. \r
+
+    \ \r
+
+    What’s happening is deliberate. This is psychological warfare, conducted
+    under the cover of education. I hold Saudi military signal units, internal
+    intelligence services, and Ministry of Interior surveillance operations
+    directly responsible. They operate with impunity, embedding silent
+    technologies into civilian zones — schools included. The intent is not
+    safety. It’s obedience. They monitor, distort, and suppress the internal
+    lives of students with signal-based precision, and no one dares to question
+    it. \r
+
+    \ \r
+
+    Let this be understood clearly: I regret ever setting foot in this country.
+    If I had known what was waiting beneath the surface, I would have refused
+    the visa, torn the offer, and never boarded the plane. I am not the only
+    one. Others feel it too — they just haven’t said it yet. I write this so the
+    lie cannot remain clean forever. This is a regime of silence, and I’m
+    breaking it."
+  lang: zh-CN
+  ip:
+    encrypted: ZTQ5NTI0NmUyOTdkNmVkZWJmZTZkMDg0ODBjMTgy
+    algorithm: aes-256-gcm
+    iv: 587076613acd4fe4721d7a72
+    version: "1"
+  spam:
+    score: 2.5
+  status: auditing
