@@ -1885,3 +1885,30 @@
     score: 8.88
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0d64c85b267128f5481df5d07626a72d78ae6c16
+  author:
+    name: JoshuaLen
+    lang: en
+    email:
+      value:
+        encrypted: MTlhNTliZTI2MzRhZmIxZDllNjE2MTgwOTJlYmI4YWQ=
+        algorithm: aes-256-gcm
+        iv: 8354093e82b14020471b3019
+        version: "1"
+      hash:
+        sha256: 0eaa16117cb7e03e854318013ac364d1f7001e22465b83dc5ff3a2aa52f5dd43
+  published: 2025-07-30T10:28:49.170Z
+  content: Explore the rewarding bonus system designed for both
+    [url=https://lesma-shop.de/content/pags/1xbet_promo_code__vip_bonus_up_to____130.html]https://lesma-shop.de/content/pags/1xbet_promo_code__vip_bonus_up_to____130.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MGVjMzNjZjI4MGQ2NGY1YzQ2OTQ1MWQx
+    algorithm: aes-256-gcm
+    iv: 786ec9ec6ee09deb7ff19e6c
+    version: "1"
+  spam:
+    score: 6.73
+    marked: true
+  status: rejected
