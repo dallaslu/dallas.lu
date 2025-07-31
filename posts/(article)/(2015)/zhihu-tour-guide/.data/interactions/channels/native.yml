@@ -1979,3 +1979,30 @@
   spam:
     score: 2.5
   status: auditing
+- type: reply
+  channel: native
+  id: 3b693fa8ce2d2e27bab37dd9a12122ac17b6b898
+  author:
+    name: Arnoldhem
+    lang: en
+    email:
+      value:
+        encrypted: MGJkMzM5NmY4MDk0MjBhNmNlMWYxODkxZjU2ZWQ0Nzc=
+        algorithm: aes-256-gcm
+        iv: c6631731a88db5478d9d56ba
+        version: "1"
+      hash:
+        sha256: 32cde6426f27cb287de4c3d3a051c94560df57fd4e21108e2a417e379975bec3
+  published: 2025-07-31T09:44:28.850Z
+  content: All new customers of the 1xBet bookmaker have the opportunity
+    [url=https://sibseals.ru/includes/pgs/?sovety_po_prohoghdeniyu_igry_tyranny_poleznye_gaydy_039.html]https://sibseals.ru/includes/pgs/?sovety_po_prohoghdeniyu_igry_tyranny_poleznye_gaydy_039.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YTQzZTYwNTQ0MGRmM2ExYzQwY2QwNzZh
+    algorithm: aes-256-gcm
+    iv: dde1cc15f1712bcaa179a792
+    version: "1"
+  spam:
+    score: 8.23
+    marked: true
+  status: rejected
