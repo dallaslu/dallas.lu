@@ -2150,3 +2150,31 @@
     score: 6.23
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3f1e78015bb51573a40e24352f9e7e74a31aabcf
+  author:
+    name: Arnoldhem
+    lang: en
+    email:
+      value:
+        encrypted: MzdlMTkzZDA3ODhiNTE5YjE5NWY0ODFiNTEwN2YzMzM=
+        algorithm: aes-256-gcm
+        iv: c80855cc18e6c3467163bb54
+        version: "1"
+      hash:
+        sha256: edae5811dff671606cf011465c4453e6e09ae3a983352fae8759ddf672c1ceb0
+  published: 2025-08-01T11:44:45.766Z
+  content: The conditions are transparent and are specified in the "Promotions"
+    section
+    [url=https://www.imdb.com/list/ls4105937540/]https://www.imdb.com/list/ls4105937540/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: N2YyZWNmMTQ3NTQyNWEzNWI4YTZjMTVl
+    algorithm: aes-256-gcm
+    iv: 2b407a283f8278a60b325ce5
+    version: "1"
+  spam:
+    score: 6.03
+    marked: true
+  status: rejected
