@@ -2122,3 +2122,31 @@
     score: 6.62
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 4051c58a989bdbfaa6404a792ad9d987c752ccd8
+  author:
+    name: Arnoldhem
+    lang: en
+    email:
+      value:
+        encrypted: YWYxOTM4OGMwMjhhOTNjNGVmNzdkNmUxNTUyMTdkODI=
+        algorithm: aes-256-gcm
+        iv: 6a4c432dc47e715d81835cf0
+        version: "1"
+      hash:
+        sha256: f9b39c540f2d423788d6a37c8020bcc89da107d6c50a88ad1b07b9e71c85c180
+  published: 2025-08-01T01:06:38.456Z
+  content: Crazy Monkey — популярный игровой автомат, который давно завоевал
+    сердца игроков благодаря простым правилам и яркому игровому процессу
+    [url=https://cbcbf.org/index.php/component/kunena/welcome-mat/17493652-vt-m-tich-s-ii-d-h-d-nl-in]https://cbcbf.org/index.php/component/kunena/welcome-mat/17493652-vt-m-tich-s-ii-d-h-d-nl-in[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZWFiYWMyZjk5ODBiYTE1NzBkMGIwNWU0
+    algorithm: aes-256-gcm
+    iv: fa607470b418accc9a476d66
+    version: "1"
+  spam:
+    score: 6.23
+    marked: true
+  status: rejected
