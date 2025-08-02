@@ -2340,3 +2340,31 @@
     score: 8.19
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2bb3c6e64c3dd5d882eec08e00b6add4236bc0a6
+  author:
+    name: CharlesSaugh
+    lang: en
+    email:
+      value:
+        encrypted: Mzk0ZDlhNGNmYWQyZmI3MjkwNjk5Y2U2MTMzOWRjYzE=
+        algorithm: aes-256-gcm
+        iv: a9fc939e0a54220ef8d2c206
+        version: "1"
+      hash:
+        sha256: 834b86285654699409583410f1b566908bc39de9079f4e4d175494a4c3dfbd76
+  published: 2025-08-02T16:56:17.233Z
+  content: Большой выбор сварочной проволоки Св-08Г2С и других марок для
+    полуавтомата
+    [url=https://wire.in.ua/drit-zvaryuvalnij-0-8-mm-sv08g2s-4si1-er70s-6-polirovanij-5-kg-katushka-plastik-d200.html]Св-08Г2С[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NWQ3NWNkZDAyYjJmZGZhNTBkZDhhNTIyNTYxOA==
+    algorithm: aes-256-gcm
+    iv: b284833a269e792dc49e1d17
+    version: "1"
+  spam:
+    score: 6.32
+    marked: true
+  status: rejected
