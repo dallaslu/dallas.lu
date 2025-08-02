@@ -1004,3 +1004,32 @@
   spam:
     score: 3.84
   status: auditing
+- type: reply
+  channel: native
+  id: 90973c9d99a6f78733468778a8cd815931546010
+  author:
+    name: Jerry
+    lang: en
+    email:
+      value:
+        encrypted: ZjIzNDZjYzkzZWU5OWRkNzJkYjcxNzg2OTM2YTU3MTM0OTQ4
+        algorithm: aes-256-gcm
+        iv: 4c6f1f01b0a73d21348377f7
+        version: "1"
+      hash:
+        sha256: a63f22d3e41d3469d9a2eacb7228db3ef35a831bc64f2e168fdd18b2638f52a4
+  published: 2025-08-02T07:22:51.778Z
+  content: "<a
+    href=\"https://blog.evnexus.in/aparthotel-campea-brno-eska-republika-rezerv\
+    ujte/\">https://blog.evnexus.in/aparthotel-campea-brno-eska-republika-rezer\
+    vujte/</a> \r\n"
+  lang: en
+  ip:
+    encrypted: YWQ5OGVlMzIzODNmZTBhNjI1OTc4ZGY5ODU4ZDM3
+    algorithm: aes-256-gcm
+    iv: 7f07ef665a9d0c811069a901
+    version: "1"
+  spam:
+    score: 8
+    marked: true
+  status: rejected
