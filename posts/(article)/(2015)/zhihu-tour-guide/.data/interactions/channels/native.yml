@@ -2397,3 +2397,31 @@
     score: 6.92
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 90025c2337919b85afd1bac7a142154a5d302ba1
+  author:
+    name: CharlesSaugh
+    lang: en
+    email:
+      value:
+        encrypted: OGRhZTUyNGQ2YTQ2ZTNjNGY3YzkxMGY3MDllYmMwNTEzZDZlNDFkYQ==
+        algorithm: aes-256-gcm
+        iv: aded7859bf53243b20703470
+        version: "1"
+      hash:
+        sha256: 38c27f4308dcb8d00611d714aa3ceeb560125c055d864f704bc27e8157757403
+  published: 2025-08-03T00:57:37.848Z
+  content: Сплошная омедненная проволока для полуавтоматической сварки
+    нелегированных и низколегированных сталей
+    [url=https://wire.in.ua/drit-zvaryuvalnij-1-6-mm-sv08g2s-4si1-er70s-6-obmidnenij-15-kg-katushka-plastik-d270.html]4Si1[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YmQ3ODIzOTYwYTllNGNmNWNhOGVlZmVhOWRjYw==
+    algorithm: aes-256-gcm
+    iv: 7820a1d285a50dc469d68ed9
+    version: "1"
+  spam:
+    score: 6.08
+    marked: true
+  status: rejected
