@@ -2425,3 +2425,32 @@
     score: 6.08
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 70b9b1acd357b2873243fcb4d1836ba745fba9e0
+  author:
+    name: telegram_vnmt
+    lang: en
+    email:
+      value:
+        encrypted: ODMzYmJkOTg5YWIyOWI2ZDIyZTg1M2UxODY1YTMxM2M1OGEyMjZkZTExMjA3Zg==
+        algorithm: aes-256-gcm
+        iv: 4a8db6b169b8b8b65cc16645
+        version: "1"
+      hash:
+        sha256: f69dc496f1b8f7d204f9a07afac07a61e489519a789fee69904586f7589fe91e
+  published: 2025-08-03T02:15:34.872Z
+  content: "Накрутка Телеграм канала вот статья:
+    https://vc.ru/niksolovov/1284939-nakrutka-telegram-kanala-top-19-servisov-2\
+    025-goda-preimushestva Только проверенные бесплатные и платные способы
+    получить больше подписчиков."
+  lang: zh-CN
+  ip:
+    encrypted: NmMwMWU3Mzg5NDlhMzQ3MDFiNTg2OTU3
+    algorithm: aes-256-gcm
+    iv: c5163777d62f3376ee7c5c32
+    version: "1"
+  spam:
+    score: 8.88
+    marked: true
+  status: rejected
