@@ -2508,3 +2508,31 @@
     score: 6.07
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: aad2c330ec5c01749adfa11830205578c2830604
+  author:
+    name: moscow stomatolog_bzSr
+    lang: en
+    email:
+      value:
+        encrypted: M2NlNTYwMWQ3MjRmMTAzNDFhYTdlNTcxYTliYTI5ZmE2NzAzY2RmMTk2Mzg=
+        algorithm: aes-256-gcm
+        iv: 33bba78584cd4f0c0dd4b4a4
+        version: "1"
+      hash:
+        sha256: 7ee8e3bfd64419673080e5d8c5a50b9873d68b8cc7fbe9c4b93aa31f2cea8556
+  published: 2025-08-03T17:55:52.673Z
+  content: "[url=https://www.chery-russia.ru/]https://chery-russia.ru/[/url] -
+    индивидуальный подход к каждому клиенту. Мы учитываем все ваши пожелания и
+    предлагаем оптимальные решения."
+  lang: zh-CN
+  ip:
+    encrypted: NDIwNjcxNzhjOWI5YmFiNTNhMTgyYmMwNzdlMjky
+    algorithm: aes-256-gcm
+    iv: 5a6f0e96357d45b105030785
+    version: "1"
+  spam:
+    score: 7.52
+    marked: true
+  status: rejected
