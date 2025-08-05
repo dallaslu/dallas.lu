@@ -2700,3 +2700,29 @@
   spam:
     score: 3.49
   status: auditing
+- type: reply
+  channel: native
+  id: 8ae63646b19e2b2e1ba7267ffe6d1d7c96d361c8
+  author:
+    name: " arabic1xbet_dkMa"
+    lang: en
+    email:
+      value:
+        encrypted: MTc4ZDRiYTk5MzA3YjBhZGNjNTk1YjBiNzZjMjJlZmVhZmQwNjFlNWVkMzcwNg==
+        algorithm: aes-256-gcm
+        iv: 4024c0e7803635faf00aad08
+        version: "1"
+      hash:
+        sha256: 34f961d7667997e4860dbfd9d0251695771ed1fda7c90110b6d8ee03072831fb
+  published: 2025-08-05T22:46:14.607Z
+  content: thmyl 1xbet [url=https://parimatch-apk.pro]https://parimatch-apk.pro[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: NTkyOTNiMTQzZWExNWVlMGU4OWJiYWQxZTIzMg==
+    algorithm: aes-256-gcm
+    iv: 4c1c19d2210f9958ded3ba30
+    version: "1"
+  spam:
+    score: 6.75
+    marked: true
+  status: rejected
