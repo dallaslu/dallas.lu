@@ -2646,3 +2646,32 @@
     score: 7.42
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 30346f792b49fe4b61ff720d5dd44cc0d4c8fce1
+  author:
+    name: telegram_pbmt
+    lang: en
+    email:
+      value:
+        encrypted: YjIzYWJlNDk0YWQ1MDdiZjVhOGJmZWI3YTg1OWM1MDgyY2I0ZDIyYTNhYTc4Zg==
+        algorithm: aes-256-gcm
+        iv: 4c94472e4df2560b88491cbd
+        version: "1"
+      hash:
+        sha256: a850a8b04a4d5039c9c0900936190e9521cae09df3a71550b2ca6d60c4ca7447
+  published: 2025-08-05T04:51:10.202Z
+  content: "Накрутка живых подписчиков в ТГ бесплатно вот статья:
+    https://dtf.ru/top-smm/3108002-nakrutka-zhivyh-podpischikov-v-tg-besplatno-\
+    top-27-proverennyh-servisov-2025-goda-novyi-reiting Только проверенные
+    бесплатные и платные способы получить больше подписчиков."
+  lang: zh-CN
+  ip:
+    encrypted: NmFjMTNlMjAxZWQ1NTJjNjM5MGY1ZGE5
+    algorithm: aes-256-gcm
+    iv: 633297b5a3e30b182eb90c50
+    version: "1"
+  spam:
+    score: 8.97
+    marked: true
+  status: rejected
