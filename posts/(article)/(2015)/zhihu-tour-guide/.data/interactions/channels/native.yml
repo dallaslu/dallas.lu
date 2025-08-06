@@ -2726,3 +2726,32 @@
     score: 6.75
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: df7a7109b727945a70e0230430c00fd594ef0330
+  author:
+    name: MichaelAlugs
+    lang: en
+    email:
+      value:
+        encrypted: ZGMwYzI3ZGU2OGE3MWQ2Y2M2ZThjNWVkNjZkZjVjMGNmNTQzYjI1OQ==
+        algorithm: aes-256-gcm
+        iv: 4bce68503bcd418e084e66bb
+        version: "1"
+      hash:
+        sha256: c0888599c29e65ef53b9a102c6564f6df657a3c95d976e25d4efd4e9e7b95fff
+  published: 2025-08-06T01:59:18.261Z
+  content: The situation with bonuses in modern betting and gambling is quite
+    ambiguous
+    [url=http://www.newlcn.com/pages/news/promokod_1xbet_na_segodnya_2020___bonus_6500_rubley.html]промокод
+    на бесплатные фриспины в 1xbet[/url]
+  lang: zh-CN
+  ip:
+    encrypted: ZTNiNDdlZmFmOWMyNGVhZWUyMTkxOTA4NjY4OQ==
+    algorithm: aes-256-gcm
+    iv: a387c2854212798e2cc3a39d
+    version: "1"
+  spam:
+    score: 5.85
+    marked: true
+  status: auditing
