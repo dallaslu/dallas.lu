@@ -2806,3 +2806,31 @@
   spam:
     score: 2.9
   status: auditing
+- type: reply
+  channel: native
+  id: 093594c748c7be221c71c4ea92ffaba6cee51c9d
+  author:
+    name: dizainerskie kashpo_puKl
+    lang: en
+    email:
+      value:
+        encrypted: NDBmNzlmNjI1NjQwMjM4YWYyZWNhMGQwN2Q4ODE2NGQzNDgzZWY2OTA0Y2M=
+        algorithm: aes-256-gcm
+        iv: 7c687d2fcb6213997d1c2de0
+        version: "1"
+      hash:
+        sha256: 722c7e5c29208f70c72321d5dc662ec15f393020f922e4cf94a589a571209c1d
+  published: 2025-08-07T05:37:50.683Z
+  content: оригинальные кашпо для цветов купить
+    [url=http://www.dizaynerskie-kashpo-sochi.ru]оригинальные кашпо для цветов
+    купить[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: NzY3OWJkZmI2N2JkNThjZGU1NzQ4OWJiMDU=
+    algorithm: aes-256-gcm
+    iv: b7a9dc227122b79606b466f1
+    version: "1"
+  spam:
+    score: 7.24
+    marked: true
+  status: rejected
