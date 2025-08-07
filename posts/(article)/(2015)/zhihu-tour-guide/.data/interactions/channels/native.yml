@@ -2834,3 +2834,31 @@
     score: 7.24
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 0154dae7161db4d8d9d6b842fd0e140ad5f4b0f9
+  author:
+    name: DarrellFarie
+    lang: en
+    email:
+      value:
+        encrypted: NDEyOGFjNTFhZmUxODQ3NjE4YWJmYTk2MjRlYTI4YmRlNmViMmU=
+        algorithm: aes-256-gcm
+        iv: 17a5dff1a1de25e173f843dc
+        version: "1"
+      hash:
+        sha256: f73515e81404704a29d0a4b276d5d8d588af125e78abeb91a1317b5b44924ed8
+  published: 2025-08-07T11:34:26.768Z
+  content: "Официальный сайт-зеркало Водка Бет: лучшие предложения от Vodka Bet
+    [url=https://vodkabet-info.cdn.ampproject.org/c/s/wp.me/pgIKEC-A-dh9x9s]htt\
+    ps://vodkabet-info.cdn.ampproject.org/c/s/wp.me/pgIKEC-A-dh9x9s[/url]"
+  lang: zh-CN
+  ip:
+    encrypted: ZGFhOGQxZjFiMGYxNTM4NTkyOTgxMDliODMxMw==
+    algorithm: aes-256-gcm
+    iv: 47f27613fa97ceea2c7fad9c
+    version: "1"
+  spam:
+    score: 6.47
+    marked: true
+  status: rejected
