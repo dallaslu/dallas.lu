@@ -2971,3 +2971,30 @@
     score: 7.68
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 71cd85366ddabc84f9cd42ed03cd98eb329d8c0b
+  author:
+    name: Milanblurn
+    lang: en
+    email:
+      value:
+        encrypted: ZWI4NGNiOTFhZWU0OTQ2OTY3MWJjMzlhN2NjN2JiOGVjZWI0NjM=
+        algorithm: aes-256-gcm
+        iv: f45a52860a9ed5e05233b5de
+        version: "1"
+      hash:
+        sha256: 91bfd5485ee1890e30935b4ba55859aec0f946babc4815397b1bba9c370bf431
+  published: 2025-08-09T10:10:37.326Z
+  content: If you fulfill all the conditions of the bookmaker and win
+    [url=https://etokirpichi.ru/articles/bonus_melbet_za_registraciu___aktualnuy_promokod_.html]https://etokirpichi.ru/articles/bonus_melbet_za_registraciu___aktualnuy_promokod_.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: YTk4Yjc5YTQwYzAwM2JhY2NmZmUzYjc3ZDQ4OQ==
+    algorithm: aes-256-gcm
+    iv: 31af5dd2b504d1055cfa0464
+    version: "1"
+  spam:
+    score: 8.21
+    marked: true
+  status: rejected
