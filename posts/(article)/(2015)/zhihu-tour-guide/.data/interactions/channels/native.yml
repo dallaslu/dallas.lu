@@ -2944,3 +2944,30 @@
     score: 5.62
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: bc69ab80f2db226f32668e7bf3fe5fbb873a372d
+  author:
+    name: dizainerskie kashpo_vfMa
+    lang: en
+    email:
+      value:
+        encrypted: OGMzMDYwZGI1YWE4ZTg2MzQyY2FiZjNjOTI2YjFhYjIzNzliOTg5MzU2ZjU=
+        algorithm: aes-256-gcm
+        iv: ea5fb0a6fd0028bf60d8a906
+        version: "1"
+      hash:
+        sha256: d9eaced0fbff7e1a50dba71be869dc934442c265cebc4b261225cb6557a1ad97
+  published: 2025-08-09T02:05:57.601Z
+  content: стильные горшки [url=http://www.dizaynerskie-kashpo-rnd.ru]стильные
+    горшки[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: MmZjOTk4MDNkMjNhMzEzOTFmNDdkYjM0NmE=
+    algorithm: aes-256-gcm
+    iv: ba61c4cf1709af8eb5c93958
+    version: "1"
+  spam:
+    score: 7.68
+    marked: true
+  status: rejected
