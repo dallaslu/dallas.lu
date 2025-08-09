@@ -1069,3 +1069,31 @@
     score: 9.11
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 45e6c90e21cf82acdf7727e102ed39e62721d359
+  author:
+    name: Robertkeymn
+    lang: en
+    email:
+      value:
+        encrypted: NzBmNTEwYTIyNzdmZjJjYjAzNWFlYzAyN2M1ZmZiNzY3ZmViMzE1Njk3YTlmNQ==
+        algorithm: aes-256-gcm
+        iv: 037ecf63ee436e957547b2c5
+        version: "1"
+      hash:
+        sha256: 439426c6932db0ffc867422f9bbd0783c9b6f11f9171d485929b143cb3289b77
+  published: 2025-08-09T17:26:58.055Z
+  content: " \r
+
+    <a href=https://netformirovanie-alko.ru/>лечение наркозависимости</a>"
+  lang: en
+  ip:
+    encrypted: ODUzMGYwM2NmNTkwNmNlZjJkNmM0Mw==
+    algorithm: aes-256-gcm
+    iv: 9410a426ec0372d6a55eb0e3
+    version: "1"
+  spam:
+    score: 9.88
+    marked: true
+  status: rejected
