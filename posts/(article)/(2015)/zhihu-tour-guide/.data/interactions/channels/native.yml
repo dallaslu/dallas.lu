@@ -3054,3 +3054,32 @@
     score: 6.97
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e7eae2ab122dfe9fcf0684cd9aa1e3922c746a44
+  author:
+    name: telegram_mxmt
+    lang: en
+    email:
+      value:
+        encrypted: OWEzYWUyZTcyMmZiOTRiZjhkNjZmZjNiM2E3Zjk4NWI4Zjc2ZGJlNTQ1ODA3MQ==
+        algorithm: aes-256-gcm
+        iv: d7356668a6417b8a192e98b2
+        version: "1"
+      hash:
+        sha256: 4852533bdd8f678b0eb22606deab181a9c476b32e03d19eb076844a1138e3a8e
+  published: 2025-08-10T15:13:38.087Z
+  content: "Подписчики Телеграм вот статья:
+    https://dtf.ru/top-smm/3102619-podpischiki-telegram-top-27-proverennyh-serv\
+    isov-v-2025-godu-novyi-reiting Только проверенные бесплатные и платные
+    способы получить больше подписчиков."
+  lang: zh-CN
+  ip:
+    encrypted: YzBmNzQ1NjNjOTMyMDg2NGU3MTg1Nzg1
+    algorithm: aes-256-gcm
+    iv: 3593b9858e4a4be0de618003
+    version: "1"
+  spam:
+    score: 8.97
+    marked: true
+  status: rejected
