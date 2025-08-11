@@ -3111,3 +3111,31 @@
     score: 5.19
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: f3d23dafbcb07cb472127c504f73a606380e79ea
+  author:
+    name: dizainerskie kashpo_hhmt
+    lang: en
+    email:
+      value:
+        encrypted: NzE2YzJmM2E3NTkxMjM1OThmMWQyYTFlYTFlYjYwZmJiMWZkMTU5NmFiNjA=
+        algorithm: aes-256-gcm
+        iv: c6059934a1335a24f075fa2a
+        version: "1"
+      hash:
+        sha256: abb03cbddcd04d15fa36a968f14e965284e6241043cc99c2022b831d51e2de9f
+  published: 2025-08-11T11:29:03.730Z
+  content: стильные горшки для цветов интернет магазин
+    [url=https://dizaynerskie-kashpo-nsk.ru]стильные горшки для цветов интернет
+    магазин[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: YmFlMTBiNWZkYTAwOGQwOTgzOGQ2M2U1ODQ=
+    algorithm: aes-256-gcm
+    iv: ff81abe9c1300196c96ea6a2
+    version: "1"
+  spam:
+    score: 8.46
+    marked: true
+  status: rejected
