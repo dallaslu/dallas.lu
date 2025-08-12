@@ -3192,3 +3192,31 @@
     score: 6.3
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 50f024bda640f0c16df82f6c4fed6a9079d29b3b
+  author:
+    name: tgram_demt
+    lang: en
+    email:
+      value:
+        encrypted: NDNmOTViMmJkODZiYTk4ZWRkOGEzNjFjY2MzOTcwNTM5Y2ViOWVkNDZmZjIzMQ==
+        algorithm: aes-256-gcm
+        iv: bd633a49fea6789474e90884
+        version: "1"
+      hash:
+        sha256: a5e3a1df92e8bc99e61719ea7c79b1d59b351e09743d6bea6f87762f0f00a233
+  published: 2025-08-12T20:24:06.954Z
+  content: Накрутка просмотров ютуб бесплатно онлайн - ТОП-50 лучших сервисов
+    https://vc.ru/niksolovov/1275242-nakrutka-prosmotrov-yutub-besplatno-onlain-top-50-luchshih-servisov
+    Лучшие платформы для набора и накрутки
+  lang: zh-CN
+  ip:
+    encrypted: NDI1OWNhZjk4MzQzNzcxYzhiMTlkNzY5
+    algorithm: aes-256-gcm
+    iv: 4fc971b0a506246077feb3c8
+    version: "1"
+  spam:
+    score: 8.96
+    marked: true
+  status: rejected
