@@ -3302,3 +3302,32 @@
     score: 5.73
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 0e3404630a134d0b2bd76a7a9354534a39be2890
+  author:
+    name: telegram_klmt
+    lang: en
+    email:
+      value:
+        encrypted: YjM2NTEwZTA4ODkwMWNiY2E2MTQ5MDM2M2I4ZGZmZTQyMWVhZTdmMmY5NmNiZQ==
+        algorithm: aes-256-gcm
+        iv: c5df69c08aa83aefe921f5af
+        version: "1"
+      hash:
+        sha256: cbe1ab65f1afbb8aef67ec4029ba3ac47a309c8311ed81125f79e410af864ce7
+  published: 2025-08-13T18:22:16.641Z
+  content: "Накрутка просмотров в ТГ канале вот статья:
+    https://vc.ru/niksolovov/1285341-nakrutka-prosmotrov-v-tg-kanale-top-19-ser\
+    visov-2025-goda-moya-instrukciya Только проверенные бесплатные и платные
+    способы получить больше подписчиков."
+  lang: zh-CN
+  ip:
+    encrypted: NzBiZjI1ZmM3OGVhMDhmYTZkYzg3MjQz
+    algorithm: aes-256-gcm
+    iv: 1282c3253193ab9896210d64
+    version: "1"
+  spam:
+    score: 8.91
+    marked: true
+  status: rejected
