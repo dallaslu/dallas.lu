@@ -3220,3 +3220,30 @@
     score: 8.96
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 347585e3c924908be1e81b5bae79cace534a6d8a
+  author:
+    name: Milanblurn
+    lang: en
+    email:
+      value:
+        encrypted: YjNjMTg4OTk5ZTY5ODRhOTI3OGQwMjE1OTU2YTljYjk5ZWIyMzI2Yg==
+        algorithm: aes-256-gcm
+        iv: ceac4aad6b25075c097db851
+        version: "1"
+      hash:
+        sha256: 675cd4be0d35f1f949517459541f3ee7358530b0757e49ac74e4d40fd671a516
+  published: 2025-08-13T00:00:43.682Z
+  content: Rubber seal for Indesit refrigerator for domestic
+    [url=https://www.wildberries.ru/catalog/177666249/detail.aspx]https://www.wildberries.ru/catalog/177666249/detail.aspx[/url]
+  lang: zh-CN
+  ip:
+    encrypted: OWIxYTFmMTJjMTdkZGM2ODk3MWI3YTk2MDZmYQ==
+    algorithm: aes-256-gcm
+    iv: c849a4381a0baf9236a47b23
+    version: "1"
+  spam:
+    score: 8.05
+    marked: true
+  status: rejected
