@@ -3689,3 +3689,30 @@
     score: 8.96
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 790b5c97b841aa514abb81634e0ea43fe6e8c621
+  author:
+    name: JosephFlono
+    lang: en
+    email:
+      value:
+        encrypted: YTMwYWIwNjU1ODczZTQ2YjFlZGEyYTBmZTZkM2RhY2MyM2ExMTBjMw==
+        algorithm: aes-256-gcm
+        iv: f3dd2c76a13637e77040a0a0
+        version: "1"
+      hash:
+        sha256: 35f0fedf9f5d97367110f84995fdeebdda62053270dda78b13c5eaa2e7844891
+  published: 2025-08-15T21:08:54.744Z
+  content: Packaging with air bubble film has a number
+    [url=https://upakovka-tut.ru]https://upakovka-tut.ru[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NDY2YmZmZGVkMzY5YTJhYTFkODc1ZWVlN2U5YQ==
+    algorithm: aes-256-gcm
+    iv: cfbbe1d9c44672ad7271bca4
+    version: "1"
+  spam:
+    score: 9.06
+    marked: true
+  status: rejected
