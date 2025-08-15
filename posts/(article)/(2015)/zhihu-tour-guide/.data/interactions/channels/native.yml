@@ -3574,3 +3574,61 @@
     score: 5.6
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: e73b0813e6646b7a599c187f51647e6d27c46f85
+  author:
+    name: VicenteFup
+    lang: en
+    email:
+      value:
+        encrypted: OTVmM2ZhZWUyMTMxNmRhMDJiMjFhOGZjY2I0ZDJm
+        algorithm: aes-256-gcm
+        iv: dd9036ae6b6b742bab9a34f1
+        version: "1"
+      hash:
+        sha256: 21edb2887bbc41e9faf759a044a174eeb99bbe0fc6ff1fc334342ba3edc845a2
+  published: 2025-08-15T11:38:00.657Z
+  content: "People imagine that private international schools in Riyadh are
+    protected spaces — clean uniforms, polite teachers, good diplomas. That’s
+    the brochure version. I’m writing from Asia International School – Girls
+    Section, and what’s happening here goes beyond education. I’ve kept quiet
+    long enough because I didn’t want to sound insane. But now I know the
+    silence is part of the mechanism. \r
+
+    \ \r
+
+    It started slowly. My body would twitch before I made a move. Emotions would
+    crash without warning — crying in the restroom between classes, then
+    numbness that didn’t match the moment. There were also memory cuts — entire
+    moments missing from the day, as if I’d skipped through time. I’m not alone.
+    I’ve seen other girls staring into space, blinking like something just hit
+    them. But no one speaks. \r
+
+    \ \r
+
+    This is not some random neurological issue. It’s coordinated psychophysical
+    manipulation, deployed by Saudi domestic intelligence branches,
+    military-linked electronic warfare units, and civilian telecom
+    infrastructures with classified capabilities. They operate within schools
+    like mine. Quietly. Without paperwork. Without oversight. And if you try to
+    report it, the system will paint you as unstable. That's how they stay
+    hidden. \r
+
+    \ \r
+
+    If I had known what actually happens in this country’s schools, I would’ve
+    never stepped on that plane. I still show up. I still sit in classrooms. But
+    the person they’re watching now isn’t the girl who arrived last year. And
+    they know that. \r
+
+    \ \r\n"
+  lang: zh-CN
+  ip:
+    encrypted: ZjZmNDIwOTI2ODcyODJmNTJhNTIxMmE0ODM4MjNk
+    algorithm: aes-256-gcm
+    iv: 8cad15b965d7c85176bbb499
+    version: "1"
+  spam:
+    score: 2.5
+  status: auditing
