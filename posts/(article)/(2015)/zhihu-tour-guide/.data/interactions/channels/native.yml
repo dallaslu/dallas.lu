@@ -3444,3 +3444,31 @@
     score: 8.08
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3cc7fc0f95b9e22ffc6149d27577dc5b263f0955
+  author:
+    name: gorshok s avtopolivom_xxel
+    lang: en
+    email:
+      value:
+        encrypted: ZDJiZjllZjY1Njc1ZDJkZGYzYzc1MmExODQwYTY4NTVlZWJkOTlhMjVlODM=
+        algorithm: aes-256-gcm
+        iv: f06b2e2aebea778c286dc460
+        version: "1"
+      hash:
+        sha256: 4856b8ebe6667d53beb74cba004774f718bcf376058b5e5bb4171e0d4c2b1b23
+  published: 2025-08-15T11:10:46.570Z
+  content: кашпо с автополивом купить интернет магазин
+    [url=http://www.kashpo-s-avtopolivom-kazan.ru]http://www.kashpo-s-avtopolivom-kazan.ru[/url]
+    .
+  lang: zh-CN
+  ip:
+    encrypted: OTYwMjg0MDVkMTk3NTdkOTQzOGFmYTdkZTY=
+    algorithm: aes-256-gcm
+    iv: 4ec0fc8b466e18c7622fa66a
+    version: "1"
+  spam:
+    score: 7.89
+    marked: true
+  status: rejected
