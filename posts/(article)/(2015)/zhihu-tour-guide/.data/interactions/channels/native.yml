@@ -3414,3 +3414,33 @@
     score: 9.49
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a74ff16e80603c87b9ef653df3d4409c98eba3d7
+  author:
+    name: zabor_evroshtaketnik_xkSr
+    lang: en
+    email:
+      value:
+        encrypted: OWRiM2QxMWZmZWViMmViMTJlNjRmYTExMzhjOGUzMTAzODY3MmI2M2I0ZTA=
+        algorithm: aes-256-gcm
+        iv: 4b7a519e3023a5186d55aebf
+        version: "1"
+      hash:
+        sha256: 1f4810c4a1fe97828299ae28a8fbf9a2fdf722a7f5e3218ec9d01b725db99342
+  published: 2025-08-15T03:20:02.097Z
+  content: Экологичные решения от
+    [url=https://metallicheskij-shtaketnik.ru/]metallicheskij shtaketnik
+    ru[/url] включают использование безопасных полимерных покрытий на водной
+    основе. Полное соответствие европейским экологическим стандартам. Безопасно
+    для детей и домашних животных.
+  lang: zh-CN
+  ip:
+    encrypted: NWYwMWU2Y2E2ZTE2NzVmNDE4ODk2OWE4ODkxZDAy
+    algorithm: aes-256-gcm
+    iv: 56705a0bf58332094b37ad7f
+    version: "1"
+  spam:
+    score: 8.08
+    marked: true
+  status: rejected
