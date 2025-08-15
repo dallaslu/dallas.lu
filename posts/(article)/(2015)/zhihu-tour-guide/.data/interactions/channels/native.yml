@@ -3632,3 +3632,31 @@
   spam:
     score: 2.5
   status: auditing
+- type: reply
+  channel: native
+  id: db48183c2b491c55a779746e2e586ab5685f442f
+  author:
+    name: JosephFlono
+    lang: en
+    email:
+      value:
+        encrypted: NDNlYjM2NTUzZTJjZWJmNGYyZGI2M2VmNzU4MGM2MGQ3NjlmZTBiYQ==
+        algorithm: aes-256-gcm
+        iv: 521a959d976e2a3d7b441238
+        version: "1"
+      hash:
+        sha256: 9a53c18bb05573b820c19289c319b483400e34b47a241d1dd44b968239542adf
+  published: 2025-08-15T11:48:07.091Z
+  content: With age, the skin loses its elasticity, becomes less flexible,
+    wrinkles appear
+    [url=https://codeliacms.com/why-choose-codelia-cms-over-other-content-management-systems/]https://codeliacms.com/why-choose-codelia-cms-over-other-content-management-systems/[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MGFjYjE5ODA5OThiYWU0YTVlZWMwOGE0NzQ3NQ==
+    algorithm: aes-256-gcm
+    iv: 3d69bb83e4ac13faff68368c
+    version: "1"
+  spam:
+    score: 6.52
+    marked: true
+  status: rejected
