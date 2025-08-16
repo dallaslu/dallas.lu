@@ -3743,3 +3743,30 @@
     score: 7.9
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2330a820422221ac226345db2070298a36b234cf
+  author:
+    name: nik_hhmt
+    lang: en
+    email:
+      value:
+        encrypted: ZWE0ZmE4YmZiNWRiNzQ3YjFjODE4MDY4ODc5MmFkMzc4NzI2MTQ3MWE5YmJmOA==
+        algorithm: aes-256-gcm
+        iv: f7961e9e58aa6ea06d979038
+        version: "1"
+      hash:
+        sha256: 3142f95900787a891c04591ac1125a2ad669b50a6539cc7e2c602cfb6bb6ce71
+  published: 2025-08-16T18:19:09.692Z
+  content: Работа с ботами требует понимания — всё объяснено на
+    https://vc.ru/niksolovov.
+  lang: zh-CN
+  ip:
+    encrypted: NmY5ZDBjMGE3NTU3NjJhMTljYzUyNTQ5
+    algorithm: aes-256-gcm
+    iv: 328286275ad3e9c47398b083
+    version: "1"
+  spam:
+    score: 8.46
+    marked: true
+  status: rejected
