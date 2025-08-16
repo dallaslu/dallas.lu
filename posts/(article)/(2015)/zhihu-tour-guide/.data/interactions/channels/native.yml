@@ -3716,3 +3716,30 @@
     score: 9.06
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 331300c4d6536af13deb09d3144cb5e0460c80aa
+  author:
+    name: JosephFlono
+    lang: en
+    email:
+      value:
+        encrypted: ODAyYjY3ZTQyNDE2YzY3M2JiMjU0NGUzNDY5NDY4NGQ1NjQyZWVkNw==
+        algorithm: aes-256-gcm
+        iv: 6027e2e4606d6adad84f24eb
+        version: "1"
+      hash:
+        sha256: 67ae068421320c93ad9d1b95168561265bc304b57776b7d01ddc11e792d849cb
+  published: 2025-08-16T10:20:23.450Z
+  content: The seal is made from virgin raw materials, not recycled rubber
+    [url=https://www.wildberries.ru/catalog/445888015/detail.aspx]https://www.wildberries.ru/catalog/445888015/detail.aspx[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MGViZTRlZjYzMzIzNWFiYWM1ZTk2ZDdlMzVhMg==
+    algorithm: aes-256-gcm
+    iv: 5bb1515dd490eb9bd4762bb7
+    version: "1"
+  spam:
+    score: 7.9
+    marked: true
+  status: rejected
