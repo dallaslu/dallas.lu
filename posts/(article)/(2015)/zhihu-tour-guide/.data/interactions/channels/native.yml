@@ -3797,3 +3797,36 @@
     score: 4.66
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 6acb10ab137f6cbb219f8f64becc8e472da8b4ef
+  author:
+    name: DanielFar
+    lang: en
+    email:
+      value:
+        encrypted: NDlkNDEzNDRhZTFjNzU5M2I1OWEyY2UxZDVmYWU3ZDEzNmI0MWIxZGNlODcyNGI1
+        algorithm: aes-256-gcm
+        iv: 6d43e7d95a1297da5a58ff64
+        version: "1"
+      hash:
+        sha256: 68a5002b7e6cbd39d4f8965972cc7a57cb471a310142d47b2c3bdcc2280e94a9
+  published: 2025-08-17T22:35:03.328Z
+  content: "[b]Full Throttle Summer Savings Event![/b] \r
+
+    [b]Summer’s are just discounts[/b] - on from and ready-to-fly [b]DJI[/b],
+    [b]GEPRC[/b], [b]RadioMaster[/b], [b]Ethix[/b], [b]TBS[/b], [b]Lumenier[/b],
+    [b]Flywoo[/b], [b]EMAX[/b] and more now it’s! \r
+
+    [url=https://psee.io/7zu6yq][b]GetFPV’s Full Throttle Summer Savings event
+    is on![/b][/url]"
+  lang: zh-CN
+  ip:
+    encrypted: ZDgxNjZhNDAwMmMzNzg5NDRjZDUyYWRhMmQ=
+    algorithm: aes-256-gcm
+    iv: 9d14e6c7e42e8d5cbff95a45
+    version: "1"
+  spam:
+    score: 4.8
+    marked: true
+  status: auditing
