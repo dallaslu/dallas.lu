@@ -3944,3 +3944,29 @@
     score: 9.41
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a8e63c4541425bbe6411de9bef76b2075247ac65
+  author:
+    name: Davidsip
+    lang: en
+    email:
+      value:
+        encrypted: MGNlMDljNTdkZTY3Y2Q5ZTk5MWE1OGRkNzEwY2VmNzE4M2Y5NzhmZg==
+        algorithm: aes-256-gcm
+        iv: b50bdf78da29192915cab69f
+        version: "1"
+      hash:
+        sha256: fb2206491ec69df25e1c62319851d34d37a0b5fd037510965d155fb2de4c4b2d
+  published: 2025-08-19T23:42:49.931Z
+  content: For a step-by-step guide on opening an account, trading, and making
+    withdrawals with GMO Gaika, visit the detailed resource at gyoza-goya.jp
+  lang: zh-CN
+  ip:
+    encrypted: YjBlNTZlOTBiNWQ2MWUzYmJjMmIzNDljOGJjNg==
+    algorithm: aes-256-gcm
+    iv: 6e0a8d89f8e943aeb26a921b
+    version: "1"
+  spam:
+    score: 2.65
+  status: auditing
