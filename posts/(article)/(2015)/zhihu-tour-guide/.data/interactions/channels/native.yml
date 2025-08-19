@@ -3913,3 +3913,34 @@
     score: 5.69
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 02158ba5f787ecb9adbbef11f74a50301314cddd
+  author:
+    name: telegram_vomt
+    lang: en
+    email:
+      value:
+        encrypted: MjA3NDIzOTE4NzNiMmM2N2Y5ZTRmYmY0ZjVlZTg3MWYwZWI3NmM5OWMzOTg4OA==
+        algorithm: aes-256-gcm
+        iv: a61e14128436822c97daf838
+        version: "1"
+      hash:
+        sha256: 10c5fa7d9eb9a4394d34851f6729750171cc6ee68c5c1a1ec9e49b150988815a
+  published: 2025-08-19T18:54:32.194Z
+  content: "Накрутка подписчиков в ТГ канал бесплатно вот статья:
+    [url=https://vc.ru/niksolovov/1493488-nakrutka-podpischikov-v-tg-kanal-besp\
+    latno-top-25-servisov-2025-goda-lichnyi-vybor]https://vc.ru/niksolovov/1493\
+    488-nakrutka-podpischikov-v-tg-kanal-besplatno-top-25-servisov-2025-goda-li\
+    chnyi-vybor[/url] Только проверенные бесплатные и платные способы получить
+    больше подписчиков."
+  lang: zh-CN
+  ip:
+    encrypted: YTdlNDZhYjlmYjcwMDg0MDg2Mjg3ZDA4
+    algorithm: aes-256-gcm
+    iv: 86c73c5eb9e3acf10f97aa12
+    version: "1"
+  spam:
+    score: 9.41
+    marked: true
+  status: rejected
