@@ -3970,3 +3970,30 @@
   spam:
     score: 2.65
   status: auditing
+- type: reply
+  channel: native
+  id: 33c42fd7a26ef1350466e474133bbda2fe8512a7
+  author:
+    name: Davidsip
+    lang: en
+    email:
+      value:
+        encrypted: ZGVhN2ZlYmFlMjcxNDkzZmY1MjQxYjQxOWMxODM0MjA0ZDc5MmE1MA==
+        algorithm: aes-256-gcm
+        iv: 56a01ca4fe8314e36cc75b28
+        version: "1"
+      hash:
+        sha256: 425b755040bfa86d13a025605b8e091b1fd85efb4a135366ac73017b5a1b72da
+  published: 2025-08-20T11:39:55.776Z
+  content: If you're looking to start trading with GMO Gaika, a complete guide
+    covering account setup, trading, and withdrawals is available at
+    omoken-park.jp
+  lang: zh-CN
+  ip:
+    encrypted: YTA4NGViM2JmNzEyMWY3NTU5NjZkNzI1M2FmNQ==
+    algorithm: aes-256-gcm
+    iv: ddc52a043eac19c4de80779c
+    version: "1"
+  spam:
+    score: 2.64
+  status: auditing
