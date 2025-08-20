@@ -84,29 +84,3 @@
     version: "1"
   spam:
     score: 2
-- type: reply
-  channel: native
-  id: 0183b1fa1ea47e0019d29b37eee9d1610f5955e2
-  author:
-    name: Charlesadada
-    lang: en
-    email:
-      value:
-        encrypted: NDkwZjI5MGI0MDU4MDdlNGJkYmE3YzQ0ZjAxNTVkNzEyNA==
-        algorithm: aes-256-gcm
-        iv: 8e9ec8679201e9dc3bc04f78
-        version: "1"
-      hash:
-        sha256: 985c579fee80a2964038422b4d2b1e6ac939f158799143ba4231ab6fa83c3447
-  published: 2025-08-02T13:01:32.500Z
-  content: "<a href=https://sosamba-spb2.com/>sosamba-spb2.com</a>\r\n"
-  lang: en
-  ip:
-    encrypted: YThiM2EzOTk0OTA3ODIwYzU5Y2IwZDQyMDI=
-    algorithm: aes-256-gcm
-    iv: 7f16182129f21fe17f9bcd7f
-    version: "1"
-  spam:
-    score: 5.56
-    marked: true
-  status: auditing
