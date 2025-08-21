@@ -99,3 +99,31 @@
     score: 7.05
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 1ce0e2f405138cb7a6e48fc28749208117cfb174
+  author:
+    name: top_tcmt
+    lang: en
+    email:
+      value:
+        encrypted: NTA4OTBkMzg3NDkxMGEzMzRiZmQxN2QyMDk4ZmZjNzVkM2M3MmJmMTg2Nzg2NTgwMGM=
+        algorithm: aes-256-gcm
+        iv: 085df3df2d269e0c464ab503
+        version: "1"
+      hash:
+        sha256: c9b97914009788716f6a731764dd454047a0f032816f18923866cffe7cf23b2f
+  published: 2025-08-21T17:25:32.187Z
+  content: Накрутка реакций в Телеграм бесплатно
+    [url=https://vc.ru/niksolovov/1861589-nakrutka-reakcii-v-tg-25-sposobov-besplatnoi-nakrutki-v-2025-godu]https://vc.ru/niksolovov/1861589-nakrutka-reakcii-v-tg-25-sposobov-besplatnoi-nakrutki-v-2025-godu[/url]
+    Подробная статья с наглядными рекомендациями.
+  lang: zh-CN
+  ip:
+    encrypted: Njc0ODQ0YjUzNGY5YmUzMWNlOGMzYTdh
+    algorithm: aes-256-gcm
+    iv: 7da783008d4522c2a9ea6d8f
+    version: "1"
+  spam:
+    score: 9.59
+    marked: true
+  status: rejected
