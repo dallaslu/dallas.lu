@@ -43,3 +43,31 @@
   spam:
     score: 2.76
   status: auditing
+- type: reply
+  channel: native
+  id: 730db5d6bce93dd8d21aff5b59f38e13f0723967
+  author:
+    name: gorshok s avtopolivom_vgEi
+    lang: en
+    email:
+      value:
+        encrypted: MTUzYjU2OWE3MTVhYmY0NDU3MDkxYTk1NzA1YTdjYjRiYTNmMDk0NWYwOWQ=
+        algorithm: aes-256-gcm
+        iv: 1f3b7d82de1685bb1508cc37
+        version: "1"
+      hash:
+        sha256: 7ce75c0770b223ee465397835e02e477eef3cfaeaaed6bdd8733c742620968d3
+  published: 2025-08-21T08:49:12.905Z
+  content: горшки с автополивом для комнатных растений
+    [url=http://kashpo-s-avtopolivom-spb.ru/]горшки с автополивом для комнатных
+    растений[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: YjVjYzc2OWQ0ZjViYTEzNTU2MDhhMzFiOTE=
+    algorithm: aes-256-gcm
+    iv: fbe71fc81081c1d9a1b247d8
+    version: "1"
+  spam:
+    score: 8.43
+    marked: true
+  status: rejected
