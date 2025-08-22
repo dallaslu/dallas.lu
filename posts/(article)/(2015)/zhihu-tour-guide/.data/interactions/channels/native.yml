@@ -127,3 +127,29 @@
     score: 9.59
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 1ef419284b03527d492a9802c5161e7c1bd4c19c
+  author:
+    name: Douglasphita
+    lang: en
+    email:
+      value:
+        encrypted: NzE3OWE1YjYxN2RjZGI3YzZjZGU0MTdlZjVhOWM1MDhjNTQ3MGU1Nw==
+        algorithm: aes-256-gcm
+        iv: 45ec5851af9ad322a00922b8
+        version: "1"
+      hash:
+        sha256: e51172ed2523134066166b5f3537b49630f10c5663eb2a9039c14c313e270f0c
+  published: 2025-08-22T01:01:56.840Z
+  content: https://xnudes.ai/
+  lang: zh-CN
+  ip:
+    encrypted: NTQ2YjU5ZjFjMjU5NGE1Y2ExYjFkOGQ5MzA4YQ==
+    algorithm: aes-256-gcm
+    iv: fe65dc06104841d379568d57
+    version: "1"
+  spam:
+    score: 7.5
+    marked: true
+  status: rejected
