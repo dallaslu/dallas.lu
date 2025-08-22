@@ -248,3 +248,31 @@
     score: 8.66
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b50c4de54321ff61b0c2f088319191e42134c9dc
+  author:
+    name: Jerryraics
+    lang: en
+    email:
+      value:
+        encrypted: Mzg0ZjJlMWM4YzNjMzhhOTc5NGY4ZjhjYjhhNGNhODg=
+        algorithm: aes-256-gcm
+        iv: dd364e4eff85004244d26a26
+        version: "1"
+      hash:
+        sha256: c27ead1bfef9b64f0b21a3eabdab8b1b232bdd3d87c33ecfaf403448a514bd33
+  published: 2025-08-22T17:57:04.122Z
+  content: Pin Up Casino is an international platform that combines convenience,
+    security and a wide range of gaming options
+    [url=https://na-chernomorskoi.ru]играть в Пин Ап казино[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NzE2NWJhYTUzZTE5ODIwNGQ5YzY4MTJjZDc4MQ==
+    algorithm: aes-256-gcm
+    iv: c7501460e2b3fdac628b155e
+    version: "1"
+  spam:
+    score: 8.08
+    marked: true
+  status: rejected
