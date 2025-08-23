@@ -360,3 +360,31 @@
     score: 8.7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 466a08a527a7e8e39d8f5d37fd92079acd91cf5a
+  author:
+    name: Josephsaw
+    lang: en
+    email:
+      value:
+        encrypted: ZDJiZjNhNTc4MTgxNWVkZWNlMTBkNTU1Y2M4NGM0YmY=
+        algorithm: aes-256-gcm
+        iv: 077034a70f284f5e014f20bb
+        version: "1"
+      hash:
+        sha256: 826e3fd1f0f872e6f79e35e9b4c5a7dba6d797fd01649752bfecb552b6ba0b2a
+  published: 2025-08-23T10:42:55.274Z
+  content: Кустовые розы произошли от шиповника и выглядят как как раскидистые
+    кустарники [url=https://millionroz.by/tsvety/roza-kustovaya]Кустовые розы
+    недорого[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MjdmMTEwOWJhMWEwMzkzNzNhMGNmZGUyMzQ5OA==
+    algorithm: aes-256-gcm
+    iv: 48778f11a5c4c45030fd5306
+    version: "1"
+  spam:
+    score: 5.5
+    marked: true
+  status: auditing
