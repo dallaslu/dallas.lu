@@ -303,3 +303,31 @@
     score: 8.63
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f4edc1efec55005aec5e36153bafc3697f29f64f
+  author:
+    name: Robertchelo
+    lang: en
+    email:
+      value:
+        encrypted: M2UzMTc5MGYxYmFlZjNjNDJkOTM0ZjZmMDAyMjhmNTQ=
+        algorithm: aes-256-gcm
+        iv: df16b4787ad04ac15388c2c1
+        version: "1"
+      hash:
+        sha256: 55b0aad4a5b0ff178854fc3ab908df6d21113d962343a5bd7e77905def1d1167
+  published: 2025-08-23T01:53:45.269Z
+  content: Угловые тахты также доступны в различных размерах
+    [url=https://vammebel.ru/catalog/takhta/uglovaya-krovat-tahta/]тахта
+    угловая[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NjJlY2U3NWIxZGI0NTUyOGU5ODIyN2I4ZjYzMA==
+    algorithm: aes-256-gcm
+    iv: 60920ed084164294c05b8567
+    version: "1"
+  spam:
+    score: 8.93
+    marked: true
+  status: rejected
