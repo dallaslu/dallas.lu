@@ -388,3 +388,30 @@
     score: 5.5
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: cf4782825770ff5881c54bbeaeb2314828d2df05
+  author:
+    name: gorshok s avtopolivom_lsEi
+    lang: en
+    email:
+      value:
+        encrypted: Mjc4YmUzMDM2NzkzYTNiM2QxMDRmOTM4NTY5ZTM4NmIxMzQzMzQ3ZGU1ZWU=
+        algorithm: aes-256-gcm
+        iv: 013c4d23acfe1882f1d139f7
+        version: "1"
+      hash:
+        sha256: 1b3a3a6f830e90a48fbe4720ad437251f7220ac84c131cf11ef85b024ed0f2f2
+  published: 2025-08-23T11:06:13.045Z
+  content: умный горшок для растений [url=www.kashpo-s-avtopolivom-spb.ru/]умный
+    горшок для растений[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: NWJjNDQ0MzVlZWIxZDlmNmQ2NDc0ZmUzMmQ=
+    algorithm: aes-256-gcm
+    iv: 8f6046e1cf98572a15fde663
+    version: "1"
+  spam:
+    score: 4.49
+    marked: true
+  status: auditing
