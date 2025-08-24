@@ -469,3 +469,32 @@
     score: 6.61
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 096d5f66ea9b3a2e2582628fbbfb6ae638529f2d
+  author:
+    name: stomatolog_moscow_zoSr
+    lang: en
+    email:
+      value:
+        encrypted: YWE2Yzg0ZGIzYjUzZmJmMzM0ZTZhNTNhMDViN2JmNTJkZGEwMzE2ZTVhOGM=
+        algorithm: aes-256-gcm
+        iv: 3c0386603db054b455a69f4d
+        version: "1"
+      hash:
+        sha256: f9e3af8335319ea93b8f46fb8394087f7082d51cb2a4360658080a539ddcc6e2
+  published: 2025-08-24T16:09:42.104Z
+  content: Когда лечение зубов проходит на высоком уровне, люди рекомендуют врачей
+    друзьям и приходят снова.
+    [url=https://moscow-stomatolog.ru/]www.moscow-stomatolog.ru[/url]– это
+    место, где ценят каждого пациента и обеспечивают долгосрочный результат .
+  lang: zh-CN
+  ip:
+    encrypted: ZGE1ODlmMDdmMjk0MDE1OTIwZjJmMTgwM2ZkZA==
+    algorithm: aes-256-gcm
+    iv: 9800f11ec62304d20716fdbf
+    version: "1"
+  spam:
+    score: 7.26
+    marked: true
+  status: rejected
