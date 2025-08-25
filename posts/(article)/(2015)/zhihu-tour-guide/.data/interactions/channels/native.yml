@@ -636,3 +636,33 @@
     score: 6.21
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ef20d0b43864001998c37888b876d1d5d112e0b5
+  author:
+    name: zabor_evroshtaketnik_uaSr
+    lang: en
+    email:
+      value:
+        encrypted: NmM4NDUyYmZhYzViOGJlYTA2ZDFkN2ZiMDcwZjUzZGFlMTViMmJiMTViOWM=
+        algorithm: aes-256-gcm
+        iv: 26200c3b9c7b7dba26c53914
+        version: "1"
+      hash:
+        sha256: 604512cf0324e44e339e67691f9e3b8eae443acd8f86b2271af2c5e17208bf0d
+  published: 2025-08-25T12:52:36.238Z
+  content: Нестандартные решения на
+    [url=http://www.metallicheskij-shtaketnik.ru/]http://www.metallicheskij-shtaketnik.ru/[/url]
+    — арочные конструкции, комбинации с кирпичом или камнем. Индивидуальный
+    подход, бесплатный дизайн-проект. Срок службы — 30+ лет. Цены от 1800
+    руб./п.м. Срок изготовления — 5-7 рабочих дней.
+  lang: zh-CN
+  ip:
+    encrypted: NGNhYmZkYzVhZGJhNGQwODBhNTViMGQzNzhmOA==
+    algorithm: aes-256-gcm
+    iv: 3e61770c9b06461469117fde
+    version: "1"
+  spam:
+    score: 6.85
+    marked: true
+  status: rejected
