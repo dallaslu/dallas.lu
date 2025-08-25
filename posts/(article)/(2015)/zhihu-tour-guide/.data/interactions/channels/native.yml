@@ -608,3 +608,31 @@
     score: 6.75
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7c8b31f71f53354954a89ea58389303707ea8e63
+  author:
+    name: MichaelTaite
+    lang: en
+    email:
+      value:
+        encrypted: ZTI3MmFjZjdhZmFmMTRlODY5YWIwNTc2NDZlZTAwNmQ=
+        algorithm: aes-256-gcm
+        iv: cd8eb75f99164fc0897cdc17
+        version: "1"
+      hash:
+        sha256: a7ee4a10f296710799b3022da4bdbbdc9aa8bf0546b307e6970adc4046cb473c
+  published: 2025-08-25T09:22:47.244Z
+  content: Despite the rapid technological progress, many of us still cling to old
+    beliefs and habits
+    [url=https://sernexuss.com/blog/pages/nabory_kuhonnoy_mebeli.html]https://sernexuss.com/blog/pages/nabory_kuhonnoy_mebeli.html[/url]
+  lang: zh-CN
+  ip:
+    encrypted: M2ZkMWJmZGU4MzdkZTc1N2IzZDhjZGFjMzJjMw==
+    algorithm: aes-256-gcm
+    iv: fc50d5ac370f8925b77984ee
+    version: "1"
+  spam:
+    score: 6.21
+    marked: true
+  status: rejected
