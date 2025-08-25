@@ -666,3 +666,29 @@
     score: 6.85
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 483b7ffee96c636f3648a30f0057c69729f4a5c7
+  author:
+    name: RandyTribe
+    lang: en
+    email:
+      value:
+        encrypted: MzRmNTE0MzNjNWQ4ZjFkNjYyY2RjYmJkZjI2ODg2MmI=
+        algorithm: aes-256-gcm
+        iv: 3a24189fc6a243836e19b147
+        version: "1"
+      hash:
+        sha256: de11d13dd5645b4d8bd51fe568694cf535ccb5f72d2e96b07c789d82a8fbdd1f
+  published: 2025-08-25T14:09:45.333Z
+  content: https://xtwit.shop
+  lang: zh-CN
+  ip:
+    encrypted: YTAzOTIyYzJkNzQzZmE3OWNmMzFhNmU2MmI5Mw==
+    algorithm: aes-256-gcm
+    iv: e2f2a587e4aced012106ef9e
+    version: "1"
+  spam:
+    score: 7.5
+    marked: true
+  status: rejected
