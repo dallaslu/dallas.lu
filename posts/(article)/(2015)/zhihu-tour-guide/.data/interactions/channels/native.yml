@@ -692,3 +692,31 @@
     score: 7.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 46b8ec8f555b8f8bdec0e81b3dd73f58fc1dc825
+  author:
+    name: NormanneW
+    lang: en
+    email:
+      value:
+        encrypted: ZjJhYWVlMjgzMzY0NjRjMzEwOGJhYTAzYTQ3NWNhZmY=
+        algorithm: aes-256-gcm
+        iv: 60bdb31a5f81edbfcb87bfef
+        version: "1"
+      hash:
+        sha256: 207bff784b8f2ffc7af4d874f4cb1aecb242e64dcf5898b41d381f8087f450be
+  published: 2025-08-25T15:44:02.272Z
+  content: Find the answers to commonly asked questions from our customers and
+    community
+    [url=https://www.hepsicase.com/blog/another-blog-post]https://www.hepsicase.com/blog/another-blog-post[/url]
+  lang: zh-CN
+  ip:
+    encrypted: NTNiNDhhOGQ4ODhhYjkyMzc0ZDE5OGY3NzRkNQ==
+    algorithm: aes-256-gcm
+    iv: 2ef85b48bbbf5a76f7526d77
+    version: "1"
+  spam:
+    score: 6.16
+    marked: true
+  status: rejected
