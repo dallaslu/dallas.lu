@@ -720,3 +720,30 @@
     score: 6.16
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7612f6e951060da97bc2e212aee693ed2afa5de5
+  author:
+    name: ylichnie kashpo_oyer
+    lang: en
+    email:
+      value:
+        encrypted: MDNhZWQ4ZmRhYWYwNjFiZjRhZDMxZWM0Yzc3M2E0ODc4MzI0OGZlYjFkNjc=
+        algorithm: aes-256-gcm
+        iv: 8b51470dd609e7e962ae46c9
+        version: "1"
+      hash:
+        sha256: 5236bbe8f5f2f2c738278799dbf1a31d44af1e9860721b897d46817655cd3764
+  published: 2025-08-25T17:48:00.116Z
+  content: кашпо для дачи на улицу [url=http://www.ulichnye-kashpo-kazan.ru]кашпо
+    для дачи на улицу[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: YzU5MDczYmRmMGRlOTdkNzIzZmQ2M2Y2OTU=
+    algorithm: aes-256-gcm
+    iv: 0e37f0172fe9a723882ee79d
+    version: "1"
+  spam:
+    score: 7.28
+    marked: true
+  status: rejected
