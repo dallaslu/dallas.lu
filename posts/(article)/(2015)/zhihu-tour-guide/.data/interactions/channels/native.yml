@@ -801,3 +801,30 @@
   spam:
     score: 2.79
   status: auditing
+- type: reply
+  channel: native
+  id: 877417ca690e5aed3cbbfd62512fe705971aa405
+  author:
+    name: NormanneW
+    lang: en
+    email:
+      value:
+        encrypted: Mjg5N2QxZWM3ZjJkNGZhNWEzYWQzMTE2NTM4Y2Q2ZmI=
+        algorithm: aes-256-gcm
+        iv: 4489fc52bd3f3f045524bf3c
+        version: "1"
+      hash:
+        sha256: b1ead12dbacd7af81125d6e83c51cf01b9c2773e811bf3024981fc858add2dcf
+  published: 2025-08-26T01:05:49.911Z
+  content: To withdraw bonus funds, you must meet the wagering requirements
+    [url=https://www.pearltrees.com/fenil13130/item731310497]https://www.pearltrees.com/fenil13130/item731310497[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MDhiODA2OTA5NmJjMWQ3NDIyMTZlNDgwMDQ2NA==
+    algorithm: aes-256-gcm
+    iv: 3671f362f247d383ba7da802
+    version: "1"
+  spam:
+    score: 6.33
+    marked: true
+  status: rejected
