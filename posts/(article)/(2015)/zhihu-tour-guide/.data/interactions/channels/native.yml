@@ -884,3 +884,30 @@
     score: 6.77
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 99dd37ffcf23add70f49c62485ee88b272a81339
+  author:
+    name: RandyTribe
+    lang: en
+    email:
+      value:
+        encrypted: MTRkYTY5MzRkODQ2MTFjOWU0YzQzODcwZGFlNGRhOGE=
+        algorithm: aes-256-gcm
+        iv: aa9cc93b0d9e84e23f95b359
+        version: "1"
+      hash:
+        sha256: 2208153b7e355a8ffb3da8671661b2fd49d64d4f2f36b2f1daba53cfb2ad3997
+  published: 2025-08-26T21:44:19.921Z
+  content: wide selection of games, generous bonuses for new and regular players.
+    Complete a quick <a href="https://onedayshop.ru">moneyx</a>
+  lang: zh-CN
+  ip:
+    encrypted: OWMzYjgzZWViOGE4M2FkYjY0OGY2MTIyM2U5Mg==
+    algorithm: aes-256-gcm
+    iv: 7b8085a219599941ee5f6b4d
+    version: "1"
+  spam:
+    score: 9.33
+    marked: true
+  status: rejected
