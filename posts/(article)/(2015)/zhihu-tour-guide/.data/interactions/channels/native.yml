@@ -911,3 +911,31 @@
     score: 9.33
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 783e5a98f1bbc9f67b4906d0ebd0bd01a53d851f
+  author:
+    name: ylichnie kashpo_wmEt
+    lang: en
+    email:
+      value:
+        encrypted: YjZiNGY2NWRjM2Q0NTIzZGM2MmVlY2NkYWNlZmUzOWZlM2EyMTVkYTBiMGU=
+        algorithm: aes-256-gcm
+        iv: f0bbc1dcd9e25ca25c997785
+        version: "1"
+      hash:
+        sha256: 0e749fb4adc62d078343d7e503a2f4c948c471e25ab2cc243a02bf78a96fb868
+  published: 2025-08-27T12:30:29.974Z
+  content: купить горшки для сада
+    [url=http://www.ulichnye-kashpo-kazan.ru]http://www.ulichnye-kashpo-kazan.ru[/url]
+    .
+  lang: zh-CN
+  ip:
+    encrypted: YzNmNDE2NGFiODI4NDk5ZmFhMDIxZTc0MjA=
+    algorithm: aes-256-gcm
+    iv: 375ad0ee336afcb54d10b94a
+    version: "1"
+  spam:
+    score: 8.16
+    marked: true
+  status: rejected
