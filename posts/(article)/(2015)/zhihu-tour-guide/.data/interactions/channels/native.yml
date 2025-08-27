@@ -967,3 +967,31 @@
     score: 9.63
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 534fc1cc25f0dbb32c54e83bee6522e74c7eba13
+  author:
+    name: pard_ocmt
+    lang: en
+    email:
+      value:
+        encrypted: YzYxOTkwNmMzMTlmZjFjNjcxNjQ2MmM3YWZmMGYxY2FjNjQ4OGE2N2RiNTRiNDE3NGE=
+        algorithm: aes-256-gcm
+        iv: 47ee4a90a670585c8c9ed7f8
+        version: "1"
+      hash:
+        sha256: 0b5b5f2218f628d96d731b8e8cd0c553b28b68ead796af812dbb567e27c3c335
+  published: 2025-08-27T23:07:01.312Z
+  content: накрутка подписчиков телеграм 5 минут канал
+    [url=https://vc.ru/telegram/1829636-nakrutka-podpischikov-telegram-besplatno-25-topovyh-servisov-dlya-nakrutki-v-2025-godu]накрутка
+    подписчиков телеграм 5 минут канал[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MzUyMWFlYjYyZDZlYjY2YzM3MTNjNTE1
+    algorithm: aes-256-gcm
+    iv: e9ab3582194e4184bec5f290
+    version: "1"
+  spam:
+    score: 9.25
+    marked: true
+  status: rejected
