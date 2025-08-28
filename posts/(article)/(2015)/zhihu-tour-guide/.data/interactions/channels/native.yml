@@ -1023,3 +1023,36 @@
     score: 7.63
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b64fb76643b745ef79d03c023fb2c028401bd05c
+  author:
+    name: toptelegram_nkmt
+    lang: en
+    email:
+      value:
+        encrypted: Njg2MmQ5ZDRhYzk5NjA4MWM0YTUxZDU5NGUyODAxYjMwZjRkMTAwZTFkZDczOTk2OGY=
+        algorithm: aes-256-gcm
+        iv: 4585704a7a27c92f578d85e7
+        version: "1"
+      hash:
+        sha256: e4b891b77af9ac8fad15f0e7f0ea17ed5b7b8bd831e297bb3f07f29563b38007
+  published: 2025-08-28T15:02:53.413Z
+  content: Многие задаются вопросом, как набрать подписчиков в Телеграм-канале
+    быстро и без больших затрат. Для этого собраны лучшие сервисы и пошаговые
+    инструкции, которые подойдут новичкам и опытным владельцам каналов. Важно
+    использовать только проверенные источники, чтобы подписчики были живыми и
+    активными.
+    [url=https://vc.ru/niksolovov/1439337-kak-nakrutit-podpischikov-v-telegram-besplatno-25-nadezhnyh-servisov-2025]https://vc.ru/niksolovov/1439337-kak-nakrutit-podpischikov-v-telegram-besplatno-25-nadezhnyh-servisov-2025[/url]
+    Здесь вы найдете свежую подборку топ-25 сервисов для накрутки подписчиков в
+    ТГ в 2025 году, которые реально работают и дают результат.
+  lang: zh-CN
+  ip:
+    encrypted: MThhMGQwNzMzYWQ2NTNmMDRkMTJjZWQ2
+    algorithm: aes-256-gcm
+    iv: 686b615e9b36479700f8564e
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
