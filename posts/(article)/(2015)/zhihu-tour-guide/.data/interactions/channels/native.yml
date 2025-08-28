@@ -1084,3 +1084,30 @@
     score: 9.6
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ac831424c6235ca6c54be4f5c0cc98af8ced3a39
+  author:
+    name: Chery car dealer_plSr
+    lang: en
+    email:
+      value:
+        encrypted: YzZjOTEwYTcwZGYyMjZkNzZjN2EwMWM4YmFmNmE3MzA0YTNkODllMDIxYzE=
+        algorithm: aes-256-gcm
+        iv: 37ae52d470b14425665bb955
+        version: "1"
+      hash:
+        sha256: e996afe8a4707597eaae84800f10a95917a445277a110d52c28076280b47851c
+  published: 2025-08-28T23:52:42.973Z
+  content: "[url=http://chery-russia.ru/]Чери цена официальный дилер[/url] - без
+    скрытых платежей."
+  lang: zh-CN
+  ip:
+    encrypted: OWJhOWYzYzk1MWFlMzkxYjlhNzNjNTkyNjk4OA==
+    algorithm: aes-256-gcm
+    iv: 235da170dbf464021724704e
+    version: "1"
+  spam:
+    score: 8.48
+    marked: true
+  status: rejected
