@@ -1111,3 +1111,30 @@
     score: 8.48
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e3b4cc8718caad784cd3502c73f1adaa4b166fed
+  author:
+    name: kashpo napolnoe _paOa
+    lang: en
+    email:
+      value:
+        encrypted: N2E1Njg2ODc2Y2RhZTk3MzYyMjFjNGZiMjYzZDk4MjE3YWUxMTRlMTU4YTU=
+        algorithm: aes-256-gcm
+        iv: 5d06f1d74858b9b8b79ee619
+        version: "1"
+      hash:
+        sha256: d82dcf2475c54b93dcbe5c00a9d39b329f2d72358395934e19a53a480f8d569a
+  published: 2025-08-29T10:53:06.203Z
+  content: кашпо напольное высокое [url=https://kashpo-napolnoe-moskva.ru/]кашпо
+    напольное высокое[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: NjBlMTY1OGM4YWU5NzA0NDI4NGFiZTZlYmM=
+    algorithm: aes-256-gcm
+    iv: d882c68e1ef76fe800ee134d
+    version: "1"
+  spam:
+    score: 8.76
+    marked: true
+  status: rejected
