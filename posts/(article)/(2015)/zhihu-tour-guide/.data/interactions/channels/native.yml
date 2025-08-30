@@ -1138,3 +1138,31 @@
     score: 8.76
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b48f0f6e5c9356a094a30a6f26c841a554d9cbe4
+  author:
+    name: RandyTribe
+    lang: en
+    email:
+      value:
+        encrypted: ODQ2Yzc1YTRmZWZlMDI3OGQ3ZjhmYTc2MjFmODkxNDU=
+        algorithm: aes-256-gcm
+        iv: 68218c18c69a733c29ab4a27
+        version: "1"
+      hash:
+        sha256: 03502b4428f11768616e2cfd62dcb7e668e99a194306aee248585fcfe02465ce
+  published: 2025-08-30T00:21:17.018Z
+  content: 'Situated in the medieval village of Eze <a
+    href="https://betonly.ru/stati/beton-na-granitnom-shhebne-nadyozhnaya-osnova-lyubogo-proekta.html">Бетон
+    на гранитном щебне: прочность и долговечность - Betonly.</a>'
+  lang: zh-CN
+  ip:
+    encrypted: MmEzNTQ3YjAzNzdjOTNjZmMzMjdkZmEyNmE0Nw==
+    algorithm: aes-256-gcm
+    iv: 712963fa10308f7898cb64a0
+    version: "1"
+  spam:
+    score: 8.53
+    marked: true
+  status: rejected
