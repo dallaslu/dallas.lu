@@ -31,3 +31,26 @@
     version: "1"
   spam:
     score: 3.23
+- type: reply
+  channel: native
+  id: e4a828cd203c1341a9b682d505c895f19553c803
+  author:
+    name: wu先生
+    lang: zh-CN
+    url: https://wuziya.com
+    email:
+      value:
+        encrypted: N2ZkMzQ0MzUyNGFhOGZkZWNlNjU4MTAyZTFlNDRlMmU=
+        algorithm: aes-256-gcm
+        iv: 47535965f3fc3818921aab30
+        version: "1"
+      hash:
+        sha256: 44a830f1733f4acca071dac524c256a7972853f976dfc57a8f9e706351fdfff7
+  published: 2025-11-03T11:57:17.479Z
+  content: 不知外国佬是否有这方面的困惑。
+  lang: zh-CN
+  ip:
+    encrypted: ZTNmODQ0OTBiNzdiZjQ4MDE4NGM0MzE5MDNhMjkwZDZiYTZiZDI3YTdiNmMwMWE2MWM3MTI2MWU2ZTgxNmE2NjViYjMxYzdmYWY1Y2I2
+    algorithm: aes-256-gcm
+    iv: 1072c81a138aac8d2cbcd792
+    version: "1"
