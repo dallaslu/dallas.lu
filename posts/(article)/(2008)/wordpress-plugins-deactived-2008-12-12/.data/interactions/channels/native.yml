@@ -85,3 +85,31 @@
     score: 5.27
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: f1ddb8aaca1f1e897c5d6e5c3ae7b832f53c8cc6
+  author:
+    name: pereplanirovka v nejilom pomeshenii_upen
+    lang: en
+    email:
+      value:
+        encrypted: NmVkZmM5Yzc4OTFmMjVhNGJhMmZjZmJjNmE2MTg5YjVhNDM4Zjc0YzBmNjFkYjJhYTRiNTJlOWFhZWU3
+        algorithm: aes-256-gcm
+        iv: cb2d25d6934502ab431fcb32
+        version: "1"
+      hash:
+        sha256: 977961029e689025c6174a608d328b663c637aa4ff418a6668173ea4f79db58c
+  published: 2025-11-13T19:45:39.348Z
+  content: перепланировка в нежилом помещении
+    [url=http://chesskomi.borda.ru/?1-3-0-00000060-000-0-0/]перепланировка в
+    нежилом помещении[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: M2IwNWIxMTQ3NmI5ZWNhZTQ0MjkxOWQwMDU=
+    algorithm: aes-256-gcm
+    iv: 38caae3cd626810571e04352
+    version: "1"
+  spam:
+    score: 8.97
+    marked: true
+  status: rejected
