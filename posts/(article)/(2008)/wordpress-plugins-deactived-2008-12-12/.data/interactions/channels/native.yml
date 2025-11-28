@@ -168,3 +168,49 @@
   spam:
     score: 3.42
   status: auditing
+- type: reply
+  channel: native
+  id: 46919dfae841c38948a44e8aeb82a686daf91039
+  author:
+    name: JameswealF
+    lang: en
+    email:
+      value:
+        encrypted: MzczZDJlMmJlYTgxMTZjNDcxZjZmM2Y1ZmM2MDk0OWVjNThjNWZkMDQ0YTViNzkxMmJiYw==
+        algorithm: aes-256-gcm
+        iv: 49045a0a2f942346cf2f096b
+        version: "1"
+      hash:
+        sha256: 03cf1ffaaa43c57bceab29d9095c152bd8dc634ddf4d647f4f86607141c37328
+  published: 2025-11-28T19:24:53.833Z
+  content: "Эффективное решение для коммерческих объектов — современная вентиляция
+    с рекуперацией тепла и профессиональной автоматикой. \r
+
+    \ \r
+
+    • Проектировка и инсталляция: надзор, автоматизация, обслуживание. \r
+
+    • Экономия до 70% тепла, свежий воздух и оптимальные условия. \r
+
+    • Полная техническая поддержка: СНиП, паспортизация, диспетчеризация. \r
+
+    • Приточная, вытяжная, промышленная, цеховая вентиляция. \r
+
+    \ \r
+
+    \ \r
+
+    Подробнее о
+    [url=https://gorodkirov.ru/news/pasportizaciya-ventilyacii-pochemu-etot-dok\
+    ument-obyazatelen-dlya-vashego-obekta-i-kak-ego-poluchit/]профессиональной
+    установке оборудования[/url] можно узнать из тематических материалов."
+  lang: zh-CN
+  ip:
+    encrypted: OGQ3MjUyOTU3ZmI1ZDE0YTRiNDhjZDJmOWEyNA==
+    algorithm: aes-256-gcm
+    iv: ba0ce6b6c38b41bb175453d7
+    version: "1"
+  spam:
+    score: 8.19
+    marked: true
+  status: rejected
