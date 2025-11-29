@@ -1,0 +1,23 @@
+- type: reply
+  channel: native
+  id: 59a16ca6292b7e0be18e0013e531d1c2efe0267c
+  author:
+    lang: en
+    email:
+      value:
+        encrypted: NDkyN2M5ZTdmMTMxN2VjNWI0YzNlZDEwYjliNDI1MWUyMGQwYTMyOTgwYmI5MjNk
+        algorithm: aes-256-gcm
+        iv: d05a6f74386a2b6ae42f6e35
+        version: "1"
+      hash:
+        sha256: 22a25c50f95d5fe3e92701744286615fe25c060dfce959ee1f7ffbf9a5a9476f
+  published: 2025-11-29T02:32:40.945Z
+  content: usbQPMwTidNwNeCSzhSsRsqs
+  lang: en
+  ip:
+    encrypted: NjYzOTJhZDIxMTRmNzMwZDQwMjFkZGQyNzYwMA==
+    algorithm: aes-256-gcm
+    iv: afb0b887836286ba92523ea1
+    version: "1"
+  spam:
+    score: 0.5
