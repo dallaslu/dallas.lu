@@ -61,3 +61,33 @@
     encrypted: YWY0Y2U1YWMyMWNiOGIzNDUyN2IwYmM1NGJjYg==
     algorithm: aes-256-gcm
     iv: 997a828d76b8318de453702f
+- type: reply
+  channel: native
+  id: fb75dfaad27782ff1d77b4c4a734610bc5576149
+  author:
+    name: JamesEvorm
+    lang: en
+    email:
+      value:
+        encrypted: YjViNTNmYjYxNzllMjUzZTUwNjg3ZmE2Mjc1NGM1OThiZmEyN2I1ZDVkMGQ2Mw==
+        algorithm: aes-256-gcm
+        iv: 9f5f57b21e84798edf42f4e2
+        version: "1"
+      hash:
+        sha256: 3237176df6c40871b90ea40156b20f48a5d2bef1922aa9734cf97142489d9183
+  published: 2025-12-07T03:48:43.298Z
+  content: " \r
+
+    кракен сайт ссылка \r
+
+    <a href=https://xn--krakn37-rt4c.com>ссылка на кракен</a> "
+  lang: zh-CN
+  ip:
+    encrypted: MjU5NmNmZTlhYmI5MTExMTEzNzkyODVhOTY=
+    algorithm: aes-256-gcm
+    iv: dd30544c02a63214887c4067
+    version: "1"
+  spam:
+    score: 7.08
+    marked: true
+  status: rejected
