@@ -126,3 +126,41 @@
     score: 4.75
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 4c031f272a0fcbcf90c983bfaa5750f4d3d73951
+  author:
+    name: JamesClusa
+    lang: en
+    email:
+      value:
+        encrypted: MTk3ZmQ1MzczMzc3ZWU3M2Y5YzJlNGU0MDcxM2YxZGIyM2M5YmY4ZmNhYzFhNmQ0Yjg=
+        algorithm: aes-256-gcm
+        iv: 810248f3261ee744376c2fb4
+        version: "1"
+      hash:
+        sha256: 52468e46c2a7ee22bc51725148af5e88aa2919a43dbbe7286cfef4cdc06db09f
+  published: 2025-12-10T23:38:30.929Z
+  content: "Here's the harsh truth: most septic companies just service tanks. They
+    are like temporary salesmen at a chainsaw convention. But Septic Solutions?
+    They are special. It all originated back in the beginning of the 2000s when
+    Art and his siblings—just kids hardly tall enough to shoulder a
+    shovel—helped install their family's septic system alongside a weathered
+    pro. Picture this: three kids knee-deep in Pennsylvania clay, learning how
+    soil porosity affects drainage while their friends played Xbox. \"We never
+    just dig holes,\" Art explained to me last winter, hot coffee cup in hand.
+    \"We discovered how soil whispers mysteries. A patch of cattails here?
+    That's Mother Nature yelling 'high water table.'\" \r
+
+    https://www.tumblr.com/septicsolutionsllc/801736577620508672/septic-solutio\
+    ns-llc"
+  lang: zh-CN
+  ip:
+    encrypted: MWFiOTA1ZjMyNTczYTJmNzZhOGM4MGE3OTM5ZGYz
+    algorithm: aes-256-gcm
+    iv: a5caba76f6f1d179074ab960
+    version: "1"
+  spam:
+    score: 4.81
+    marked: true
+  status: auditing
