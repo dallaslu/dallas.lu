@@ -91,3 +91,38 @@
     score: 7.08
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a596a29b0f9bffcc6244b663cba5eba6ed0d139e
+  author:
+    name: Josephsaf
+    lang: en
+    email:
+      value:
+        encrypted: NGMyOWFiNWE0ZTRkOTY1ZmVkYjZiMWRkYmMwNzhlZjQ2MTJmYTJkNGViZWY0NjRh
+        algorithm: aes-256-gcm
+        iv: bbb4eddc4eecf9bf252e6143
+        version: "1"
+      hash:
+        sha256: f68c9d3e58cb7d5b9de5062b0d77226e3f581fcc9bbe3d9efb1ca2e3fbb0cbe7
+  published: 2025-12-10T00:22:39.463Z
+  content: "Here's the ugly truth: the majority of HVAC failures take place
+    because someone skipped a step. Failed to calculate the load properly. Used
+    incorrect equipment. Miscalculated the insulation needs. We've fixed
+    countless of these messes. And each and every time, we file away another
+    lesson. Like in 2017, when we started adding smart thermostats to each
+    install. Why? Because Sarah, our master tech, got frustrated of watching
+    homeowners burn money on bad temperature settings. Now clients save 20-30%
+    yearly. \r
+
+    https://www.facebook.com/ProductAirandElectric"
+  lang: zh-CN
+  ip:
+    encrypted: NjlkY2NmZWQ2NmFiYzRmNTI1N2I3ODhjOWYzMWVi
+    algorithm: aes-256-gcm
+    iv: 807c6f4bbe1c94edbb04b755
+    version: "1"
+  spam:
+    score: 4.75
+    marked: true
+  status: auditing
