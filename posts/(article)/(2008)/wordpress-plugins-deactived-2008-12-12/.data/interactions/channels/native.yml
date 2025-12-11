@@ -239,3 +239,30 @@
   spam:
     score: 3.88
   status: auditing
+- type: reply
+  channel: native
+  id: 3d821a660934408d1946a8ab238c91674489ffb6
+  author:
+    name: vag servis spb_krmt
+    lang: en
+    email:
+      value:
+        encrypted: ZjNiNDgyMTEwZTkxMTgxZWVkMTZkZjdjMmI3MDg3MTEyNzAzNjMwYTJlMWMwNjc3ZmI2OTUxNzBjYWY4
+        algorithm: aes-256-gcm
+        iv: 7e314ee6b689b2e6be5838c3
+        version: "1"
+      hash:
+        sha256: 2b889a9772dcfe84f9f6d1c4dfdb5ecd8a25ddc91279d496b8125e8e62e7474a
+  published: 2025-12-11T22:00:48.769Z
+  content: автосервис vag спб [url=http://mirtesen.ru/people/585327604/]автосервис
+    vag спб[/url] .
+  lang: zh-CN
+  ip:
+    encrypted: MmQ4NGFlNDgyOGMwOTJkMmY5YTUwYzMzNWQ5MzQz
+    algorithm: aes-256-gcm
+    iv: 04009193811bdd6b0aeced3f
+    version: "1"
+  spam:
+    score: 9.12
+    marked: true
+  status: rejected
