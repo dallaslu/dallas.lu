@@ -164,3 +164,40 @@
     score: 4.81
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 2064cc60b1d6862ca50fb5d0d4828913b9b3b34f
+  author:
+    name: Johnnyimmef
+    lang: en
+    email:
+      value:
+        encrypted: ZmUzN2UyNzQwMzYwYzcxOTk5NjQ5ZGIzNTRmMTlhMWRlZDk0ZjY1MjQ0
+        algorithm: aes-256-gcm
+        iv: a0d30fedac5afc29a7eae90b
+        version: "1"
+      hash:
+        sha256: 6096660d72631dcf7df0557d6ffe15ab28d7035317c70a83c05cc984b6672939
+  published: 2025-12-14T13:00:34.282Z
+  content: "Let me share the dirty truth: the majority of septic companies just
+    pump tanks. They're like quick-fix salesmen at a disaster convention. But
+    Septic Solutions? They are unique. It all started back in the beginning of
+    the 2000s when Art and his brothers—just kids barely tall enough to shoulder
+    a shovel—helped install their family's septic system alongside a experienced
+    pro. Picture this: three youngsters waist-deep in Pennsylvania clay,
+    understanding how soil permeability affects drainage while their friends
+    played Xbox. \"We never just dig ditches,\" Art explained to me last winter,
+    hot coffee cup in hand. \"We learned how soil whispers secrets. A patch of
+    cattails here? That's Mother Nature yelling 'high water table.'\" \r
+
+    https://homegnome.com/blog/hvac/pros-cons-smart-thermostats/"
+  lang: zh-CN
+  ip:
+    encrypted: ZGIzNDIwYjcxNTQyYTNiZTE2NjJlYjI4N2EzM2Nk
+    algorithm: aes-256-gcm
+    iv: 301bd40e0c6d8b48520925c4
+    version: "1"
+  spam:
+    score: 4.73
+    marked: true
+  status: auditing
