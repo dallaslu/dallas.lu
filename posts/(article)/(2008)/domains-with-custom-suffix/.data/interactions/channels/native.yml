@@ -201,3 +201,40 @@
     score: 4.73
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: f7a615066a46905ae5725bcbb4ae094a95e9b5fd
+  author:
+    name: Oscarnug
+    lang: en
+    email:
+      value:
+        encrypted: MTM0ZThjNmVmZDYxYjA1MDIxNzc0NTNjMTdlNTc3NDI0YmYyNjM1OGE5Mjk2ZjJlNzM5ZA==
+        algorithm: aes-256-gcm
+        iv: 08b8ae9ac6db4b8754edddce
+        version: "1"
+      hash:
+        sha256: 47fa9672752d59a05aec29f9e010c7ddb0b1d4c49c38f556217aafc1a6aa9dde
+  published: 2025-12-15T00:48:09.694Z
+  content: "This is the ugly truth: most septic companies just maintain tanks.
+    They are like quick-fix salesmen at a chainsaw convention. But Septic
+    Solutions? They're unique. It all started back in the early 2000s when Art
+    and his family—just kids hardly tall enough to lift a shovel—aided install
+    their family's septic system alongside a weathered pro. Visualize this:
+    three kids waist-deep in Pennsylvania clay, understanding how soil
+    absorption affects drainage while their friends played Xbox. \"We did not
+    just dig trenches,\" Art told me last winter, warm coffee cup in hand. \"We
+    discovered how earth whispers secrets. A patch of wetland vegetation here?
+    That's Mother Nature screaming 'high water table.'\" \r
+
+    https://unsplash.com/@lynethggoj"
+  lang: zh-CN
+  ip:
+    encrypted: NGFhYmRkY2RlNDNmNWI5YzEwNWIyMzVlZTQ0N2Uw
+    algorithm: aes-256-gcm
+    iv: 1f6c07877b02b974ed485e12
+    version: "1"
+  spam:
+    score: 4.63
+    marked: true
+  status: auditing
