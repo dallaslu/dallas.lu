@@ -275,3 +275,40 @@
     score: 4.62
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 32d9ae43c4b91b54b0caa8f57f9981ae18035b01
+  author:
+    name: Oscarnug
+    lang: en
+    email:
+      value:
+        encrypted: ZTEyYTRhMDQ4ZTYxZjEwZGFkNWVjYzc4MmQ5N2I3NzBmNzg4Njk2ZThlMTk4NGY1MzJkYw==
+        algorithm: aes-256-gcm
+        iv: 4b2fbf65ecd05ecb83a6f65e
+        version: "1"
+      hash:
+        sha256: 47fa9672752d59a05aec29f9e010c7ddb0b1d4c49c38f556217aafc1a6aa9dde
+  published: 2025-12-15T22:07:34.755Z
+  content: "Let me share the dirty truth: the majority of septic companies just
+    maintain tanks. They act like band-aid salesmen at a demolition convention.
+    But Septic Solutions? They're special. It all started back in the early
+    2000s when Art and his siblings—just kids scarcely tall enough to lift a
+    shovel—aided install their family's septic system alongside a grizzled pro.
+    Imagine this: three pre-teens buried in Pennsylvania clay, learning how soil
+    permeability affects drainage while their buddies played Xbox. \"We did not
+    just dig ditches,\" Art told me last winter, hot coffee cup in hand. \"We
+    learned how soil whispers truths. A patch of wetland vegetation here? That's
+    Mother Nature shouting 'high water table.'\" \r
+
+    https://penzu.com/p/d3df3dbba377544f"
+  lang: zh-CN
+  ip:
+    encrypted: MzhjNjEzMjgwMWFjZmU5ZDI4MTNmZGIzYjAwYTAz
+    algorithm: aes-256-gcm
+    iv: 5bab0079e525ccc92b79454a
+    version: "1"
+  spam:
+    score: 4.64
+    marked: true
+  status: auditing
