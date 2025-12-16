@@ -349,3 +349,41 @@
     score: 4.63
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: ec468a58ae59e0163b0a1a95eb8ae438442cd8d1
+  author:
+    name: Oscarnug
+    lang: en
+    email:
+      value:
+        encrypted: YTA2OWJmZTdmNDI3ZTY0ZTgxNzFkN2E0Yjc3ZjZhMDBjNDMwOGJmMmZiNGY3YjljYmFhYQ==
+        algorithm: aes-256-gcm
+        iv: e68cbf06953c6dcf3a0e43d6
+        version: "1"
+      hash:
+        sha256: 47fa9672752d59a05aec29f9e010c7ddb0b1d4c49c38f556217aafc1a6aa9dde
+  published: 2025-12-16T19:47:00.012Z
+  content: "This is the ugly truth: most septic companies just service tanks. They
+    act like quick-fix salesmen at a disaster convention. But Septic Solutions?
+    They are unique. It all originated back in the beginning of the 2000s when
+    Art and his siblings—just kids hardly tall enough to lift a shovel—aided
+    install their family's septic system alongside a weathered pro. Imagine
+    this: three kids knee-deep in Pennsylvania clay, learning how soil
+    permeability affects drainage while their friends played Xbox. \"We didn't
+    just dig ditches,\" Art told me last winter, steaming coffee cup in hand.
+    \"We learned how soil whispers secrets. A patch of wetland vegetation here?
+    That's Mother Nature shouting 'high water table.'\" \r
+
+    https://caidenuswm389.cavandoragh.org/how-routine-inspections-improve-produ\
+    ct-air-heating-cooling-and-electric-services-in-marysville-wa"
+  lang: zh-CN
+  ip:
+    encrypted: YzhiNjk0NzkyZTY0MTg0ZDRiNGE5YWRmZDgyZGI4
+    algorithm: aes-256-gcm
+    iv: 84eb0510d04503228a799ac9
+    version: "1"
+  spam:
+    score: 4.98
+    marked: true
+  status: auditing
