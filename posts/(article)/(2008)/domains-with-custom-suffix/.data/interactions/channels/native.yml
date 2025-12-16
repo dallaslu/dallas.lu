@@ -312,3 +312,40 @@
     score: 4.64
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 14d96e5f382c87136b41f413f91e1499cff4326e
+  author:
+    name: Oscarnug
+    lang: en
+    email:
+      value:
+        encrypted: MjgyMjI0OTdiZTc1ODdhNGRiMDE0NjFkMjk5MDU0MGRlYTI0MzI3YTdlNGI4MDU0ZDk2ZQ==
+        algorithm: aes-256-gcm
+        iv: dffda66c4381513cbf2a3e17
+        version: "1"
+      hash:
+        sha256: 47fa9672752d59a05aec29f9e010c7ddb0b1d4c49c38f556217aafc1a6aa9dde
+  published: 2025-12-16T09:00:01.051Z
+  content: "Let me share the harsh truth: most septic companies just service
+    tanks. They act like band-aid salesmen at a disaster convention. But Septic
+    Solutions? They are special. It all originated back in the beginning of the
+    2000s when Art and his family—just kids hardly tall enough to carry a
+    shovel—helped install their family's septic system alongside a grizzled pro.
+    Imagine this: three pre-teens knee-deep in Pennsylvania clay, discovering
+    how soil absorption affects drainage while their peers played Xbox. \"We
+    never just dig holes,\" Art shared with me last winter, steaming coffee cup
+    in hand. \"We learned how earth whispers truths. A patch of marsh plants
+    here? That's Mother Nature screaming 'high water table.'\" \r
+
+    https://www.inkitt.com/galdurkmiz"
+  lang: zh-CN
+  ip:
+    encrypted: ODJkYTkzMjlkMzVlZjcxMDk1ZjE2MDFhYWUyNzc2
+    algorithm: aes-256-gcm
+    iv: a2428bff6d3102fa77eb8f0f
+    version: "1"
+  spam:
+    score: 4.63
+    marked: true
+  status: auditing
