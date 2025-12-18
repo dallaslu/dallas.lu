@@ -294,3 +294,31 @@
     score: 6.62
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 653c89cd4f2f2c40b192d1631ba36ecef1d61d0d
+  author:
+    name: kypit sheben  _gyol
+    lang: en
+    email:
+      value:
+        encrypted: OWY3ZWI2ZDM1NzdhNjZhNDFiYjFlNmVjZWJmYmExM2MyNDlmOGY1YWYyOWM4ZWVlY2NhMTA1NWE1ODFj
+        algorithm: aes-256-gcm
+        iv: 3bac87c6b5b85018e85404dc
+        version: "1"
+      hash:
+        sha256: 77e46380cb69f1a96c645142b5d1393c7d08f4dc7536e2a854a79e5ad28771fb
+  published: 2025-12-18T17:40:07.713Z
+  content: купить строительный
+    песок   [url=http://www.www.bnkomi.ru/data/relize/174042/]купить
+    строительный песок  [/url] .
+  lang: zh-CN
+  ip:
+    encrypted: YzBlZWE4YTgwZjM0NmI3Y2M0M2I3Mw==
+    algorithm: aes-256-gcm
+    iv: 80736f9020651f6a17fa523e
+    version: "1"
+  spam:
+    score: 7.35
+    marked: true
+  status: rejected
