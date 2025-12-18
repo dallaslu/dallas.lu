@@ -266,3 +266,31 @@
     score: 9.12
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 86de7aa41265b9ea451154a26076bfd55d6a1372
+  author:
+    name: vivoz mysora  _pqPa
+    lang: en
+    email:
+      value:
+        encrypted: ZGE0NjRkMjc3N2VlOTRmZGIwNTc1YWE4OTgxYjc2NTFjOGY3NzViMmZhOWJkZGIyMTE1YjQzMzE1NGJi
+        algorithm: aes-256-gcm
+        iv: 1a098d84be41edd151876b82
+        version: "1"
+      hash:
+        sha256: 70ac63c32f935091fe841f39e9ce812eaf607ce1567ae53c5d4ca55129732ba7
+  published: 2025-12-18T13:55:59.521Z
+  content: вывоз мусора в
+    СПб   [url=http://unews.pro/news/133692//]http://unews.pro/news/133692//[/url]
+    .
+  lang: zh-CN
+  ip:
+    encrypted: MDk1YTg1OGUwYWY4MTUzNTQ5M2Y0MDQyNWUyZjQ3
+    algorithm: aes-256-gcm
+    iv: 7ec39297c648201d594395e9
+    version: "1"
+  spam:
+    score: 6.62
+    marked: true
+  status: rejected
