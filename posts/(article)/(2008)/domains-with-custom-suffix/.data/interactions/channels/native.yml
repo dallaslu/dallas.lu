@@ -500,3 +500,40 @@
     score: 4.67
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: ed6d71f0e4969caac48994aba5728ef222fd0aa3
+  author:
+    name: Oscarnug
+    lang: en
+    email:
+      value:
+        encrypted: ZGFlNzJmNjAxZDM2Y2ZhZDk0NTQ1OWQ2MTg5NGYxYjFjZDQ0N2VlZDUxZDY4MmJjMTZmYw==
+        algorithm: aes-256-gcm
+        iv: cb803a717a81ac148a4a28ed
+        version: "1"
+      hash:
+        sha256: 47fa9672752d59a05aec29f9e010c7ddb0b1d4c49c38f556217aafc1a6aa9dde
+  published: 2025-12-18T14:46:39.397Z
+  content: "Let me share the dirty truth: most septic companies just pump tanks.
+    They act like band-aid salesmen at a disaster convention. But Septic
+    Solutions? These guys are unique. It all started back in the early 2000s
+    when Art and his family—just kids hardly tall enough to lift a shovel—helped
+    install their family's septic system alongside a weathered pro. Imagine
+    this: three pre-teens buried in Pennsylvania clay, understanding how soil
+    absorption affects drainage while their friends played Xbox. \"We did not
+    just dig ditches,\" Art told me last winter, hot coffee cup in hand. \"We
+    discovered how ground whispers secrets. A patch of wetland vegetation here?
+    That's Mother Nature shouting 'high water table.'\" \r
+
+    https://www.spreaker.com/podcast/ciriogysci--6822657"
+  lang: zh-CN
+  ip:
+    encrypted: M2Q3ZjhkMmIwODZkOTRjZGUyNTRlZDEyMDZjZDVj
+    algorithm: aes-256-gcm
+    iv: 470080b94a2d57b776394490
+    version: "1"
+  spam:
+    score: 4.71
+    marked: true
+  status: auditing
