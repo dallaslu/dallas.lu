@@ -462,3 +462,41 @@
     score: 4.61
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: aa66a1bd4afdf85f81ea9551b7c221e18c3cb820
+  author:
+    name: Oscarnug
+    lang: en
+    email:
+      value:
+        encrypted: MDdjOTQ1NmExNGJiYWNjMmVlOTQ2YmQ5NTIzMmVhYjFiMTA5YzgyMDNmMTcyN2ZmZWEwNg==
+        algorithm: aes-256-gcm
+        iv: 5493f29ae5f22076d3030a42
+        version: "1"
+      hash:
+        sha256: 47fa9672752d59a05aec29f9e010c7ddb0b1d4c49c38f556217aafc1a6aa9dde
+  published: 2025-12-18T04:06:57.335Z
+  content: "Here's the harsh truth: nearly all septic companies just service
+    tanks. They're like band-aid salesmen at a chainsaw convention. But Septic
+    Solutions? They are different. It all began back in the beginning of the
+    2000s when Art and his brothers—just kids scarcely tall enough to shoulder a
+    shovel—assisted install their family's septic system alongside a weathered
+    pro. Visualize this: three kids knee-deep in Pennsylvania clay,
+    understanding how soil porosity affects drainage while their buddies played
+    Xbox. \"We didn't just dig ditches,\" Art told me last winter, hot coffee
+    cup in hand. \"We discovered how earth whispers mysteries. A patch of
+    wetland vegetation here? That's Mother Nature shouting 'high water table.'\"
+    \r
+
+    https://www.mapleprimes.com/users/belisacdcy"
+  lang: zh-CN
+  ip:
+    encrypted: ZWZkYjJmOThhZjJmYTU2MDFkZDY3NmIyZjNmZDgy
+    algorithm: aes-256-gcm
+    iv: 55b5dbcc60ea8dc5a409f85b
+    version: "1"
+  spam:
+    score: 4.67
+    marked: true
+  status: auditing
