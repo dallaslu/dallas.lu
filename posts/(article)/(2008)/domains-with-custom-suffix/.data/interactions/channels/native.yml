@@ -612,3 +612,41 @@
     score: 4.62
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 84220af9d7e636c4eda52f9fb9c78652ebfbd931
+  author:
+    name: Oscarnug
+    lang: en
+    email:
+      value:
+        encrypted: ZmRhOTE5YTEwZWFkMTgyYmIzZWFkNzJmMDQyYWFkNWRiMjJhOTA0OGQ1OTRhZWIzOTEwZg==
+        algorithm: aes-256-gcm
+        iv: 3ca31e2287bc7586605c2885
+        version: "1"
+      hash:
+        sha256: 47fa9672752d59a05aec29f9e010c7ddb0b1d4c49c38f556217aafc1a6aa9dde
+  published: 2025-12-19T22:38:29.849Z
+  content: "Let me share the dirty truth: the majority of septic companies just
+    maintain tanks. They are like band-aid salesmen at a disaster convention.
+    But Septic Solutions? They're special. It all began back in the early 2000s
+    when Art and his family—just kids barely tall enough to shoulder a
+    shovel—assisted install their family's septic system alongside a weathered
+    pro. Picture this: three youngsters buried in Pennsylvania clay, learning
+    how soil porosity affects drainage while their peers played Xbox. \"We never
+    just dig holes,\" Art told me last winter, steaming coffee cup in hand. \"We
+    learned how soil whispers mysteries. A patch of wetland vegetation here?
+    That's Mother Nature yelling 'high water table.'\" \r
+
+    https://marionwsr911.theburnward.com/how-furnace-air-filter-maintenance-sup\
+    ports-allergy-friendly-homes"
+  lang: zh-CN
+  ip:
+    encrypted: OGQ3NjA3OWQwZjA1YzkwYmFiYTE3NzhhNGVjZDkx
+    algorithm: aes-256-gcm
+    iv: 7b8fa4d285610842ec6fac7f
+    version: "1"
+  spam:
+    score: 4.88
+    marked: true
+  status: auditing
