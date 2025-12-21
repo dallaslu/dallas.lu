@@ -350,3 +350,31 @@
     score: 7.12
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 6e7b3a50e5afe99e2f16122118de95ca3b64d161
+  author:
+    name: move to Russia_xjer
+    lang: en
+    email:
+      value:
+        encrypted: OTkxNDNiZTE3MGNkNTMwYTRlMmVhMjhjYjlkMjZiNTNkMWY2YzdmN2UxZTY2NTE0MTcyZjRmNGZmNjFl
+        algorithm: aes-256-gcm
+        iv: 12b51773907baba4723d998b
+        version: "1"
+      hash:
+        sha256: 03dd14920160c04a735cd2b9db7765abb93401ffa1d3cd01654487b11b76da11
+  published: 2025-12-21T22:51:40.262Z
+  content: Moving to Russia
+    [url=https://cere-india.org/art/russian-winters-complete-cold-weather-survival-guide-for-expats-expert-tips.html/]https://cere-india.org/art/russian-winters-complete-cold-weather-survival-guide-for-expats-expert-tips.html/[/url]
+    .
+  lang: zh-CN
+  ip:
+    encrypted: MmUxNTNiNWRkYTE1OTQyYTM1ZTJkY2NlZjY1Mw==
+    algorithm: aes-256-gcm
+    iv: c0633639cc75fde519270bbc
+    version: "1"
+  spam:
+    score: 7.21
+    marked: true
+  status: rejected
