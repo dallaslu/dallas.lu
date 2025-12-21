@@ -322,3 +322,31 @@
     score: 7.35
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 299e7cabdc8e2656fa815b7fe149c316282d2809
+  author:
+    name: Russian Golden Visa_qqmn
+    lang: en
+    email:
+      value:
+        encrypted: NzdhMzFkNDMyYWFjNjA1MDNjNDRmZDFkNjVjYzA0NWYzZjJiOGYyOTZlYWZiNTE2MzhlODE2NTE4YmYz
+        algorithm: aes-256-gcm
+        iv: 0f3f097b5b3633f35dfc70ca
+        version: "1"
+      hash:
+        sha256: 5d7a7b74d60ebcc8f84ba9c5de6632600dd4b7c7af2f96ee2857cb29966266eb
+  published: 2025-12-21T18:35:23.723Z
+  content: Russian Shared Values Visa
+    [url=https://sociedadpoliticaspublicas.cl/pages/shared-values-visa-application-insights-journey-to-approval-2025.html]https://sociedadpoliticaspublicas.cl/pages/shared-values-visa-application-insights-journey-to-approval-2025.html[/url]
+    .
+  lang: zh-CN
+  ip:
+    encrypted: ZTQyNmYxOGFiZDkxMmU4Y2U1Mzk2OGU4NTdkNA==
+    algorithm: aes-256-gcm
+    iv: 94e98d5e722431cb78a01103
+    version: "1"
+  spam:
+    score: 7.12
+    marked: true
+  status: rejected
