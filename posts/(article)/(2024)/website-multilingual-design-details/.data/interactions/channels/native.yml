@@ -61,3 +61,26 @@
     version: "1"
   spam:
     score: 1.15
+- type: reply
+  channel: native
+  id: 8d68f2df18b0a4022d70d06932c6be51df938b94
+  author:
+    lang: en
+    email:
+      value:
+        encrypted: MmYxZGUxOTUwZjk5OWJmNWE0MTFjODcwYmQ5MDQ5ZDkzOTM4MGZhNTE5
+        algorithm: aes-256-gcm
+        iv: 473a95659cabcc62338a99f2
+        version: "1"
+      hash:
+        sha256: 15502648120dcc1918e98f16e033f5d2e91d3187200c27e8d0413f2fed756efe
+  published: 2025-12-27T08:34:29.025Z
+  content: WDVvhuHUGPtDJqrTUPnwNF
+  lang: en
+  ip:
+    encrypted: MGZhZjkwNmJhNTAxMGFjYjk1YmQzOTU0YmEyZQ==
+    algorithm: aes-256-gcm
+    iv: 38957d81329d44cc53c035f3
+    version: "1"
+  spam:
+    score: 0.5
