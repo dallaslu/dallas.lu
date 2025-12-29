@@ -789,3 +789,55 @@
     score: 4.59
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 9a9be67a31004d59f192354e35411d304e2a7cf3
+  author:
+    name: Brentjum
+    lang: en
+    email:
+      value:
+        encrypted: OTU0MjExM2RhNjU3YWY2NGIxZTQ5ZTg1NmRmMDJjYjViNTdkMjhjZWJiNGRkZTdkMWU=
+        algorithm: aes-256-gcm
+        iv: ac3a16c3797e550c78521573
+        version: "1"
+      hash:
+        sha256: 1579ff14b007cb1bf89fa1381ca8d4e2cb9b7567ef9796117119b8d5cd3c9a34
+  published: 2025-12-29T20:31:02.305Z
+  content: "I need to share with you something the majority of septic companies
+    won't: there are two categories of people in this reality. Those who assume
+    septic systems are just \"buried containers for waste,\" and those that have
+    had raw sewage gurgling into their yard at midnight. I discovered this
+    distinction the difficult way in 2005—knee-deep in muck, freezing in a
+    Washington rainstorm, as my siblings and I assisted a veteran installer
+    repair our family's collapsed system. I was a teenager. My hands ached. My
+    pants were destroyed. But that moment, something crystallized: This ain't
+    just dirt work. It's folks' lives that we're safeguarding. \r
+
+    Let me share the harsh truth: the majority of septic companies just maintain
+    tanks. They are like temporary salesmen at a chainsaw convention. But Septic
+    Solutions? They are special. It all began back in the beginning of the 2000s
+    when Art and his brothers—just kids scarcely tall enough to lift a
+    shovel—aided install their family's septic system alongside a grizzled pro.
+    Imagine this: three pre-teens waist-deep in Pennsylvania clay, learning how
+    soil absorption affects drainage while their buddies played Xbox. \"We did
+    not just dig ditches,\" Art shared with me last winter, warm coffee cup in
+    hand. \"We learned how soil whispers mysteries. A patch of wetland
+    vegetation here? That's Mother Nature shouting 'high water table.'\" \r
+
+    \ \r
+
+    \ \r
+
+    https://paxtonifuc736.almoheet-travel.com/how-workforce-training-can-direct\
+    ly-improve-ecosystem-health\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: ZTEzZGE0NjE1ZDU4NGI0NDI5MjgwOGQx
+    algorithm: aes-256-gcm
+    iv: 9e09ab1612cafda01bcdc0a5
+    version: "1"
+  spam:
+    score: 4.71
+    marked: true
+  status: auditing
