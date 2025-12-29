@@ -687,3 +687,55 @@
     score: 4.64
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 6ec843626e175b855f24ccc81b639f54fcb15707
+  author:
+    name: Brentjum
+    lang: en
+    email:
+      value:
+        encrypted: YWZkYTgyNDY5NzM2NjQzODA1N2ZmYmI0ZjA5NjNhY2YyNDRjNDg1Y2Y5NGM3NzVkZTA=
+        algorithm: aes-256-gcm
+        iv: f3412e72e2157848ad948cbd
+        version: "1"
+      hash:
+        sha256: 1579ff14b007cb1bf89fa1381ca8d4e2cb9b7567ef9796117119b8d5cd3c9a34
+  published: 2025-12-29T00:39:20.454Z
+  content: "I need to share with you something the majority of septic companies
+    won't: there are two types of people in this reality. Those who assume
+    septic systems are simply \"buried containers for waste,\" and those who
+    have had raw sewage gurgling into their backyard at 2 AM. I understood this
+    distinction the difficult way in 2005—standing in muck, shivering in a
+    Washington deluge, as my family and I assisted a veteran installer repair
+    our family's collapsed system. I was a teenager. My hands blistered. My
+    jeans were wrecked. But that moment, something changed: This ain't just dirt
+    work. It's people's lives that we're preserving. \r
+
+    This is the harsh truth: the majority of septic companies just pump tanks.
+    They're like band-aid salesmen at a demolition convention. But Septic
+    Solutions? They are unique. It all started back in the early 2000s when Art
+    and his family—just kids barely tall enough to lift a shovel—assisted
+    install their family's septic system alongside a grizzled pro. Visualize
+    this: three youngsters waist-deep in Pennsylvania clay, discovering how soil
+    absorption affects drainage while their friends played Xbox. \"We never just
+    dig holes,\" Art shared with me last winter, warm coffee cup in hand. \"We
+    discovered how soil whispers mysteries. A patch of cattails here? That's
+    Mother Nature shouting 'high water table.'\" \r
+
+    \ \r
+
+    \ \r
+
+    https://kameronatcw293.theburnward.com/what-homebuyers-should-know-about-se\
+    ptic-certifications-before-purchasing-property\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: ZDQxNDlkZDBlZWRkNzEzYmI5YjBmNzEy
+    algorithm: aes-256-gcm
+    iv: 7718811f7dc4acaa27c6290b
+    version: "1"
+  spam:
+    score: 4.75
+    marked: true
+  status: auditing
