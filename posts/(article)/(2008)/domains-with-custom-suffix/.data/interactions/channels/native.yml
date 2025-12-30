@@ -891,3 +891,54 @@
     score: 4.67
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: be4da3d51265777021623784bb584621546b9958
+  author:
+    name: Brentjum
+    lang: en
+    email:
+      value:
+        encrypted: NTI0OTIxNzliZmFiZmZhMzc0MDIxOWEzNTg2OWE4ZmM1YzJkMTI4YzIxNzZmMzViMGI=
+        algorithm: aes-256-gcm
+        iv: 8500eb1b6142caabcff47dcc
+        version: "1"
+      hash:
+        sha256: 1579ff14b007cb1bf89fa1381ca8d4e2cb9b7567ef9796117119b8d5cd3c9a34
+  published: 2025-12-30T13:09:33.966Z
+  content: "I need to tell you something the majority of septic companies will
+    not: there are two categories of people in this reality. Those who assume
+    septic systems are simply \"buried containers for waste,\" and those who
+    have had raw sewage bubbling into their yard at midnight. I learned this
+    reality the tough way in 2005—waist-deep in sludge, trembling in a
+    Washington rainstorm, as my brothers and I helped a weathered installer
+    restore our family's broken system. I was fourteen. My hands ached. My
+    clothes were ruined. But that moment, something clicked: This isn't just
+    digging. It's folks' lives we're safeguarding. \r
+
+    This is the harsh truth: most septic companies just pump tanks. They are
+    like band-aid salesmen at a demolition convention. But Septic Solutions?
+    These guys are special. It all started back in the beginning of the 2000s
+    when Art and his family—just kids barely tall enough to lift a shovel—aided
+    install their family's septic system alongside a weathered pro. Visualize
+    this: three kids buried in Pennsylvania clay, discovering how soil porosity
+    affects drainage while their peers played Xbox. \"We didn't just dig
+    trenches,\" Art shared with me last winter, steaming coffee cup in hand.
+    \"We learned how earth whispers mysteries. A patch of cattails here? That's
+    Mother Nature shouting 'high water table.'\" \r
+
+    \ \r
+
+    \ \r
+
+    https://myanimelist.net/profile/blandahtfz\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: YmI3OWYxY2NkOGQ4NGE4OWUwNzI4ZWUz
+    algorithm: aes-256-gcm
+    iv: 49da5564d52e960af3f0f596
+    version: "1"
+  spam:
+    score: 4.59
+    marked: true
+  status: auditing
