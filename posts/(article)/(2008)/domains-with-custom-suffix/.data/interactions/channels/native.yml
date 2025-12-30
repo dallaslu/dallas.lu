@@ -942,3 +942,52 @@
     score: 4.59
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 64be46adca8231ee7b02b3447546155711c8b31e
+  author:
+    name: HowardRum
+    lang: en
+    email:
+      value:
+        encrypted: NTVhNDYzNTI2NDYzZWVlMzI2Nzk3NWQ2NjU2Yjk0N2U5YWQwMTYyODg2ZWU2Mw==
+        algorithm: aes-256-gcm
+        iv: 354544f2d18a4f180271a9d9
+        version: "1"
+      hash:
+        sha256: ee38fbe0072cedefbd1e929046ae5f37cee58750e9259c2cc75c22ece493afbf
+  published: 2025-12-30T22:37:15.457Z
+  content: "Let me tell you something the majority of septic companies refuse to:
+    there are two types of people in this life. Those who believe septic systems
+    are just \"underground boxes for waste,\" and those that have had raw sewage
+    bubbling into their property at 2 AM. I learned this distinction the
+    difficult way in 2005—waist-deep in mud, trembling in a Washington downpour,
+    as my family and I helped a veteran installer repair our family's collapsed
+    system. I was a teenager. My hands ached. My clothes were ruined. But that
+    evening, something crystallized: This is not just manual labor. It's
+    people's lives that we're protecting. \r
+
+    This is the ugly truth: most septic companies just service tanks. They are
+    like temporary salesmen at a chainsaw convention. But Septic Solutions?
+    They're unique. It all began back in the early 2000s when Art and his
+    family—just kids scarcely tall enough to lift a shovel—assisted install
+    their family's septic system alongside a experienced pro. Visualize this:
+    three youngsters knee-deep in Pennsylvania clay, understanding how soil
+    permeability affects drainage while their peers played Xbox. \"We did not
+    just dig ditches,\" Art explained to me last winter, steaming coffee cup in
+    hand. \"We understood how ground whispers mysteries. A patch of cattails
+    here? That's Mother Nature yelling 'high water table.'\" \r
+
+    \ \r
+
+    https://draft.blogger.com/profile/05665025747632200505\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: OTY1ODRjY2M4YzU4ZDZhOWRiNmVjZDQy
+    algorithm: aes-256-gcm
+    iv: 944ff122b993f87708d18799
+    version: "1"
+  spam:
+    score: 4.62
+    marked: true
+  status: auditing
