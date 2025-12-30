@@ -841,3 +841,53 @@
     score: 4.71
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 9cbee82b5e788d7e0396fd871ebb0bf1b39454cd
+  author:
+    name: HowardRum
+    lang: en
+    email:
+      value:
+        encrypted: ZmZhNWZiMWRlM2UyNzZmNmJmODI3NGY4N2Q4NTQyZGY5YjJhYjc0OTNjZjUwMA==
+        algorithm: aes-256-gcm
+        iv: 3a96ab39b70a1366808e5eff
+        version: "1"
+      hash:
+        sha256: ee38fbe0072cedefbd1e929046ae5f37cee58750e9259c2cc75c22ece493afbf
+  published: 2025-12-30T05:56:06.826Z
+  content: "Allow me to tell you something the majority of septic companies refuse
+    to: there are two types of people in this life. Those who think septic
+    systems are merely \"subterranean tanks for waste,\" and those who have had
+    raw sewage gurgling into their yard at the dead of night. I learned this
+    distinction the difficult way in 2005—standing in sludge, trembling in a
+    Washington downpour, as my brothers and I helped a veteran installer fix our
+    family's failed system. I was a teenager. My hands blistered. My clothes
+    were destroyed. But that evening, something clicked: This isn't just dirt
+    work. It's folks' lives we are preserving. \r
+
+    This is the dirty truth: most septic companies just maintain tanks. They act
+    like temporary salesmen at a disaster convention. But Septic Solutions? They
+    are unique. It all began back in the beginning of the 2000s when Art and his
+    siblings—just kids hardly tall enough to shoulder a shovel—assisted install
+    their family's septic system alongside a weathered pro. Imagine this: three
+    youngsters buried in Pennsylvania clay, learning how soil permeability
+    affects drainage while their friends played Xbox. \"We didn't just dig
+    ditches,\" Art told me last winter, warm coffee cup in hand. \"We learned
+    how ground whispers secrets. A patch of cattails here? That's Mother Nature
+    screaming 'high water table.'\" \r
+
+    \ \r
+
+    https://openlibrary.org/people/multi_site/lists/OL315783L/Septic_Solutions_\
+    LLC\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: ZjkzMjExMzRlYmFjMjQwODBiYTE0MmI4
+    algorithm: aes-256-gcm
+    iv: 6f9eebadcdd0f4325e298c4b
+    version: "1"
+  spam:
+    score: 4.67
+    marked: true
+  status: auditing
