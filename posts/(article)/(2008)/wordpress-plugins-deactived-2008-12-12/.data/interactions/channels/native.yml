@@ -378,3 +378,31 @@
     score: 7.21
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e9111fb3c87ee457b8963510d29fbfc3a58ce5df
+  author:
+    name: solnechnaya energiya_ybkn
+    lang: en
+    email:
+      value:
+        encrypted: YjNkY2I2NTRkNjliMDIzYmVkMTdjNDY1NWRhNWRmZGFhNWU5ZjMzODdhZTY4NmZhODNlNjBmMzVjZDYx
+        algorithm: aes-256-gcm
+        iv: e0051893180dc3a363a604e2
+        version: "1"
+      hash:
+        sha256: 6b95a8d42ce981387c79e6a74e5d4736d5a2a2cc47f2c68ad9b036b3865df078
+  published: 2025-12-30T03:13:19.118Z
+  content: солнечная энергия
+    [url=https://astrakhan.net/obshhestvo/solnechnaya-energetika-budushhee-uzhe-zdes]https://astrakhan.net/obshhestvo/solnechnaya-energetika-budushhee-uzhe-zdes[/url]
+    .
+  lang: zh-CN
+  ip:
+    encrypted: MzA0YTFiYzllMTAyNDUxNzIyNzZiNjM5MDI=
+    algorithm: aes-256-gcm
+    iv: bba1c3175c9db1865570d472
+    version: "1"
+  spam:
+    score: 7.09
+    marked: true
+  status: rejected
