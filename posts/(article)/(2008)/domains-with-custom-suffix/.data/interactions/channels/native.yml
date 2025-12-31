@@ -1042,3 +1042,53 @@
     score: 4.57
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 996a84c7f48eccb3974d99709d1cec86f446ca59
+  author:
+    name: HowardRum
+    lang: en
+    email:
+      value:
+        encrypted: MGY5YWU2NGY4MzEwYWUwNmY1ZDE2ZWU0OGRkODEwNmI3Y2YxYTA5ZTZiZmEzNQ==
+        algorithm: aes-256-gcm
+        iv: 75708a7c1784f82e8db19cb2
+        version: "1"
+      hash:
+        sha256: ee38fbe0072cedefbd1e929046ae5f37cee58750e9259c2cc75c22ece493afbf
+  published: 2025-12-31T15:32:19.363Z
+  content: "Let me share with you something the majority of septic companies
+    refuse to: there are two categories of people in this world. Those who
+    believe septic systems are simply \"subterranean tanks for waste,\" and
+    those that have had raw sewage bubbling into their yard at midnight. I
+    learned this difference the hard way in 2005—standing in mud, shivering in a
+    Washington downpour, as my family and I aided a veteran installer restore
+    our family's collapsed system. I was fourteen. My hands ached. My clothes
+    were ruined. But that evening, something crystallized: This is not just dirt
+    work. It's folks' lives we're preserving. \r
+
+    This is the dirty truth: most septic companies just service tanks. They act
+    like quick-fix salesmen at a chainsaw convention. But Septic Solutions?
+    They're different. It all started back in the beginning of the 2000s when
+    Art and his brothers—just kids hardly tall enough to lift a shovel—helped
+    install their family's septic system alongside a experienced pro. Visualize
+    this: three youngsters buried in Pennsylvania clay, learning how soil
+    absorption affects drainage while their buddies played Xbox. \"We never just
+    dig holes,\" Art explained to me last winter, steaming coffee cup in hand.
+    \"We understood how earth whispers mysteries. A patch of cattails here?
+    That's Mother Nature yelling 'high water table.'\" \r
+
+    \ \r
+
+    https://us.enrollbusiness.com/BusinessProfile/7656001/Septic-Solutions-LLC-\
+    Arlington-WA-98223/Home\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: ODVkM2FlMGI2ZDAyZDk1MGY4MmNmOWI0
+    algorithm: aes-256-gcm
+    iv: a0d08ab8c3e0cc37144749bf
+    version: "1"
+  spam:
+    score: 4.71
+    marked: true
+  status: auditing
