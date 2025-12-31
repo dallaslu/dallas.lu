@@ -1092,3 +1092,54 @@
     score: 4.71
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: fb63816411fe67085aaeef849d0463dd9b8f73ff
+  author:
+    name: Brentjum
+    lang: en
+    email:
+      value:
+        encrypted: NDM4MTE3OGM2OGM4OTQ0NzcwYzllNmFiZGM5OGRiYjU4ZTI0MTRhOTNkNjgwMDQwMmE=
+        algorithm: aes-256-gcm
+        iv: 413eee2db07cd4e780ee2b89
+        version: "1"
+      hash:
+        sha256: 1579ff14b007cb1bf89fa1381ca8d4e2cb9b7567ef9796117119b8d5cd3c9a34
+  published: 2025-12-31T23:10:16.661Z
+  content: "I need to tell you something most septic companies won't: there are
+    two types of people in this world. Those who believe septic systems are just
+    \"underground boxes for waste,\" and those that have had raw sewage gurgling
+    into their property at the dead of night. I discovered this difference the
+    difficult way in 2005—knee-deep in sludge, trembling in a Washington deluge,
+    as my brothers and I aided a veteran installer fix our family's broken
+    system. I was fourteen. My hands ached. My pants were destroyed. But that
+    night, something changed: This is not just manual labor. It's people's lives
+    that we're preserving. \r
+
+    Let me share the ugly truth: nearly all septic companies just service tanks.
+    They act like quick-fix salesmen at a chainsaw convention. But Septic
+    Solutions? They're unique. It all began back in the beginning of the 2000s
+    when Art and his family—just kids scarcely tall enough to carry a
+    shovel—assisted install their family's septic system alongside a grizzled
+    pro. Imagine this: three kids buried in Pennsylvania clay, discovering how
+    soil absorption affects drainage while their buddies played Xbox. \"We never
+    just dig trenches,\" Art shared with me last winter, steaming coffee cup in
+    hand. \"We learned how soil whispers truths. A patch of wetland vegetation
+    here? That's Mother Nature screaming 'high water table.'\" \r
+
+    \ \r
+
+    \ \r
+
+    https://giphy.com/channel/erforeuwmq\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: ZDk1ODNkNjU4YTU4OGRiYTE5ZTY4YzU1
+    algorithm: aes-256-gcm
+    iv: 49091c3d596af4a632d36b1d
+    version: "1"
+  spam:
+    score: 4.58
+    marked: true
+  status: auditing
