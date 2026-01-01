@@ -1143,3 +1143,55 @@
     score: 4.58
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 661cd5de88e9d18f65d2061bdf4091395296f654
+  author:
+    name: Brentjum
+    lang: en
+    email:
+      value:
+        encrypted: OTQ1MGRhZWM4MDVlZmFhYjMzNjFlMmU2YzQ0ZTY0ZjdiODliYjllNjIzYTI1YjMzMmY=
+        algorithm: aes-256-gcm
+        iv: 7ea327befac4b86bb8cbd6dc
+        version: "1"
+      hash:
+        sha256: 1579ff14b007cb1bf89fa1381ca8d4e2cb9b7567ef9796117119b8d5cd3c9a34
+  published: 2026-01-01T15:49:55.864Z
+  content: "Allow me to tell you something the majority of septic companies won't:
+    there are two kinds of people in this world. Those who think septic systems
+    are simply \"buried containers for waste,\" and those who have had raw
+    sewage gurgling into their yard at midnight. I learned this reality the hard
+    way in 2005—knee-deep in sludge, freezing in a Washington deluge, as my
+    brothers and I helped a weathered installer repair our family's collapsed
+    system. I was fourteen. My hands ached. My clothes were destroyed. But that
+    evening, something clicked: This ain't just manual labor. It's people's
+    lives we're preserving. \r
+
+    Let me share the dirty truth: most septic companies just service tanks. They
+    are like quick-fix salesmen at a chainsaw convention. But Septic Solutions?
+    These guys are unique. It all began back in the beginning of the 2000s when
+    Art and his siblings—just kids hardly tall enough to shoulder a shovel—aided
+    install their family's septic system alongside a experienced pro. Picture
+    this: three kids buried in Pennsylvania clay, learning how soil permeability
+    affects drainage while their peers played Xbox. \"We never just dig
+    ditches,\" Art explained to me last winter, steaming coffee cup in hand.
+    \"We discovered how soil whispers mysteries. A patch of cattails here?
+    That's Mother Nature screaming 'high water table.'\" \r
+
+    \ \r
+
+    \ \r
+
+    https://zenwriting.net/abbotsnnxe/the-future-of-septic-services-higher-stan\
+    dards-fewer-failures-cleaner-water\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: M2VkZTU1Y2I0MjJhNjQzODEyYTU5MTg4
+    algorithm: aes-256-gcm
+    iv: f433a6a5dd04c32834d9fe7d
+    version: "1"
+  spam:
+    score: 4.73
+    marked: true
+  status: auditing
