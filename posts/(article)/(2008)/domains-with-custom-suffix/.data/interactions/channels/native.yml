@@ -1195,3 +1195,54 @@
     score: 4.73
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 33edc3098bc5ccf38fd96e76cd22183b162bc5d9
+  author:
+    name: Brentjum
+    lang: en
+    email:
+      value:
+        encrypted: NWQ5MmJhNjMwNmIwZDZkNDI2ZDIxM2I1NmI4ZDljNjg5MTk3MGZhNzRhOGI1ODk3YTQ=
+        algorithm: aes-256-gcm
+        iv: 8f902b230d0959aae84581a0
+        version: "1"
+      hash:
+        sha256: 1579ff14b007cb1bf89fa1381ca8d4e2cb9b7567ef9796117119b8d5cd3c9a34
+  published: 2026-01-02T08:14:16.520Z
+  content: "Let me share with you something the majority of septic companies
+    won't: there are two kinds of people in this reality. Those who believe
+    septic systems are merely \"subterranean tanks for waste,\" and those who've
+    had raw sewage gurgling into their property at midnight. I learned this
+    distinction the hard way in 2005—waist-deep in muck, freezing in a
+    Washington rainstorm, as my family and I helped a veteran installer restore
+    our family's broken system. I was fourteen. My hands ached. My pants were
+    destroyed. But that evening, something clicked: This isn't just digging.
+    It's families' lives we're preserving. \r
+
+    Here's the dirty truth: nearly all septic companies just service tanks. They
+    act like band-aid salesmen at a demolition convention. But Septic Solutions?
+    They're unique. It all started back in the early 2000s when Art and his
+    siblings—just kids hardly tall enough to shoulder a shovel—aided install
+    their family's septic system alongside a weathered pro. Picture this: three
+    kids buried in Pennsylvania clay, understanding how soil permeability
+    affects drainage while their friends played Xbox. \"We didn't just dig
+    trenches,\" Art told me last winter, warm coffee cup in hand. \"We
+    understood how ground whispers mysteries. A patch of marsh plants here?
+    That's Mother Nature screaming 'high water table.'\" \r
+
+    \ \r
+
+    \ \r
+
+    https://ameblo.jp/milotebr728/entry-12951537727.html\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: ZThjMzY2ZTk1ZmQ5ZGQ4MDY1ZTY5MDkw
+    algorithm: aes-256-gcm
+    iv: 063bd9e1c072fbbda1624ad3
+    version: "1"
+  spam:
+    score: 4.61
+    marked: true
+  status: auditing
