@@ -1246,3 +1246,56 @@
     score: 4.61
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 690781c22e9fca21d230d6756fbf892c7134699e
+  author:
+    name: Brentjum
+    lang: en
+    email:
+      value:
+        encrypted: MmQ2NzA2N2IzMTA5M2Q0YThmM2ExNDkzYTFiMmIyNWU1YWFhMWM3OTdjNzY2ZjY4OWU=
+        algorithm: aes-256-gcm
+        iv: 133824ef3c47ad321b73ef7d
+        version: "1"
+      hash:
+        sha256: 1579ff14b007cb1bf89fa1381ca8d4e2cb9b7567ef9796117119b8d5cd3c9a34
+  published: 2026-01-04T23:07:52.842Z
+  content: "I need to share with you something the majority of septic companies
+    won't: there are two types of people in this world. Those who assume septic
+    systems are just \"subterranean tanks for waste,\" and those who have had
+    raw sewage bubbling into their yard at the dead of night. I learned this
+    difference the tough way in 2005—standing in sludge, freezing in a
+    Washington rainstorm, as my family and I aided a grizzled installer restore
+    our family's failed system. I was 14. My hands blistered. My pants were
+    ruined. But that moment, something crystallized: This isn't just digging.
+    It's families' lives we are safeguarding. \r
+
+    This is the dirty truth: nearly all septic companies just maintain tanks.
+    They're like temporary salesmen at a chainsaw convention. But Septic
+    Solutions? These guys are different. It all originated back in the early
+    2000s when Art and his family—just kids hardly tall enough to lift a
+    shovel—assisted install their family's septic system alongside a grizzled
+    pro. Visualize this: three kids knee-deep in Pennsylvania clay,
+    understanding how soil permeability affects drainage while their friends
+    played Xbox. \"We didn't just dig trenches,\" Art explained to me last
+    winter, warm coffee cup in hand. \"We learned how soil whispers truths. A
+    patch of wetland vegetation here? That's Mother Nature yelling 'high water
+    table.'\" \r
+
+    \ \r
+
+    \ \r
+
+    https://telegra.ph/Septic-Systems-and-Climate-Resilience-Preparing-Infrastr\
+    ucture-for-the-Future-12-28\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: NTc1MTkwMDk2OTlmZmNmNjJhY2M1YjI4
+    algorithm: aes-256-gcm
+    iv: e496e192f51332593ba73fc9
+    version: "1"
+  spam:
+    score: 4.71
+    marked: true
+  status: auditing
