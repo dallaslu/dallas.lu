@@ -1350,3 +1350,38 @@
     score: 4.59
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 7a8215c57a1a7d12129f8b719f10c124cddef721
+  author:
+    name: Armandjoifs
+    lang: en
+    email:
+      value:
+        encrypted: NmYwYWQ2OTUyZGMxOGEwNjg1NmY0OWRjMDkzYzBkOWM0M2JlMTdkZQ==
+        algorithm: aes-256-gcm
+        iv: d843f1346de6d99cbdbbee33
+        version: "1"
+      hash:
+        sha256: 26b4ca1a9568980699fbff81c33a79beb8f83fe623d66593102c3420ff4c7670
+  published: 2026-01-05T23:02:03.197Z
+  content: "Let me share the ugly truth: most HVAC failures take place because
+    someone ignored a step. Didn't calculate the load accurately. Used cheap
+    equipment. Miscalculated the insulation needs. We've personally fixed dozens
+    of these failures. And each and every time, we record another lesson. Like
+    in 2017, when we decided on adding remote monitoring to each system. Why?
+    Because Sarah, our master tech, got frustrated of watching homeowners burn
+    money on inefficient temperature management. Now clients save hundreds
+    yearly. \r
+
+    https://www.brownbook.net/business/54577473/product-air-heating"
+  lang: zh-CN
+  ip:
+    encrypted: MTJhMzVjY2UzYTRhM2EzMWEwNWJlOGYx
+    algorithm: aes-256-gcm
+    iv: 06b9d162a597812291d05934
+    version: "1"
+  spam:
+    score: 4.82
+    marked: true
+  status: auditing
