@@ -1299,3 +1299,54 @@
     score: 4.71
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: de91462652c93a00d167695afacf3c1974fd18e0
+  author:
+    name: Brentjum
+    lang: en
+    email:
+      value:
+        encrypted: NThlZGIzNzZmMjZmYTE1YzExZjNjZTQzNWQxYjQzYzNjZDFjOGE4YWM3NjBhMDIxM2I=
+        algorithm: aes-256-gcm
+        iv: 951e20db11508f793e6107a0
+        version: "1"
+      hash:
+        sha256: 1579ff14b007cb1bf89fa1381ca8d4e2cb9b7567ef9796117119b8d5cd3c9a34
+  published: 2026-01-05T13:50:43.896Z
+  content: "Allow me to tell you something nearly all septic companies refuse to:
+    there are two types of people in this reality. Those who assume septic
+    systems are just \"buried containers for waste,\" and those who've had raw
+    sewage gurgling into their yard at midnight. I understood this reality the
+    hard way in 2005—waist-deep in sludge, shivering in a Washington deluge, as
+    my siblings and I helped a weathered installer repair our family's collapsed
+    system. I was fourteen. My hands blistered. My pants were ruined. But that
+    evening, something changed: This isn't just manual labor. It's folks' lives
+    we are protecting. \r
+
+    This is the dirty truth: the majority of septic companies just pump tanks.
+    They are like quick-fix salesmen at a disaster convention. But Septic
+    Solutions? They're unique. It all started back in the early 2000s when Art
+    and his family—just kids hardly tall enough to shoulder a shovel—aided
+    install their family's septic system alongside a experienced pro. Picture
+    this: three pre-teens waist-deep in Pennsylvania clay, understanding how
+    soil permeability affects drainage while their friends played Xbox. \"We
+    didn't just dig holes,\" Art explained to me last winter, warm coffee cup in
+    hand. \"We learned how ground whispers truths. A patch of cattails here?
+    That's Mother Nature screaming 'high water table.'\" \r
+
+    \ \r
+
+    \ \r
+
+    https://myanimelist.net/profile/blandahtfz\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: NWU2ZDVhOWZhMjc4MmZiMjAwMmNmYWFl
+    algorithm: aes-256-gcm
+    iv: 9fa94444561421ccff4f6eed
+    version: "1"
+  spam:
+    score: 4.59
+    marked: true
+  status: auditing
