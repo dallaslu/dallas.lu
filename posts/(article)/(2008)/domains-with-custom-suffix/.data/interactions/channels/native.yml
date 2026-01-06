@@ -1385,3 +1385,37 @@
     score: 4.82
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: c2a7a852703a61e1ada7788b8894fcf70b6b5c6c
+  author:
+    name: Armandjoifs
+    lang: en
+    email:
+      value:
+        encrypted: NmEyYmNlMTc4YjBkNTZmMjM2YTc1ZDdmY2Q4OTJmYThmMGY3MGUwMw==
+        algorithm: aes-256-gcm
+        iv: c6a7b17d68f91725f260aa38
+        version: "1"
+      hash:
+        sha256: 26b4ca1a9568980699fbff81c33a79beb8f83fe623d66593102c3420ff4c7670
+  published: 2026-01-06T09:01:30.617Z
+  content: "Here's the brutal truth: the majority of HVAC failures occur because
+    someone skipped a step. Failed to calculate the load accurately. Used
+    incorrect equipment. Miscalculated the insulation needs. We have fixed
+    countless of these failures. And each time, we file away another insight.
+    Like in 2017, when we started adding WiFi controls to all installation. Why?
+    Because Sarah, our master tech, got tired of watching homeowners waste money
+    on poor temperature control. Now clients save hundreds yearly. \r
+
+    https://www.producthunt.com/@productairheating"
+  lang: zh-CN
+  ip:
+    encrypted: ZDYxZjQ0MzI2OGQ5ODhhZjQ4OGExNDQy
+    algorithm: aes-256-gcm
+    iv: 29d7d83f7ae16952d322755b
+    version: "1"
+  spam:
+    score: 4.75
+    marked: true
+  status: auditing
