@@ -1454,3 +1454,52 @@
     score: 4.94
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 1490047d941851707d12418efd31d62c90c13a44
+  author:
+    name: Brentjum
+    lang: en
+    email:
+      value:
+        encrypted: M2VjMDNmMmY5ZTEyMDhhNDY5NTdlYzcxY2E2YmQ1MTllYTYyYzc1ZDBjNDNiMDRiYmI=
+        algorithm: aes-256-gcm
+        iv: 8fd091f256face27123190d1
+        version: "1"
+      hash:
+        sha256: 1579ff14b007cb1bf89fa1381ca8d4e2cb9b7567ef9796117119b8d5cd3c9a34
+  published: 2026-01-06T19:06:37.933Z
+  content: "Allow me to explain something nearly all septic companies refuse to:
+    there are two categories of people in this world. Those who assume septic
+    systems are just \"subterranean tanks for waste,\" and those who have had
+    raw sewage gurgling into their property at 2 AM. I learned this reality the
+    hard way in 2005—waist-deep in muck, freezing in a Washington deluge, as my
+    family and I aided a weathered installer repair our family's broken system.
+    I was 14. My hands were raw. My pants were ruined. But that evening,
+    something crystallized: This ain't just digging. It's families' lives we're
+    protecting. \r
+
+    Let me share the dirty truth: the majority of septic companies just pump
+    tanks. They act like band-aid salesmen at a disaster convention. But Septic
+    Solutions? These guys are different. It all began back in the early 2000s
+    when Art and his brothers—just kids hardly tall enough to carry a
+    shovel—assisted install their family's septic system alongside a experienced
+    pro. Picture this: three youngsters buried in Pennsylvania clay, learning
+    how soil permeability affects drainage while their friends played Xbox. \"We
+    never just dig ditches,\" Art shared with me last winter, steaming coffee
+    cup in hand. \"We discovered how ground whispers truths. A patch of wetland
+    vegetation here? That's Mother Nature screaming 'high water table.'\" \r
+
+    \ \r
+
+    https://steemit.com/learn/@sarnalisa/drawing-study-for-septic-tank"
+  lang: zh-CN
+  ip:
+    encrypted: Y2JjNjVlZDQ3MzI5OTFiNzBmZGVhNWEy
+    algorithm: aes-256-gcm
+    iv: aa3631dfddba8765bb9c62db
+    version: "1"
+  spam:
+    score: 4.64
+    marked: true
+  status: auditing
