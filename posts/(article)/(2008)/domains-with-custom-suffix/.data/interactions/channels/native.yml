@@ -1538,3 +1538,38 @@
     score: 4.74
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 7e29f7034d2ff55370084b5e140246fc05d1fc35
+  author:
+    name: Armandjoifs
+    lang: en
+    email:
+      value:
+        encrypted: ZDg3NDIwNGM1YmFiYzE3Njk5MGI3YzliYjllYjkyMmY4ZjhjN2I1Nw==
+        algorithm: aes-256-gcm
+        iv: 50bde5b5a62551c43c02847f
+        version: "1"
+      hash:
+        sha256: 26b4ca1a9568980699fbff81c33a79beb8f83fe623d66593102c3420ff4c7670
+  published: 2026-01-07T15:02:47.148Z
+  content: "Let me share the brutal truth: nearly all HVAC failures take place
+    because someone missed a step. Didn't calculate the load accurately. Used
+    undersized equipment. Misjudged the insulation needs. We've personally fixed
+    dozens of these disasters. And every time, we file away another lesson. Like
+    in 2017, when we decided on adding remote monitoring to each install. Why?
+    Because Sarah, our senior tech, got sick of watching homeowners lose money
+    on inefficient temperature management. Now clients save $500+ yearly. \r
+
+    https://www.houzz.com/hznb/professionals/home-automation-and-home-media/pro\
+    duct-air-heating-cooling-and-electric-pfvwus-pf~1742073236"
+  lang: zh-CN
+  ip:
+    encrypted: N2FhZDk0ZmJiY2NjNmM3YWZjZTkwY2Fi
+    algorithm: aes-256-gcm
+    iv: be02d23cfbe37a7a66ca11ed
+    version: "1"
+  spam:
+    score: 5.11
+    marked: true
+  status: auditing
