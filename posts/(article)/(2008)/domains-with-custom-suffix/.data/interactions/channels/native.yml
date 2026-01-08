@@ -1692,3 +1692,52 @@
     score: 4.93
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 5b1fad59c8b69dbc0a46c78f26b5ea462d7b43f7
+  author:
+    name: Brentjum
+    lang: en
+    email:
+      value:
+        encrypted: N2M1NWI4ZWNjMzJiMzJlOWRkOTJkYjE4NjY2MzBiODNjNWViMjQ0MGU1ZGMxYjFkNDk=
+        algorithm: aes-256-gcm
+        iv: 80a6b2f6e57bf76b821790c6
+        version: "1"
+      hash:
+        sha256: 1579ff14b007cb1bf89fa1381ca8d4e2cb9b7567ef9796117119b8d5cd3c9a34
+  published: 2026-01-08T19:34:17.648Z
+  content: "I need to share with you something most septic companies refuse to:
+    there are two types of people in this reality. Those who think septic
+    systems are merely \"subterranean tanks for waste,\" and those who have had
+    raw sewage erupting into their yard at midnight. I learned this difference
+    the tough way in 2005—standing in muck, shivering in a Washington deluge, as
+    my siblings and I aided a grizzled installer fix our family's collapsed
+    system. I was fourteen. My hands ached. My pants were ruined. But that
+    moment, something changed: This ain't just digging. It's families' lives we
+    are preserving. \r
+
+    This is the harsh truth: most septic companies just pump tanks. They act
+    like quick-fix salesmen at a chainsaw convention. But Septic Solutions?
+    These guys are unique. It all originated back in the early 2000s when Art
+    and his siblings—just kids barely tall enough to lift a shovel—assisted
+    install their family's septic system alongside a grizzled pro. Imagine this:
+    three pre-teens waist-deep in Pennsylvania clay, learning how soil
+    permeability affects drainage while their peers played Xbox. \"We didn't
+    just dig ditches,\" Art shared with me last winter, warm coffee cup in hand.
+    \"We understood how earth whispers truths. A patch of marsh plants here?
+    That's Mother Nature shouting 'high water table.'\" \r
+
+    \ \r
+
+    https://hive.blog/hive-178708/@praditya/the-progress"
+  lang: zh-CN
+  ip:
+    encrypted: NGM1Njc3ZDZkYjE1Mjk2ZGRlNTFjOTI4
+    algorithm: aes-256-gcm
+    iv: 78be374deb1bbe2f92ce3ec8
+    version: "1"
+  spam:
+    score: 4.61
+    marked: true
+  status: auditing
