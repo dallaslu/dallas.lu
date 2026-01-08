@@ -1741,3 +1741,39 @@
     score: 4.61
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 91f31e4db3b36b8e7bddbb465d71664650e0317c
+  author:
+    name: Armandjoifs
+    lang: en
+    email:
+      value:
+        encrypted: ODdjNGYyYjQ4ZDI3YzY5YTVkZWY2YWQwYTc4MTM1ZTA1Njk2N2VmMA==
+        algorithm: aes-256-gcm
+        iv: 7fd39f3ee0ae834d4e26c875
+        version: "1"
+      hash:
+        sha256: 26b4ca1a9568980699fbff81c33a79beb8f83fe623d66593102c3420ff4c7670
+  published: 2026-01-08T21:48:33.960Z
+  content: "Let me share the brutal truth: nearly all HVAC failures happen because
+    someone ignored a step. Didn't calculate the load accurately. Used
+    undersized equipment. Got wrong the insulation needs. We've personally fixed
+    hundreds of these disasters. And each and every time, we file away another
+    lesson. Like in 2017, when we decided on adding smart thermostats to every
+    system. Why? Because Sarah, our master tech, got frustrated of watching
+    homeowners burn money on poor temperature control. Now clients save $500+
+    yearly. \r
+
+    https://www.houzz.com/hznb/professionals/home-automation-and-home-media/pro\
+    duct-air-heating-cooling-and-electric-pfvwus-pf~1742073236"
+  lang: zh-CN
+  ip:
+    encrypted: MjEyZjdlODY3NzBmMGI1NDg2OGU2ZWFl
+    algorithm: aes-256-gcm
+    iv: 0bedc9452c05b6c745125728
+    version: "1"
+  spam:
+    score: 5.11
+    marked: true
+  status: auditing
