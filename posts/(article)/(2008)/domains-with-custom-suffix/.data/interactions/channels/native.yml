@@ -1657,3 +1657,38 @@
     score: 4.99
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 21ae18e8f7a9013521a507757efb0ad257e905f7
+  author:
+    name: Armandjoifs
+    lang: en
+    email:
+      value:
+        encrypted: MTIzM2IxMWU2YzE0YTRkNDYzYTI1MDczZGQ0N2VlMTI2MDIxZTE5Ng==
+        algorithm: aes-256-gcm
+        iv: c40bc1d008efa920ca3f7b7f
+        version: "1"
+      hash:
+        sha256: 26b4ca1a9568980699fbff81c33a79beb8f83fe623d66593102c3420ff4c7670
+  published: 2026-01-08T11:32:06.406Z
+  content: "This is the brutal truth: most HVAC failures occur because someone
+    ignored a step. Didn't calculate the load properly. Used undersized
+    equipment. Miscalculated the insulation needs. We've personally fixed dozens
+    of these messes. And each time, we record another learning. Like in 2017,
+    when we started adding smart thermostats to all install. Why? Because Sarah,
+    our master tech, got tired of watching homeowners waste money on poor
+    temperature control. Now clients save 20-30% yearly. \r
+
+    https://fliphtml5.com/homepage/lweref/product-air-heating,-cooling,-and-ele\
+    ctric/"
+  lang: zh-CN
+  ip:
+    encrypted: NDQzMGRlMDJmNjA4NmNmZDc1NzliNGFi
+    algorithm: aes-256-gcm
+    iv: c708e6a180326a746b883540
+    version: "1"
+  spam:
+    score: 4.93
+    marked: true
+  status: auditing
