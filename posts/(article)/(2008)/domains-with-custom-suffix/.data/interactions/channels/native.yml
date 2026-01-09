@@ -1777,3 +1777,39 @@
     score: 5.11
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 2fe1ab361211b80104940a77fd546c8246bef0d9
+  author:
+    name: Armandjoifs
+    lang: en
+    email:
+      value:
+        encrypted: YmRkZTVjZWQwYTQ0ODg2ZTNiZDUzNzlhYWIzNWQyMzk1NDJiYTY1Mw==
+        algorithm: aes-256-gcm
+        iv: 883dba736c852867a6d92716
+        version: "1"
+      hash:
+        sha256: 26b4ca1a9568980699fbff81c33a79beb8f83fe623d66593102c3420ff4c7670
+  published: 2026-01-09T08:15:23.758Z
+  content: "This is the harsh truth: the majority of HVAC failures occur because
+    someone skipped a step. Failed to calculate the load correctly. Used
+    undersized equipment. Miscalculated the insulation needs. We've fixed
+    hundreds of these messes. And every time, we remember another learning. Like
+    in 2017, when we decided on adding WiFi controls to every install. Why?
+    Because Sarah, our lead tech, got frustrated of watching homeowners waste
+    money on inefficient temperature management. Now clients save $500+ yearly.
+    \r
+
+    https://homeguide.com/wa/everett/garage-door-repair/product-air-heating-xhv\
+    DmV4PL"
+  lang: zh-CN
+  ip:
+    encrypted: NWY3Mjk5MzdkOGJlM2NiMzYzN2M5MjQx
+    algorithm: aes-256-gcm
+    iv: 7a48133e0d31fa0bdd6b3bd3
+    version: "1"
+  spam:
+    score: 4.91
+    marked: true
+  status: auditing
