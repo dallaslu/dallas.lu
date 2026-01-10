@@ -1881,3 +1881,37 @@
     score: 4.71
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 9f912cc9ef5c40146c560a832fd09cde5363fc57
+  author:
+    name: Armandjoifs
+    lang: en
+    email:
+      value:
+        encrypted: MzY3NDI3YTAxODQ0MWMyNzM3NDMzM2MxNzc1ZTBhMTFmMDc4NWJjMA==
+        algorithm: aes-256-gcm
+        iv: 2567ac76d24fa92446849026
+        version: "1"
+      hash:
+        sha256: 26b4ca1a9568980699fbff81c33a79beb8f83fe623d66593102c3420ff4c7670
+  published: 2026-01-10T15:37:09.782Z
+  content: "Here's the brutal truth: nearly all HVAC failures happen because
+    someone missed a step. Did not calculate the load properly. Used undersized
+    equipment. Misjudged the insulation needs. We've fixed dozens of these
+    messes. And each time, we remember another learning. Like in 2017, when we
+    decided on adding smart thermostats to every install. Why? Because Sarah,
+    our lead tech, got frustrated of watching homeowners waste money on bad
+    temperature management. Now clients save hundreds yearly. \r
+
+    https://www.brownbook.net/business/54577473/product-air-heating"
+  lang: zh-CN
+  ip:
+    encrypted: MmQ1YTIyYThlYzJhMDZhZjVlYmM3Nzdj
+    algorithm: aes-256-gcm
+    iv: ba68947a06b330a54484332e
+    version: "1"
+  spam:
+    score: 4.84
+    marked: true
+  status: auditing
