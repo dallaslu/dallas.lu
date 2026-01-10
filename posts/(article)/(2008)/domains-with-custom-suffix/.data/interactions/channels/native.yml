@@ -1915,3 +1915,52 @@
     score: 4.84
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: fdca5b785f4ff9adaa35c2e1f924914d3c5da2e0
+  author:
+    name: Brentjum
+    lang: en
+    email:
+      value:
+        encrypted: Yzk1MDhjZGQ1NjdlODE3NTBmMWFlMzFlOGEwOTI2ZDIyOGRlMjg4YzM3MWE0NjhlNzg=
+        algorithm: aes-256-gcm
+        iv: d352d99f5c911e386a7eed85
+        version: "1"
+      hash:
+        sha256: 1579ff14b007cb1bf89fa1381ca8d4e2cb9b7567ef9796117119b8d5cd3c9a34
+  published: 2026-01-10T21:26:22.492Z
+  content: "Allow me to tell you something nearly all septic companies refuse to:
+    there are two kinds of people in this world. Those who believe septic
+    systems are merely \"subterranean tanks for waste,\" and those who've had
+    raw sewage bubbling into their property at midnight. I learned this reality
+    the difficult way in 2005—knee-deep in muck, trembling in a Washington
+    deluge, as my family and I aided a veteran installer restore our family's
+    broken system. I was 14. My hands ached. My jeans were wrecked. But that
+    evening, something clicked: This is not just dirt work. It's families' lives
+    that we're protecting. \r
+
+    Let me share the ugly truth: the majority of septic companies just pump
+    tanks. They're like temporary salesmen at a disaster convention. But Septic
+    Solutions? They are special. It all originated back in the early 2000s when
+    Art and his brothers—just kids barely tall enough to shoulder a shovel—aided
+    install their family's septic system alongside a weathered pro. Imagine
+    this: three kids waist-deep in Pennsylvania clay, understanding how soil
+    permeability affects drainage while their peers played Xbox. \"We did not
+    just dig holes,\" Art shared with me last winter, hot coffee cup in hand.
+    \"We discovered how earth whispers secrets. A patch of cattails here? That's
+    Mother Nature yelling 'high water table.'\" \r
+
+    \ \r
+
+    https://hive.blog/hive-178708/@praditya/the-progress"
+  lang: zh-CN
+  ip:
+    encrypted: ZDIxODEzMDhkN2I0ZjcwNjhjNzEwMjQx
+    algorithm: aes-256-gcm
+    iv: dd6407f17768d2e8125a653f
+    version: "1"
+  spam:
+    score: 4.61
+    marked: true
+  status: auditing
