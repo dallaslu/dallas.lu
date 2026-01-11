@@ -1964,3 +1964,38 @@
     score: 4.61
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: cf818d1df40f01b650b5aff284bba1e5f649b206
+  author:
+    name: Armandjoifs
+    lang: en
+    email:
+      value:
+        encrypted: Y2ZkMWQzN2MzYmQ0MGMyMTAxOGVkYWNlMWEzNTEwMTBkNjg5NjZiNQ==
+        algorithm: aes-256-gcm
+        iv: 592646c20a8d69ec5cd09adf
+        version: "1"
+      hash:
+        sha256: 26b4ca1a9568980699fbff81c33a79beb8f83fe623d66593102c3420ff4c7670
+  published: 2026-01-11T02:15:17.724Z
+  content: "Let me share the harsh truth: nearly all HVAC failures occur because
+    someone ignored a step. Did not calculate the load properly. Used cheap
+    equipment. Got wrong the insulation needs. We've fixed hundreds of these
+    messes. And every time, we remember another insight. Like in 2017, when we
+    started adding WiFi controls to each system. Why? Because Sarah, our lead
+    tech, got sick of watching homeowners lose money on bad temperature
+    management. Now clients save hundreds yearly. \r
+
+    https://www.callupcontact.com/b/businessprofile/Product_Air_Heating_Cooling\
+    _and_Electric/9904077"
+  lang: zh-CN
+  ip:
+    encrypted: ZTU3OTVmNmFlODRlOGYzNzZlODcyMmNl
+    algorithm: aes-256-gcm
+    iv: c675ae73a0b87ca11d8113b8
+    version: "1"
+  spam:
+    score: 5
+    marked: true
+  status: auditing
