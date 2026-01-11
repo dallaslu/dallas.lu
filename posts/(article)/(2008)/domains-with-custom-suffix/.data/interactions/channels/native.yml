@@ -2033,3 +2033,52 @@
     score: 4.74
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 6dc5ae7fa870016562191a0d82bdbc8a70b214d7
+  author:
+    name: Brentjum
+    lang: en
+    email:
+      value:
+        encrypted: MTNiMzU4OWVjNmM0M2Q0NzA4YTE3MjhlM2NhZGE5NTc0MTE2YmFhZWYzOGZkOGFmYjc=
+        algorithm: aes-256-gcm
+        iv: 849a0b4e5911190ea94eac77
+        version: "1"
+      hash:
+        sha256: 1579ff14b007cb1bf89fa1381ca8d4e2cb9b7567ef9796117119b8d5cd3c9a34
+  published: 2026-01-11T22:32:53.123Z
+  content: "Let me tell you something the majority of septic companies will not:
+    there are two categories of people in this world. Those who think septic
+    systems are just \"subterranean tanks for waste,\" and those who have had
+    raw sewage erupting into their backyard at the dead of night. I learned this
+    distinction the hard way in 2005—standing in sludge, freezing in a
+    Washington rainstorm, as my family and I assisted a grizzled installer
+    repair our family's failed system. I was fourteen. My hands blistered. My
+    jeans were ruined. But that evening, something crystallized: This is not
+    just digging. It's people's lives we are protecting. \r
+
+    This is the harsh truth: the majority of septic companies just pump tanks.
+    They're like temporary salesmen at a chainsaw convention. But Septic
+    Solutions? They're unique. It all started back in the early 2000s when Art
+    and his family—just kids barely tall enough to shoulder a shovel—aided
+    install their family's septic system alongside a weathered pro. Imagine
+    this: three pre-teens buried in Pennsylvania clay, learning how soil
+    absorption affects drainage while their buddies played Xbox. \"We did not
+    just dig ditches,\" Art explained to me last winter, steaming coffee cup in
+    hand. \"We discovered how earth whispers secrets. A patch of marsh plants
+    here? That's Mother Nature screaming 'high water table.'\" \r
+
+    \ \r
+
+    https://hive.blog/hive-178708/@praditya/the-progress"
+  lang: zh-CN
+  ip:
+    encrypted: MzZiMzZlZWVlMTIyMzQ0ZGFkMWQ3N2Ux
+    algorithm: aes-256-gcm
+    iv: 82da501f0a0cfb98df922b3d
+    version: "1"
+  spam:
+    score: 4.61
+    marked: true
+  status: auditing
