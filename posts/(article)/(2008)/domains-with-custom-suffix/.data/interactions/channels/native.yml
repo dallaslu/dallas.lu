@@ -1999,3 +1999,37 @@
     score: 5
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 88e59d2313566c4e8b91c506e86692e34547d109
+  author:
+    name: Armandjoifs
+    lang: en
+    email:
+      value:
+        encrypted: MTdiMzE2NGI1NjUxMmUwMmI3MzVhYzg4MzMzMzljNzExNjYyMzBmYw==
+        algorithm: aes-256-gcm
+        iv: 4f7450923a57adddecf78b54
+        version: "1"
+      hash:
+        sha256: 26b4ca1a9568980699fbff81c33a79beb8f83fe623d66593102c3420ff4c7670
+  published: 2026-01-11T12:49:07.604Z
+  content: "This is the ugly truth: the majority of HVAC failures take place
+    because someone skipped a step. Did not calculate the load correctly. Used
+    cheap equipment. Misjudged the insulation needs. We've fixed hundreds of
+    these messes. And each and every time, we remember another learning. Like in
+    2017, when we decided on adding remote monitoring to all install. Why?
+    Because Sarah, our lead tech, got sick of watching homeowners waste money on
+    bad temperature management. Now clients save $500+ yearly. \r
+
+    https://www.awwwards.com/productairheating/"
+  lang: zh-CN
+  ip:
+    encrypted: MGRjOGE2ZDQ2YjAwODk3ZmQzYTE4ZDg3
+    algorithm: aes-256-gcm
+    iv: 70419629ec781f0f8466503c
+    version: "1"
+  spam:
+    score: 4.74
+    marked: true
+  status: auditing
