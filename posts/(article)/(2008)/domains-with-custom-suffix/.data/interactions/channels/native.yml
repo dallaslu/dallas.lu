@@ -2082,3 +2082,37 @@
     score: 4.61
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: eb04431f5fbb1eef77e88564735dd18144fb43f3
+  author:
+    name: Armandjoifs
+    lang: en
+    email:
+      value:
+        encrypted: MTJlMGI2MzllOGRlNjdkYmM4MDlmMzJjYTYxNTUwZTRhNGExNGZjOQ==
+        algorithm: aes-256-gcm
+        iv: d6e9ed65978eb27b5bb8f077
+        version: "1"
+      hash:
+        sha256: 26b4ca1a9568980699fbff81c33a79beb8f83fe623d66593102c3420ff4c7670
+  published: 2026-01-11T23:26:08.427Z
+  content: "Let me share the brutal truth: most HVAC failures occur because
+    someone skipped a step. Did not calculate the load correctly. Used
+    undersized equipment. Got wrong the insulation needs. We've fixed countless
+    of these failures. And each time, we record another insight. Like in 2017,
+    when we decided on adding WiFi controls to all system. Why? Because Sarah,
+    our master tech, got tired of watching homeowners waste money on bad
+    temperature control. Now clients save hundreds yearly. \r
+
+    https://www.b2bco.com/productairheating"
+  lang: zh-CN
+  ip:
+    encrypted: NmUzMzBhNTYzNGU5OTRmOGRjMzc4Nzdl
+    algorithm: aes-256-gcm
+    iv: 31fdd2d0018e15cc5a5d6a2a
+    version: "1"
+  spam:
+    score: 4.72
+    marked: true
+  status: auditing
