@@ -2116,3 +2116,38 @@
     score: 4.72
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 497a78dcd1a6139f30ccec51d02a5ee94ff1f11e
+  author:
+    name: Armandjoifs
+    lang: en
+    email:
+      value:
+        encrypted: OTZkNDhlNzQ0ZWI5YjBmOWY4YzU5MTYyMzcxNTBmM2ZkYzM0YmE1ZA==
+        algorithm: aes-256-gcm
+        iv: eb51e4a7ac211a6f415bc6bd
+        version: "1"
+      hash:
+        sha256: 26b4ca1a9568980699fbff81c33a79beb8f83fe623d66593102c3420ff4c7670
+  published: 2026-01-12T10:00:00.902Z
+  content: "Let me share the brutal truth: the majority of HVAC failures occur
+    because someone missed a step. Didn't calculate the load accurately. Used
+    undersized equipment. Miscalculated the insulation needs. We've personally
+    fixed dozens of these disasters. And each time, we record another insight.
+    Like in 2017, when we decided on adding remote monitoring to all
+    installation. Why? Because Sarah, our senior tech, got tired of watching
+    homeowners lose money on bad temperature management. Now clients save 20-30%
+    yearly. \r
+
+    https://about.me/productairheating"
+  lang: zh-CN
+  ip:
+    encrypted: Y2NiYWE1MmE0NWEzYTdiZWMzYjRiN2Q5
+    algorithm: aes-256-gcm
+    iv: a281cf36da101f012d59fbbd
+    version: "1"
+  spam:
+    score: 4.69
+    marked: true
+  status: auditing
