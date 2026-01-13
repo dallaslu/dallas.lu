@@ -2151,3 +2151,40 @@
     score: 4.69
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 8ddc7dbc25e05342d53f0d86c68120f8bb8f6b7b
+  author:
+    name: StevenNiz
+    lang: en
+    email:
+      value:
+        encrypted: ZjJjZWQ0ZDk1MjQxMjZkY2UyOTg5MzhkYjBmNWViYmM3ZDI5MzA5ZA==
+        algorithm: aes-256-gcm
+        iv: efc3ec88a8bdb105d653adda
+        version: "1"
+      hash:
+        sha256: ca70f6199aed0c0bdf648459c431786d268a71dc10b2b4345607ad2b55e87e28
+  published: 2026-01-13T00:09:58.404Z
+  content: "Here's the harsh truth: the majority of HVAC failures take place
+    because someone skipped a step. Didn't calculate the load properly. Used
+    incorrect equipment. Got wrong the insulation needs. We've fixed dozens of
+    these disasters. And each time, we file away another lesson. Like in 2017,
+    when we began adding WiFi controls to all system. Why? Because Sarah, our
+    senior tech, got sick of watching homeowners lose money on inefficient
+    temperature management. Now clients save hundreds yearly. \r
+
+    \ \r
+
+    https://holdenvzvz282.wpsuo.com/skagit-countys-guide-to-choosing-an-energy-\
+    efficient-hvac-system\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: NjA3MjBhZGZmNDhhNzY1YjlmYTFjOWNl
+    algorithm: aes-256-gcm
+    iv: 2776e55385ef2b306925599d
+    version: "1"
+  spam:
+    score: 4.99
+    marked: true
+  status: auditing
