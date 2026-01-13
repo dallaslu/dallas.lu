@@ -2188,3 +2188,40 @@
     score: 4.99
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 128e2fd2226ab12a5374c9b59e1a1153d929f2c8
+  author:
+    name: StevenNiz
+    lang: en
+    email:
+      value:
+        encrypted: OTBlZDU4M2ZhMGI2NTM1NTRjY2I3NDhmOTVhNGM1NjlkOGI4MzdjYg==
+        algorithm: aes-256-gcm
+        iv: 1ddae078966d27d803da67ca
+        version: "1"
+      hash:
+        sha256: ca70f6199aed0c0bdf648459c431786d268a71dc10b2b4345607ad2b55e87e28
+  published: 2026-01-13T13:12:45.348Z
+  content: "Here's the ugly truth: the majority of HVAC failures happen because
+    someone ignored a step. Failed to calculate the load properly. Used cheap
+    equipment. Misjudged the insulation needs. We've personally fixed hundreds
+    of these failures. And every time, we remember another insight. Like in
+    2017, when we started adding smart thermostats to each system. Why? Because
+    Sarah, our master tech, got tired of watching homeowners lose money on poor
+    temperature settings. Now clients save 20-30% yearly. \r
+
+    \ \r
+
+    https://collintpkg034.image-perth.org/what-makes-an-hvac-company-trustworth\
+    y-in-marysville-and-everett\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: ODQ1ZmIzZmEwNTBlNDAzMTJiYjg2Yzhl
+    algorithm: aes-256-gcm
+    iv: 17a31eb9fc2f4fb7a2f6212c
+    version: "1"
+  spam:
+    score: 5.01
+    marked: true
+  status: auditing
