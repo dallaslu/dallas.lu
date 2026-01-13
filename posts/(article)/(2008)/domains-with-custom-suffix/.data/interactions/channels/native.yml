@@ -2225,3 +2225,40 @@
     score: 5.01
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: ddc34ff48667adfe057cf3d408663b489cbe707e
+  author:
+    name: StevenNiz
+    lang: en
+    email:
+      value:
+        encrypted: MGJkM2FmMDI4MDFmMWNjMmVhMTRmMzhmMmUyMjEwNGFlMjA2NjUyMA==
+        algorithm: aes-256-gcm
+        iv: d47e49979afb3b5e099171b3
+        version: "1"
+      hash:
+        sha256: ca70f6199aed0c0bdf648459c431786d268a71dc10b2b4345607ad2b55e87e28
+  published: 2026-01-13T23:56:01.479Z
+  content: "Here's the brutal truth: nearly all HVAC failures happen because
+    someone skipped a step. Did not calculate the load accurately. Used
+    undersized equipment. Misjudged the insulation needs. We have fixed dozens
+    of these failures. And each time, we file away another lesson. Like in 2017,
+    when we decided on adding WiFi controls to all install. Why? Because Sarah,
+    our senior tech, got tired of watching homeowners waste money on bad
+    temperature settings. Now clients save hundreds yearly. \r
+
+    \ \r
+
+    https://codysnhp003.almoheet-travel.com/western-washingtons-climate-why-hea\
+    t-pump-design-matters\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: ZDZlNjIyMzBlNGE3MjZkODEzNzJmOWUw
+    algorithm: aes-256-gcm
+    iv: d93b93a370b47e2867a791b4
+    version: "1"
+  spam:
+    score: 4.99
+    marked: true
+  status: auditing
