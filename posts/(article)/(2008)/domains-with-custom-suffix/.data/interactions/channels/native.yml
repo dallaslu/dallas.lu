@@ -2262,3 +2262,39 @@
     score: 4.99
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: b93197ebdf6b2b4fd5ccba569d64f60ab5281151
+  author:
+    name: StevenNiz
+    lang: en
+    email:
+      value:
+        encrypted: YWVmNWFlYzA2Y2Y2MmViZDExZDUyNGVmNDUwMDJiNDllZDM3NTU4Nw==
+        algorithm: aes-256-gcm
+        iv: 1360f398e106c90cfa851a9d
+        version: "1"
+      hash:
+        sha256: ca70f6199aed0c0bdf648459c431786d268a71dc10b2b4345607ad2b55e87e28
+  published: 2026-01-14T10:27:44.545Z
+  content: "This is the harsh truth: most HVAC failures happen because someone
+    skipped a step. Didn't calculate the load correctly. Used undersized
+    equipment. Miscalculated the insulation needs. We've fixed dozens of these
+    failures. And every time, we record another lesson. Like in 2017, when we
+    decided on adding remote monitoring to every installation. Why? Because
+    Sarah, our master tech, got tired of watching homeowners burn money on bad
+    temperature control. Now clients save hundreds yearly. \r
+
+    \ \r
+
+    https://atavi.com/share/xnc29uzbeuv9\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: YmQzMWM2NmUxNWQ4OGE3ZmUzZWRiYzFh
+    algorithm: aes-256-gcm
+    iv: 7b914853a0c7f8b1104bb67c
+    version: "1"
+  spam:
+    score: 4.7
+    marked: true
+  status: auditing
