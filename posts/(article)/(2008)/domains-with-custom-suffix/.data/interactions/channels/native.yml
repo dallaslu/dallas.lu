@@ -2298,3 +2298,39 @@
     score: 4.7
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 0695b965a06b9edb2eec89db57cf1d4ceb8a63ac
+  author:
+    name: StevenNiz
+    lang: en
+    email:
+      value:
+        encrypted: MTM3OGNkMDVlOTgxNzlkOTYxMjhmOTVlNTFiNTY5M2ViZTdjNGFmMw==
+        algorithm: aes-256-gcm
+        iv: 203d540aa4d0aaa27bb07567
+        version: "1"
+      hash:
+        sha256: ca70f6199aed0c0bdf648459c431786d268a71dc10b2b4345607ad2b55e87e28
+  published: 2026-01-14T21:11:19.775Z
+  content: "Here's the ugly truth: the majority of HVAC failures occur because
+    someone missed a step. Did not calculate the load correctly. Used incorrect
+    equipment. Got wrong the insulation needs. We've fixed countless of these
+    disasters. And each and every time, we remember another learning. Like in
+    2017, when we started adding WiFi controls to each install. Why? Because
+    Sarah, our lead tech, got sick of watching homeowners lose money on
+    inefficient temperature control. Now clients save 20-30% yearly. \r
+
+    \ \r
+
+    https://www.divephotoguide.com/user/bandarzhje/\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: NWY1MDJkNWZmZWE1YzA4YjZjNzRiOTRk
+    algorithm: aes-256-gcm
+    iv: 1a8284272ad98a0aa7ea6241
+    version: "1"
+  spam:
+    score: 4.76
+    marked: true
+  status: auditing
