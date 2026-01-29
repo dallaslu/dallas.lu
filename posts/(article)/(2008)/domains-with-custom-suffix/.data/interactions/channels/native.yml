@@ -2371,3 +2371,90 @@
     score: 4.89
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 567c10b36f4073148d576d184aa5df640d23f061
+  author:
+    name: Brentjum
+    lang: en
+    email:
+      value:
+        encrypted: MTJkYjFjYWQ2MGNjYWQwMjA3ZTUyZGU5MDA4OWU1NWFhMWQ3ZjQ2NzI3NTFjMw==
+        algorithm: aes-256-gcm
+        iv: 2bc71d7db2b4fff6d4bc3ac8
+        version: "1"
+      hash:
+        sha256: decbb6266b3f89a956912fc0f344c7009db9bdfea08965e3b55cca3de50caa40
+  published: 2026-01-29T01:12:22.004Z
+  content: "Let me share the harsh truth: nearly all HVAC failures occur because
+    someone ignored a step. Didn't calculate the load correctly. Used cheap
+    equipment. Got wrong the insulation needs. We've fixed dozens of these
+    failures. And each time, we record another learning. Like in 2017, when we
+    decided on adding WiFi controls to all system. Why? Because Sarah, our lead
+    tech, got frustrated of watching homeowners lose money on poor temperature
+    management. Now clients save 20-30% yearly. \r
+
+    \ \r
+
+    https://www.storeboard.com/productairheatingcoolingandelectrical\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: N2MwZmE3Njg4YzhhMThhODljNTFkZGVjYTc=
+    algorithm: aes-256-gcm
+    iv: 2e55e245c5275f8a4dbf98f8
+    version: "1"
+  spam:
+    score: 4.85
+    marked: true
+  status: auditing
+- type: reply
+  channel: native
+  id: 98d1cecf6b0242d4331de82a618fc445ab96f420
+  author:
+    name: CharlesFet
+    lang: en
+    email:
+      value:
+        encrypted: MzZjNTc2MzQ5NGU0OGMxNmFkN2RlNjkxY2QzZTJhZjgwNDQxMWI=
+        algorithm: aes-256-gcm
+        iv: 97d21fbd053d2cdace693e2a
+        version: "1"
+      hash:
+        sha256: 49edee38a6a044778769844dc8949e519eb573807e61528a5cbfd8d15f37afc3
+  published: 2026-01-29T01:12:23.250Z
+  content: "Let me explain something most septic companies refuse to: there are
+    two types of people in this reality. Those who assume septic systems are
+    just \"underground boxes for waste,\" and those who've had raw sewage
+    gurgling into their yard at 2 AM. I discovered this difference the hard way
+    in 2005—standing in muck, shivering in a Washington rainstorm, as my
+    siblings and I aided a grizzled installer restore our family's broken
+    system. I was 14. My hands were raw. My clothes were ruined. But that night,
+    something changed: This isn't just dirt work. It's folks' lives we are
+    preserving. \r
+
+    Let me share the dirty truth: the majority of septic companies just service
+    tanks. They act like quick-fix salesmen at a chainsaw convention. But Septic
+    Solutions? They're different. It all began back in the early 2000s when Art
+    and his siblings—just kids hardly tall enough to carry a shovel—assisted
+    install their family's septic system alongside a experienced pro. Visualize
+    this: three pre-teens waist-deep in Pennsylvania clay, learning how soil
+    permeability affects drainage while their friends played Xbox. \"We didn't
+    just dig trenches,\" Art explained to me last winter, steaming coffee cup in
+    hand. \"We learned how earth whispers truths. A patch of wetland vegetation
+    here? That's Mother Nature screaming 'high water table.'\" \r
+
+    \ \r
+
+    \ \r
+
+    https://www.adrex.com/en/forum/about-adrex/plumbing-2074/\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: YTU2ZGJkMDhhZjUxN2M5NGJkYzA5ZjhkMzI=
+    algorithm: aes-256-gcm
+    iv: 0c7643295c3cc5f51647cfb4
+    version: "1"
+  spam:
+    score: 4.62
+    marked: true
+  status: auditing
