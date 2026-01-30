@@ -138,3 +138,30 @@
     score: 4.8
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: cf206737ad4764074fd30375eabbd7403788024c
+  author:
+    name: Shawnwhask
+    lang: en
+    email:
+      value:
+        encrypted: ODM0MGM2MDFkNDVlYTk3M2Q3ODE1YjA0NTBjMjc2NGY0Zg==
+        algorithm: aes-256-gcm
+        iv: cfff257395a56e5afc1ea218
+        version: "1"
+      hash:
+        sha256: ae697d2d300c73031b1d72d430133178b3dd4f7d24d3934dfce1a4f5acf6dcc9
+  published: 2026-01-30T21:31:22.196Z
+  content: <a
+    href="https://customdiggs.com/wp-content/pgs/?code-promo-1xbet_bonus-de-bienvenue-gratuit.html">https://customdiggs.com/wp-content/pgs/?code-promo-1xbet_bonus-de-bienvenue-gratuit.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: YjA3OGZhYmNiODZlMDE0ZDI2OWQ1NmIzNGY=
+    algorithm: aes-256-gcm
+    iv: 1425bf022adf4aef21dbbea5
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
