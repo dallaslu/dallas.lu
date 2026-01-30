@@ -17,3 +17,30 @@
     encrypted: NjcwNzg3NjZiZmU1ODc1MjJiNDRmYTdhM2M=
     algorithm: aes-256-gcm
     iv: 66c56f3716a4e7eaeb09dbd7
+- type: reply
+  channel: native
+  id: d5be6cee06a81e89fa9733d6e7f20865ef7b2da3
+  author:
+    name: Josephfaw
+    lang: en
+    email:
+      value:
+        encrypted: ZDA4MjkyZjk3ZWI1NDNhZWVkODMzOWMxYzUzNDRlOWZjOQ==
+        algorithm: aes-256-gcm
+        iv: 98f968b00bb76fc1e8e4e1b3
+        version: "1"
+      hash:
+        sha256: cbeeb7fc5065fb5e65b663e50fd819d31663cbecf24709ab30aa0687ce9916bd
+  published: 2026-01-30T01:19:29.550Z
+  content: <a
+    href="https://www.motejlekskocdopole.com/wp-content/uploads/?code_promo_115.html">https://musicoterapia.it/wp-includes/pages/codice_promozionale_18.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZWJiOWM3MTNlOTgyYmQ5ZGM2NTJmNDZkMDk=
+    algorithm: aes-256-gcm
+    iv: 41c48729f4b67fff1d9078a9
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
