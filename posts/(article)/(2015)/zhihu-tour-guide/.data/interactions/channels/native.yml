@@ -99,3 +99,42 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 20d1653b6c852e7b77d5bdc8c2163d36e5112d4b
+  author:
+    name: NormanTus
+    lang: en
+    email:
+      value:
+        encrypted: OGI3MGJmMTNmNWQzMWY1ZWMxMTE4ZDA2MjdmMjY3ZTA0MTc2OGY=
+        algorithm: aes-256-gcm
+        iv: 82538962260d5279fad56227
+        version: "1"
+      hash:
+        sha256: 92e444e1227cf81d374e336ec3f06de1e09831fcd04863b2230e3b0ef3729f59
+  published: 2026-01-30T20:58:36.528Z
+  content: "А ты уже [получил|забрал|участвовал] в розыгрыше NFT от LoveShop? ??
+    \"Shop1-biz\" [разыгрывает|дарит|предлагает] [бесплатные|эксклюзивные]
+    токены всем новым участникам! Переходи по ссылке и забери свой! ?? \r
+
+    \ \r
+
+    \ Подробнее \r
+
+    https://blsa-at.world/unsorted/sh-4.html \r
+
+    \ \r
+
+    #loveshop #shop1 #loveshop1300-biz #shop1-biz #loveshop12 #loveshop14
+    #loveshop13 #loveshop15 #loveshop16 #loveshop17 #loveshop18"
+  lang: zh-CN
+  ip:
+    encrypted: OTNmNmU1ODE1MzFjNzZhY2UxODU3ZGNmZTA=
+    algorithm: aes-256-gcm
+    iv: eb433b3f25d17d9554954e9b
+    version: "1"
+  spam:
+    score: 4.8
+    marked: true
+  status: auditing
