@@ -192,3 +192,30 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5fcaa679c63ca79f925af84239ebbc935809ed04
+  author:
+    name: Gonzalotob
+    lang: en
+    email:
+      value:
+        encrypted: NjVjMzkyODgzMTJhZWE5MTc5YjUzYjE5N2FhYmE0MWYyMg==
+        algorithm: aes-256-gcm
+        iv: b6f88b69f59c961227bba91d
+        version: "1"
+      hash:
+        sha256: 6eb7d84407146358737badff4ae2342ef94059e6de4e18eb0938774c97bdbc7a
+  published: 2026-01-31T12:01:45.369Z
+  content: <a
+    href="https://id.arduino.cc/id.arduino.cc">https://id.arduino.cc/id.arduino.cc</a>
+  lang: zh-CN
+  ip:
+    encrypted: OGFhMTI5YWM5ZDA3MjQwNDY2ZmM0MDMyNzY0NA==
+    algorithm: aes-256-gcm
+    iv: 5776ed960212d5e07a36b2d5
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
