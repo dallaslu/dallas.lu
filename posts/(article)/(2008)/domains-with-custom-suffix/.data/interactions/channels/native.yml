@@ -61,3 +61,39 @@
     encrypted: YWY0Y2U1YWMyMWNiOGIzNDUyN2IwYmM1NGJjYg==
     algorithm: aes-256-gcm
     iv: 997a828d76b8318de453702f
+- type: reply
+  channel: native
+  id: 05455dbd5643e43026e178228dc16c5f2c43af5f
+  author:
+    name: Brentjum
+    lang: en
+    email:
+      value:
+        encrypted: ZDQzZjBhOGZiMzVlZWJjYTJiNWE0ZGY4M2RjYjkzYWE0NWQ3YmE2Njg4ZTUyMQ==
+        algorithm: aes-256-gcm
+        iv: d05d9550a712e389412c2782
+        version: "1"
+      hash:
+        sha256: decbb6266b3f89a956912fc0f344c7009db9bdfea08965e3b55cca3de50caa40
+  published: 2026-02-01T07:46:46.485Z
+  content: "Let me share the ugly truth: nearly all HVAC failures happen because
+    someone ignored a step. Didn't calculate the load properly. Used undersized
+    equipment. Miscalculated the insulation needs. We've fixed countless of
+    these messes. And each and every time, we record another learning. Like in
+    2017, when we started adding remote monitoring to all installation. Why?
+    Because Sarah, our senior tech, got sick of watching homeowners lose money
+    on inefficient temperature control. Now clients save 20-30% yearly. \r
+
+    \ \r
+
+    https://www.expatriates.com/cls/62313824.html?1768319065\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: M2RiNjgwNmY0NTFhYjllODMxY2RlMGVjMzk=
+    algorithm: aes-256-gcm
+    iv: 9f480d698628588fe26d8dff
+    version: "1"
+  spam:
+    score: 4.8
+    marked: true
+  status: auditing
