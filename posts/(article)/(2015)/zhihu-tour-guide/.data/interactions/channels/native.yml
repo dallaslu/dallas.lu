@@ -299,3 +299,31 @@
     score: 8.39
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 4d2af355cf4bc65d953b32057474574aaf67afdc
+  author:
+    name: Josephfaw
+    lang: en
+    email:
+      value:
+        encrypted: MjFjN2U5ZGYwM2FmZjZhZmNhYTQ3OTE1ZTAzNWRlZjI3Mg==
+        algorithm: aes-256-gcm
+        iv: ebfd433f6c615ac0124d1223
+        version: "1"
+      hash:
+        sha256: 14ce368f1cbd251c640edeba446e41335a4fae0fd68b4672bc50ffbeeae62291
+  published: 2026-02-02T23:38:37.649Z
+  content: Minecraft is an iconic sandbox game that has captured the hearts of
+    millions of players worldwide <a href="https://minecraft-game.net">Майнкрафт
+    скачать</a>
+  lang: zh-CN
+  ip:
+    encrypted: MWI2NmU0MzJlZDI1NzMwZDViZjk1M2NkZDM=
+    algorithm: aes-256-gcm
+    iv: f8e59072508a76d55955bdec
+    version: "1"
+  spam:
+    score: 6.29
+    marked: true
+  status: rejected
