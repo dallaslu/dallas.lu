@@ -199,3 +199,39 @@
     score: 4.58
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 981f14cb35cfe0ffba50ab75caef57ebfc0eae90
+  author:
+    name: Brentjum
+    lang: en
+    email:
+      value:
+        encrypted: ODliYTM5MTYwYWZjOGEwOGYxY2M1YjVhMjIwNjU2NGU5YjkwZWYzZmRjNTBlYQ==
+        algorithm: aes-256-gcm
+        iv: f8f6f68019cdb628b2bfa36c
+        version: "1"
+      hash:
+        sha256: decbb6266b3f89a956912fc0f344c7009db9bdfea08965e3b55cca3de50caa40
+  published: 2026-02-02T15:53:00.354Z
+  content: "Let me share the brutal truth: most HVAC failures take place because
+    someone missed a step. Did not calculate the load correctly. Used undersized
+    equipment. Misjudged the insulation needs. We've fixed hundreds of these
+    messes. And each and every time, we record another insight. Like in 2017,
+    when we began adding WiFi controls to all system. Why? Because Sarah, our
+    lead tech, got sick of watching homeowners burn money on bad temperature
+    management. Now clients save 20-30% yearly. \r
+
+    \ \r
+
+    https://www.cybo.com/US-biz/product-air-heating-cooling-and\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: MWIxY2M3NDc3ZGYzMDdhMzExYTkwZGQ0OTE=
+    algorithm: aes-256-gcm
+    iv: e6240967ea34921881bda79b
+    version: "1"
+  spam:
+    score: 4.82
+    marked: true
+  status: auditing
