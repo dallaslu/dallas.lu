@@ -327,3 +327,31 @@
     score: 6.29
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 96d3857e0872395ce75cfbb6fae4219bfef739b4
+  author:
+    name: zhivie_tsmt
+    lang: en
+    email:
+      value:
+        encrypted: YzljYmYzNzMwODk2Y2UzNGMwOGU0NDA1ZTEwNzkxZDJhNmRkY2JjNzQzNDFhMjIxM2U4YQ==
+        algorithm: aes-256-gcm
+        iv: bec9a3a842d08e4bb4166360
+        version: "1"
+      hash:
+        sha256: 4cf538db8254197ad6e88183c9d0e6221f8d6b1919319616b4b4e0405b9bfbbf
+  published: 2026-02-03T22:10:33.157Z
+  content: живые подписчики в тг
+    [url=https://companies.rbc.ru/news/Oijc65NSNH/kupit-zhivyih-podpischikov-v-tg-servisyi-i-besplatnyie-metodyi/]живые
+    подписчики в телеграм канал[/url] живые подписчики тг бесплатно
+  lang: zh-CN
+  ip:
+    encrypted: NDNlNWE0NDExMjBhNjI5Njg4YmExY2M5
+    algorithm: aes-256-gcm
+    iv: d18c7621eab202c831d451d3
+    version: "1"
+  spam:
+    score: 9.14
+    marked: true
+  status: rejected
