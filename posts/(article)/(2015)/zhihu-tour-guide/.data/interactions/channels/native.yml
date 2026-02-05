@@ -383,3 +383,32 @@
     score: 5.22
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: e1c5ba2f102ce1b5df226efead18404550ea202d
+  author:
+    name: cossa_lumt
+    lang: en
+    email:
+      value:
+        encrypted: NGFlYzc2ZjU4ZjQ1ODBlMGJjOWYxMTM2OTBhMTgxODQxYmE4Njk0YTNiNmU3YjMzMzczZQ==
+        algorithm: aes-256-gcm
+        iv: d0594c115bf596461660d293
+        version: "1"
+      hash:
+        sha256: 3f720d933ace141424e76c2cc701a253238914f85695d54935f81ee61f55aee3
+  published: 2026-02-05T17:49:37.209Z
+  content: Вы узнаете как накрутить звёзды в Телеграм бесплатно и платно в 2026
+    году
+    [url=https://www.cossa.ru/top_rating/338703/]https://www.cossa.ru/top_rating/338703/[/url]
+    Накрутка звёзд в Телеграм - ТОП-25 проверенных сервисов [2026]
+  lang: zh-CN
+  ip:
+    encrypted: OWU1ZGZjYTIwMmQzMTc1NzZlNTY4NmMw
+    algorithm: aes-256-gcm
+    iv: 3f8b0f94f8b380331276d002
+    version: "1"
+  spam:
+    score: 8.62
+    marked: true
+  status: rejected
