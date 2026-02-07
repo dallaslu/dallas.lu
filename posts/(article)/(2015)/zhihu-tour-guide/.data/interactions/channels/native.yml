@@ -502,3 +502,33 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: fbb17836ab17734ae09a09d3d98dc0a1d4a483cc
+  author:
+    name: Kraktat
+    lang: en
+    email:
+      value:
+        encrypted: YWZlNTdmZGJjZTM1MjM2MjRkMmIzYzU3NDQ2ZGI4MDllMzJjN2VmNzdm
+        algorithm: aes-256-gcm
+        iv: 708fd7e95936dca5cbd91c5f
+        version: "1"
+      hash:
+        sha256: 82538b4c8e57c4ef8eed43a7dfdd88f11f9896464b0990a27c93eeef436d57e2
+  published: 2026-02-07T14:58:52.939Z
+  content: Чтобы предотвратить риски, вызванные с фишингом, и предоставить своему
+    аккаунту безусловную охрану, потребуется заходить исключительно через
+    валидные каналы. Такой метод — наиболее безопасный метод застраховать
+    профиль в безопасности [url=https://1000fix.com]кракен даркнет маркет
+    зеркала[/url]
+  lang: zh-CN
+  ip:
+    encrypted: OTc0Y2E1NmMxMDQzMjMyOTc0MmM1NGZlNTY=
+    algorithm: aes-256-gcm
+    iv: db85d2577b73694d3f9ce3cd
+    version: "1"
+  spam:
+    score: 4.77
+    marked: true
+  status: auditing
