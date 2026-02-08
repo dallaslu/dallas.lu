@@ -532,3 +532,30 @@
     score: 4.77
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 84330e597cd95e48d3a7998faae9214e7aa0564f
+  author:
+    name: Shawnwhask
+    lang: en
+    email:
+      value:
+        encrypted: OTVlMWZhYjRmMjk2Nzk2NGU5YTFkNmEyODI4MGVjYjAyYg==
+        algorithm: aes-256-gcm
+        iv: 1241f6ba2a254f5486633417
+        version: "1"
+      hash:
+        sha256: 47bfcc133ef160e6e37a1d64824836325f389eee404768681aa75bfd5977a84e
+  published: 2026-02-08T04:29:04.085Z
+  content: <a
+    href="https://www.decidim.barcelona/profiles/bonusmelbet1/activity">https://www.decidim.barcelona/profiles/bonusmelbet1/activity</a>
+  lang: zh-CN
+  ip:
+    encrypted: NjhhNjUyZTFkOTYxYTU2MWRjMDJjM2Q0ZTA0Mg==
+    algorithm: aes-256-gcm
+    iv: 4fd75d6287a72ce413b36c58
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
