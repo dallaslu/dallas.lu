@@ -559,3 +559,42 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 162327b815a0cedfea6850ef9f11cc379c82475a
+  author:
+    name: NormanTus
+    lang: en
+    email:
+      value:
+        encrypted: MDA4OTBjMTNjOWRmNmIzNGRmMzBlZWE3ZmZlNDM1OWU4MzU5Mjg=
+        algorithm: aes-256-gcm
+        iv: b04f3e46a01c1e081736b209
+        version: "1"
+      hash:
+        sha256: 92e444e1227cf81d374e336ec3f06de1e09831fcd04863b2230e3b0ef3729f59
+  published: 2026-02-08T23:15:32.735Z
+  content: "А ты уже [получил|забрал|участвовал] в розыгрыше NFT от LoveShop? ??
+    \"Shop1-biz\" [разыгрывает|дарит|предлагает] [бесплатные|эксклюзивные]
+    токены всем новым участникам! Переходи по ссылке и забери свой! ?? \r
+
+    \ \r
+
+    \ Подробнее \r
+
+    https://loveshops.life/articles/loveshop-zerkalo-segodnya.html \r
+
+    \ \r
+
+    #loveshop #shop1 #loveshop1300-biz #shop1-biz #loveshop12 #loveshop14
+    #loveshop13 #loveshop15 #loveshop16 #loveshop17 #loveshop18"
+  lang: zh-CN
+  ip:
+    encrypted: MDExYjQyZjcwNDRiMDQ4NDI0Zjg5NmNlYjU=
+    algorithm: aes-256-gcm
+    iv: 56be2c04d97905ef33299ff5
+    version: "1"
+  spam:
+    score: 4.94
+    marked: true
+  status: auditing
