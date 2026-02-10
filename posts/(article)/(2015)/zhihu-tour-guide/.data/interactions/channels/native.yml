@@ -690,3 +690,32 @@
     score: 4.6
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 39b742fd56565ae9ff19f79b0de11919264ffcc5
+  author:
+    name: Clarkenlax
+    lang: en
+    email:
+      value:
+        encrypted: ZWY4NTRkMTlkNDgzZGI1OGRkZDliODRlODRiZTE0MmI1Yw==
+        algorithm: aes-256-gcm
+        iv: 75f8bdf976e47715ad027559
+        version: "1"
+      hash:
+        sha256: 6581c1af4560824760258ff3b9572177b5f27acb55529fe4f96603a74dc51954
+  published: 2026-02-10T19:03:23.646Z
+  content: Мы предлагаем эксклюзивный дизайн и высокое качество материалов. Вас
+    ждут шкафы и кровати из массива дуба и сосны <a
+    href="https://mebel-v-peterburge.ru/product-category/kuhni/">кухня на заказ
+    недорого цены</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODdkODczOTQ0MzdjMjRlOGFiY2FiOTMzMWI=
+    algorithm: aes-256-gcm
+    iv: c5f150fa312e5f87b76fe1c1
+    version: "1"
+  spam:
+    score: 9.47
+    marked: true
+  status: rejected
