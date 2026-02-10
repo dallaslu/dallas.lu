@@ -598,3 +598,95 @@
     score: 4.94
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 261d60a56d45012d6cda7eac22be5070200afbca
+  author:
+    name: NormandTaf
+    lang: en
+    email:
+      value:
+        encrypted: Y2ZlODllNzA1Y2IzMTM5OGEwZjQ1ZDQ4NDJjZDMxMmM1MWMwMTRiMTg1
+        algorithm: aes-256-gcm
+        iv: 4055c86d883325b743b52063
+        version: "1"
+      hash:
+        sha256: 6b60758b1a39fc9b7c912ee2ecb85fb496a3afe4dbb2a5404ccac272a4d14aa6
+  published: 2026-02-10T09:54:48.633Z
+  content: "\r
+
+    \r
+
+    It is astonishing.\r
+
+    \r
+
+    Learn Who are the Jews?\r
+
+    \r
+
+    https://www.youtube.com/shorts/SEB3w3A98rU\r
+
+    \r
+
+    ----------------------------------------------\r
+
+    \r
+
+    The most recent update on the humanitarian situation in Gaza.\r
+
+    \r
+
+    A ceasefire was established on 10 October 2025, permitting the release of
+    all hostages, yet Israel has not opened the Rafah crossing to let more than
+    26 thousand injured individuals seek medical care in Egypt.\r
+
+    \r
+
+    1- They continue to experience a harsh famine since IPC announced a famine
+    in the Gaza region on 22 August 2025, with two years of no vegetables,
+    protein, chicken, or meat.\r
+
+    \r
+
+    2- A maximum of 20% of the required medication is permitted.\r
+
+    \r
+
+    3- As winter approaches, 1.5 million individuals urgently require emergency
+    housing.\r
+
+    \r
+
+    4- Lack of clean water.\r
+
+    \r
+
+    5- relocating 90% of Gazaâ€™s inhabitants.\r
+
+    \r
+
+    6- Over 69,000 individuals have lost their lives, and at least 170,000 have
+    suffered injuries in Gaza since October 2023.\r
+
+    \r
+
+    In conclusion, with their alleged ceasefire, the end of the war in Gaza (per
+    Trump). They halted the Gainsaid (destroying children with aerial bombings).
+    And now they are gradually starving and eliminating them in slow motion.\r
+
+    \r
+
+    Immediate action is required in Gaza.\r
+
+    \r\n"
+  lang: zh-CN
+  ip:
+    encrypted: YWE4YjViMDNkMzdlZjFlNjg2YWM=
+    algorithm: aes-256-gcm
+    iv: dabc2caf646da646d0c1ea15
+    version: "1"
+  spam:
+    score: 4.6
+    marked: true
+  status: auditing
