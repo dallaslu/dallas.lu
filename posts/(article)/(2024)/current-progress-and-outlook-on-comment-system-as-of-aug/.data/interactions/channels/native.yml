@@ -84,3 +84,30 @@
     version: "1"
   spam:
     score: 2
+- type: reply
+  channel: native
+  id: 9c129b43260e9878fa97af806c1fa9fd94d87210
+  author:
+    name: MarvinBom
+    lang: en
+    email:
+      value:
+        encrypted: MzY3N2UzY2EwMmRkNDdkNzcwMzA5M2ViNjI4ODAxNWRmZGUwNTgyMQ==
+        algorithm: aes-256-gcm
+        iv: d1309b59701fae163da3ac40
+        version: "1"
+      hash:
+        sha256: 6a1592b2b84bfdc25927c74b1f48f7f26fc54df167f5a16f2164ff04cfe15352
+  published: 2026-02-11T00:30:52.460Z
+  content: "https://ultimelestiri.md/social/cum-o-companie-rusa-a-organizat-un-at\
+    ac-cibernetic-asupra-unei-firme-din-r-moldova/#google_vignette\r\n"
+  lang: en
+  ip:
+    encrypted: NDc3NmZmZTQ0NDIwYmJjOTgwOGQ5OTA3NzM=
+    algorithm: aes-256-gcm
+    iv: 57e95a7241b9994c1839a556
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
