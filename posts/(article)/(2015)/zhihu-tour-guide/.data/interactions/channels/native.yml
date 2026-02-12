@@ -747,3 +747,32 @@
     score: 5.59
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 6e7eccb99e9436145f27aaea6ba5c842f4b159a7
+  author:
+    name: Kraktat
+    lang: en
+    email:
+      value:
+        encrypted: MDZmNzM2OWM3OThjMDRhZTU5YzE2YTE3NmQ0NjM3MTZhOTc5MWYyNTAx
+        algorithm: aes-256-gcm
+        iv: 5325570463fe8d316056c320
+        version: "1"
+      hash:
+        sha256: 82538b4c8e57c4ef8eed43a7dfdd88f11f9896464b0990a27c93eeef436d57e2
+  published: 2026-02-12T07:16:37.038Z
+  content: Многие трейдеры имеют дело с препятствием обнаружения актуальной адреса
+    на ресурс Kraken. Применение фишинговым линкам из сомнительных пабликов
+    способно повлечь к потере личной информации и капитала.
+    [url=https://www.uniaomedica.com.br]kraken актуальная ссылка[/url]
+  lang: zh-CN
+  ip:
+    encrypted: M2ZjOTlhYjNjZGZjOTk0ODJhZmYyMjc0OGQ=
+    algorithm: aes-256-gcm
+    iv: 5f6b88638f01ef2a43cca964
+    version: "1"
+  spam:
+    score: 4.92
+    marked: true
+  status: auditing
