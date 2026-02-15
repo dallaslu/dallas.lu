@@ -832,3 +832,43 @@
     score: 9.69
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 47cbd1483c4a36f5e102b797db4a52eabc35d4c2
+  author:
+    name: NormanTus
+    lang: en
+    email:
+      value:
+        encrypted: MzZmZmQ5NGMzMzlkZjkyMDEzYTFhOTJmN2YxM2Q4YTI0MzA3MzI=
+        algorithm: aes-256-gcm
+        iv: a9a1ea65c338323947436ce0
+        version: "1"
+      hash:
+        sha256: 92e444e1227cf81d374e336ec3f06de1e09831fcd04863b2230e3b0ef3729f59
+  published: 2026-02-15T20:27:31.777Z
+  content: "А ты уже [получил|забрал|участвовал] в розыгрыше NFT от LoveShop? ??
+    \"Shop1-biz\" [разыгрывает|дарит|предлагает] [бесплатные|эксклюзивные]
+    токены всем новым участникам! Переходи по ссылке и забери свой! ?? \r
+
+    \ \r
+
+    \ Подробнее \r
+
+    https://love-shop-1300.shop/articles/покупка-в-loveshop-быстрый-вход-и-пров\
+    ерка-ссылки-20260213-041832.html \r
+
+    \ \r
+
+    #loveshop #shop1 #loveshop1300-biz #shop1-biz #loveshop12 #loveshop14
+    #loveshop13 #loveshop15 #loveshop16 #loveshop17 #loveshop18"
+  lang: zh-CN
+  ip:
+    encrypted: ZDAzY2JmMWRiOTczMmI1NWNjNDFlZTQw
+    algorithm: aes-256-gcm
+    iv: 9a140e8d6b9260222e4ca540
+    version: "1"
+  spam:
+    score: 5.19
+    marked: true
+  status: auditing
