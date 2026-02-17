@@ -56,3 +56,31 @@
     algorithm: aes-256-gcm
     iv: 570bc7e2d8d3dbd4cd1534a3
   target: 250
+- type: reply
+  channel: native
+  id: 2f7c5389593479f34d3411887100e5f8ab649370
+  author:
+    name: Trezvii vibor_bwPi
+    lang: en
+    email:
+      value:
+        encrypted: MDgzMjczZmZmZjg5YTRkOTk1YmFhMmFjZmMwMmNjODY4NGQyY2YzMTRhYmYxNzVlZGNiODBkNDc0YzU0YmI3YzM5N2U3MTQ5NjA1OGIzMGQzNDBiNjEyMWFh
+        algorithm: aes-256-gcm
+        iv: f0ab3598c6e925bf1b69fb8b
+        version: "1"
+      hash:
+        sha256: 8831d252b7a2e71f317cf70c7c1673eb86be32b4144de1cf14e8173549c9cf20
+  published: 2026-02-17T10:08:23.702Z
+  content: РўСЂРµР·РІС‹Р№ РІС‹Р±РѕСЂ
+    [url=https://nashdiabet.ru/lechenie/vyzvat-narkologa-na-dom-v-sankt-peterburge.html/]https://nashdiabet.ru/lechenie/vyzvat-narkologa-na-dom-v-sankt-peterburge.html/[/url]
+    .
+  lang: zh-CN
+  ip:
+    encrypted: ZDZkNDA3OWNhOTY0MzVjMTYyZjkxOTFiZTU3ODI5
+    algorithm: aes-256-gcm
+    iv: a3ce8b421a70213eb4f61d2f
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
