@@ -1034,3 +1034,31 @@
     score: 6.7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: fe84c744179979fc9558acc9c151af60169909e3
+  author:
+    name: Gonzalotob
+    lang: en
+    email:
+      value:
+        encrypted: YjE1OGNkZTlkODIyZGVlZmQ4MDcwNTg0MjYwZjVhNGQ0MDBm
+        algorithm: aes-256-gcm
+        iv: a5c601a549c7d363ced98c96
+        version: "1"
+      hash:
+        sha256: 54eec11bca1f713622117faaee6de9122653065325807557b5c513e25c8e2386
+  published: 2026-02-18T23:01:47.475Z
+  content: Backlink sales and SEO support for website promotion. Trusted links,
+    custom strategies, transparent service <a
+    href="https://intercargo.by/">TELEGRAM @SEO_ANOMALY - SEO BACKLINKS</a>
+  lang: zh-CN
+  ip:
+    encrypted: NWYzMGYwMGJkZmY0ODczMWFhZGQzNWU1M2I5Zg==
+    algorithm: aes-256-gcm
+    iv: e2cf7e8d70cbf503d31be142
+    version: "1"
+  spam:
+    score: 6.11
+    marked: true
+  status: rejected
