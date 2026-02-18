@@ -952,3 +952,58 @@
     score: 6.52
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e7266129ec590313503d0e2044f66f4235af28a3
+  author:
+    name: NormanTus
+    lang: en
+    email:
+      value:
+        encrypted: Njk0M2RiZTQwYjZlODQ4ZGZlNjBiODdjZWExNThlZDNiODRiYzM=
+        algorithm: aes-256-gcm
+        iv: b516a12ccf9be879792cd198
+        version: "1"
+      hash:
+        sha256: 92e444e1227cf81d374e336ec3f06de1e09831fcd04863b2230e3b0ef3729f59
+  published: 2026-02-18T13:36:01.447Z
+  content: "А ты уже [получил|забрал|участвовал] в розыгрыше NFT от LoveShop? ??
+    \"Shop1-biz\" [разыгрывает|дарит|предлагает] [бесплатные|эксклюзивные]
+    токены всем новым участникам! Переходи по ссылке и забери свой! ?? \r
+
+    \ \r
+
+    \ \r
+
+    \ \r
+
+    #loveshop #shop1 #loveshop1300-biz #shop1-biz #loveshop12 #loveshop14
+    #loveshop13 #loveshop15 #loveshop16 #loveshop17 #loveshop18 \r
+
+    \ \r
+
+    предлагает] [бесплатные \r
+
+    \ \r
+
+    \ Подробнее \r
+
+    https://shop1tor.cc/articles/loveshop-актуальные-домены-и-запасные-ссылки-2\
+    0260214-031543.html \r
+
+    \ \r
+
+    \ \r
+
+    #loveshop #shop1 #loveshop1300-biz #shop1-biz #loveshop12 #loveshop14
+    #loveshop13 #loveshop15 #loveshop16 #loveshop17 #loveshop18"
+  lang: zh-CN
+  ip:
+    encrypted: ZGEzZjZjODY0NTE1MjgxOTFjNGI3M2RkNzUyNg==
+    algorithm: aes-256-gcm
+    iv: 5ec6e0ddfb18dccd584f242a
+    version: "1"
+  spam:
+    score: 4.95
+    marked: true
+  status: auditing
