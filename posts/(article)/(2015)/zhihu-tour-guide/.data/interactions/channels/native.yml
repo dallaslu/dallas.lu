@@ -898,3 +898,30 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 883811190385a1bb292923ac4a7ee955b24161b1
+  author:
+    name: Gonzalotob
+    lang: en
+    email:
+      value:
+        encrypted: MmVjY2M4ZGVkZjlkMTE2M2VkZjc4NDAxYjI4YTFlZmVmZjI2
+        algorithm: aes-256-gcm
+        iv: d726468b308ab4694c405867
+        version: "1"
+      hash:
+        sha256: 5f1c5076a34ce6ec73472e68ff428d140725e9843f726b964fd476e771e4b5c8
+  published: 2026-02-18T02:41:53.741Z
+  content: <a
+    href="https://my.usaflag.org/forums/discussion/promo-code-for-free-bet-in-1xbet-2026-1x200red/">https://my.usaflag.org/forums/discussion/promo-code-for-free-bet-in-1xbet-2026-1x200red/</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZWNmNzJhYzc5MDJhY2NlZDIwNzA2ZmVjMGMwNQ==
+    algorithm: aes-256-gcm
+    iv: d8e4d40d4d93fcf8a8bdd2c1
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
