@@ -146,3 +146,37 @@
     score: 5.5
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 4f5492fa2c7c1eca0eb23ab52eb3ea2d114ff8d8
+  author:
+    name: PeterGulse
+    lang: en
+    email:
+      value:
+        encrypted: ZGE5ODkyY2IyODZmZTU3NzQ0MjE2ZDBhNTZiYWYxNDg1OA==
+        algorithm: aes-256-gcm
+        iv: 26af312825f30b09b21c4109
+        version: "1"
+      hash:
+        sha256: 3d625cd2727d288f1cb23541285847cffd470217a9875006f26e21d515652480
+  published: 2026-02-19T20:01:22.685Z
+  content: "Bravo, magnificent phrase and is duly\r
+
+    \ \r
+
+    \ \r
+
+    --------- \r
+
+    https://avenue18.ru/"
+  lang: en
+  ip:
+    encrypted: ZDJhNDcyMTU3MDE5NGQzYjA0MTgzMDMzMTY=
+    algorithm: aes-256-gcm
+    iv: 79e722d94617a897fbd587c1
+    version: "1"
+  spam:
+    score: 5.78
+    marked: true
+  status: auditing
