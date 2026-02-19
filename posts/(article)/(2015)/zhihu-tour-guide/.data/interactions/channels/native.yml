@@ -1090,3 +1090,30 @@
     score: 6.17
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 73fc7384342140043c059f1fae825fd4c129d29a
+  author:
+    name: Gonzalotob
+    lang: en
+    email:
+      value:
+        encrypted: YmYwNzcxMzhiNDQ1MzdhYjA0MzI5ZjM3ZjY0MWEzZjYwNzJj
+        algorithm: aes-256-gcm
+        iv: d903cae1fa756604897e4c62
+        version: "1"
+      hash:
+        sha256: 095fb78493237245dfdb1d77aef59b8fc3431271dc9f20454812d316451dc1a7
+  published: 2026-02-19T23:52:52.189Z
+  content: This site breaks down salary ranges by role, compares US vs UK
+    compensation <a href="https://salarydatahub.uk">IT salaries</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZGJlNGJhZTBkMjAwOGEwNmY3YWFlMjVjYzAxMQ==
+    algorithm: aes-256-gcm
+    iv: 00b7ca534161fb084d18f70e
+    version: "1"
+  spam:
+    score: 6.43
+    marked: true
+  status: rejected
