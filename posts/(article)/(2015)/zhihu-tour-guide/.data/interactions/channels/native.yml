@@ -1144,3 +1144,30 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 78ee4b3bc98092b63b87c68d5b928298274f4797
+  author:
+    name: Clarkenlax
+    lang: en
+    email:
+      value:
+        encrypted: NTE3MmEzNDA5MTk5NjVjZDU4YTIxODNlNDUxOTQyMDM1ZmFm
+        algorithm: aes-256-gcm
+        iv: c95a95a6014b396b3eefa743
+        version: "1"
+      hash:
+        sha256: 1e11331b361f35998f7152f68fae64efc51c35a03c80a1d66e5cd2a8fd4997d5
+  published: 2026-02-20T15:38:36.180Z
+  content: Exciting game mechanics and interactions between players immerse you in
+    a world of sultans <a href="https://ezhata-time.kz/rukz">Султан Геймз</a>
+  lang: zh-CN
+  ip:
+    encrypted: MzVlZmViZTUxNGVjYWY2MjM4NGM2NWMyODQ=
+    algorithm: aes-256-gcm
+    iv: 4c3fff1cf5400c203aa072a3
+    version: "1"
+  spam:
+    score: 6.37
+    marked: true
+  status: rejected
