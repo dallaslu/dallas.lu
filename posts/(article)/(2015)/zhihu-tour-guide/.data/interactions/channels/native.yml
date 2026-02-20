@@ -1171,3 +1171,31 @@
     score: 6.37
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: bcf71746226099955ca8aabacb6fbc6422b6fbcb
+  author:
+    name: Gonzalotob
+    lang: en
+    email:
+      value:
+        encrypted: M2I3NGY5YjJkOGM2YWI5YTI3YWJjOTkwNjg0Mjk5MjZmZGY0
+        algorithm: aes-256-gcm
+        iv: 15ec30b0c8179288d98f63b6
+        version: "1"
+      hash:
+        sha256: 999a0472509b40d0e324262af22a94adfa629f9c9c26d820228db88d7c5c03e3
+  published: 2026-02-20T18:49:35.770Z
+  content: Песок, щебень и другие инертные материалы с доставкой,  честные цены,
+    точные сроки, заявка и расчёт за 5 минут <a
+    href="https://gruz-trans63.ru/tovary/shcheben/">щебень для подушки</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzYzZmI1YWFiNzAwZjZkZDNlMTI2NDc4NDMwYw==
+    algorithm: aes-256-gcm
+    iv: 6ba091d30d23e34b1b177787
+    version: "1"
+  spam:
+    score: 9.4
+    marked: true
+  status: rejected
