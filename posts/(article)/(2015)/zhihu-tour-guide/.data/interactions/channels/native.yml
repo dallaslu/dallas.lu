@@ -1199,3 +1199,29 @@
     score: 9.4
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 930e6a09aebd5a403af7eb62cd4cc45ef87d5624
+  author:
+    name: Clarkenlax
+    lang: en
+    email:
+      value:
+        encrypted: YTE5NzE1MWRhMDgzZjg2ZjMyNTdiODFiNjQ2OGZiYzYwZDg4
+        algorithm: aes-256-gcm
+        iv: 2c30609f56b17d73e287ac9a
+        version: "1"
+      hash:
+        sha256: 64b86b0a303dc009d731e03b35ce25ee12aa28867c7729a64a21b324340b6b45
+  published: 2026-02-20T21:03:19.299Z
+  content: <a href="https://pbase.com/betmaster33">https://pbase.com/betmaster33</a>
+  lang: zh-CN
+  ip:
+    encrypted: NGEyY2VkYmQ2MWFjNmMxNDk2NDhmODg5MmE=
+    algorithm: aes-256-gcm
+    iv: a2acc6c5df1335b8aaebcfc7
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
