@@ -1117,3 +1117,30 @@
     score: 6.43
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: d049ef7ac170ff7b45d73bc24f7ca786d5ae1e43
+  author:
+    name: Clarkenlax
+    lang: en
+    email:
+      value:
+        encrypted: ODBhYmRhMTdhOGNjMzg1NmZjZjJkZjY4Y2Y3ODljNWE3MzFi
+        algorithm: aes-256-gcm
+        iv: afb7b07a006676f11ceb0c4c
+        version: "1"
+      hash:
+        sha256: 1e668fc4270ea3b8de157f5cd65e90195a259c45abaee8c39b078e08b9f6184a
+  published: 2026-02-20T00:06:02.311Z
+  content: <a
+    href="https://www.google.ie/url?q=https://astra-hotel.ch/articles/code_promo_45.html">https://www.google.ie/url?q=https://astra-hotel.ch/articles/code_promo_45.html</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODNjZTZmMDkyMmMwNThlZDRiMDRmODY4OWE=
+    algorithm: aes-256-gcm
+    iv: c1f5cf9d403128ec20cdade4
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
