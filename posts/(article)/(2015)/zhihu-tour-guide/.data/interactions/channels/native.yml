@@ -1405,3 +1405,30 @@
     score: 6.94
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 4b8ba88cd6901296db656e1cc4bbfe82d091bfcd
+  author:
+    name: KennethJam
+    lang: en
+    email:
+      value:
+        encrypted: ODI4YjY0MGY4NmMzYWIxZjQ5ZTlhZjY1YzAyMWEyYjNhNjRi
+        algorithm: aes-256-gcm
+        iv: 31852e0c8328a37c3f0ed520
+        version: "1"
+      hash:
+        sha256: 7797f5ccabdae2e3ef8cede953b6599fb24ee78044f2f58111d191fec30d8df9
+  published: 2026-02-24T12:30:14.242Z
+  content: <a
+    href="https://www.lebanonnews.net/newsr/15853">https://www.lebanonnews.net/newsr/15853</a>
+  lang: zh-CN
+  ip:
+    encrypted: MjJkNWQzY2JjMDhhYmFhNzAyNTA4OWJmMzc3ZA==
+    algorithm: aes-256-gcm
+    iv: d3e3d49571ae20d040b543b2
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
