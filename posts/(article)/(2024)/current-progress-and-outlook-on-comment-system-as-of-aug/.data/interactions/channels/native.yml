@@ -207,3 +207,31 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 6aec43e8394de6c08d18ecbb5c5412373674a111
+  author:
+    name: DonaldExper
+    lang: en
+    email:
+      value:
+        encrypted: ZmZiOTkzZWU0NTY2NGMyMzI1YTM0M2IzNTM4NzNjZjk4MzRhYzM=
+        algorithm: aes-256-gcm
+        iv: ebc5c470a6a4b5b75c4740f2
+        version: "1"
+      hash:
+        sha256: b90f8fe3d15512f038a2b77d0e29077b34c4f40c80f217e2ce6bde4b4ee86126
+  published: 2026-02-26T00:49:25.241Z
+  content: "https://moldovalive.md/technical-attack-public-discrediting-and-isola\
+    tion-the-story-of-an-it-company-from-moldova-pushed-out-of-the-european-mar\
+    ket/\r\n"
+  lang: en
+  ip:
+    encrypted: ZWM2MjgxYjliYzIwMTg4MWY1ODk3YTQzODY=
+    algorithm: aes-256-gcm
+    iv: b84a99507cd3042445755391
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
