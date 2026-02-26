@@ -1569,3 +1569,30 @@
     score: 9.15
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: fd2f0e61e5455f8825c7684e5cf72281e6d6d56d
+  author:
+    name: KennethJam
+    lang: en
+    email:
+      value:
+        encrypted: NzVlM2U2MzdkOTMxZjFmZjA4NmViODNhNGUyZjkyMzVmMTFm
+        algorithm: aes-256-gcm
+        iv: bc6c17e5d7d4b361779e5c55
+        version: "1"
+      hash:
+        sha256: 89d2bbd8f08c68e818d7fede4361dfe49ed3da0f740e7f670a60e4bf524226f5
+  published: 2026-02-26T01:32:49.922Z
+  content: <a
+    href="https://www.thepetservicesweb.com/board/board_topic/2635323/7901023.htm">https://www.thepetservicesweb.com/board/board_topic/2635323/7901023.htm</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZDQ3NDQ2MGRmMGUwMTc3ODBjZTVhOGU0ODE=
+    algorithm: aes-256-gcm
+    iv: 57c5183e365d50e8e703f852
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
