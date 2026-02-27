@@ -1649,3 +1649,31 @@
     score: 7.51
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e8586c3cd7004f85ee185ae1bae42a2079093b72
+  author:
+    name: KennethJam
+    lang: en
+    email:
+      value:
+        encrypted: YjJiNmI0ZDA1Nzg2MmM4MTFmNjQ5ZTMxMjAwOTZiMzk1MGY2
+        algorithm: aes-256-gcm
+        iv: 4e982252ec941e4a64b0877b
+        version: "1"
+      hash:
+        sha256: 74fa663f2044201b90df4236d6edbe6648387f8e37fbb7af0fa865f955207066
+  published: 2026-02-27T12:05:49.054Z
+  content: Esports has long ceased to be a pastime for teenagers in computer clubs
+    <a
+    href="https://airpres.kz/social/ekonomika-vnimaniya-kak-monetizirovat-svoj-blog-v-kazahstane-esli-ty-poka-ne-millionnik/">https://airpres.kz/social/ekonomika-vnimaniya-kak-monetizirovat-svoj-blog-v-kazahstane-esli-ty-poka-ne-millionnik/</a>
+  lang: zh-CN
+  ip:
+    encrypted: MjNhOTA0OTNhODUwOGMzYWQzY2QyMjFkN2VmYQ==
+    algorithm: aes-256-gcm
+    iv: d78a27afeff859617b8900de
+    version: "1"
+  spam:
+    score: 7.81
+    marked: true
+  status: rejected
