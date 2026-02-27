@@ -1596,3 +1596,29 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: bc06d9add42289611521d393148a2608c787b25b
+  author:
+    name: KennethJam
+    lang: en
+    email:
+      value:
+        encrypted: ZjZmNmViOTRlZmRjYTBjNWZjMjkxNWIyZDU3NjQ1NzBjNzE4
+        algorithm: aes-256-gcm
+        iv: f2d46eecd25946c7a76e4299
+        version: "1"
+      hash:
+        sha256: 9e67cda6f3191325a28310f02c781e7364123bab6052556c74d918c731c5a859
+  published: 2026-02-27T01:05:25.907Z
+  content: <a href="https://theplayoffs.news/int-en/1xbet-promo-code/">hqporner</a>
+  lang: zh-CN
+  ip:
+    encrypted: OGQ3MzAwMjg2NTNiZGNkYzY2MmEwZTFhYzdjYw==
+    algorithm: aes-256-gcm
+    iv: fa78f58dd9eec8fe8f9d9d58
+    version: "1"
+  spam:
+    score: 8.17
+    marked: true
+  status: rejected
