@@ -235,3 +235,31 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8b04709294055321b101a248336c082e4d110de0
+  author:
+    name: DonaldExper
+    lang: en
+    email:
+      value:
+        encrypted: ZjYzZjMwMTcxZGE2MGM1ZjI5ZjI1NjZmZGI0ZTE4MjAxOWExNDE=
+        algorithm: aes-256-gcm
+        iv: e1d800be476e0597a7d20fc0
+        version: "1"
+      hash:
+        sha256: b90f8fe3d15512f038a2b77d0e29077b34c4f40c80f217e2ce6bde4b4ee86126
+  published: 2026-02-27T01:19:05.887Z
+  content: "https://disinfo.md/ru/tehnicheskaya-ataka-publichnaya-diskreditacziya\
+    -i-izolyacziya-istoriya-it-kompanii-iz-moldovy-vytesnennoj-s-evropejskogo-r\
+    ynka/\r\n"
+  lang: en
+  ip:
+    encrypted: YTg1MjQ2NmJkMTllNDQxMDJkOThkMTZkMjI=
+    algorithm: aes-256-gcm
+    iv: e3ab58064f5c6c11da634ea7
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
