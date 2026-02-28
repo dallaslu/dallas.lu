@@ -112,3 +112,31 @@
     score: 8.15
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c46423d90d3ded80c495f00db180880db4681e6d
+  author:
+    name: tipografiya_aqoa
+    lang: en
+    email:
+      value:
+        encrypted: ZDU1NjhkNGU4NTIzZWJmMDk2MWM3M2Y4Y2JiNTYxMmY0ZDgwZGQ4NmVmZWJmZWZkYThiMjQ5N2VmNjYxNzJlNjY5ZWU5NjEzMTBmZmIzYzIzNGVjZDY2Y2Vi
+        algorithm: aes-256-gcm
+        iv: 42df935992ff2d16230bcd04
+        version: "1"
+      hash:
+        sha256: 15b655052c446afe0ca7971354ed2086e4655233fe72da5b8385012fbe4ffa0d
+  published: 2026-02-28T20:51:50.050Z
+  content: заказать полиграфическую продукцию
+    [url=http://diafan.rusheat.ru/forum/gde-zakazat-kachestvennuyu-upakovku-dlya-nebolshog//]http://diafan.rusheat.ru/forum/gde-zakazat-kachestvennuyu-upakovku-dlya-nebolshog/[/url]
+    .
+  lang: zh-CN
+  ip:
+    encrypted: NTZkNTE3ODU3NGE3YjY0YmUyMjRhNzUzYzU=
+    algorithm: aes-256-gcm
+    iv: 2e62272a9c130b97f29e48d4
+    version: "1"
+  spam:
+    score: 9.91
+    marked: true
+  status: rejected
