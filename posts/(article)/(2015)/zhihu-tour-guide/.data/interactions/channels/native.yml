@@ -1731,3 +1731,32 @@
     score: 4.66
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 78c7519b15196b6479683f5e29c8d6da6ad8e13c
+  author:
+    name: Kraktat
+    lang: en
+    email:
+      value:
+        encrypted: MWE5YWZkMDE5OWVjYThjM2RkOWYwZGQyNjhmN2E4YWUzNzQwZWI2Njcw
+        algorithm: aes-256-gcm
+        iv: d29bae41c240d25d35b8f31b
+        version: "1"
+      hash:
+        sha256: 82538b4c8e57c4ef8eed43a7dfdd88f11f9896464b0990a27c93eeef436d57e2
+  published: 2026-03-01T10:58:09.510Z
+  content: Для надежного и быстрого авторизации на ресурс Кракен, в частности в
+    реалиях систематических санкций, со стороны надзорных служб, необходимо
+    внедрять лишь верифицированные шлюзы.
+    [url=https://countyassembliesforum.org]активная ссылка кракен[/url]
+  lang: zh-CN
+  ip:
+    encrypted: MDhkMDAyZjZiY2U2MGE0MGIzMDlmMWFjZjE=
+    algorithm: aes-256-gcm
+    iv: a5048a4b85d0633d3bb0e593
+    version: "1"
+  spam:
+    score: 5.01
+    marked: true
+  status: auditing
