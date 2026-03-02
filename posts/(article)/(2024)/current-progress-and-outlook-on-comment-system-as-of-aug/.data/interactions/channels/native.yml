@@ -263,3 +263,30 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: ad0b424f9592040bd5874dcb41c1a02985046efe
+  author:
+    name: Glenndiags
+    lang: en
+    email:
+      value:
+        encrypted: NDdmMTYwM2FiNTg5MWQ4ZDZkZTE1ODZkZGJjNTVhZGM=
+        algorithm: aes-256-gcm
+        iv: 06fb816dad741a3c56e99de7
+        version: "1"
+      hash:
+        sha256: 9cddb5fb8480b343cd69d29aa5e832493946ec685d595c2cd1a0486db7396aac
+  published: 2026-03-02T09:39:49.358Z
+  content: "https://www.tripadvisor.co.nz/Profile/bronsonf54?fid=1a8af319-1993-4c\
+    3e-9bc2-6c3ff12447e7\r\n"
+  lang: en
+  ip:
+    encrypted: ODgxMzA4MmFhMDc2ZjcyZDE1NzE1ZWQ0MmI=
+    algorithm: aes-256-gcm
+    iv: 1a2ae833478c1064be397fff
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
