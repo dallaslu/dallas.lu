@@ -1845,3 +1845,30 @@
     score: 4.76
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: f95655f717faed7ab568f1d3070a7cac80b2a2e2
+  author:
+    name: santehnik_ua
+    lang: en
+    email:
+      value:
+        encrypted: Y2IwYTU0ZWE3ODMyZWVlYmVmNjgxZDljMWI1MzhlMmM3ZTkxNTJkNzhjOGNmYzA4ODcxYw==
+        algorithm: aes-256-gcm
+        iv: 8758614b8deabc690d8cf0b2
+        version: "1"
+      hash:
+        sha256: 4b1672face120c092029a6a0ce5d93e17857b0d96b2a68714845f47eb590aa40
+  published: 2026-03-03T05:56:44.918Z
+  content: "https://www.0362.ua/list/533211 Досвід київських будинків у
+    підтриманні каналізації \r\n"
+  lang: zh-CN
+  ip:
+    encrypted: ODFkYWZhZmM4OWM3Y2M1YjQwNTE0YjQxMzI=
+    algorithm: aes-256-gcm
+    iv: fe734904a2dedd233e6650b2
+    version: "1"
+  spam:
+    score: 5.62
+    marked: true
+  status: auditing
