@@ -1899,3 +1899,31 @@
     score: 6.53
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: eb0dfa173aa61702f216b936768f48c9c30389ef
+  author:
+    name: KennethJam
+    lang: en
+    email:
+      value:
+        encrypted: ODNlNTliMGNlNTZkYmZiMGY1Y2IxNzM5ODYzYTk4OTRmYThh
+        algorithm: aes-256-gcm
+        iv: 6800563999e975c7de4690ac
+        version: "1"
+      hash:
+        sha256: f3e62ff2e1708129b873f97c9e749413ae66d36141cbbb6f65198e6b08c0f721
+  published: 2026-03-05T03:48:23.707Z
+  content: By 2026, digital communications have shifted from constant availability
+    to mindful presence <a
+    href="https://airpres.kz/social/umnyj-dom-v-kazahstane-2026-kak-tehnologii-ekonomyat-dengi-i-beregut-nervy/">https://airpres.kz/social/umnyj-dom-v-kazahstane-2026-kak-tehnologii-ekonomyat-dengi-i-beregut-nervy/</a>
+  lang: zh-CN
+  ip:
+    encrypted: NTFhMmI2YjA4NzQ3ZjJiYmJiYzM0YWUyMWM0Yw==
+    algorithm: aes-256-gcm
+    iv: 2a01e63ac73e207a4da3e2f4
+    version: "1"
+  spam:
+    score: 7.61
+    marked: true
+  status: rejected
