@@ -1969,3 +1969,31 @@
     score: 4.86
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: b586f1563e1d0fcbe62a494cdab68adb04adfe32
+  author:
+    name: Leonardtug
+    lang: en
+    email:
+      value:
+        encrypted: ZWY4NDYxOWE0MzZiN2U1NzdkNGE4ZTMxOTAyOTgwMmM4YjJm
+        algorithm: aes-256-gcm
+        iv: 71e3bb1ad4a383cd851446d1
+        version: "1"
+      hash:
+        sha256: 0097511f79cd851e11b46c002a0042c1b412abb35bdced03a7eaeb7a21295727
+  published: 2026-03-06T03:46:40.970Z
+  content: Массово создает поставки на основе этих данных — всего в несколько
+    кликов вместо десятков ручных действий <a
+    href="https://t.me/s/best_electriki">Сделай Сам ТВ</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTU4MWU3NGNkZGNkNzgzMjE0ZjcyYzI2YmE=
+    algorithm: aes-256-gcm
+    iv: c4dd8ea52d434d3ee177c62f
+    version: "1"
+  spam:
+    score: 6.31
+    marked: true
+  status: rejected
