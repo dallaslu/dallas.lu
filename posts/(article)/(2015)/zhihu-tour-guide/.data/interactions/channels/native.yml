@@ -1927,3 +1927,45 @@
     score: 7.61
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e586399022b3b90626c3ae7b7bb6d83f18fc61e8
+  author:
+    name: JohnnyOmime
+    lang: en
+    email:
+      value:
+        encrypted: NzQ2ZTNjOGUyMTVmMmNjYTIxMzRkYmY4M2FmZWY2MjhkMmNhZGU4OWVjMWQyOTE3YzFmMWQ2NDljZTgzZmVmMWU5OTBkMw==
+        algorithm: aes-256-gcm
+        iv: 59e5cc30deaf0f39ba06f85e
+        version: "1"
+      hash:
+        sha256: da37addeb1021d18ed3839df203eaced86fc31f5179f57f7809b26fdaef60b1e
+  published: 2026-03-06T03:30:50.229Z
+  content: "The Image Capture utility imports photos from cameras and scanners
+    while providing basic editing tools like rotation and deletion before
+    transfer. \r
+
+    Discover this: \r
+
+    [url=https://winandroidapps.com/graphics-and-design/24014-johnim.html] \r
+
+    compare system cleanup utilities for Intel Macs \r
+
+    [/url] \r
+
+    See the comprehensive review: \r
+
+    To quickly access lesser-used system preferences, utilize Spotlight search
+    by pressing Command-Space and typing the preference name; this is often
+    faster than navigating through the System Settings menu manually."
+  lang: zh-CN
+  ip:
+    encrypted: ZTM3YTBmMzMxMTViYjFiYzczNjEwZjU2YzE=
+    algorithm: aes-256-gcm
+    iv: 3083f3ff6d82f6510c149233
+    version: "1"
+  spam:
+    score: 4.86
+    marked: true
+  status: auditing
