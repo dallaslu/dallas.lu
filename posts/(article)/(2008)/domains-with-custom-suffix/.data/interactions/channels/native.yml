@@ -556,3 +556,55 @@
     score: 6.14
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5f422766a6a487bd27eba1bce60c97a34e506f5c
+  author:
+    name: Stanleypaw
+    lang: en
+    email:
+      value:
+        encrypted: ZGY0YzkwNDlmZWM5OTZmYTZlNDc3ZGZmYTg2YTAxYzg5MTA0N2U4OQ==
+        algorithm: aes-256-gcm
+        iv: ebbed264ad2a2ca866b381a8
+        version: "1"
+      hash:
+        sha256: b8d33aa017b541ea014d4311ddd06980ee5b9c12ae1e8d63bd3bf717e9a79e73
+  published: 2026-03-08T00:46:44.681Z
+  content: "I need to tell you something nearly all septic companies will not:
+    there are two kinds of people in this reality. Those who believe septic
+    systems are just \"buried containers for waste,\" and those who've had raw
+    sewage erupting into their yard at midnight. I discovered this distinction
+    the tough way in 2005—standing in sludge, freezing in a Washington downpour,
+    as my siblings and I aided a veteran installer restore our family's failed
+    system. I was fourteen. My hands were raw. My clothes were ruined. But that
+    night, something clicked: This is not just dirt work. It's people's lives we
+    are preserving. \r
+
+    Here's the harsh truth: most septic companies just maintain tanks. They are
+    like temporary salesmen at a demolition convention. But Septic Solutions?
+    They are unique. It all began back in the early 2000s when Art and his
+    family—just kids barely tall enough to shoulder a shovel—helped install
+    their family's septic system alongside a grizzled pro. Visualize this: three
+    kids knee-deep in Pennsylvania clay, understanding how soil porosity affects
+    drainage while their buddies played Xbox. \"We never just dig holes,\" Art
+    explained to me last winter, warm coffee cup in hand. \"We understood how
+    soil whispers secrets. A patch of wetland vegetation here? That's Mother
+    Nature shouting 'high water table.'\" \r
+
+    \ \r
+
+    \ \r
+
+    https://screeching-sternum-3e4.notion.site/Septic-Solutions-LLC-2fe4c621335\
+    380a1a944cbfdd2f6dd63?pvs=73\r\n"
+  lang: zh-CN
+  ip:
+    encrypted: OTBiNzJhYjBlZGUxNmUxYmMyYjcxM2RhNGY=
+    algorithm: aes-256-gcm
+    iv: 03d3446d81eea0ea5f703ff7
+    version: "1"
+  spam:
+    score: 4.72
+    marked: true
+  status: auditing
