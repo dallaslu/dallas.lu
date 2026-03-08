@@ -2024,3 +2024,30 @@
     score: 7.87
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 076708374e58df13fc56f5b8b69391de930e0516
+  author:
+    name: KennethJam
+    lang: en
+    email:
+      value:
+        encrypted: YzI2OGQxMGE3ZDkyZDc4OTU3MWU0ZTJmNmNhYjVkN2RkMDcw
+        algorithm: aes-256-gcm
+        iv: da283b8067ca02ab0aa3b044
+        version: "1"
+      hash:
+        sha256: 5bda670d28ab6a50c2978e806ce498094e8c50d8c4afa4aa46ab35c917d41252
+  published: 2026-03-08T00:29:36.982Z
+  content: Уникальные подарки и сувениры для ваших близких от nashipodarki <a
+    href="https://www.business-gazeta.ru/article/137030">Наши Подарки</a>
+  lang: zh-CN
+  ip:
+    encrypted: NTU4YzMzMzlkZDRlYWE0MzNlNjkzMjhiZjJiMQ==
+    algorithm: aes-256-gcm
+    iv: 5297de615eb324cbb4c7060a
+    version: "1"
+  spam:
+    score: 8.32
+    marked: true
+  status: rejected
