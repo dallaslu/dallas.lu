@@ -2081,3 +2081,31 @@
     score: 4.8
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: a122e65363ae961c9b8053a5dc8f6ede1eb9c625
+  author:
+    name: KennethJam
+    lang: en
+    email:
+      value:
+        encrypted: NTdlNDE0ZTBjMTg2N2UzZjA0MmQ0MWYzOTYwMTQwOTljYmM1
+        algorithm: aes-256-gcm
+        iv: 72cd488c60ac5bfe4d868e46
+        version: "1"
+      hash:
+        sha256: cd13012ddbb4508c03ab4c7c78c4c0c893ceaa7462688d4437516ab0a1f33743
+  published: 2026-03-08T15:10:07.614Z
+  content: 'В нашем магазине вы найдёте шкатулки на любой вкус: от миниатюр с
+    золотым орнаментом до крупных изделий с многофигурными композициями <a
+    href="https://prochepetsk.ru/kak-pravilno-vybrat-suveniry-i-podarki-prakticheskiye-sovety-na-lyuboy-sluchay">ссылка</a>'
+  lang: zh-CN
+  ip:
+    encrypted: ODg3ODQ2MDlhMWNhYWExMjViZmU5NzYwZDIwOA==
+    algorithm: aes-256-gcm
+    iv: 3e909dc626807f1b3af589d0
+    version: "1"
+  spam:
+    score: 9.86
+    marked: true
+  status: rejected
