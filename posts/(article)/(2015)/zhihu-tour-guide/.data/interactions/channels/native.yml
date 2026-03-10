@@ -2109,3 +2109,31 @@
     score: 9.86
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: afed7c9d4266f74e3939e4bca849ae19751fc56d
+  author:
+    name: MartinVal
+    lang: en
+    email:
+      value:
+        encrypted: Mzc4YWU3MzZhMGU1OGNjZTc4MDM0YWEwOTg3Mzg1YmI5YmJm
+        algorithm: aes-256-gcm
+        iv: 7abb430dbd7fdbf4bbd1b2b2
+        version: "1"
+      hash:
+        sha256: 9d259370a246848e41e27f3ce429de2bbbf02a8679e832174cde0baa27a183ca
+  published: 2026-03-10T05:19:05.914Z
+  content: Maindrop is removed from its colorful pixel graphics Minecraft <a
+    href="https://finance.azberg.ru/read-blog/40897">https://finance.azberg.ru/read-blog/40897</a>.
+    Click on the main MineDrop immediately.
+  lang: zh-CN
+  ip:
+    encrypted: ZmJjZmI2ZjIwYTA0YTdhOGVkMDU2NWFiYjNlZQ==
+    algorithm: aes-256-gcm
+    iv: e334d5b6945093c384a70c6a
+    version: "1"
+  spam:
+    score: 9.96
+    marked: true
+  status: rejected
