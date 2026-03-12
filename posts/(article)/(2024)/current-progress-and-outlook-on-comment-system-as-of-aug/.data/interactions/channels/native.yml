@@ -316,3 +316,30 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a1d08bbfd4a922f2a6e72495a1ea10c414aa5742
+  author:
+    name: OscarDob
+    lang: en
+    email:
+      value:
+        encrypted: MjQ2YWJmYTUzMTAyOTAzMDFlZDM0MWI1NDcwMjhlZWNlOTY3MDQ0MA==
+        algorithm: aes-256-gcm
+        iv: ad72351b76d2e8f72e8f8860
+        version: "1"
+      hash:
+        sha256: 3bc019df1cd613d925a1c71dc9e8da338b4dcae566dce9b8cf7f670ba3be0ad5
+  published: 2026-03-12T00:17:07.627Z
+  content: "<a href=https://continent-telecom.com/virtual-number-usa>американский
+    номер для приема смс</a>\r\n"
+  lang: en
+  ip:
+    encrypted: MGRmYjYxN2FmYzQwNTU2ODNmZWUzYmZlOTk=
+    algorithm: aes-256-gcm
+    iv: f95bc25f634216ca61471d7c
+    version: "1"
+  spam:
+    score: 6.73
+    marked: true
+  status: rejected
