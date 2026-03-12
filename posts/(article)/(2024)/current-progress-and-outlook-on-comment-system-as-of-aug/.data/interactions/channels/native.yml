@@ -343,3 +343,30 @@
     score: 6.73
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 70c0cb3018db98086dd2646b61a35537edc82396
+  author:
+    name: Ralphdor
+    lang: en
+    email:
+      value:
+        encrypted: NDViNTQxZTRjMGE2NmU5OWQ1YzJlZjZhMzhkMzBkZDkzOGNmYmJlN2Ey
+        algorithm: aes-256-gcm
+        iv: aa68acdf6c72e699fa0a0afb
+        version: "1"
+      hash:
+        sha256: 1d11767ad76b176a6262b69533a857bae8291ccf66ad4ba873b41f01b83a3caf
+  published: 2026-03-12T15:13:31.474Z
+  content: "<a href=https://virtual-local-numbers.com>virtual local phone
+    number</a>\r\n"
+  lang: en
+  ip:
+    encrypted: ODZiNGVjNDlmOWM0NzhkZmQ4ODIwNDBlODQ=
+    algorithm: aes-256-gcm
+    iv: 44345a3a509b64a45bcf46ad
+    version: "1"
+  spam:
+    score: 4.92
+    marked: true
+  status: auditing
