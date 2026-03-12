@@ -23,3 +23,27 @@
     version: "1"
   spam:
     score: 0.33
+- type: reply
+  channel: native
+  id: 3f1910fdfffcbc6289f6e48fcf540b09b316bfde
+  author:
+    name: 2broear
+    lang: zh-CN
+    email:
+      value:
+        encrypted: MDM4Yzk4ZDViZTcyNTZjNTgzZDU5NjZiMjkxNjdh
+        algorithm: aes-256-gcm
+        iv: 1b7cb08830e67f9156d5fe56
+        version: "1"
+      hash:
+        sha256: 023aa5324398e24ecdb9dfa0041e3f31e9b333fed3114857376a5cb94dd5d7f1
+  published: 2026-03-12T08:21:30.758Z
+  content: 刑满释放，妙啊
+  lang: zh-CN
+  ip:
+    encrypted: MGUzYjBkYmE1ODcyZWZkMWZlNmFiY2NmOWMxNmUwN2Y5MGYwY2FmYWIzZTQ1MTJlMzY3YTE1YjAyODZlMjM4YzNhZjU0N2My
+    algorithm: aes-256-gcm
+    iv: 84a47b20bc8afd5b8ecea596
+    version: "1"
+  spam:
+    score: 0.3
