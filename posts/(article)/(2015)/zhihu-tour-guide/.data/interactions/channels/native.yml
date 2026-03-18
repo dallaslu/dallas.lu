@@ -2414,3 +2414,30 @@
     score: 6.43
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8c8b494a18763986ab7074126932a288fc89d687
+  author:
+    name: Leonardtug
+    lang: en
+    email:
+      value:
+        encrypted: NGM0NDFjZDhhNTRiMTZkMThiNWQ3N2Q5NDA2NjM5ZTIxZTQz
+        algorithm: aes-256-gcm
+        iv: 774288002c9b1fb8f056ebfc
+        version: "1"
+      hash:
+        sha256: 4a7e5b4b83086a44e7f3b8c2eedbd41c44be05a835ad301214c117f735f9b210
+  published: 2026-03-18T23:32:00.937Z
+  content: Minedrop - это эксклюзивный онлайн слот, погружающий вас в мир
+    Майнкрафта <a href="https://l-spb.ru/">Казино майнкрафт</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZGY5YmJmZmM4OTZhYTRmNmI5OWRjYTMwZWI=
+    algorithm: aes-256-gcm
+    iv: d677c60b3d5efd4a383893e5
+    version: "1"
+  spam:
+    score: 9.29
+    marked: true
+  status: rejected
