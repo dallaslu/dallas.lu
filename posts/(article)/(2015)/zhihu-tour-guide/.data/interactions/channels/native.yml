@@ -2359,3 +2359,31 @@
     score: 6.81
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: d3e73d50f5d8ecc4eb18c53a9cc6c8d8950e3b65
+  author:
+    name: Leonardtug
+    lang: en
+    email:
+      value:
+        encrypted: MjgzMzc2ZTMwNDk5ZmE1Mzc0YjFjMjM0NzdjMDMwOWExODYy
+        algorithm: aes-256-gcm
+        iv: e8fbf1a4b7dbb99173d1ee0c
+        version: "1"
+      hash:
+        sha256: c1fdc329b657bed224f7277c15230ed48b3f3a73865ac223b2e5f70c0ecdbf31
+  published: 2026-03-18T00:51:09.038Z
+  content: Поиск и устранение поломок на месте. Компьютерная диагностика <a
+    href="https://116help.ru/vyezdnaya-diagnostika/">Выездная диагностика
+    автомобиля Казань</a>
+  lang: zh-CN
+  ip:
+    encrypted: M2I4ZDRjMjRkNTE4NGE4NDRiNzMzMmM3OTI=
+    algorithm: aes-256-gcm
+    iv: ca4c564cd3a55570dd301037
+    version: "1"
+  spam:
+    score: 9.58
+    marked: true
+  status: rejected
