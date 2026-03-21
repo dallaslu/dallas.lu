@@ -2583,3 +2583,31 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e0b33eebd3d0bafabcd82d38412ed89a4e5da012
+  author:
+    name: Leonardtug
+    lang: en
+    email:
+      value:
+        encrypted: MWFiN2Q5ODlkMzQwN2U0MDZmNDJlNDE1NzI3Mzk4M2M5Zjk5
+        algorithm: aes-256-gcm
+        iv: 59dfdf8b5a24c3ae16909c02
+        version: "1"
+      hash:
+        sha256: 390aebbc7c85340dbadbd6dc3ff9df1d4a094ddc3c698ed2d7c6ef0cc92026cb
+  published: 2026-03-21T04:49:16.682Z
+  content: В компании «BS grup» предоставляем услуги по ремонту для владельцев и
+    арендаторов коммерческой недвижимости <a href="https://bs-grup.ru/">срочный
+    ремонт</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODE2YjM2N2NkNjk2Y2Y3YThmY2FmMGZhMGY=
+    algorithm: aes-256-gcm
+    iv: 9904e543653193136611f6ba
+    version: "1"
+  spam:
+    score: 9.15
+    marked: true
+  status: rejected
