@@ -2638,3 +2638,31 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 44542e76238f19c20aed73358bf9d330e259472e
+  author:
+    name: Leonardtug
+    lang: en
+    email:
+      value:
+        encrypted: ODhkOWNjYTE5ZWNkZDczOTNlMTE3NjU1NDgwNDU3YTRkM2Q3
+        algorithm: aes-256-gcm
+        iv: e880f15b6a8fff38e0e08330
+        version: "1"
+      hash:
+        sha256: 3c3d5aa6a79f6337b26b5b252b74793d98b99530b3da4b5b9e12428097917bb1
+  published: 2026-03-22T02:07:59.046Z
+  content: MineDrop stands out with its picturesque pixel art <a
+    href="https://empresasbusiness.com/blogs/136/%D0%9F%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D1%82%D0%B5%D1%81%D1%8C-%D0%B2-MineDrop-%D0%9A%D1%80%D0%B0%D1%84%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D1%81%D0%BB%D0%BE%D1%82-%D0%B2-%D1%81%D1%82%D0%B8%D0%BB%D0%B5-Minecraft?lang=ru_ru">https://empresasbusiness.com/blogs/136/%D0%9F%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D1%82%D0%B5%D1%81%D1%8C-%D0%B2-MineDrop-%D0%9A%D1%80%D0%B0%D1%84%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D1%81%D0%BB%D0%BE%D1%82-%D0%B2-%D1%81%D1%82%D0%B8%D0%BB%D0%B5-Minecraft?lang=ru_ru</a>.
+    This project aims to build a simple catapult using everyday.
+  lang: zh-CN
+  ip:
+    encrypted: NjM2MTNkYTIzYmU1NzMwYmRhNmZiZDU4ODM=
+    algorithm: aes-256-gcm
+    iv: f8a0b4cd36e45fc5faab57c9
+    version: "1"
+  spam:
+    score: 7.98
+    marked: true
+  status: rejected
