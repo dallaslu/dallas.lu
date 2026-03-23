@@ -2747,3 +2747,30 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: f41cd17922a055e6bea26ab7ca745fae1fb3e0a0
+  author:
+    name: Leonardtug
+    lang: en
+    email:
+      value:
+        encrypted: YWYwMGQzMjk2MTA4NWMwYmJiYjIwZGQxNzM2MjI3ZTFiMDQ4
+        algorithm: aes-256-gcm
+        iv: 4e93d38a4b876c44192c2334
+        version: "1"
+      hash:
+        sha256: 55e985a03ef0b77893a92867bb81ef51df19d0f8f4ed46844873e2395d3fa083
+  published: 2026-03-23T12:01:14.576Z
+  content: <a
+    href="http://nec.phorum.pl/viewtopic.php?p=784511#784511">http://nec.phorum.pl/viewtopic.php?p=784511#784511</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTU3ODIyZGY3MzJlMTJhZjQyMTY3YzZiZTI=
+    algorithm: aes-256-gcm
+    iv: 9fff04af0d836aca82578e6e
+    version: "1"
+  spam:
+    score: 8.5
+    marked: true
+  status: rejected
