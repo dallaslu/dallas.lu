@@ -2801,3 +2801,29 @@
     score: 8.5
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 319912bb7129e3fe17431ec7c56a9a00d2393dbc
+  author:
+    name: Leonardtug
+    lang: en
+    email:
+      value:
+        encrypted: MGU0ZDAyMzY0ZmMzYWFmZGI4ODkwZTNkZWRmMGIzM2U0NGE0
+        algorithm: aes-256-gcm
+        iv: 13116ca712fd33df4bb9b1c9
+        version: "1"
+      hash:
+        sha256: 918cc8d1a080d6c23ee1c2252d6cba51ced18f44705fbc952aaaf78ab601b4fb
+  published: 2026-03-23T20:44:11.352Z
+  content: https://habr.com/ru/companies/tehrevizor/articles/1006988/
+  lang: zh-CN
+  ip:
+    encrypted: OWExZjNjOTM5MTQwNzM5MjM1NDMwMmFhMmQ=
+    algorithm: aes-256-gcm
+    iv: f8dc2ae9a7cbf3dd4a055260
+    version: "1"
+  spam:
+    score: 7.5
+    marked: true
+  status: rejected
