@@ -2693,3 +2693,30 @@
     score: 6.38
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9eee6c56fe838e5a73a020206268b7428a8ca0dd
+  author:
+    name: Leonardtug
+    lang: en
+    email:
+      value:
+        encrypted: YmVhNGViYzRmMGQwMTIyNjI3YzNiNDc1Y2QyY2NhZTFkODc1
+        algorithm: aes-256-gcm
+        iv: 7e9cb16e6ceda0d6e0e38b10
+        version: "1"
+      hash:
+        sha256: ac45f3640e2cf7641ffbdaa315e563abf4c2a1882fe1e0620ffef528cfef5a38
+  published: 2026-03-23T02:58:26.698Z
+  content: Мы занимаемся проектированием и строительством бассейнов под ключ в
+    Краснодаре и Сочи <a href="https://basyug.ru">https://basyug.ru</a>
+  lang: zh-CN
+  ip:
+    encrypted: YjMzYjA3MTcyNjgzZTllZGJlY2Y5MzA5NDQ=
+    algorithm: aes-256-gcm
+    iv: aaa9ae6413015d8d690ea1f6
+    version: "1"
+  spam:
+    score: 9.59
+    marked: true
+  status: rejected
