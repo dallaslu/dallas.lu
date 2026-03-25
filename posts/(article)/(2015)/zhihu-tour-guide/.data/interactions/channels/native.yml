@@ -2992,3 +2992,32 @@
     score: 6.89
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: cd9cde8a99046d658e279a2e7dd778d5137e9a3b
+  author:
+    name: Leonardtug
+    lang: en
+    email:
+      value:
+        encrypted: MTdhYzQ0YzFhNDk1MDM1NjUzNmI4MGNhYzI3ZTBiMDJlOGUw
+        algorithm: aes-256-gcm
+        iv: 6b328100c2b66dc6445ef098
+        version: "1"
+      hash:
+        sha256: f9718734b852989860a9c0373e4a8eb0b8656809d7698458f065a4ee94eb9613
+  published: 2026-03-25T16:40:55.024Z
+  content: Online image generation with a neural network! Create unique images
+    based <a
+    href="https://habr.com/ru/companies/tehrevizor/articles/993060/">программа
+    нейросети для создания музыки</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZDQzY2EwYmQxOGRhNGI1MTU0N2Q0ZGI0ZDM=
+    algorithm: aes-256-gcm
+    iv: 4e452a996af91d623aeed1bd
+    version: "1"
+  spam:
+    score: 6.67
+    marked: true
+  status: rejected
