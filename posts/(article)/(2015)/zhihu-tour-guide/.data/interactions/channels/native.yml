@@ -2936,3 +2936,31 @@
     score: 6.34
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 3eec1d010f38d39a83690340098d17b7b924d442
+  author:
+    name: Leonardtug
+    lang: en
+    email:
+      value:
+        encrypted: MzUxOGEyZTM5MWJkZTgxNjEwY2RlY2M3ZDU3OGFlMWIzMTg4
+        algorithm: aes-256-gcm
+        iv: 2c28da8ade34a7f5d8571c91
+        version: "1"
+      hash:
+        sha256: 6c3ae0594b97df126af066e03cf594b9e777163684703a47775d51174bac9fd0
+  published: 2026-03-25T01:29:25.603Z
+  content: The entire scene is rendered in a realistic style ai <a
+    href="https://habr.com/ru/companies/tehrevizor/articles/1006988/">лучшая
+    нейросеть для генерации изображений</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzdiNDg2MTE2YmQ0ZTc3ODY3YjczMjEyMTE=
+    algorithm: aes-256-gcm
+    iv: 8a18ab18908f12a3d7437439
+    version: "1"
+  spam:
+    score: 6.8
+    marked: true
+  status: rejected
