@@ -2964,3 +2964,31 @@
     score: 6.8
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8ecaaa8d9dfc347a866d297ac50e887da03615d0
+  author:
+    name: Leonardtug
+    lang: en
+    email:
+      value:
+        encrypted: ZjdmNjU3NWFjMzdlMzY0ZWZmMDU0OThlM2EwMmMxZTJiOWU0
+        algorithm: aes-256-gcm
+        iv: 9c7e068cf8a1f419d4ca4395
+        version: "1"
+      hash:
+        sha256: 015091de4afa61f8be9cc928fd0651ba60ef628534b442098633ee05a53ce32c
+  published: 2026-03-25T10:08:36.501Z
+  content: My introduction to song-generating tools (neural networks) began <a
+    href="https://habr.com/ru/companies/tehrevizor/articles/993060/">ии создания
+    музыки</a>
+  lang: zh-CN
+  ip:
+    encrypted: NmI2ODE0YWNkNjM1M2YxZTFlOWMzNmNlYmQ=
+    algorithm: aes-256-gcm
+    iv: 5d7e1e80398d46e24c861361
+    version: "1"
+  spam:
+    score: 6.89
+    marked: true
+  status: rejected
