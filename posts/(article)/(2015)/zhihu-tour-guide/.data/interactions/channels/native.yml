@@ -3213,3 +3213,57 @@
     score: 5.06
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 489058654416571fd912f6a6802f0befe835ac75
+  author:
+    name: Leonardtug
+    lang: en
+    email:
+      value:
+        encrypted: Y2FjYjQwYzI4MmQ0Y2VhMWQ5YTkxMzFiZjkyNWEwZTZiNzY0
+        algorithm: aes-256-gcm
+        iv: 47ee4a243c604cab9a79da97
+        version: "1"
+      hash:
+        sha256: 442cfbc75ef9dcce30d37ec7fb4015d88e1cab3e18d6e0f8b8485322b15df923
+  published: 2026-03-29T12:37:02.620Z
+  content: Сканируйте все возможные криптовалютные пары и фильтруйте по нужным вам
+    параметрам, выбирайте биржу и создавайте уведомления <a
+    href="https://scalpvision.ru">скринер для скальпинга</a>
+  lang: zh-CN
+  ip:
+    encrypted: YzQwMGVjZjNkYTE4MmJhZmI0NmNiN2E4Njk=
+    algorithm: aes-256-gcm
+    iv: 381146f8232be80e3b6da9d3
+    version: "1"
+  spam:
+    score: 9.1
+    marked: true
+  status: rejected
+- type: reply
+  channel: native
+  id: 0b6157d44d62d954458ba91f02ea4821f0962d81
+  author:
+    name: Leonardtug
+    lang: en
+    email:
+      value:
+        encrypted: ZGY2ODE4Mzg4ZjE2MTA2NDkxYTgxNTBlMjAzMzEzNTlmNWQw
+        algorithm: aes-256-gcm
+        iv: 3f51855fbc850475df93be79
+        version: "1"
+      hash:
+        sha256: 8b96b11aa16bdbaf00e16ec069096a256bbe7d12a9079cd767fea0ecd02309e7
+  published: 2026-03-29T14:14:14.154Z
+  content: Результаты, аналитика и прогнозы матчей на кибер фифа и кибер хоккей в
+    лигах Esports Battle, H2H Хабаровск и United Esports Leagues на сегодня <a
+    href="https://cyberfifa.ru/cyberhockey.php">Киберхоккей</a>
+  lang: zh-CN
+  ip:
+    encrypted: MmE1YjhmNDVkNDE5OTJjZTI3NTk4YjkyOWQ=
+    algorithm: aes-256-gcm
+    iv: 6b74e99367ecc5dff1605345
+    version: "1"
+  spam:
+    score: 7.75
