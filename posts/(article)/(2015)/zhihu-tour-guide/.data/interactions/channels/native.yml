@@ -3140,3 +3140,30 @@
     email:
       value:
         encrypted: NDIxMDdkNGFhOTZhOWQ5ZDViMDc5ZG
+- type: reply
+  channel: native
+  id: f0e5266dfe66718cd778cd5c8165a49f6d4b582d
+  author:
+    name: Leonardtug
+    lang: en
+    email:
+      value:
+        encrypted: YjZhMjVmMmI3NjM4NmJlYWY4NjY1YTgxNDg0YTZiODIyMWZm
+        algorithm: aes-256-gcm
+        iv: 2d3242a88c2ca0a51401b0b5
+        version: "1"
+      hash:
+        sha256: b114bb680db511489d621dc3551e57f7f649e77191dcafa4acd465c3da32617b
+  published: 2026-04-01T00:58:26.038Z
+  content: Looking for office rental Berlin? Compare serviced offices <a
+    href="https://www.linkedin.com/pulse/comprehensive-guide-renting-office-space-berlin-rentofficetoday-qjdue/">https://www.linkedin.com/pulse/comprehensive-guide-renting-office-space-berlin-rentofficetoday-qjdue/</a>
+  lang: zh-CN
+  ip:
+    encrypted: MThkZmNkMzU0MmZhMmVhZTE1ZjIwOTM3YjE=
+    algorithm: aes-256-gcm
+    iv: 7944c63857f29cba9e239500
+    version: "1"
+  spam:
+    score: 7.86
+    marked: true
+  status: rejected
