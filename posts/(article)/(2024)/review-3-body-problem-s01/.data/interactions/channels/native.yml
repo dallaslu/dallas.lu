@@ -67,3 +67,50 @@
     version: "1"
   spam:
     score: 0.5
+- type: reply
+  channel: native
+  id: 7617f05d601bb1ad42522b41f04304d609026887
+  author:
+    lang: en
+    email:
+      value:
+        encrypted: ZTZjNWM0MzExNmQ4NzVmNTg0OGVhZWUwYjkxNThhZjEwMGYwZjdmMzFjNGFmZWI2ODAxMjc5MDUwZQ==
+        algorithm: aes-256-gcm
+        iv: b019fe6d4038e4e06b4b15c4
+        version: "1"
+      hash:
+        sha256: c89494d2cc7dcec41da6795298d0ffcd47da9810cddabb51057110203e9323c3
+  published: 2026-04-06T03:03:41.137Z
+  content: DHwmfyQJjFnVqvAyAJ
+  lang: zh-CN
+  ip:
+    encrypted: YTI0YzQ3ZmFhN2I2OTg1ZjNiYTViOGQ2YWRiYjA2
+    algorithm: aes-256-gcm
+    iv: fbec4442876732218d5e3fcc
+    version: "1"
+  spam:
+    score: 3
+  status: auditing
+- type: reply
+  channel: native
+  id: 3997ec357f4a959a43493578349f301fe0e06c72
+  author:
+    lang: en
+    email:
+      value:
+        encrypted: OWQ0Y2I3MTc0YWQ0YjVlZDEyMzIyOWU0OTc1ZGMxM2EyYjNlZTg0ZjljODg1MTEzMzg4ZjAz
+        algorithm: aes-256-gcm
+        iv: ffa7b1c933940fe012189b20
+        version: "1"
+      hash:
+        sha256: efcf7b3353ff700f5d90480c5ee7733d6b77366c0c438da9f8b92f76a0addd26
+  published: 2026-04-08T04:05:58.805Z
+  content: VYBbhuoWDZMeMfuetWN
+  lang: en
+  ip:
+    encrypted: ZTNiYzA4MmIxNjlmOGNlYmQyZDNkOGQyODk=
+    algorithm: aes-256-gcm
+    iv: ccfdfc02bebd28d6d415a13f
+    version: "1"
+  spam:
+    score: 0.5
