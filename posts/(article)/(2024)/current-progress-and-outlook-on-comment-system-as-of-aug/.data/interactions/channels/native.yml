@@ -138,3 +138,29 @@
         algorithm: aes-256-gcm
         iv: 4ed748375d936904beac1032
         version: "1"
+- type: reply
+  channel: native
+  id: 99052fea71cc24e2314e4d55a8e674b4e755ab3d
+  author:
+    name: JosephToush
+    lang: en
+    email:
+      value:
+        encrypted: MzUzNzRiNDk2ZTBiMmJhZjhmN2NlOWRlYmRiZGJkYTcyNzg1MTkxYzgzMzU2NTU1OWI=
+        algorithm: aes-256-gcm
+        iv: b220233b5d097961610dcb28
+        version: "1"
+      hash:
+        sha256: d03c692eda4f78f2d9eb106a8ffe06fd6c655ad796e3d0952fdb7d7d40e4aa0b
+  published: 2026-04-29T23:50:59.986Z
+  content: "<a href=https://virtual-local-numbers.com>virtual local number</a>\r\n"
+  lang: en
+  ip:
+    encrypted: NDljYTE1OTFmMWIyNTliODBlZTJhZWNjMzA=
+    algorithm: aes-256-gcm
+    iv: 4cbc405639ee5916b7467184
+    version: "1"
+  spam:
+    score: 5.09
+    marked: true
+  status: auditing
