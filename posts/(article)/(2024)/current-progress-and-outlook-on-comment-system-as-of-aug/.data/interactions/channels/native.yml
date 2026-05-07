@@ -217,3 +217,30 @@
     score: 4.71
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 6cb00a2401684b6ca648f57b3616357d0082e494
+  author:
+    name: RandyBat
+    lang: en
+    email:
+      value:
+        encrypted: NTcxNDY1NmJkY2VjOTI5NTY1ODA4N2Q4NGMxZTg1ZGUzN2E4YmFjNzZmYTU5MDgxMDkyOWE1ZWM=
+        algorithm: aes-256-gcm
+        iv: e9b5e850746b788798a39ea2
+        version: "1"
+      hash:
+        sha256: 306480b8d6f7724cfeb1e54ed34f857529937c939d011547f777afcbb4e56fbe
+  published: 2026-05-07T23:38:13.019Z
+  content: "<a href=https://drivelity-italy.com/car-rental-bergamo-italy>car hire
+    bergamo airport</a>\r\n"
+  lang: en
+  ip:
+    encrypted: NjcxNGI4OWE0MDA0M2I5OTQ5M2U0NTBlMDc=
+    algorithm: aes-256-gcm
+    iv: 52cdd4089acbe8c8daca2549
+    version: "1"
+  spam:
+    score: 5.19
+    marked: true
+  status: auditing
