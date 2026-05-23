@@ -352,3 +352,30 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 80a5885948ebb77793533eb875a6cf8e177cb8bb
+  author:
+    name: Jeffreyfauch
+    lang: en
+    email:
+      value:
+        encrypted: MjNlYWQyNGQxNzYxNTViZTJiZmExYmRkMTM1OTVkODM4ZDRjNmJjYjNjM2Y0MDgyMzU1MzI2ODllYWQ4
+        algorithm: aes-256-gcm
+        iv: 1ef3d8d7af76e2d92e6c5d3a
+        version: "1"
+      hash:
+        sha256: 61a44b1d7a13f70e5c75f23080699b95d7090cbfa3c7a906bd9093297db0418a
+  published: 2026-05-23T12:37:13.062Z
+  content: "<a href=\"https://drivelity-turkey.com/car-rental-dalaman-turkey\">car
+    rentals in dalaman turkey</a>\r\n"
+  lang: en
+  ip:
+    encrypted: ODJjNmZiZmJhMGNlNWI2MmYyMTdmMzliNGE=
+    algorithm: aes-256-gcm
+    iv: 4561cd93c786905c10cbec98
+    version: "1"
+  spam:
+    score: 5.11
+    marked: true
+  status: auditing
