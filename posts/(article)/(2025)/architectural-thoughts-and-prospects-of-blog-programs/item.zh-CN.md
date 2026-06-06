@@ -7,7 +7,7 @@ taxonomy:
         - Internet
     tag:
         - Blog
-publish: false
+published: false
 ---
 
 博客程序（或者 CMS）已经大约一年没有继续开发了。对目前的实现有些不太满意。因为 SvelteKit 新版也有大量的变化，索性等待合适的时机来一次完全的重构。
