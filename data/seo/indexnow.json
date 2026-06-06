@@ -1,11 +1,11 @@
 {
   "status": 200,
-  "updated": "2026-01-30T01:06:16.279Z",
+  "updated": "2026-06-06T03:52:15.748Z",
   "body": {
     "host": "dallas.lu",
     "urlList": [
-      "https://dallas.lu/Architectural Thoughts and Prospects of Blog Programs/",
-      "https://dallas.lu/zh-CN/Architectural Thoughts and Prospects of Blog Programs/"
+      "https://dallas.lu/use-udp2raw-in-openwrt-for-wireguard/",
+      "https://dallas.lu/zh-CN/use-udp2raw-in-openwrt-for-wireguard/"
     ]
   },
   "response": ""
