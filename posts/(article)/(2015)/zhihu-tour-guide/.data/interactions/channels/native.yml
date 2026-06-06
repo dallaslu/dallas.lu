@@ -17,3 +17,30 @@
     encrypted: NjcwNzg3NjZiZmU1ODc1MjJiNDRmYTdhM2M=
     algorithm: aes-256-gcm
     iv: 66c56f3716a4e7eaeb09dbd7
+- type: reply
+  channel: native
+  id: bc7bce899af5763b05f94d3ac7d65edf2bf94ebc
+  author:
+    name: Danielwes
+    lang: en
+    email:
+      value:
+        encrypted: ZjM5NjI3ZmFmNDE4ZDQ2MDNkNTA0ZWQ2Mzk4ZDJmYmJhZjNl
+        algorithm: aes-256-gcm
+        iv: b89eaf31bd22fa32f860f854
+        version: "1"
+      hash:
+        sha256: cbe7c8db9284b328de72681895345b32563c845cad92a9f8059910e5ddd272b8
+  published: 2026-06-06T13:56:38.092Z
+  content: A unique presentation in a minute. Modern and informative presentations
+    on any topic <a href="https://litteraesvfu.ru/">https://litteraesvfu.ru/</a>
+  lang: zh-CN
+  ip:
+    encrypted: Zjc4NWNhYzNkYjZlN2NjZTgzYjYwNWZlOTQ=
+    algorithm: aes-256-gcm
+    iv: 554c38197d5f610e86229c34
+    version: "1"
+  spam:
+    score: 9.78
+    marked: true
+  status: rejected
