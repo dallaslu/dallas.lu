@@ -44,3 +44,30 @@
     score: 9.78
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7b642a1b904f02324d865ec9efd0bd1e342feefe
+  author:
+    name: Danielwes
+    lang: en
+    email:
+      value:
+        encrypted: YmI1MGEyMTBkN2FmMjBmNWFlZDU4ZGUxOGFkNWJiMGZhZmRl
+        algorithm: aes-256-gcm
+        iv: aae6593457ccd020aaec9c51
+        version: "1"
+      hash:
+        sha256: f4c3080fcae2ade1a194be0c757b2a434919c85d4eeb2d0e35aa8ceaa78dbbcc
+  published: 2026-06-10T02:17:55.329Z
+  content: Witness the splendor of our refined casino games <a
+    href="https://kzclub.loto-clubkz.com.kz/">все части миссия невыполнима</a>
+  lang: zh-CN
+  ip:
+    encrypted: MzMyNTEyZGZjY2U0YzY5OGZkZDFkNGIyZjE=
+    algorithm: aes-256-gcm
+    iv: bee477869d7575360823582a
+    version: "1"
+  spam:
+    score: 6.67
+    marked: true
+  status: rejected
