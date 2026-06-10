@@ -98,3 +98,31 @@
     score: 6.68
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c85d549ab9cc6e31fdb5da54261c19e060b1b75e
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: MGU0NmQ3NjEyMGY1M2MyYjE0YzVmZTYwODJlNjk0NjViZDIx
+        algorithm: aes-256-gcm
+        iv: 058e7ed0444b18a8f6f9bcd8
+        version: "1"
+      hash:
+        sha256: d06b61943dcff85b80255dcf87236dae8b24124217e16c6dd1f0ebaeec17b9cd
+  published: 2026-06-10T20:22:00.689Z
+  content: Emirae helps businesses find the right consultant for company
+    formation, corporate tax <a
+    href="https://forum.reallusion.com/Users/3286120/info242354">https://forum.reallusion.com/Users/3286120/info242354</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTk1NzA2N2JjMmVmNmY3ZGM5NmJmNWE2NmI=
+    algorithm: aes-256-gcm
+    iv: 399df589f59cf481a00af1ba
+    version: "1"
+  spam:
+    score: 7.25
+    marked: true
+  status: rejected
