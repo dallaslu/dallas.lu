@@ -126,3 +126,31 @@
     score: 7.25
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: dfed4f3d319b9548898873f1615e863e983aba54
+  author:
+    name: Danielwes
+    lang: en
+    email:
+      value:
+        encrypted: OGY3YjU1NjBiYjBlYjQ0ZjU1ZmI0MzcxYmZkY2YxOWM3MDFi
+        algorithm: aes-256-gcm
+        iv: 36e1b44ecf376db7818eed9e
+        version: "1"
+      hash:
+        sha256: 497c157789346020b2f39c918c67ebc9629742646b507ae882192da416714be7
+  published: 2026-06-10T21:55:25.405Z
+  content: An air conditioner is a device used to maintain optimal climatic
+    conditions in buildings <a href="https://kievholod.in.ua/">Чистка
+    кондиціонерів у Києв</a>
+  lang: zh-CN
+  ip:
+    encrypted: MTU4MGQyM2ExZmExYWNmMWNjZmFiNDdmOGU=
+    algorithm: aes-256-gcm
+    iv: 8fbad93873e9e5aabba397b8
+    version: "1"
+  spam:
+    score: 6.25
+    marked: true
+  status: rejected
