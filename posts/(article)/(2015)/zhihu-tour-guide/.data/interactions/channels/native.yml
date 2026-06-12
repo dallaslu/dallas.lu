@@ -293,3 +293,32 @@
     score: 9.91
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 8fc84f0f92c2bb2ef7f9c542fcceab4f22eb4ec3
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: NGFlOWMzZjhlYTUyYWY2NDk4NGQ2YmNkOTk5OTRlZWM3OGZh
+        algorithm: aes-256-gcm
+        iv: 02458269ff647c92f1bc1992
+        version: "1"
+      hash:
+        sha256: 45ace8b5e7bcb16b8f7fc4d37117575f6ff9f83ab99577f4a0b531e41aaf6dc7
+  published: 2026-06-12T12:39:44.339Z
+  content: 'Arriving in huge, noisy, yet utterly alluring Bangkok, my first
+    thought was: how best to see the real Thailand <a
+    href="https://dzen.ru/a/aK8sbI6to35J4uKx">как арендовать машину в
+    Таиланде</a>'
+  lang: zh-CN
+  ip:
+    encrypted: N2NmYjc0NzgzNTU5ZGJjZDYwZTBiNTA3NGM=
+    algorithm: aes-256-gcm
+    iv: 8d53a23b474c8b57958534cc
+    version: "1"
+  spam:
+    score: 9.27
+    marked: true
+  status: rejected
