@@ -266,3 +266,30 @@
     score: 6.63
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 1fa628b794e779136893dd074c94d83c83cc344d
+  author:
+    name: Danielwes
+    lang: en
+    email:
+      value:
+        encrypted: YjI3MWQ3ZDE2NmQ5ZTFmNTU0ZWMxOTY3MDI1YmI5YTg2N2Qz
+        algorithm: aes-256-gcm
+        iv: b100f6ba638615eca88a5153
+        version: "1"
+      hash:
+        sha256: 47af9dab98b10b16d6ac4a71b7ac8b7255a96a1e81b4f08e804a106fdc6080d1
+  published: 2026-06-12T12:18:44.588Z
+  content: Завод ГорЦемМаш производит дробильно-сортировочное оборудование <a
+    href="https://zavod-gcm.ru/">https://zavod-gcm.ru/</a>
+  lang: zh-CN
+  ip:
+    encrypted: OTcwNDFkNGUzZWM1NWQ1Y2NmMmI2MDI0MmI=
+    algorithm: aes-256-gcm
+    iv: 3e85b758ae50ea42c95328f8
+    version: "1"
+  spam:
+    score: 9.91
+    marked: true
+  status: rejected
