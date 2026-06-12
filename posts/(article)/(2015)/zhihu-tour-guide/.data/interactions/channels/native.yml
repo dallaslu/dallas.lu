@@ -322,3 +322,30 @@
     score: 9.27
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: da79de3e0ad82fff384f9360822a837f13c89468
+  author:
+    name: Danielwes
+    lang: en
+    email:
+      value:
+        encrypted: NWI3MmRiNTY0NmY2NDJiNjMwNTMyZDc3MTVlMWY0ZTQxMzg0
+        algorithm: aes-256-gcm
+        iv: 3c39de6644b25947ac7a4cdd
+        version: "1"
+      hash:
+        sha256: 9211b01e3fb5fe143c25d22c847b46ba314cf97d2bb137d73def8b9d2fadb6ea
+  published: 2026-06-12T22:49:06.095Z
+  content: We develop design documentation ourselves, cast parts from steel <a
+    href="https://zavod-gcm.ru/konusnye-drobilki">дробилка кмд 1750</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZjZjOWY3N2QzY2Q0MTA2YjI1ZDEzNTM2ODU=
+    algorithm: aes-256-gcm
+    iv: 1d07453e99fd112b63184247
+    version: "1"
+  spam:
+    score: 9.68
+    marked: true
+  status: rejected
