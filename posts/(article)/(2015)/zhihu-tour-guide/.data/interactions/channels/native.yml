@@ -517,3 +517,34 @@
     score: 7.36
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: a12c8951c67102405df1b1868a83e03bc3483950
+  author:
+    name: CoinChangerTom
+    lang: en
+    email:
+      value:
+        encrypted: Njk5M2ZkYjExYWY5NDllOWZlYTQxNGMxZDVmZjczOGQxOTIzNGE2MjVh
+        algorithm: aes-256-gcm
+        iv: 2edd41927fe7d423dfa1ab8a
+        version: "1"
+      hash:
+        sha256: 40f399d2166c9bda8b38aef06b3b7e23a78694b297cee7f6bc0e950bf018c051
+  published: 2026-06-15T22:48:04.055Z
+  content: " \r
+
+    Для новичков вообще полезная штука — сразу видно,
+    [url=https://obmenwatch.com/]где обменять криптовалюту[/url] с понятными
+    условиями и живыми отзывами. Не нужно разбираться вслепую: всё разложено по
+    полочкам, и можно спокойно сравнить несколько вариантов."
+  lang: zh-CN
+  ip:
+    encrypted: YjAyYzlkZjY4YjA2MjU2ZWYxNzVmZDI5MmIyYTkx
+    algorithm: aes-256-gcm
+    iv: 9f256fde6d79cdcff2688bc5
+    version: "1"
+  spam:
+    score: 4.82
+    marked: true
+  status: auditing
