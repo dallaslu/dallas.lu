@@ -409,3 +409,30 @@
     score: 4.74
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 766082ec8cff6b88ede3916f0cc57c41575b6d84
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: NzIzZjMyZTM5MWMyNDczOGM1MTIzMzhlMjk0ODJlZGNiNTgy
+        algorithm: aes-256-gcm
+        iv: 32a1c6cd49a8f590511af5fb
+        version: "1"
+      hash:
+        sha256: 6e638f50a8e3fc85ee57d95f862c337483ed2173dd537ae98a64831402970139
+  published: 2026-06-15T02:12:59.341Z
+  content: Bruh just peep our unhinged casino games and thank us later <a
+    href="https://gameotvety.ru">https://gameotvety.ru</a>
+  lang: zh-CN
+  ip:
+    encrypted: YzE4NjE2ZDFmMzdkMTJmMWJiYmE2YjdmZDUwZA==
+    algorithm: aes-256-gcm
+    iv: c23d3c819d411043b83b0af2
+    version: "1"
+  spam:
+    score: 9.96
+    marked: true
+  status: rejected
