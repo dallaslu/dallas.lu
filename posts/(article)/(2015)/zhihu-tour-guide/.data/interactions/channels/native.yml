@@ -684,3 +684,32 @@
     score: 7.05
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: c82e6361cb056ee370f4030a498852e039c2c5f3
+  author:
+    name: Danielwes
+    lang: en
+    email:
+      value:
+        encrypted: OWY2ZTQ5YzUxMjc5NjI0Mzg5OGQzNTlmZTFlMGE3ZWY4YWQy
+        algorithm: aes-256-gcm
+        iv: 173105dd3f5758f02425f5c5
+        version: "1"
+      hash:
+        sha256: 8287be1b85e54b1954818aad7cdbeba8c9f4def35be90e2a6f87a5703c4badc5
+  published: 2026-06-20T14:15:11.826Z
+  content: MobCash is the official platform for 1xBet agent operations, including
+    withdrawals and balance management <a
+    href="https://comment-devenir-un-agent-1xbet.com/">mobcash 1xbet agent
+    apk</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZDY3ZjJhMDAyNjAyZDcyMjk4YjE1NjMxMTk2YQ==
+    algorithm: aes-256-gcm
+    iv: e5e78a8ce723ac03adf0fb1d
+    version: "1"
+  spam:
+    score: 6.43
+    marked: true
+  status: rejected
