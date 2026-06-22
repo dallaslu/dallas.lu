@@ -713,3 +713,35 @@
     score: 6.43
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 147270ab494a582910e576c29177eaeac1b0b75d
+  author:
+    name: RateHunterTom
+    lang: en
+    email:
+      value:
+        encrypted: NTQ3YzUwZDYzOTkxNjQ3MzdhZTM3MmRhYTQ4Y2I4YTUyOGE2NTMwOTcx
+        algorithm: aes-256-gcm
+        iv: 4896d4a08dad2f73ce73a668
+        version: "1"
+      hash:
+        sha256: 40f399d2166c9bda8b38aef06b3b7e23a78694b297cee7f6bc0e950bf018c051
+  published: 2026-06-22T20:10:57.858Z
+  content: " \r
+
+    Раньше менял криптовалюту на разных сайтах, но постоянно приходилось
+    перепроверять условия и бояться скрытых комиссий. Сейчас просто захожу в
+    один [url=https://obmenwatch.com/]обменник криптовалют[/url] и сравниваю
+    варианты — так гораздо удобнее, и больше не нужно держать кучу вкладок
+    открытыми."
+  lang: zh-CN
+  ip:
+    encrypted: YTZiOGY0NmI0MWI0ZTg4NTAzN2NkZTJlNDhlOWRm
+    algorithm: aes-256-gcm
+    iv: c555def089d8caa8f7edb230
+    version: "1"
+  spam:
+    score: 4.82
+    marked: true
+  status: auditing
