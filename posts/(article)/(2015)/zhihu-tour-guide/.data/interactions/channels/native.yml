@@ -772,3 +772,32 @@
     score: 9.97
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: df91429adf1d742518e1b8d0827d0f38929f9d0a
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: NjJlMjUwMjg2OWI4ZWM2NjFhN2U0MDA1MDE0MzU2ZjM0YTBi
+        algorithm: aes-256-gcm
+        iv: 47098868a22438da8b8e5d4b
+        version: "1"
+      hash:
+        sha256: caf2b350d18fa4aba379ce89faba3248f3b0a17458f4074705433db66d09b58b
+  published: 2026-06-24T01:53:19.884Z
+  content: New Basswin App for Android. Download official app from Android Play
+    Market and play thouthands of new games <a
+    href="https://play.google.com/store/apps/details?id=com.vladosapps.candyrise.fruitmerge">basswin
+    app</a>
+  lang: zh-CN
+  ip:
+    encrypted: YTA3MWI0MDI3OTRkZDY3MzI0ZjM1YzhiNDg5Nw==
+    algorithm: aes-256-gcm
+    iv: 5a6c87a52a730a9aa2d62b11
+    version: "1"
+  spam:
+    score: 6.83
+    marked: true
+  status: rejected
