@@ -801,3 +801,69 @@
     score: 6.83
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: cccef0462a1a819d89fe31607b0a78d8d0307828
+  author:
+    name: Bonus#Deneme[CulybudYsotryqIQ,2,5]
+    lang: en
+    email:
+      value:
+        encrypted: ZDY5MGFhMGM3YjUzMjM2YzU4ZGMwZWU2ZmRmZDJlODkyZQ==
+        algorithm: aes-256-gcm
+        iv: 2fb961ff9885404df1ac9851
+        version: "1"
+      hash:
+        sha256: 6622d1dfb1a5a41a02669a71112bc65bb1e75480cf7917e4e3c2b705bbf33af0
+  published: 2026-06-24T06:30:33.309Z
+  content: "Selamlar arkadaşlar, \r
+
+    \ \r
+
+    Şu sıralar bedava bonus dağıtan platformlar hakkında çok fazla bilgi
+    kirliliği var. Birçok site vaatlerde bulunsa da çevrim şartları yüzünden
+    insanları mağdur ediyor. \r
+
+    \ \r
+
+    Ben de uzun süredir güvenli liman arayan biri olarak son derece sağlam bir
+    adresi gözüme çarptı. Bahis camiasında adını duyuran **Ecel Dayı**, aktif ve
+    çevrimi kolay bedava bahis fırsatlarını titizlikle süzerek listeliyor. \r
+
+    \ \r
+
+    Bu listenin farkı ne diye sorarsanız: \r
+
+    [list] \r
+
+    [*]Yalnızca altyapısı sağlam sitelere yer veriliyor. \r
+
+    [*]Kampanyaların gizli kuralları açıkça anlatılmış. \r
+
+    [*]Anında yenilenen bir liste mevcut. \r
+
+    [/list] \r
+
+    \ \r
+
+    Eğer zaman kaybetmeden en taze deneme bonusu fırsatlarını incelemek
+    istiyorsanız, mutlaka bu platforma göz atmanızı öneririm. \r
+
+    \ \r
+
+    Bahsettiğim siteye buradan göz atabilirsiniz: \r
+
+    \ \r
+
+    \ \r
+
+    Dilerim herkes için faydalı bir paylaşım olur. Herkese bol şanslar dilerim!"
+  lang: zh-CN
+  ip:
+    encrypted: NjllODBhYzA3NTQ1NjAwMTcyMjMwYjA4
+    algorithm: aes-256-gcm
+    iv: c69070df540386a913397946
+    version: "1"
+  spam:
+    score: 2.5
+  status: auditing
