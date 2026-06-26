@@ -1005,3 +1005,50 @@
     score: 6.71
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: add29b9a5c668daa2cba448c06cb5852c2474120
+  author:
+    name: 888starz_nkOn
+    lang: en
+    email:
+      value:
+        encrypted: ODZhNWQ2NDFiMjhkNDVhMjMxMWVlZmJlM2Y2NmI5OGU0Y2Q1MzA3NWYwZjQzYzZmZTNhZTcy
+        algorithm: aes-256-gcm
+        iv: 4bfb0c6c9ae8d940f75f9ea2
+        version: "1"
+      hash:
+        sha256: 4e803ac305107bdac1ec5e6bdd9d2621b2ed5931ea11ec05f21c947f3ea575a4
+  published: 2026-06-26T22:46:31.368Z
+  content: "888starz
+    [url=https://sheardeals.com/888starz-%d9%85%d8%b5%d8%b1-%d9%85%d9%86%d8%b5%\
+    d8%a9-%d9%85%d8%b1%d8%a7%d9%87%d9%86%d8%a7%d8%aa-%d8%b1%d9%8a%d8%a7%d8%b6%d\
+    9%8a%d8%a9-%d9%88%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88-%d9%85%d8%b9-%d8%a3/]\
+    888starz[/url]. \r
+
+    \ تمثل الصفحة الرئيسية لموقع 888starz مصر منصة شاملة تضم المراهنات الرياضية
+    وألعاب الكازينو معًا.  \r
+
+    \ \r
+
+    \ يقدم 888starz معدلات ربح مرتفعة على الأحداث الرياضية مقارنة بالمنصات
+    الأخرى.  \r
+
+    \ \r
+
+    \ تظهر العناوين الرائجة والألعاب الحديثة بشكل بارز على الواجهة الرئيسية.  \r
+
+    \ \r
+
+    \ من الضروري الاطلاع على أحكام العروض وممارسة اللعب المسؤول لتجنب المخاطر
+    المالية."
+  lang: zh-CN
+  ip:
+    encrypted: MWEzYTdhNmYzYmEzYWQ2NGViM2M1ZjM1NmY=
+    algorithm: aes-256-gcm
+    iv: 7f10c1e0695d947a83654800
+    version: "1"
+  spam:
+    score: 5.68
+    marked: true
+  status: auditing
