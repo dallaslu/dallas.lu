@@ -949,3 +949,30 @@
     score: 6.42
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 655f0b4a2e76c789d27ff03573c77b06982cf425
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: YTkwMWE0MTAzN2QxNDllZGY1M2YzYzE1NWEwMjk1YmZlYjMw
+        algorithm: aes-256-gcm
+        iv: beb6661d49a67f0411104dad
+        version: "1"
+      hash:
+        sha256: 84743358091bfeb98b5a20f70e4528ae441cdfaa780699517a2a0cfa5976a4c3
+  published: 2026-06-26T01:21:08.560Z
+  content: KUKURUZA — цифровой кошелек для рублей и USDT <a
+    href="http://kukuruza.io/">KUKURUZA QR-платежи</a>
+  lang: zh-CN
+  ip:
+    encrypted: NzFiMmQ4YzQwZWJhOGVkMTFjMjUxOTA0YjUxMg==
+    algorithm: aes-256-gcm
+    iv: 0b9565727ecd7e698df0d645
+    version: "1"
+  spam:
+    score: 6.53
+    marked: true
+  status: rejected
