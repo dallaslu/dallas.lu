@@ -56,3 +56,50 @@
     algorithm: aes-256-gcm
     iv: 570bc7e2d8d3dbd4cd1534a3
   target: 250
+- type: reply
+  channel: native
+  id: 8b53f123fb7e1bb912933cb7a542680b72eb8cc4
+  author:
+    name: 888starz_ozOn
+    lang: en
+    email:
+      value:
+        encrypted: Y2QwZDE1ZDQxNjE4Y2NhNjYwNzRmMmUzZjYwZTQ3N2I5NDA0M2YxYzliOGZkOTI0ODQ0YjJk
+        algorithm: aes-256-gcm
+        iv: 04d97e09769e19e9db963b43
+        version: "1"
+      hash:
+        sha256: 0e1f6e4dad840551707ce9e2c728ffe51cd07d24b97cfc587945113aa9a88bf9
+  published: 2026-06-27T11:44:51.686Z
+  content: "888 starz
+    [url=https://theskillsdude.com/888starz-%d9%85%d8%b5%d8%b1-%d9%85%d9%86%d8%\
+    b5%d8%a9-%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87%d9%86%d8%a7%d8%aa-%d8%a7%d9%8\
+    4%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d9%83%d8%a7%d8%b2%\
+    d9%8a/]888 starz[/url]. \r
+
+    \ تتميز الصفحة الرئيسية ببنية واضحة تساعد المستخدم على إيجاد ما يبحث عنه دون
+    عناء. \r
+
+    \ \r
+
+    \ يقدم 888starz معدلات ربح مرتفعة على الأحداث الرياضية مقارنة بالمنصات
+    الأخرى.  \r
+
+    \ \r
+
+    \ تظهر العناوين الرائجة والألعاب الحديثة بشكل بارز على الواجهة الرئيسية.  \r
+
+    \ \r
+
+    يقدم 888starz للاعبين الجدد في مصر عروضًا ترحيبية على أول إيداع تشمل الرياضة
+    والكازينو. "
+  lang: zh-CN
+  ip:
+    encrypted: ZGI2NTA2ODZjMmIyNDIyODg4ODBlYTNkODE=
+    algorithm: aes-256-gcm
+    iv: de69a3f17ab8d05b748ffd61
+    version: "1"
+  spam:
+    score: 5.66
+    marked: true
+  status: auditing
