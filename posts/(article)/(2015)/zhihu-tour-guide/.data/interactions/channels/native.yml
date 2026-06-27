@@ -1052,3 +1052,32 @@
     score: 5.68
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 3fb56eee7701daeebc5a1e25110a04e70250bc31
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: MmQxY2FkYWZiNDk4Zjg4ZDVlNDgyNjY5ZmI4MjYzNTcyY2Nm
+        algorithm: aes-256-gcm
+        iv: 4290322c632aa10b945b35b9
+        version: "1"
+      hash:
+        sha256: 8610d8cecff0651f94e2062087b0f5445762efc99e6143fdf542d53db786f3ca
+  published: 2026-06-27T12:39:54.099Z
+  content: Choosing a reliable funeral service and contacting a qualified
+    specialist <a
+    href="https://obryad.by/ritualnye-uslugi/blank-formy-106-u-10-v-minske-meditsinskoe-svidetelstvo-o-smerti/">медицинское
+    свидетельство о смерти</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODRjNDE3MDc4YjIzMDkyMTQ3NThjNWVlNjU3NA==
+    algorithm: aes-256-gcm
+    iv: fd0f079a0accdb4e97fd2ea4
+    version: "1"
+  spam:
+    score: 7.05
+    marked: true
+  status: rejected
