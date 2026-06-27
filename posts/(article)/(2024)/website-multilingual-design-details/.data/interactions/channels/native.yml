@@ -199,3 +199,51 @@
     version: "1"
   spam:
     score: 0.5
+- type: reply
+  channel: native
+  id: 1c52359496e0539438c48862d8f17574dd98291c
+  author:
+    name: 888starz_xsOn
+    lang: en
+    email:
+      value:
+        encrypted: Yjk5YTBjMjQ0NzM5M2YzZDBiN2YyOGIzOTM1MjcyYmZmMWUxMThmYzIwYzgxZmVmNzVlMWZk
+        algorithm: aes-256-gcm
+        iv: 234c272eaf5b39e834116b47
+        version: "1"
+      hash:
+        sha256: b4e3bdfef51d152c3fdc1068a5e224415a037c724067c3cd1c55c9333cff219a
+  published: 2026-06-27T04:42:39.832Z
+  content: "888 stars
+    [url=https://www.universalhospitalitytravel.com/game/888-starz-%d9%85%d8%b5\
+    %d8%b1-%d9%85%d8%b1%d8%a7%d9%87%d9%86%d8%a7%d8%aa-%d8%b1%d9%8a%d8%a7%d8%b6%\
+    d9%8a%d8%a9-%d8%a3%d9%88%d9%86%d9%84%d8%a7%d9%8a%d9%86-%d9%88%d9%83%d8%a7%d\
+    8%b2%d9%8a%d9%86%d9%88/]https://universalhospitalitytravel.com/game/888-sta\
+    rz-%d9%85%d8%b5%d8%b1-%d9%85%d8%b1%d8%a7%d9%87%d9%86%d8%a7%d8%aa-%d8%b1%d9%\
+    8a%d8%a7%d8%b6%d9%8a%d8%a9-%d8%a3%d9%88%d9%86%d9%84%d8%a7%d9%8a%d9%86-%d9%8\
+    8%d9%83%d8%a7%d8%b2%d9%8a%d9%86%d9%88/[/url] \r
+
+    يدعم الموقع اللغة العربية ووسائل دفع متعددة تناسب اللاعبين في مصر.  \r
+
+    \ \r
+
+    \ يقدم القسم الرياضي مجموعة ضخمة من الأحداث الرياضية تشمل كرة القدم والتنس
+    وكرة السلة وغيرها. \r
+
+    \ \r
+
+    \ يضم الموقع مجموعة واسعة من ألعاب السلوت والروليت والبلاك جاك من شركات
+    رائدة. \r
+
+    \ \r
+
+    \ يفضل قراءة شروط المكافآت بعناية والالتزام بميزانية محددة للعب الآمن. "
+  lang: en
+  ip:
+    encrypted: MDQyNWMzMmEyNmUwZjJiNGJhYWIzZTFmNmU=
+    algorithm: aes-256-gcm
+    iv: f022f9207b4dff024cd4d32c
+    version: "1"
+  spam:
+    score: 3.77
+  status: auditing
