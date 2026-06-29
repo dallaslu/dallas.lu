@@ -75,3 +75,29 @@
     version: "1"
   spam:
     score: 0.5
+- type: reply
+  channel: native
+  id: 4b9cf1a8cd93a845237e136abb8de1cebb29e914
+  author:
+    name: Stevevor
+    lang: en
+    email:
+      value:
+        encrypted: Y2QzNmZhNzllZDVkZjg0NGEyOTU3ZmU3YTA4MGE4ZjBjNjhhNDI5MTI2MDY0ZDg3
+        algorithm: aes-256-gcm
+        iv: d3caa3e6c213d3cff2b1e77f
+        version: "1"
+      hash:
+        sha256: 2dc212249c167ee630b7f4943d5c1a7b4bc19fe6e10307d888d7a723a36e4497
+  published: 2026-06-29T22:43:36.334Z
+  content: "https://www.plurk.com/p/3ishiytmkp\r\n"
+  lang: en
+  ip:
+    encrypted: NzZhYTBhYzE5OGM3YTlhOWRjOTE0N2I4NTQ=
+    algorithm: aes-256-gcm
+    iv: 7cdcb111c42efcdc563ed422
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
