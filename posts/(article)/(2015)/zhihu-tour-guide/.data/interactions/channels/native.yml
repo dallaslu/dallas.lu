@@ -1183,3 +1183,30 @@
     score: 6.55
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 95c3e19e1628178bb9748e4bb4e77510426f99ad
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: NmM5NWJjMGM3M2E5MjRhMGMwYTZjMzI3MTYwYjU1NDFkNTBl
+        algorithm: aes-256-gcm
+        iv: 820fef61c094cf42595fb15b
+        version: "1"
+      hash:
+        sha256: 3b683498185067a06fdc7c1e17744a402d1cc89eb698a588b81a3eb765e09b47
+  published: 2026-06-30T12:26:25.982Z
+  content: Swing by to sample our rich casino collection <a
+    href="https://sites.google.com/view/luckybear1/">лаки бир телеграмм</a>
+  lang: zh-CN
+  ip:
+    encrypted: ZTdlNTAyNDcyYjg4NjBkYWRjNTE3MmNjY2IxNQ==
+    algorithm: aes-256-gcm
+    iv: ba546f21c67ee93e70613dca
+    version: "1"
+  spam:
+    score: 6.9
+    marked: true
+  status: rejected
