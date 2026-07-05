@@ -1318,3 +1318,32 @@
     score: 9.74
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e70f47944d25cf17d7c105562fdb1ec934b2bb97
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: Mzg3ZTdiZmNhYzliNWQ1YTIzNjI3YjE4MzcyOWNmMWRkMDBl
+        algorithm: aes-256-gcm
+        iv: 4135ebfbc36a88adad1153ee
+        version: "1"
+      hash:
+        sha256: 86a00dd15e1d03b7d944e299686e781e7b298b08d7f7c78d0a0889f61656eb6c
+  published: 2026-07-05T13:26:49.919Z
+  content: 'Мы оказываем широкий спектр услуг: по производству и продаже
+    металлопроката, установка заборов в Воронеже и Воронежской области <a
+    href="https://krovlya-i-zabor.ru/">заказать забор из профлиста в
+    Воронеже</a>'
+  lang: zh-CN
+  ip:
+    encrypted: OTMzZTdkOWJjN2JjMzg5NzgyMmVmYTFlOWVkMA==
+    algorithm: aes-256-gcm
+    iv: 7135968d97b7792cf4ebec35
+    version: "1"
+  spam:
+    score: 9.11
+    marked: true
+  status: rejected
