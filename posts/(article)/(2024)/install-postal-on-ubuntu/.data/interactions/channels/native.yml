@@ -165,3 +165,26 @@
     algorithm: aes-256-gcm
     iv: 2d44b18700d19aa22a2c06f2
     version: "1"
+- type: reply
+  channel: native
+  id: f58b8a8850132b99785e0ad144132d743dd945ac
+  author:
+    lang: en
+    email:
+      value:
+        encrypted: ZDMwZjIwZWM1Yjk3N2ZkODc1MDM2MjI2NDc0OWJhNzIxNzJlNzIxYWJjY2Y2NDhlZmE0ODQw
+        algorithm: aes-256-gcm
+        iv: 83e0268d9a8514b4d169afe2
+        version: "1"
+      hash:
+        sha256: 48e0c960be7ee5f1e22a74f109fd2281b90122046f6356592171d1268236ccb9
+  published: 2026-07-07T05:07:42.759Z
+  content: HOQtAvSFmhuHQWIA
+  lang: en
+  ip:
+    encrypted: MTJiMGNjZjk4MzlhYmM0MWM3ODc1ZWRjZTU=
+    algorithm: aes-256-gcm
+    iv: cb3a2b248050b50252a5eaf0
+    version: "1"
+  spam:
+    score: 0.5
