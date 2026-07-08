@@ -101,3 +101,35 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: b45c221faed971f2d31e6e1752500c11c186efd7
+  author:
+    name: DennisFramb
+    lang: en
+    email:
+      value:
+        encrypted: MTYzNjU0ZGVlNmVjZDAwYTc4ZjE3M2UwYzI5NWFjYThmMWU2ZDk1NWI5Mjg=
+        algorithm: aes-256-gcm
+        iv: afe60094ee792a1d4b1d260c
+        version: "1"
+      hash:
+        sha256: eeb1938d850f24a92a152cec66e9188cc6336ca80015f0bf0e92772b418a857a
+  published: 2026-07-08T00:03:20.180Z
+  content: "https://www.patient.bg/post/%D1%87%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B\
+    5-%D0%BD%D0%B0-%D0%B1%D0%B0%D0%B7%D0%BF-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B\
+    D%D0%B0%D1%85%D0%B0-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF\
+    %D0%B0%D1%86%D0%B8%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8-%D0%BE%D1%80%D0%B3%D\
+    0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-%D0%B2-%D0%B4%D0%B8%D0%B3%D0\
+    %B8%D1%82%D0%B0%D0%BB%D0%BD%D0%B0%D1%82%D0%B0-%D0%B5%D1%80%D0%B0?commentId=\
+    e334fb1e-ec2a-4d38-84d7-142aabed521d\r\n"
+  lang: en
+  ip:
+    encrypted: ZjRmM2I2NzRkYWJiOGQ1ZGQyMDNjNzc0NGI=
+    algorithm: aes-256-gcm
+    iv: 66671fb30eaa418cc33aeddf
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
