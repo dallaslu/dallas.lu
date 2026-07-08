@@ -1402,3 +1402,29 @@
     score: 8.78
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e96f880b2f81b31a95e222cc923c0189eed43d8d
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: N2JlMTRhOGZhZjlkNmYyMTIwMjkyNzE5ZWM0NmI5NjY2YzA2
+        algorithm: aes-256-gcm
+        iv: 95da372e340bbfac4370b13a
+        version: "1"
+      hash:
+        sha256: 2e3eb42da024a105461650ba291d1a8445587d7b707272f8dfbcbcb966dfdfbb
+  published: 2026-07-08T04:19:20.088Z
+  content: https://senat.mr/3107125
+  lang: zh-CN
+  ip:
+    encrypted: NzQ1MjZlZmRkNDMwMmE0OWVlMzUxMzgxYTVhYg==
+    algorithm: aes-256-gcm
+    iv: 2c914d7a0d38de6895e94fcd
+    version: "1"
+  spam:
+    score: 7.5
+    marked: true
+  status: rejected
