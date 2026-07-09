@@ -1460,3 +1460,31 @@
     score: 5.06
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 903555b33a72c8c6afe4b522c9597d7263357cfd
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: YmJjNGMzZTVjMTcwMzJkY2U2OGQ5ZmUwMzYyNTVkZTU5Nzhi
+        algorithm: aes-256-gcm
+        iv: 3e463870fe919b0dba9bb8e3
+        version: "1"
+      hash:
+        sha256: 0c7fa90c2c869028ec3f929f142466fb7569148d305d2dcf92897c574384a6ea
+  published: 2026-07-09T03:49:45.385Z
+  content: HSTQ предоставляет VPS/VDS, выделенные серверы и IPv4 для сайтов,
+    сервисов и инфраструктурных задач <a
+    href="https://hstq.net/servers.html">читать</a>
+  lang: zh-CN
+  ip:
+    encrypted: Y2QxNjQ0YjYzNmI2OGFhNDI0OGJlYjExYTlhNw==
+    algorithm: aes-256-gcm
+    iv: d0e922b42b53310e4bd4bcda
+    version: "1"
+  spam:
+    score: 6.38
+    marked: true
+  status: rejected
