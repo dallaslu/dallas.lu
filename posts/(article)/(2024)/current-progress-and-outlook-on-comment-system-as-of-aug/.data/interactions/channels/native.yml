@@ -133,3 +133,29 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 9b06a22a9211ae65b15403d31a0b66539150d5bd
+  author:
+    name: PedroEnece
+    lang: en
+    email:
+      value:
+        encrypted: MTQ0NjJhMjE0ZmU5OGM2ZjNiMzJjY2JiZDBhNGRlYzRiNDBlODJlMWQ0YjAzZmIz
+        algorithm: aes-256-gcm
+        iv: bc68f895bea451d99ead0956
+        version: "1"
+      hash:
+        sha256: 1afcf36017bdd3aff950e3bb1cb2a44a084759130cb36d5f033416a73a0410c1
+  published: 2026-07-10T01:07:28.418Z
+  content: "https://forum.zdravie.sk/2220148/e-learning-ipgymnazium\r\n"
+  lang: en
+  ip:
+    encrypted: MjdkMTFkMDViYTY1N2U2NWE2N2JjNTdlNjQ=
+    algorithm: aes-256-gcm
+    iv: f5fe59110fb95417ced98552
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
