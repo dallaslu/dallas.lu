@@ -1625,3 +1625,31 @@
     score: 4.62
     marked: true
   status: auditing
+- type: reply
+  channel: native
+  id: 95c01e0781aee1f74c5bebd900913c615704dd7c
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: MWNjODg0MmZjNWU2ZDVjODNjNzM4ODg1MTE3ZDI5ODIyYmFj
+        algorithm: aes-256-gcm
+        iv: 1279d8e2aa898857fc55ba0f
+        version: "1"
+      hash:
+        sha256: aefcccaa3ce19315f72445e13d3e08e534ddc02e783b8b106037091f50bb9781
+  published: 2026-07-12T17:15:23.102Z
+  content: Runetki chat allows you to communicate via your mobile phone camera <a
+    href="https://runetki.org/runetki-app-obzor-mobilnogo-prilozhenija-funkcii-i-ustanovka.html">Рунетки
+    App</a>
+  lang: zh-CN
+  ip:
+    encrypted: YjlkZGFiZDg1NjIwNmY4YjBhZDUzMWQ4NjdmZA==
+    algorithm: aes-256-gcm
+    iv: 75e64a89faa4cb6bc9357da4
+    version: "1"
+  spam:
+    score: 7.18
+    marked: true
+  status: rejected
