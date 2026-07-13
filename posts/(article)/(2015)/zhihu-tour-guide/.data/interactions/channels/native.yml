@@ -1653,3 +1653,30 @@
     score: 7.18
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 72fec68cac059e8032a14f0a0635d652a99c18c0
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: MmUyMzM0Zjk5NTcxNmFkYzMyMTlhZTY3ZDY3ODJmYmVjMTlh
+        algorithm: aes-256-gcm
+        iv: 3637627d9f496bdfa445a153
+        version: "1"
+      hash:
+        sha256: 9da9169976f60f61ab3bc01a086b5b515887edbc7fa668b02b9a92128d14987a
+  published: 2026-07-13T02:07:46.118Z
+  content: Kick back and tour our casino game grid <a
+    href="https://rss.plus/new-s/425823668/">mine slot играть</a>
+  lang: zh-CN
+  ip:
+    encrypted: Yjg2MjhhM2Q4MGU5ZDg1ZDQ2MzZjMmM2YmM5ZQ==
+    algorithm: aes-256-gcm
+    iv: 53628173d6466242dad7c05d
+    version: "1"
+  spam:
+    score: 6.88
+    marked: true
+  status: rejected
