@@ -1734,3 +1734,31 @@
     score: 9.56
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 921ac12ee899b5dace4987ffcc006977f89bc283
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: YmY0ZjZjY2U1MDJiODVhNjAyOTI5ZTkxOTJjYjcxOWQyMWJh
+        algorithm: aes-256-gcm
+        iv: 763d9689735d4974bcfa4e5e
+        version: "1"
+      hash:
+        sha256: 5dd434e6c5831c7eff61e886ac2db3f72b0b770bb064590e45761cd76d51ad62
+  published: 2026-07-17T11:51:05.032Z
+  content: The official telegram bot for connecting 1xbet agents in Arabic <a
+    href="https://boosty.to/billyhumor247/posts/33620a7c-1f65-47bc-a1aa-b2e2aa393730">1xbet
+    agent telegram</a>
+  lang: zh-CN
+  ip:
+    encrypted: YWNhODc0NGI3OTJkMjY2ZDhjMDI4Yw==
+    algorithm: aes-256-gcm
+    iv: 1b9e89b3f6fddeb866e896da
+    version: "1"
+  spam:
+    score: 7.04
+    marked: true
+  status: rejected
