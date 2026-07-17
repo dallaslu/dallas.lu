@@ -1789,3 +1789,31 @@
     score: 6.66
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 5a001cf9c83e0c7fbbbc5b5052bf8351f5db0702
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: ODk4ZjJhMzdjNmE0MDMyMjVmZTM5ODFjY2YyYTFkMzM3OGMx
+        algorithm: aes-256-gcm
+        iv: 23e9c8b163a11f4383da040c
+        version: "1"
+      hash:
+        sha256: f4d2365327c20113be5cce65411264c9bfc1cf13b751f73e3abd8524c49012e3
+  published: 2026-07-17T22:17:16.501Z
+  content: The official 1xbet agent registration service in Arabic in Morocco,
+    Jordan, Tunisia, Egypt and other countries <a
+    href="https://www.iyap360.com/forum/topic/How-Can-You-Become-a-1xBet-MobCash-Agent-.htm">https://www.iyap360.com/forum/topic/How-Can-You-Become-a-1xBet-MobCash-Agent-.htm</a>
+  lang: zh-CN
+  ip:
+    encrypted: OWZkOWFjNWRhOWE1NDVhNmM2MWYxMA==
+    algorithm: aes-256-gcm
+    iv: 0b2f8b2f90c62a9cb5da8b0c
+    version: "1"
+  spam:
+    score: 7.34
+    marked: true
+  status: rejected
