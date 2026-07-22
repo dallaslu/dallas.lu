@@ -1817,3 +1817,41 @@
     score: 7.34
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 1d9051704e1bbe383edcf71863705f41b69a6371
+  author:
+    name: TaylorFab
+    lang: en
+    email:
+      value:
+        encrypted: MjIwNDE1Nzc5Y2MxZTYzNDc4MjgyNWM5MjliZmZjN2IzY2Q4NjMwOGNm
+        algorithm: aes-256-gcm
+        iv: 2330b27b0645a698d52b9af0
+        version: "1"
+      hash:
+        sha256: 93b12ded0cd15f9eed66df5612d0a4e875be42ebc5e7fd5f7c5b23b38d330027
+  published: 2026-07-22T00:20:04.658Z
+  content: " \r
+
+    Всем приветик! Кто уже перешел с ТГ на Макс и тестирует рекламу там?  \r
+
+    Запускал кампании в Макс и заметил одну закономерность.  \r
+
+    Пробовал вручную искать площадки, но это часы работы, а результат часто
+    разочаровывает.  \r
+
+    Вот где разбирают похожие моменты по рекламе в Макс:
+    https://www.c-inform.info/news/id/116095  \r
+
+    Жду ваших мыслей: как сейчас лучше всего работать с рекламой в Макс?"
+  lang: zh-CN
+  ip:
+    encrypted: NTU1NGVkNDZhNmExMjU4NjllNDgyM2E1ZWJkOGZh
+    algorithm: aes-256-gcm
+    iv: ee88db372eb4bb028cbfba69
+    version: "1"
+  spam:
+    score: 4.81
+    marked: true
+  status: auditing
