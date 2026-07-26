@@ -1990,3 +1990,30 @@
     score: 7.15
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 78d8ffe4e61216976677ad80f38a76d4f44ea735
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: ZDYwZTllMjk2ODBkNGY0Yzg1MjY1MmRkNmRjMTM1NGYxYjFiZTg=
+        algorithm: aes-256-gcm
+        iv: c7f270780dd13826f8d520e8
+        version: "1"
+      hash:
+        sha256: f6e81b632c63363a1b0b5c3b84d2350de3e905aa0e6073b82bba68ff6d162aa3
+  published: 2026-07-26T07:45:23.970Z
+  content: Premium pleasure products & accessories for couples and individuals
+    https://adult-award.kz/
+  lang: zh-CN
+  ip:
+    encrypted: MWQ0YTI1ZTc0YWRkMThhMTFhN2YwYg==
+    algorithm: aes-256-gcm
+    iv: 2bbf8c66ca06a2e2d3165334
+    version: "1"
+  spam:
+    score: 5.26
+    marked: true
+  status: auditing
