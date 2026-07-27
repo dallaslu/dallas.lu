@@ -2071,3 +2071,40 @@
     score: 9.75
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: e8edb2f08d86b547dc8e3ee28f59f50291a93c25
+  author:
+    name: EvgeniaFab
+    lang: en
+    email:
+      value:
+        encrypted: YjExZWU3YWJmODBhY2IwYjY4OTc3ZDEyYWYxYzBhODJkYTlmODA1YWZi
+        algorithm: aes-256-gcm
+        iv: ef82ef7f44a5db0f9fadc853
+        version: "1"
+      hash:
+        sha256: 93b12ded0cd15f9eed66df5612d0a4e875be42ebc5e7fd5f7c5b23b38d330027
+  published: 2026-07-27T21:07:33.628Z
+  content: "Всем привет! Кто уже тестил рекламу в Макс?  \r
+
+    Давно в теме SMM в Макс и хочу поделиться наблюдением по ценам на
+    размещения.  \r
+
+    Самые выгодные размещения — в нишевых каналах с высоким ER, но найти их без
+    инструментов тяжело.  \r
+
+    Вот где разбирают похожие моменты по рекламе в Макс:
+    https://www.c-inform.info/news/id/116095  \r
+
+    Поделитесь опытом: какие каналы и подходы дают хороший результат?"
+  lang: zh-CN
+  ip:
+    encrypted: MDcxN2NkYjM0MDUyMzA0OGI1ZWU1YTI3YmJiYTg1
+    algorithm: aes-256-gcm
+    iv: 20f44d9dd37f88d79f04a5fd
+    version: "1"
+  spam:
+    score: 4.81
+    marked: true
+  status: auditing
