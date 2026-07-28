@@ -159,3 +159,31 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 2609831766e05fcecd4ee2eaa93e6be2ef5a8ebc
+  author:
+    name: KennethThync
+    lang: en
+    email:
+      value:
+        encrypted: NTNlZGIyYjkwNWE3ODE3NTFlY2RjNjMwNTFjOTQzZDdmNGJkYTQwYzQ0NWMwMjkzODI3YzNlNjZlMg==
+        algorithm: aes-256-gcm
+        iv: 7720dbfe2bc055b68aa5d768
+        version: "1"
+      hash:
+        sha256: 7afb06138c761ba8eb7932a8c0521b83e8f995b799eeb4f67394601678a6766b
+  published: 2026-07-28T02:57:28.295Z
+  content: "https://www.tma.or.th/group/tma-official-website-group/discussion/668\
+    511ae-7137-4f02-b954-8f23916ebeb5?commentId=bd771cb9-2163-4272-a49e-ca66d3c\
+    54766\r\n"
+  lang: en
+  ip:
+    encrypted: Yzg4Yjg1NDdkNTc1M2ZiM2U4ZDhmOGNiOGM=
+    algorithm: aes-256-gcm
+    iv: 3cc981403c63cdb42cfc1b27
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
