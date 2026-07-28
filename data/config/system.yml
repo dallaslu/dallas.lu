@@ -31,9 +31,11 @@ public:
   pingback:
     enabled: true
     accept: true
+    endpoint: https://konektita.com/api/v1/pingback
   webmention:
     enabled: true
     accept: true
+    endpoint: https://konektita.com/api/v1/webmention
     callback:
       secret:
         hash:
