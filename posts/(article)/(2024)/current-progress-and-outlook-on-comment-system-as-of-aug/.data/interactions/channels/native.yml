@@ -187,3 +187,29 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 1190978ef48adcc557034b7c72d48970f2ee66ac
+  author:
+    name: MichaelMox
+    lang: en
+    email:
+      value:
+        encrypted: MTY2YTEyYjY4MzI3MmNiNzA1NGY1NzU0MjQ1YTQ5ZGVmNGZlZTMxYWY1ZGM4ZTE1MTFmNjY0MzEwMmQxZTllZA==
+        algorithm: aes-256-gcm
+        iv: fc83784e8f24094c7123f7c8
+        version: "1"
+      hash:
+        sha256: fb605e9fd7dc3136aac01aa849bf1fa19f175a2b47a44bd1f7c3e61d420a2adc
+  published: 2026-07-29T00:08:33.280Z
+  content: "https://fanspo.com/nba/s/general/p/7bsZvUMA1KfgM-/11111\r\n"
+  lang: en
+  ip:
+    encrypted: MWI5OTg3MzBiOWY5NTI5MDUwODE4NGZhZTk=
+    algorithm: aes-256-gcm
+    iv: a8b2bb0f9cc9ed4b6f24b3e7
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
