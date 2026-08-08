@@ -71,3 +71,31 @@
     score: 7.23
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: fa958ff97e81f71d458080325c964acb7df838ee
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: OGNhMWM3OTVlM2RkZDc1OGI4NWE0OTNhOTZlY2FlOGYzZmNiNWM=
+        algorithm: aes-256-gcm
+        iv: 7b760b07177c6dbd5d8daf3f
+        version: "1"
+      hash:
+        sha256: 9c3c18ce8a22591fb207c3f1c20b487bb82bb360b8bc5aaf2387a72d2437ac30
+  published: 2026-08-08T18:31:12.268Z
+  content: Current discounts, promo codes and coupons for 2026 <a
+    href="https://promokodvsem.ru/store/random-fest/">промокод на random
+    fest</a>
+  lang: zh-CN
+  ip:
+    encrypted: OGFkYjc0Y2M3ZTFkMTUyNmRhZjYxNDg4NDljNQ==
+    algorithm: aes-256-gcm
+    iv: aec566e35682b63341db6f38
+    version: "1"
+  spam:
+    score: 9.8
+    marked: true
+  status: rejected
