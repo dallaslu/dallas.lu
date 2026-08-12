@@ -181,3 +181,30 @@
     score: 9.48
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 7e7091995d0ea8be57e2daca67fffcd6fa0da79b
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: NDM2YTE0OGRkZWEwNGI0NDA5YTcyMGUzZjU0MzllMDA5MTZjZmU=
+        algorithm: aes-256-gcm
+        iv: b2ecd158dfc705af60718ce7
+        version: "1"
+      hash:
+        sha256: b7e9739f1b79de03c33af2933a9d2bd26467dff4d5bc2aa6963c9edcd5043bae
+  published: 2026-08-12T23:30:02.070Z
+  content: Reflecta — онлайн-сервис для работы с Таро <a
+    href="https://reflecta.cards/">официальный сайт Reflecta</a>
+  lang: zh-CN
+  ip:
+    encrypted: NTFiODAwNWMxZTAxYWJlNzNmMTQ1Mjc5NDE4Nw==
+    algorithm: aes-256-gcm
+    iv: d4f10767bb54dc5c0869961b
+    version: "1"
+  spam:
+    score: 6.58
+    marked: true
+  status: rejected
