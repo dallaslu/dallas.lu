@@ -143,3 +143,26 @@
     version: "1"
   spam:
     score: 0.5
+- type: reply
+  channel: native
+  id: 9e5122c366180183e1570b21d61bb8b24bfb4e5a
+  author:
+    name: cREuJbopTzrKVniiTxPdK
+    lang: en
+    url: https://axzogmb.com
+    email:
+      value:
+        encrypted: ZDYxMTk1YTIyZWM3ZTYwZTFlYWUxOWJiOGRlN2QyNDdiOWRmZWU3Y2M3MmYxMzIx
+        algorithm: aes-256-gcm
+        iv: 3ed15f3d0a16999b74e57664
+        version: "1"
+      hash:
+        sha256: 18851981f72a6f53594e4318f8aa9af9e7e73948ab310172e1c3f050d2b42e15
+  published: 2026-08-12T10:25:03.990Z
+  content: IOQqBFjcKaXwFziFgHOBaTB
+  lang: en
+  ip:
+    encrypted: Njg4NDQyZmYzZjM5MzE3NTYwZTZkM2ZmZmM1Yzli
+    algorithm: aes-256-gcm
+    iv: 8e7f694da69ce2b5843876ed
+    version: "1"
