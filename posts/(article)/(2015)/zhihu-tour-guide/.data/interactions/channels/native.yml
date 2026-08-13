@@ -235,3 +235,30 @@
     score: 8.11
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 40cb74a699a61554a3fbdf0264caf0a7ec330173
+  author:
+    name: Robinrat
+    lang: en
+    email:
+      value:
+        encrypted: MTJjMTg1MjVkOTY5NzFmMzY4N2VjMzdmMGQ3MWI0ZWI1ZDQ4MTU=
+        algorithm: aes-256-gcm
+        iv: 092ca35f50a33c164ac93f78
+        version: "1"
+      hash:
+        sha256: 557bd3d84ad92aa0d8e8f3b7de8836a639de887580fd9a1a7a2a2b30029c9834
+  published: 2026-08-13T15:00:35.111Z
+  content: Символический взгляд на ситуацию, а не гарантия будущего <a
+    href="https://reflecta.cards/">Reflecta</a>
+  lang: zh-CN
+  ip:
+    encrypted: ODI3NDRlZGZlZThjYjc2MGFhMDc5NTRlZjEwYw==
+    algorithm: aes-256-gcm
+    iv: 5ac86b57c40dbbcaa55bd581
+    version: "1"
+  spam:
+    score: 6.61
+    marked: true
+  status: rejected
