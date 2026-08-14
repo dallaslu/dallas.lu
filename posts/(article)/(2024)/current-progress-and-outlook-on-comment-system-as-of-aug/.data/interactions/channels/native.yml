@@ -75,3 +75,31 @@
     version: "1"
   spam:
     score: 0.5
+- type: reply
+  channel: native
+  id: b29d7a1c6767ad20119a984e6c281c96a4cad6a2
+  author:
+    name: Craigfep
+    lang: en
+    email:
+      value:
+        encrypted: YWE3MDdkYThlY2UzYmMyOTgwOTFkMWQ5ZWU5ZTRiYzNiYTFkYzFjYTBhMzQyMjYyMWM3NTg1YTY5Ng==
+        algorithm: aes-256-gcm
+        iv: 92079c59dcb66fcad34d6565
+        version: "1"
+      hash:
+        sha256: 90baf280cac401a5705de50ee730e8dbe7893749b7727127ae59f456618448e6
+  published: 2026-08-14T04:31:23.891Z
+  content: "https://www.assoaeronautica.it/post/a-a-a-aviatori-d-italia-sezione-d\
+    i-siracusa-il-centenario-dell-idroscalo-arnaldo-de-filippis?commentId=ac3f1\
+    94a-7923-49c4-be17-8156cf83ef49\r\n"
+  lang: en
+  ip:
+    encrypted: ZTJkZjE5NDMyMzE1ZTFlNmQ3ZTJhMjFmNzQ=
+    algorithm: aes-256-gcm
+    iv: f5e2306cbbc8792c80096146
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
