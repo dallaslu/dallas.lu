@@ -103,3 +103,29 @@
     score: 7
     marked: true
   status: rejected
+- type: reply
+  channel: native
+  id: 97d6b8c560e727545a4ca51420a9006dde7597db
+  author:
+    name: Henryblulp
+    lang: en
+    email:
+      value:
+        encrypted: OTYyZjM5MzA1ZTQ3MGY0MmVjMmU5ZjFmZjhlMmRjZTJhNjIyMzMxNjAyNTgxMzUxYTU3NA==
+        algorithm: aes-256-gcm
+        iv: 4e2c34a4353781f58033b028
+        version: "1"
+      hash:
+        sha256: 2bd8cb05a5076a34529e7c1076454aeb06e9b60f35c7449423d08440861879f6
+  published: 2026-08-25T10:39:53.276Z
+  content: https://continent-telecom.com
+  lang: en
+  ip:
+    encrypted: MzBhYmVkNjM2NzY5YWZjNjNmZTkwZmU4NDA=
+    algorithm: aes-256-gcm
+    iv: e41da4b1b347ddadf416703a
+    version: "1"
+  spam:
+    score: 7
+    marked: true
+  status: rejected
