@@ -466,3 +466,67 @@
     score: 6.35
     marked: true
   status: rejected
+- author:
+    email:
+      value:
+        algorithm: aes-256-gcm
+        encrypted: MWQ2YzY1OWRhYjJhZDQwMTQ1MmFlMTI0NzhmNzY4NDQ5YjE1ZGU1YTU2N2FhNzdmOGQ0ZWQ3MTcyMTI3MzkxZQ==
+        iv: fceccee01cb1b5ec5a9ea73b
+        version: "1"
+      hash:
+        md5: 9a6233782b036920de5e33fad518de22
+        sha256: eb80b1c47e9407acc15de3ea47aee8cb0944d66975b08e3104e80483ee625c13
+    lang: zh-CN
+    name: RobertLed
+    url: "https://deneb-spb.ru/izolyaciya "
+  channel: native
+  content: "Трубы и фитинги из PPR на сегодняшний день одни из самых
+    распространённых для внутренней разводки холодного и горячего водоснабжения
+    https://deneb-spb.ru/mufty-razemnye-amerikanki\r
+
+    \ \r
+
+    Характеристики товара Труба полипропиленовая 32 x 5
+    https://deneb-spb.ru/rasprodazha\r
+
+    \ 4 мм Valtec PPR PN 20 VTp https://deneb-spb.ru/klipsy\r
+
+    \ 700 https://deneb-spb.ru/dostavka\r
+
+    \ 0020 https://deneb-spb.ru/mufty-razemnye-amerikanki\r
+
+    \ 32 https://deneb-spb.ru/nastennye-komplekty-pod-smesitel\r
+
+    \ 02 https://deneb-spb.ru/ugolniki\r
+
+    \ \r
+
+    Наружный диаметр https://deneb-spb.ru/krestoviny\r
+
+    \ \r
+
+    По запросу 2 084 https://deneb-spb.ru/mufty-kombinirovannye\r
+
+    \ 60 https://deneb-spb.ru/truby-armirovannye-alyuminiem\r
+
+    \ \r
+
+    Производитель https://deneb-spb.ru/nastennye-komplekty-pod-smesitel\r
+
+    \ \r
+
+    Все наши изделия прошли сертификацию
+    https://deneb-spb.ru/shejvery-i-torcevateli"
+  id: ae58e6bf087ae89d217712edb878e1de9432507c
+  ip:
+    algorithm: aes-256-gcm
+    encrypted: MmExMWE3NmM2ODE3M2NlM2NkMjNmNjAwYjU=
+    iv: 3fde1f21bef9f316f74d0108
+    version: "1"
+  lang: zh-CN
+  published: 2026-09-01T07:07:12.506Z
+  type: reply
+  spam:
+    score: 32.72
+    marked: true
+  status: rejected
