@@ -530,3 +530,66 @@
     score: 32.72
     marked: true
   status: rejected
+- author:
+    email:
+      value:
+        algorithm: aes-256-gcm
+        encrypted: OGVmMjA1NzI0NTM0OWRhZjI4MGVkZWMxYWU1ZGI0NDc4ZThkZDgwNw==
+        iv: ade1aa1f41107068887ad920
+        version: "1"
+      hash:
+        md5: 1695fe6db76aaf7c2214372673d302c7
+        sha256: 37e4c5674f1decd4e2e925e307257339b6561e5ca58354fe36cd0704f005c42d
+    lang: zh-CN
+    name: Brianjeasy
+    url: "https://adentalab.ru/ "
+  channel: native
+  content: "Изготовление зубных протезов — это процесс создания ортопедических
+    конструкций, замещающих утраченные зубы https://adentalab.ru/\r
+
+    \  Для подбора и изготовления протезов необходимо обратиться к
+    стоматологу-ортопеду https://adentalab.ru/\r
+
+    \   Протезы изготавливаются специалистом по зубному протезированию (зубным
+    техником) в соответствии с инструкциями стоматолога и результатами
+    сканирования https://adentalab.ru/\r
+
+    \ \r
+
+    Точную цену можно уточнить в стоматологической клинике
+    https://adentalab.ru/\r
+
+    \ \r
+
+    •\tОт 220 000 рублей — балочный условно-съёмный протез на имплантах
+    https://adentalab.ru/\r
+
+    \ \r
+
+    •\tОт 100 000 рублей — покрывной условно-съёмный протез на имплантах
+    https://adentalab.ru/\r
+
+    \ \r
+
+    •\tДиоксид циркония — отличается прочностью, используется для изготовления
+    коронок, которые в дальнейшем устанавливаются вместо жевательных зубов
+    https://adentalab.ru/\r
+
+    \ \r
+
+    •\tМеталлокерамика — сочетание металла и керамики: металл используется в
+    качестве каркаса, а сверху придаёт форму и цвет коронке — керамика
+    https://adentalab.ru/"
+  id: 70d081eb88d8866b38c4c778cb8c7f03a99a233c
+  ip:
+    algorithm: aes-256-gcm
+    encrypted: OWNlODJiZDc0YmJkNzg0NDdkNjRkOTIxMGJhMjJk
+    iv: 9d79f5ca5549d73737ffc5d1
+    version: "1"
+  lang: zh-CN
+  published: 2026-09-01T07:15:10.917Z
+  type: reply
+  spam:
+    score: 23.5
+    marked: true
+  status: rejected
