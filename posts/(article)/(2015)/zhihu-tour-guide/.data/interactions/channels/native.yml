@@ -593,3 +593,47 @@
     score: 23.5
     marked: true
   status: rejected
+- author:
+    email:
+      value:
+        algorithm: aes-256-gcm
+        encrypted: MDYyMjVmYjQ1MWIzMTBhY2FiOGFjMTM2MzMxNWRjMDJkYjk4
+        iv: f947517103d5df81fa1c7cee
+        version: "1"
+      hash:
+        md5: 8fd5ded7b60b76ba85e220763c265390
+        sha256: 27e0d4219043468687eb994cd0cf271bb6f8bf818abaf2bd22815a7b9404c003
+    lang: zh-CN
+    name: Victorbrash
+    url: "https://rudentordu.com/treatments/tsifrovoy-dizayn-ulybki.html "
+  channel: native
+  content: "Неприятный запах, который быстро возвращается
+    https://rudentordu.com/treatments/parodontologiya.html\r
+
+    \ \r
+
+    Позволяет улыбаться без психологического дискомфорта
+    https://rudentordu.com/treatments/toronto-most.html\r
+
+    \ \r
+
+    Есть желание получить несъемную конструкцию на имплантатах
+    https://rudentordu.com/contact.html\r
+
+    \ \r
+
+    Сложно пережевывать твердую пищу
+    https://rudentordu.com/treatments/tsifrovoy-dizayn-ulybki.html"
+  id: 680d28197912ae4b39ed09e86d6b69eaa18da9e4
+  ip:
+    algorithm: aes-256-gcm
+    encrypted: OTE2ZThiZWUxOTkxYmZjNjI5MzQ2MTkz
+    iv: 9bfbb4deeb734c4fc4720809
+    version: "1"
+  lang: zh-CN
+  published: 2026-09-01T08:48:47.981Z
+  type: reply
+  spam:
+    score: 13.49
+    marked: true
+  status: rejected
